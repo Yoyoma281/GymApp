@@ -1,7 +1,8 @@
-import React from 'react';
-import { Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { Linking, Pressable, ScrollView, StyleSheet, Switch, Text, View } from 'react-native';
 import attributions from '../../assets/sports/attributions.json';
 import { sportIndex } from '../data/activities';
+import { isAnalyticsOptedOut, setAnalyticsOptOut } from '../data/analytics';
 import { colors } from '../theme';
 
 interface Attribution {
@@ -45,6 +46,8 @@ const SOURCES = [
 ];
 
 export default function CreditsScreen() {
+  const [optedOut, setOptedOut] = useState(isAnalyticsOptedOut());
+
   const photos = sportIndex
     .map((s) => ({ sport: s.name, a: (attributions as Record<string, Attribution>)[s.id] }))
     .filter((x) => x.a);
@@ -55,6 +58,27 @@ export default function CreditsScreen() {
         DojoFit is built on openly licensed and licensed third-party content. Thanks to everyone
         who made this material available.
       </Text>
+
+      <Text style={styles.sectionTitle}>Privacy</Text>
+      <View style={styles.card}>
+        <View style={styles.privacyRow}>
+          <View style={styles.privacyText}>
+            <Text style={styles.cardTitle}>Anonymous usage stats</Text>
+            <Text style={styles.cardBody}>
+              Counts which sports and drills get opened, so the catalog can be improved. No
+              account, no personal data, no advertising — just a random id for this install.
+            </Text>
+          </View>
+          <Switch
+            value={!optedOut}
+            onValueChange={(on) => {
+              setOptedOut(!on);
+              void setAnalyticsOptOut(!on);
+            }}
+            trackColor={{ true: colors.accent, false: colors.border }}
+          />
+        </View>
+      </View>
 
       <Text style={styles.sectionTitle}>Data & media sources</Text>
       {SOURCES.map((s) => (
@@ -104,6 +128,8 @@ const styles = StyleSheet.create({
     padding: 14,
     marginBottom: 8,
   },
+  privacyRow: { flexDirection: 'row', alignItems: 'center', gap: 12 },
+  privacyText: { flex: 1 },
   cardTitle: { fontSize: 15, fontWeight: '700', color: colors.text },
   cardBody: { fontSize: 13, color: colors.body, marginTop: 3 },
   cardLicense: { fontSize: 12, color: colors.accent, marginTop: 5, fontWeight: '600' },

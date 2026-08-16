@@ -12,6 +12,7 @@ import {
 import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
 import VideoScrubber from './VideoScrubber';
+import { track } from '../data/analytics';
 import { colors } from '../theme';
 
 // On web, expo-video renders the <video> at its intrinsic size (e.g.
@@ -74,6 +75,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
       player.pause();
     } else {
       player.play();
+      if (!started) track('video_play', ambient ? 'drill_clip' : 'exercise_demo');
       setStarted(true);
     }
   };

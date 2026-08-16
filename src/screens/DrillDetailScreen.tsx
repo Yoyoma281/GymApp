@@ -1,7 +1,8 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
+import { track } from '../data/analytics';
 import ExerciseMedia from '../components/ExerciseMedia';
 import VideoPlayer from '../components/VideoPlayer';
 import BodyMap from '../components/BodyMap';
@@ -14,6 +15,11 @@ export default function DrillDetailScreen({ route }: Props) {
   const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
   const drill = activity?.drills.find((d) => d.id === route.params.drillId);
   const [expanded, setExpanded] = useState<string | null>(null);
+
+  useEffect(() => {
+    if (activity && drill) track('drill_open', `${activity.id}/${drill.id}`);
+  }, [activity, drill]);
+
   if (!activity || !drill) return null;
 
   return (
@@ -70,7 +76,11 @@ export default function DrillDetailScreen({ route }: Props) {
             <Pressable
               key={e.name}
               style={styles.exerciseCard}
-              onPress={() => detail && setExpanded(isOpen ? null : e.name)}
+              onPress={() => {
+                if (!detail) return;
+                if (!isOpen) track('exercise_open', detail.name);
+                setExpanded(isOpen ? null : e.name);
+              }}
             >
               <View style={styles.exerciseRow}>
                 {e.imageUrl ? (

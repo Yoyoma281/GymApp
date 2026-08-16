@@ -10,6 +10,7 @@ import {
 } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { loadSport, searchIndex, sportIndex, SportMeta } from '../data/activities';
+import { track } from '../data/analytics';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
 import { sportImages } from '../data/sportImages';
 import { RootStackParamList } from '../navigation';
@@ -96,6 +97,7 @@ export default function HomeScreen({ navigation }: Props) {
   // Start warming a sport's media on tap, so its first drill already has
   // a poster and buffered clip by the time the drill page opens.
   const openSport = (id: string) => {
+    track('sport_open', id);
     const activity = loadSport(id);
     if (activity) {
       primeMediaToken(activity);
@@ -105,6 +107,7 @@ export default function HomeScreen({ navigation }: Props) {
   };
 
   const openResult = (r: SearchResult) => {
+    track('search', r.drillId ? `${r.activityId}/${r.drillId}` : r.activityId);
     setQuery('');
     if (r.drillId) {
       navigation.navigate('DrillDetail', { activityId: r.activityId, drillId: r.drillId });

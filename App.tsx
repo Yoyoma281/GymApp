@@ -1,5 +1,5 @@
-import React from 'react';
-import { Text, TextStyle } from 'react-native';
+import React, { useEffect } from 'react';
+import { AppState, Text, TextStyle } from 'react-native';
 import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { StatusBar } from 'expo-status-bar';
@@ -9,6 +9,7 @@ import DrillDetailScreen from './src/screens/DrillDetailScreen';
 import CreditsScreen from './src/screens/CreditsScreen';
 import { RootStackParamList } from './src/navigation';
 import { loadSport, sportIndex } from './src/data/activities';
+import { flush, initAnalytics, track } from './src/data/analytics';
 import { colors } from './src/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -28,6 +29,15 @@ const theme = {
 };
 
 export default function App() {
+  useEffect(() => {
+    void initAnalytics();
+    // Send anything still queued when the app goes to the background.
+    const sub = AppState.addEventListener('change', (state) => {
+      if (state !== 'active') void flush();
+    });
+    return () => sub.remove();
+  }, []);
+
   return (
     <NavigationContainer theme={theme}>
       <StatusBar style="light" />
@@ -44,7 +54,13 @@ export default function App() {
           options={({ navigation }) => ({
             title: 'DojoFit',
             headerRight: () => (
-              <Text style={headerLink} onPress={() => navigation.navigate('Credits')}>
+              <Text
+                style={headerLink}
+                onPress={() => {
+                  track('credits_open');
+                  navigation.navigate('Credits');
+                }}
+              >
                 Credits
               </Text>
             ),
