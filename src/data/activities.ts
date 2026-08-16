@@ -53,6 +53,9 @@ export interface Drill {
   stretches: string[];
   mistakes: string[];
   videoUrl?: string;
+  clipUrl?: string;
+  clipPoster?: string;
+  clipCredit?: string;
 }
 
 export interface Activity {

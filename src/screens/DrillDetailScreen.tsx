@@ -3,6 +3,7 @@ import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'r
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import ExerciseMedia from '../components/ExerciseMedia';
+import ExerciseVideo from '../components/ExerciseVideo';
 import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
@@ -17,17 +18,31 @@ export default function DrillDetailScreen({ route }: Props) {
 
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
-      <Pressable
-        style={styles.video}
-        onPress={() => drill.videoUrl && Linking.openURL(drill.videoUrl)}
-      >
-        <View style={styles.playButton}>
-          <Text style={styles.playIcon}>▶</Text>
+      {drill.clipUrl ? (
+        <View>
+          <ExerciseVideo uri={drill.clipUrl} />
+          <View style={styles.clipFooter}>
+            {drill.clipCredit && <Text style={styles.clipCredit}>{drill.clipCredit}</Text>}
+            {drill.videoUrl && (
+              <Pressable onPress={() => Linking.openURL(drill.videoUrl!)}>
+                <Text style={styles.tutorialLink}>Find tutorials ↗</Text>
+              </Pressable>
+            )}
+          </View>
         </View>
-        <Text style={styles.videoLabel}>
-          {drill.videoUrl ? 'watch technique video' : 'technique video'}
-        </Text>
-      </Pressable>
+      ) : (
+        <Pressable
+          style={styles.video}
+          onPress={() => drill.videoUrl && Linking.openURL(drill.videoUrl)}
+        >
+          <View style={styles.playButton}>
+            <Text style={styles.playIcon}>▶</Text>
+          </View>
+          <Text style={styles.videoLabel}>
+            {drill.videoUrl ? 'watch technique video' : 'technique video'}
+          </Text>
+        </Pressable>
+      )}
 
       <Text style={styles.title}>{drill.name}</Text>
       <Text style={styles.alt}>{drill.alt}</Text>
@@ -156,6 +171,14 @@ const styles = StyleSheet.create({
   },
   playIcon: { color: '#fff', fontSize: 18, marginLeft: 4 },
   videoLabel: { fontSize: 11, color: colors.muted, fontFamily: 'monospace' as const },
+  clipFooter: {
+    marginTop: 6,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  clipCredit: { fontSize: 11, color: colors.muted },
+  tutorialLink: { fontSize: 12.5, fontWeight: '700', color: colors.accent },
   title: {
     marginTop: 16,
     fontSize: 30,
