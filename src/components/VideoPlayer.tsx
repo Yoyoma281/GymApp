@@ -1,8 +1,21 @@
 import React, { useEffect, useState } from 'react';
-import { ActivityIndicator, Image, Pressable, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, Image, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
 import { colors } from '../theme';
+
+// On web, expo-video renders the <video> at its intrinsic size (e.g.
+// 1280x720) inside the sized wrapper, so the frame shows a cropped
+// corner instead of the whole shot. Force it to fill its container.
+if (Platform.OS === 'web' && typeof document !== 'undefined') {
+  const ID = 'dojofit-video-fit';
+  if (!document.getElementById(ID)) {
+    const style = document.createElement('style');
+    style.id = ID;
+    style.textContent = 'video{width:100%!important;height:100%!important;object-fit:contain;}';
+    document.head.appendChild(style);
+  }
+}
 
 interface Props {
   uri: string;
@@ -59,7 +72,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
       <VideoView
         player={player}
         style={StyleSheet.absoluteFill}
-        contentFit="cover"
+        contentFit="contain"
         nativeControls={false}
       />
 
@@ -102,7 +115,7 @@ const styles = StyleSheet.create({
     position: "absolute", top: 0, left: 0, right: 0, bottom: 0,
     width: '100%',
     height: '100%',
-    resizeMode: 'cover' as const,
+    resizeMode: 'contain' as const,
   },
   center: {
     position: "absolute", top: 0, left: 0, right: 0, bottom: 0,
