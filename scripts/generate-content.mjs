@@ -319,24 +319,45 @@ async function mwGet(pathname, key) {
 async function fetchMuscleWikiDetails(uniqueNames, key) {
   const cache = fs.existsSync(MW_CACHE) ? JSON.parse(fs.readFileSync(MW_CACHE, 'utf8')) : {};
   let calls = 0;
-  const sameMovement = (a, b) => {
-    const ka = normalize(a);
-    const kb = normalize(b);
-    if (ka === kb || ka.includes(kb) || kb.includes(ka)) return true;
-    return headNoun(ka) === headNoun(kb);
+  // Score a candidate: movements must agree, qualifiers may differ.
+  const scoreMatch = (wanted, candidate) => {
+    const a = normalize(wanted);
+    const b = normalize(candidate);
+    if (!a || !b) return 0;
+    if (a === b) return 1;
+    if (headNoun(a) !== headNoun(b)) return 0;
+    const at = new Set(a.split(' '));
+    const bt = b.split(' ');
+    const overlap = bt.filter((t) => at.has(t)).length;
+    return overlap / Math.max(1, Math.min(at.size, bt.length));
   };
+
+  // MuscleWiki's search is literal, so feed it progressively simpler
+  // queries: full name, singularized, then just the movement words.
+  const queryVariants = (name) => {
+    const norm = normalize(name);
+    const words = norm.split(' ');
+    const variants = [name, norm];
+    if (words.length > 2) variants.push(words.slice(-2).join(' '));
+    if (words.length > 1) variants.push(words.at(-1));
+    return [...new Set(variants.filter(Boolean))];
+  };
+
   for (const name of uniqueNames) {
     if (name in cache) continue;
     try {
-      // their search is literal about plurals etc. — try raw, then normalized
       let hit = null;
-      for (const q of [...new Set([name, normalize(name)])]) {
-        const search = await mwGet(`/exercises?search=${encodeURIComponent(q)}&limit=5`, key);
+      let bestScore = 0;
+      for (const q of queryVariants(name)) {
+        const search = await mwGet(`/exercises?search=${encodeURIComponent(q)}&limit=8`, key);
         calls += 1;
-        hit = (search.results ?? []).find((r) => sameMovement(name, r.name)) ?? null;
-        if (hit) break;
+        for (const r of search.results ?? []) {
+          const s = scoreMatch(name, r.name);
+          if (s > bestScore) { bestScore = s; hit = r; }
+        }
+        if (bestScore >= 0.6) break; // good enough; stop spending calls
       }
-      if (!hit) { cache[name] = null; continue; }
+      if (!hit || bestScore < 0.5) { cache[name] = null; continue; }
       const detail = await mwGet(`/exercises/${hit.id}`, key);
       calls += 1;
       cache[name] = {
@@ -360,9 +381,49 @@ async function fetchMuscleWikiDetails(uniqueNames, key) {
   return cache;
 }
 
+// Proper singularization: the old rule stripped any trailing "s", which
+// mangled "crunches" -> "crunche" and "carries" -> "carrie" and made most
+// plural exercise names unmatchable.
+const singular = (w) => {
+  if (w.length <= 3) return w;
+  if (/[^aeiou]ies$/.test(w)) return w.slice(0, -3) + 'y';
+  if (/(ch|sh|ss|x|z)es$/.test(w)) return w.slice(0, -2);
+  if (/[^s]s$/.test(w)) return w.slice(0, -1);
+  return w;
+};
+
 const normalize = (s) =>
-  s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\b(the|a|with|and)\b/g, ' ')
-    .replace(/\s+/g, ' ').trim().replace(/s\b/g, '');
+  s
+    .toLowerCase()
+    .replace(/[^a-z0-9 ]/g, ' ')
+    .replace(/\b(the|a|an|with|and|to|for|your|each|per|side|leg|arm)\b/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ')
+    .map(singular)
+    .filter(Boolean)
+    .join(' ');
+
+// Movements that are the same exercise under different everyday names.
+const SYNONYMS = new Map(
+  Object.entries({
+    carry: 'carry', carrie: 'carry', walk: 'carry', march: 'carry',
+    hop: 'jump', jump: 'jump', bound: 'jump', skip: 'jump',
+    hold: 'hold', plank: 'hold', rock: 'hold', bridge: 'hold', iso: 'hold', sit: 'hold',
+    raise: 'raise', lift: 'raise', extension: 'raise',
+    curl: 'curl', flexion: 'curl',
+    press: 'press', push: 'press',
+    row: 'row', pull: 'pull', pulldown: 'pull', pullup: 'pull', chinup: 'pull',
+    crunch: 'crunch', situp: 'crunch', crunche: 'crunch',
+    squat: 'squat', lunge: 'lunge', deadlift: 'deadlift', thrust: 'thrust',
+    twist: 'rotation', rotation: 'rotation', woodchopper: 'rotation', chop: 'rotation',
+    stretch: 'stretch', mobilization: 'stretch',
+  }),
+);
+const headNoun = (key) => {
+  const last = key.split(' ').at(-1) ?? '';
+  return SYNONYMS.get(last) ?? last;
+};
 
 function buildWgerIndex(catalog) {
   const index = new Map();
@@ -375,10 +436,6 @@ function buildWgerIndex(catalog) {
   return index;
 }
 
-// Same movement iff the head noun (last token: "raise", "squat", "press"…)
-// matches — prevents e.g. "calf raise" matching "leg extension".
-const headNoun = (key) => key.split(' ').at(-1) ?? '';
-
 function tokenMatch(index, name) {
   const key = normalize(name);
   if (index.has(key)) return index.get(key);
@@ -386,10 +443,15 @@ function tokenMatch(index, name) {
   let best = null;
   let bestScore = 0;
   for (const [candKey, ex] of index) {
+    // The movement itself must agree (a "calf raise" is not a "leg
+    // extension"), but equipment/qualifier words may differ freely.
     if (headNoun(candKey) !== headNoun(key)) continue;
     const candTokens = candKey.split(' ');
     const overlap = candTokens.filter((t) => tokens.has(t)).length;
-    const score = overlap / Math.max(tokens.size, candTokens.length);
+    // Score by how much of the *shorter* name is covered, so a specific
+    // catalog entry ("kettlebell farmers carry") still matches a plain
+    // drill exercise ("farmer's carries").
+    const score = overlap / Math.max(1, Math.min(tokens.size, candTokens.length));
     if (score > bestScore) { bestScore = score; best = ex; }
   }
   return bestScore >= 0.6 ? best : null;

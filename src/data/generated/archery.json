@@ -22,8 +22,8 @@
           "name": "Goblet squats",
           "scheme": "3 × 10",
           "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
-          "detailId": "mw-11",
-          "wgerId": 203
+          "wgerId": 203,
+          "detailId": "mw-11"
         },
         {
           "name": "Standing calf raises",
@@ -34,7 +34,9 @@
         },
         {
           "name": "Suitcase carries",
-          "scheme": "3 × 30m / side"
+          "scheme": "3 × 30m / side",
+          "detailId": "mw-1625",
+          "wgerId": 1776
         }
       ],
       "stretches": [
@@ -66,7 +68,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-322"
         },
         {
           "name": "Bird dogs",
@@ -85,9 +87,9 @@
         {
           "name": "Back extensions",
           "scheme": "3 × 12",
-          "detailId": "mw-1402",
-          "wgerId": 1348,
-          "imageUrl": "https://wger.de/media/exercise-images/1348/a3769120-2445-49f2-97d3-afc1238bfc2a.webp"
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
+          "detailId": "mw-1402"
         },
         {
           "name": "Wall angels",
@@ -123,16 +125,16 @@
         {
           "name": "Wrist curls",
           "scheme": "3 × 12",
-          "detailId": "mw-31",
-          "wgerId": 51,
-          "imageUrl": "https://wger.de/media/exercise-images/51/f1730f56-7aca-4566-8338-3e42b1bee6e1.webp"
+          "wgerId": 48,
+          "imageUrl": "https://wger.de/media/exercise-images/51/f1730f56-7aca-4566-8338-3e42b1bee6e1.webp",
+          "detailId": "mw-31"
         },
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 12",
-          "wgerId": 48,
+          "wgerId": 495,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-          "detailId": "fed-Cable_Wrist_Curl"
+          "detailId": "mw-31"
         },
         {
           "name": "Dumbbell front raise isometric hold",
@@ -226,7 +228,7 @@
           "scheme": "3 × 10",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "fed-Bent_Over_Two-Dumbbell_Row"
+          "detailId": "mw-445"
         },
         {
           "name": "Face pulls",
@@ -237,7 +239,10 @@
         },
         {
           "name": "Prone Y-T-W raises",
-          "scheme": "3 × 8 each"
+          "scheme": "3 × 8 each",
+          "wgerId": 1474,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "detailId": "fed-Side_Leg_Raises"
         },
         {
           "name": "Resistance band draws (mimic draw)",
@@ -322,15 +327,16 @@
         {
           "name": "Prone trap raises",
           "scheme": "3 × 10",
-          "wgerId": 1834,
-          "detailId": "wger-1834"
+          "wgerId": 348,
+          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
+          "detailId": "fed-Side_Leg_Raises"
         },
         {
           "name": "Scapular pull-ups",
           "scheme": "3 × 8",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scapular_Pull-Up/0.jpg",
-          "wgerId": 980,
-          "detailId": "fed-Scapular_Pull-Up"
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
+          "wgerId": 475,
+          "detailId": "mw-25"
         },
         {
           "name": "Pallof press",
@@ -409,7 +415,10 @@
       "exercises": [
         {
           "name": "Wrist flexor eccentric curls",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "detailId": "mw-32",
+          "wgerId": 364,
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png"
         },
         {
           "name": "Hand gripper slow negatives",
@@ -453,7 +462,10 @@
       "exercises": [
         {
           "name": "Prone Y-T-W raises",
-          "scheme": "3 × 8 each"
+          "scheme": "3 × 8 each",
+          "wgerId": 1474,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "detailId": "fed-Side_Leg_Raises"
         },
         {
           "name": "Single-leg balance on balance pad",
@@ -468,7 +480,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-322"
         }
       ],
       "stretches": [
@@ -496,7 +508,10 @@
       "exercises": [
         {
           "name": "Single-leg balance with head turns",
-          "scheme": "3 × 30s / leg"
+          "scheme": "3 × 30s / leg",
+          "wgerId": 1007,
+          "imageUrl": "https://wger.de/media/exercise-images/1007/757846d3-78e4-4068-bbca-62e567372c94.png",
+          "detailId": "wger-1007"
         },
         {
           "name": "Isometric band draw holds at anchor",
@@ -504,7 +519,9 @@
         },
         {
           "name": "Suitcase carries",
-          "scheme": "3 × 30m / side"
+          "scheme": "3 × 30m / side",
+          "detailId": "mw-1625",
+          "wgerId": 1776
         },
         {
           "name": "Dead bugs",
@@ -554,8 +571,9 @@
         {
           "name": "Prone trap raises",
           "scheme": "3 × 10",
-          "wgerId": 1834,
-          "detailId": "wger-1834"
+          "wgerId": 348,
+          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
+          "detailId": "fed-Side_Leg_Raises"
         }
       ],
       "stretches": [
@@ -596,11 +614,14 @@
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-322"
         },
         {
           "name": "Farmer's carries",
-          "scheme": "3 × 40m"
+          "scheme": "3 × 40m",
+          "detailId": "mw-538",
+          "wgerId": 1116,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
         }
       ],
       "stretches": [
@@ -637,7 +658,9 @@
         {
           "name": "Lat pulldowns",
           "scheme": "3 × 10",
-          "detailId": "mw-1659"
+          "detailId": "mw-1659",
+          "wgerId": 1972,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg"
         },
         {
           "name": "Resistance band draws (mimic draw)",
@@ -648,7 +671,7 @@
           "scheme": "3 × 10",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "fed-Bent_Over_Two-Dumbbell_Row"
+          "detailId": "mw-445"
         },
         {
           "name": "Face pulls",
@@ -688,15 +711,22 @@
         },
         {
           "name": "Landmine presses",
-          "scheme": "3 × 8 / arm"
+          "scheme": "3 × 8 / arm",
+          "detailId": "mw-744",
+          "wgerId": 346,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg"
         },
         {
           "name": "Push-up plus (scapular push-ups)",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-193",
+          "wgerId": 583,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg"
         },
         {
           "name": "Bottoms-up kettlebell carries",
-          "scheme": "3 × 20m / side"
+          "scheme": "3 × 20m / side",
+          "detailId": "mw-71"
         }
       ],
       "stretches": [
@@ -745,7 +775,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-322"
         }
       ],
       "stretches": [
