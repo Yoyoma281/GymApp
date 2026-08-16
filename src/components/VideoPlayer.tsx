@@ -58,13 +58,16 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
   // playback starts and fades back in when paused.
   const overlay = useRef(new Animated.Value(1)).current;
   useEffect(() => {
+    // Hidden while scrubbing: the drag pauses playback, and the glyph
+    // would otherwise pop up over the frames being scrubbed through.
+    const hide = isPlaying || scrubbing;
     Animated.timing(overlay, {
-      toValue: isPlaying ? 0 : 1,
-      duration: isPlaying ? 320 : 180,
-      delay: isPlaying ? 260 : 0,
+      toValue: hide ? 0 : 1,
+      duration: scrubbing ? 120 : isPlaying ? 320 : 180,
+      delay: isPlaying && !scrubbing ? 260 : 0,
       useNativeDriver: Platform.OS !== 'web',
     }).start();
-  }, [isPlaying, overlay]);
+  }, [isPlaying, scrubbing, overlay]);
 
   const toggle = () => {
     if (isPlaying) {
@@ -125,7 +128,11 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
           nativeControls={false}
         />
 
-        {!started && poster ? <Image source={{ uri: poster }} style={styles.poster} /> : null}
+        {/* Keep the poster up until the video can actually render a frame,
+            otherwise tapping play shows black while it buffers. */}
+        {poster && (!started || status !== 'readyToPlay') ? (
+          <Image source={{ uri: poster }} style={styles.poster} />
+        ) : null}
 
         {status === 'loading' && started ? (
           <View style={styles.center} pointerEvents="none">

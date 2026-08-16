@@ -10,11 +10,11 @@ import { resolveVideoUrl } from './mediaToken';
 
 const warmed = new Set<string>();
 
-async function warmVideo(url: string) {
+async function warmVideo(url: string, bytes = 524287) {
   if (warmed.has(url)) return;
   warmed.add(url);
   try {
-    await fetch(url, { headers: { Range: 'bytes=0-524287' } });
+    await fetch(url, { headers: { Range: `bytes=0-${bytes}` } });
   } catch {
     warmed.delete(url); // let a later attempt retry
   }
@@ -34,7 +34,15 @@ export async function prefetchSportMedia(activity: Activity) {
     }
   }
 
-  // Posters first — they're small and give instant visual feedback.
+  // The first drill is the one most likely to be opened, so its poster
+  // and a bigger slice of its clip go first and in parallel.
+  const first = activity.drills[0];
+  await Promise.allSettled([
+    first?.clipPoster ? Image.prefetch(first.clipPoster) : Promise.resolve(),
+    first?.clipUrl ? warmVideo(first.clipUrl, 1_572_863) : Promise.resolve(),
+  ]);
+
+  // Then the rest of the posters — small, and they give instant feedback.
   await Promise.allSettled([...new Set(posters)].map((uri) => Image.prefetch(uri)));
 
   // Then clips, a few at a time so we don't saturate a phone connection.
