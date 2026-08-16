@@ -3,7 +3,7 @@ import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'r
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import ExerciseMedia from '../components/ExerciseMedia';
-import ExerciseVideo from '../components/ExerciseVideo';
+import VideoPlayer from '../components/VideoPlayer';
 import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
@@ -20,7 +20,7 @@ export default function DrillDetailScreen({ route }: Props) {
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
       {drill.clipUrl ? (
         <View>
-          <ExerciseVideo uri={drill.clipUrl} />
+          <VideoPlayer uri={drill.clipUrl} poster={drill.clipPoster} ambient />
           <View style={styles.clipFooter}>
             {drill.clipCredit && <Text style={styles.clipCredit}>{drill.clipCredit}</Text>}
             {drill.videoUrl && (
