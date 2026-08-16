@@ -9,6 +9,18 @@
     "secondaryMuscles": [
       "Soleus"
     ],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 15,
+        "front": false
+      }
+    ],
     "description": "Stand on the floor or on the edge of a step to increase the range of movement. Raise one foot. Lift your heel until you're standing on your toes. (variable) Stay in this position for three seconds Slowly lower your foot until you almost touch the ground with your heel - don't slam your foot!",
     "source": "wger"
   },
@@ -21,6 +33,18 @@
     ],
     "secondaryMuscles": [
       "Glutes"
+    ],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
     ],
     "description": "Starting Position: Stand with feet hip-width apart and hands either on your hips or holding dumbbells at your sides. The Stride: Take a wide step forward with your right leg. The Descent: Lower your hips until both knees are bent at approximately 90-degree angles . The Transition: Drive through your front heel to stand up, bringing your back foot forward to step directly into the next lunge.",
     "source": "wger"
@@ -36,6 +60,26 @@
     "secondaryMuscles": [
       "Hamstrings",
       "Calves"
+    ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      }
     ],
     "description": "Starting position: Stand facing a chair. Steps: Step up onto the chair. Step off the chair. Repeat.",
     "source": "wger"
@@ -53,6 +97,30 @@
       "Quads",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Get into a position on the floor supporting your weight on your forearms and toes. Arms are bent and directly below the shoulder. Keep your body straight at all times and hold this position as long as possible. To increase difficulty an arm or leg can be raised while performing this exercise.",
     "source": "wger"
   },
@@ -67,6 +135,26 @@
     "secondaryMuscles": [
       "Calves",
       "Abs"
+    ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 6,
+        "front": true
+      }
     ],
     "description": "The Cossack Squat is a multi-joint exercise that works mainly on the legs and buttocks, but also involves stabilizing muscles. It is an excellent exercise for improving strength, mobility and stability in a functional way.",
     "source": "wger"
@@ -83,6 +171,26 @@
       "Calves",
       "Abs"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "description": "The Wall Sit (or wall chair) is an isometric exercise that mainly involves the leg muscles, improving muscular endurance and stability. Here are the main and secondary muscles activated during the exercise.",
     "source": "wger"
   },
@@ -98,6 +206,26 @@
     "secondaryMuscles": [
       "Lats"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
     "description": "In the correct plank position, place your feet slightly wider than shoulder-width apart. alternately lift and touch the opposite shoulder with one hand.",
     "source": "wger"
   },
@@ -110,6 +238,18 @@
     ],
     "secondaryMuscles": [
       "Triceps"
+    ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
     ],
     "description": "Push Up performed from a pike position (optional to have feet elevated).",
     "source": "wger"
@@ -124,6 +264,18 @@
     "secondaryMuscles": [
       "Serratus anterior"
     ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
     "description": "Lay down on your back a soft surface, the feet are on the floor. Ask a partner or use some other help (barbell, etc.) to keep them fixed, your hands are behind your head. From this position move your upper body up till your head or elbows touch your knees. Do this movement by rolling up your back.",
     "source": "wger"
   },
@@ -137,6 +289,18 @@
     "secondaryMuscles": [
       "Hamstrings"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "description": "Lie on you back with your hips and knees flexed, feet on the ground. From this position, raise your butt off of the ground to a height where your body makes a straight line from your knees to your shoulders. To make the exercise more intense, you can add weight by letting a barbell rest on your hips as you complete the motion, or you can put your feet on a slightly higher surface such as a step or a bench.",
     "source": "wger"
   },
@@ -148,6 +312,13 @@
       "Abs"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Hanging from bar or straps, bring legs up with knees extended or flexed",
     "source": "wger"
   },
@@ -160,6 +331,18 @@
     ],
     "secondaryMuscles": [
       "Obliquus externus abdominis"
+    ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
     ],
     "description": "Works your obliques and helps stabilize your spine. Lie on your side and support your body between your forearm and knee to your feet.",
     "source": "wger"
@@ -174,6 +357,18 @@
     "secondaryMuscles": [
       "Calves"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
     "description": "Jump from a standing position onto the box, stretch your body, then step down again (do not jump)",
     "source": "wger"
   },
@@ -185,6 +380,13 @@
       "Lats"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Keep arms straight but not locked, pulling with your lats, not your shoulders. Don’t let your shoulders shrug up during the movement.",
     "source": "wger"
   },
@@ -198,6 +400,22 @@
     "secondaryMuscles": [
       "Chest",
       "Triceps"
+    ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
     ],
     "description": null,
     "source": "wger"
@@ -218,6 +436,42 @@
       "Chest",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 3,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "The Pallof press is an anti-rotation exercise that trains the larger and smaller muscles around the spine to resist rotation. Stand parallel to the cable machine or to the anchor point to the resistance band and clasp with the handle or band with both hands. Make sure your torso is front on and bring your hands to the center of your chest and slowly press out. Slowly return your hands to the chest and repeat.",
     "source": "wger"
   },
@@ -227,6 +481,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Sitting on a bench, grab the dumbbell with your palms facing up and your hands shoulder-width apart. Rest your forearms on your thighs and allow your wrists to hang over your knees. Perform the movement by curling your palms and wrists towards your face. (optional/variable) Pause at the top. Slowly return to the starting position.",
     "source": "wger"
   },
@@ -238,6 +494,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The plate pinch hold is a grip strength exercise designed to target the forearms and improve grip endurance. Select one or two weight plates (smooth-edged plates work best) and pinch them together between your thumb and fingers. Hold the plates with your arm straight down by your side or extended slightly in front of you. Maintain the hold for as long as you can, keeping your shoulders relaxed and your grip firm. This exercise can be done for time or repetitions.",
     "source": "wger"
   },
@@ -252,6 +515,22 @@
       "Shoulders",
       "Abs"
     ],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "description": "Start with landmine barbell straight up by using your shoulders to push it up above you. Then, from that position, bring it your side to target your abdominals and return to starting position.",
     "source": "wger"
   },
@@ -263,6 +542,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Sit on a bench, the back rest should be almost vertical. Take two dumbbells and bring them up to shoulder height, the palms and the elbows point during the whole exercise to the front. Press the weights up, at the highest point they come very near but don't touch. Go slowly down and repeat.",
     "source": "wger"
   },
@@ -274,6 +560,13 @@
       "Chest"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Execution Start position: Arms extended out to your sides (a big “T” shape), feeling a stretch in your chest. Movement: Bring your hands together in front of your chest in a wide hugging motion . Focus on squeezing your chest at the center. Do not lock your elbows or turn it into a press. Return: Slowly open your arms back to the start, maintaining tension on the chest.",
     "source": "wger"
   },
@@ -285,6 +578,13 @@
       "Obliquus externus abdominis"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.",
     "source": "wger"
   },
@@ -301,6 +601,30 @@
       "Quads",
       "Soleus"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 15,
+        "front": false
+      }
+    ],
     "description": "The Cable Pull Through is a lower-body exercise that targets the glutes and hamstrings using a \"hip hinge\" motion. To perform it, attach a rope to the lowest pulley setting, face away from the machine with the rope between your legs, and step forward to create tension. Keeping your back flat and knees slightly soft, push your hips backward as if trying to close a door behind you until you feel a deep stretch in your hamstrings. To finish the rep, explosively drive your hips forward to return to ",
     "source": "wger"
   },
@@ -310,6 +634,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Hold the band with your arms extended in front of you at shoulder height. Keep your elbows slightly bent but fixed throughout the movement. Pull the band apart by spreading your arms until the band touches or comes close to your chest. Slowly bring your arms back to the starting position, controlling the tension on the band.",
     "source": "wger"
   },
@@ -326,6 +652,30 @@
       "Abs",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "While kettlebell swings are a full-body workout, they mostly target the muscles along the posterior chain (back of the body). The main muscles used are the glutes, hamstrings, spinal erectors, and muscles of the upper back.",
     "source": "wger"
   },
@@ -340,6 +690,22 @@
     "secondaryMuscles": [
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "DL from top to pos 2: https://www.youtube.com/watch?v=WtWtjViRsKo",
     "source": "wger"
   },
@@ -352,6 +718,18 @@
     ],
     "secondaryMuscles": [
       "Soleus"
+    ],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 15,
+        "front": false
+      }
     ],
     "description": "Get onto the calf raises machine, you should able to completely push your calves down. Stand straight, don't make a hollow back and don't bend your legs. Pull yourself up as high as you can. Make a small pause of 1 - 2 seconds and go slowly down.",
     "source": "wger"
@@ -367,6 +745,22 @@
       "Shoulders",
       "Glutes"
     ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "description": "The Bird Dog is a core stability exercise that enhances balance, coordination, and spinal alignment. It’s a low-impact movement ideal for strengthening the posterior chain and improving overall functional control. Begin on all fours with hands under shoulders and knees under hips, keeping your spine neutral. Extend your right arm forward and left leg backward simultaneously, keeping hips square. Pause briefly at full extension while engaging your core and glutes. Return to the starting position ",
     "source": "wger"
   },
@@ -378,6 +772,13 @@
       "Trapezius"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Attach a rope to a pulley station set at about chest level. Step back so you're supporting the weight with arms completely outstretched and assume a staggered (one foot forward) stance. Bend the knees slightly for a stable base. Retract the scapulae (squeeze your partner's finger with your shoulder blades) and pull the center of the rope slightly up towards the face. A good cue is to think about pulling the ends of the rope apart, not just pulling back. As you near your face, externally rotate s",
     "source": "wger"
   },
@@ -391,6 +792,18 @@
     "secondaryMuscles": [
       "Shoulders"
     ],
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "description": "The Wall Angels exercise primarily targets the upper back and shoulder muscles , helping improve posture , shoulder mobility , and scapular control .",
     "source": "wger"
   },
@@ -400,6 +813,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Sitting on a bench, grab a barbell with your palms facing down and your hands shoulder-width apart. Rest your forearms on your thighs and allow your wrists to hang over your knees. Curl your knuckles towards your face, lifting the barbell. Pause for a moment in the top position, then slowly return the barbell to the starting position.",
     "source": "wger"
   },
@@ -412,6 +827,17 @@
       "Serratus anterior"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Put a vertical seated bench in front of the cable row machine.position it so that you can focus on one side, and then do slow pulls focusing on the lateral muscles and ensuring tention in those muscles when in a stretched position.",
     "source": "wger"
   },
@@ -423,6 +849,13 @@
       "Lats"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "With dumbbells in hand, bend at the hip until hands hang just below the knees (similar to straight-legged-deadlift starting position). Keep upper body angle constant while contracting your lats to pull you ellbows back pinching the shoulder blades at the top. Try not to stand up with every rep, check hands go below knees on every rep.",
     "source": "wger"
   },
@@ -437,6 +870,22 @@
       "Biceps",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "Take a seat on the machine with your feet planted, a little wider than shoulder width. Drive the heels, and squeeze the glutes. Grab onto the cable handle. Sit up tall with a slight bend through the knees. Tighten up the abs and low back to maintain a perpendicular angle to the floor with your torso. Roll the shoulders back and down. Squeeze them together as you row, thinking about pinching a pencil in between them. As you do this, pull the handle back towards you, landing right above your belly",
     "source": "wger"
   },
@@ -446,6 +895,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Starting position: Put your feet close together, bend the knees a bit, keep your head and body straight, keep elbows in, open your arms. Steps: Spin only your wrists with enough force to make the rope spin. Jump just high enough to pass the rope below your feet. Repeat. Notes: This exercise requires a jump rope. Make sure the rope length is adjusted to your height. One way to check is to grab both handles with one hand and stand on the middle of the rope hanging on the ground with one foot. If t",
     "source": "wger"
   },
@@ -459,6 +910,22 @@
     ],
     "secondaryMuscles": [
       "Hamstrings"
+    ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
     ],
     "description": "Starting position: Stand straight, feet hip-width apart. Steps: Step backward with one leg so it can bend comfortably to a 90 degree angle. Slowly bend both knees to form 90 degree angles. Return to the starting position. Repeat, alternating legs.",
     "source": "wger"
@@ -474,6 +941,22 @@
     "secondaryMuscles": [
       "Hamstrings"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "description": "Stand tall in front of a chair and take a large step. Put the upper part of one of your feet on the chair. Bend the front knee, balancing with arms until the back knee almost touches the ground. Push back to the starting position and repeat.",
     "source": "wger"
   },
@@ -486,6 +969,18 @@
     ],
     "secondaryMuscles": [
       "Abs"
+    ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
     ],
     "description": "This variation of the squat trains the hamstrings and gluteus maximus. It also works the back extensors and abductors.",
     "source": "wger"
@@ -501,6 +996,22 @@
     "secondaryMuscles": [
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 13,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "Lie on your side holding a dumbbell in your upper hand Tuck your elbow into your side and rest the hand in front of you Rotate the shoulder so the hand raises up Lower the hand down",
     "source": "wger"
   },
@@ -512,6 +1023,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Steps: Start off placing an extension band around a post or in a secure position where it will not release and is at elbow level. Position yourself to the side of the band and with your hand that is opposite of the band, reach out and grab the handle. Bring the band to your chest keeping your elbow bent in a 90 degree angle then slowly rotate your arm in a backhand motion so that the band externally rotates out Continue out as far as possible so that you feel a stretch in your shoulders, hold fo",
     "source": "wger"
   },
@@ -527,6 +1045,26 @@
       "Biceps",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "Grab the pull up bar with a wide grip, the body is hanging freely. Keep your chest out and pull yourself up till your chin reaches the bar or it touches your neck, if you want to pull behind you. Go with a slow and controlled movement down, always keeping the chest out.",
     "source": "wger"
   },
@@ -538,6 +1076,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "To execute the exercise, the lifter stands with their feet shoulder width apart and weights or resistance handles held by their side with a pronated (overhand) grip. The movement is to bring the arms up in front of the body to eye level and with only a slight bend in the elbow. This isolates the anterior deltoid muscle (front of the shoulder) and uses the anterior deltoid to lift the weight. When lifting it is important to keep the body still so the anterior deltoid is fully utilised; if the wei",
     "source": "wger"
   },
@@ -551,6 +1096,18 @@
     "secondaryMuscles": [
       "Glutes"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "description": "Stand upright and hold weights in both hands if using loads. Brace your core and lift one leg off the ground. Keep your back straight, hinge at the hips while lowering your torso forward, ensuring you don’t rotate your hips. Lower until you feel a stretch in your standing leg's hamstring, then return to standing position. Repeat on both sides.",
     "source": "wger"
   },
@@ -562,6 +1119,13 @@
       "Lats"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Sitting on the ground, use a high cable in a single grip, to do lat pulldowns with a focus on a long stretch in the lats.",
     "source": "wger"
   },
@@ -577,6 +1141,26 @@
       "Quads",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "Starting position: Stand hip-width apart, with your kettlebell centered between your ankles. Your back should be straight, your head facing forward. Steps: Hinge at the hips and slightly bend at the knees to put your hands on the kettlebell handles. Your back should be straight as you perform the movement. Grab the kettlebell handles, with your hands pushing in opposite directions as if to pull the handle apart. While contacting your abs and glutes, stand straight up. Hinge at the hips again to ",
     "source": "wger"
   },
@@ -589,6 +1173,17 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Execution Hinge at the hips: Push your hips backward , keeping a slight bend in the knees (soft knees). Lower the barbell along the front of your thighs/shins while maintaining a neutral spine . Keep the bar close to your body .",
     "source": "wger"
   },
@@ -600,6 +1195,13 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The cable rope push-down is a popular exercise targeting the triceps muscles. It's easy to learn and perform, making it a favorite for everyone from beginners to advanced lifters. It is usually performed for moderate to high reps, such as 8-12 reps or more per set, as part of an upper-body or arm-focused workout.",
     "source": "wger"
   },
@@ -611,6 +1213,13 @@
       "Abs"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Take the cable on your hands and hold it next to your temples. Knee down and hold your upper body straight and bend forward. Go down with a fast movement, rolling your back in (your ellbows point to your knees). Once down, go slowly back to the initial position.",
     "source": "wger"
   },
@@ -622,6 +1231,13 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "A glute bridge, where you use just one leg at a time.",
     "source": "wger"
   },
@@ -636,6 +1252,25 @@
       "Serratus anterior"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Starting on back, move to the standing position with dumbbell in one hand. Switch hands between reps.",
     "source": "wger"
   },
@@ -652,6 +1287,30 @@
       "Trapezius",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 3,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Press the dumbbell vertically overhead in a controlled motion until your arm is fully extended, without locking the elbow. Slowly lower the dumbbell back to the starting position at shoulder height.",
     "source": "wger"
   },
@@ -665,6 +1324,18 @@
     "secondaryMuscles": [
       "Serratus anterior"
     ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
     "description": "Lay down on a bench and hold onto the recliner with your hands to keep you stable. Hold your legs straight and lift them till they make an angle of about 45°. Make a short pause of 1 sec. and go slowly down to the initial position. To increase the intensity you can make a longer pause of 7 sec. every 5th time.",
     "source": "wger"
   },
@@ -676,6 +1347,13 @@
       "Hamstrings"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Sit on the ground with one leg straight out in front of you and the other leg bent in toward you. Reach forward with both hands, trying to touch the toes of your straight leg.",
     "source": "wger"
   },
@@ -689,6 +1367,18 @@
     "secondaryMuscles": [
       "Obliquus externus abdominis"
     ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
     "description": "Bicycle crunches are a core exercise performed on the floor. Lie on your back with your hands behind your head and legs extended. Lift your shoulders off the ground, bring one knee toward your chest, and twist your torso so your opposite elbow meets the knee. Alternate sides in a pedaling motion, ensuring controlled movements and engaging your core throughout the exercise.",
     "source": "wger"
   },
@@ -700,6 +1390,13 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "In a plank position, lift one leg alternately.",
     "source": "wger"
   },
@@ -712,6 +1409,17 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order).[1] Wide arm training places additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.",
     "source": "wger"
   },
@@ -725,6 +1433,22 @@
     "secondaryMuscles": [
       "Biceps",
       "Trapezius"
+    ],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
     ],
     "description": "One arm bent over row on cable with a machine",
     "source": "wger"
@@ -741,6 +1465,26 @@
       "Abs",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "The push-up is a fundamental bodyweight exercise that targets the chest, arms, and shoulders while engaging the core for stability. It requires no equipment and is excellent for building upper body strength. Instructions: Start in a plank position with hands placed slightly wider than shoulder-width, feet together, and body in a straight line from head to heels. Engage your core and lower your body by bending your elbows, keeping them close to your body or flared slightly outward. Lower until yo",
     "source": "wger"
   },
@@ -754,6 +1498,21 @@
       "Abs"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Hold a dumbbell, barbell weight or something else that is heavy with both hands, but make sure it is not too heavy and you are able to keep in form. Lean back to a 45-degree angle from the floor. For an extra challenge, lift your feet off the floor. Rotate your arms to one side to the same level as your chest, touch the floor for a little extra challenge, and then do the same to the other side. When you're back in your original position after doing both sides it will count as 1 rep.",
     "source": "wger"
   },
@@ -765,6 +1524,13 @@
       "Biceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Start: Hold dumbbells at your sides with palms facing your torso. Curl: Lift the weights toward your shoulders while maintaining the neutral grip (like holding a hammer). Squeeze: Contract the biceps at the top without moving your elbows forward. Lower: Slowly return to the starting position with full control.",
     "source": "wger"
   },
@@ -776,6 +1542,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Take a barbell and stand with a straight body, the arms are hanging freely in front of you. Lift from this position the shoulders as high as you can, but don't bend the arms during the movement. On the highest point, make a short pause of 1 or 2 seconds before returning slowly to the initial position. When training with a higher weight, make sure that you still do the whole movement!",
     "source": "wger"
   },
@@ -787,6 +1560,13 @@
       "Quads"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Jump wide, then close",
     "source": "wger"
   },
@@ -798,6 +1578,13 @@
       "Chest"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Olympic weight lifting",
     "source": "wger"
   },
@@ -809,6 +1596,13 @@
       "Biceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Stand with your knees slightly bent and your back straight. Hold a dumbbell in each hand, using a neutral grip at your sides.",
     "source": "wger"
   },
@@ -820,6 +1614,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Stand with straight body, the hands are hanging freely on the side and hold each a dumbbell. Lift from this position the shoulders as high as you can, but don't bend the arms during the movement. On the highest point, make a short pause of 1 or 2 seconds before returning slowly to the initial position. When training with a higher weight, make sure that you still do the whole movement!",
     "source": "wger"
   },
@@ -834,6 +1635,22 @@
     "secondaryMuscles": [
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "The reverse cable fly, also known as the cable rear delt fly, is a deltoid muscle strengthening and definition exercise. It’s one of the best isolation exercises for your back and posterior deltoid.This workout targets your posterior (back) deltoids while using a range of upper body muscles. Adjust the weight and the pulleys to the right height. You should be able to see the pulleys because they should be above your head. With your right hand, grab the left pulley, and with your left hand, grab ",
     "source": "wger"
   },
@@ -845,6 +1662,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The single arm cable lateral raise is a variation of the lateral raise and an exercise used to build the muscles of the shoulders. Position a cable at the lowest position possible and attach a single handle. Reach across your body and grab the handle with a neutral grip. Keep the elbow slightly bent and pull the handle across your body and raise laterally. Slowly lower the handle back to the starting position under control.",
     "source": "wger"
   },
@@ -854,6 +1678,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Jump, lay down on your chest, do a pushup then jump, repeat",
     "source": "wger"
   },
@@ -866,6 +1692,17 @@
       "Soleus"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 15,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Move your knee forward, keeping your heel on the ground. Hold the position for a couple of seconds and return to the starting position.",
     "source": "wger"
   },
@@ -877,6 +1714,13 @@
       "Quads"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Step 1: Stand with your feet hip-width apart, holding a barbell on your upper back. Step 2: Keep your back straight, chest up, and core engaged. Step 3: Take a step back with one leg and lower your body by bending both knees. Ensure that your back knee nearly touches the ground. Step 4: Push off your back foot to return to the starting position. Step 5: Repeat the movement with the other leg. Continue alternating between legs for the desired repetitions.",
     "source": "wger"
   },
@@ -889,6 +1733,18 @@
     ],
     "secondaryMuscles": [
       "Serratus anterior"
+    ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 3,
+        "front": true
+      }
     ],
     "description": "Put your forearms on the pads on the leg raise machine, the body is hanging freely. Lift now your legs with a fast movement as high as you can, make a short pause of 1sec at the top, and bring them down again. Make sure that during the exercise your body does not swing, only the legs should move.",
     "source": "wger"
@@ -904,6 +1760,25 @@
       "Quads"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The leg press is a weight training exercise in which the individual pushes a weight or resistance away from them using their legs.",
     "source": "wger"
   },
@@ -919,6 +1794,26 @@
       "Calves",
       "Soleus"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 15,
+        "front": false
+      }
+    ],
     "description": "Stand on one leg and lean your upper body slightly forward while keeping your back straight. Extend the free leg behind you so that your torso and leg form roughly one line. Slowly open your hip to the side by rotating your pelvis and upper body in a controlled way. Then close the hip again and return to the starting position. The movement should mainly come from the hip. Keep your standing foot stable and avoid letting your knee collapse inward.",
     "source": "wger"
   },
@@ -932,6 +1827,18 @@
     "secondaryMuscles": [
       "Glutes"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "description": "Kneel on a glute-ham developer or have a partner hold your ankles. Keeping hips straight, lower your torso toward the floor under control, then curl back up by contracting the hamstrings and glutes.",
     "source": "wger"
   },
@@ -941,6 +1848,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Stand up straight Lift the balls of your feet, resting on your heels.",
     "source": "wger"
   },
@@ -954,6 +1863,21 @@
       "Trapezius"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Hold the pull-up movement in any position",
     "source": "wger"
   },
@@ -967,6 +1891,22 @@
     "secondaryMuscles": [
       "Biceps",
       "Trapezius"
+    ],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
     ],
     "description": "An archer pull-up is an advanced bodyweight exercise that strengthens your back and biceps, serving as a progression towards a one-arm pull-up. It gets its name from the \"bow-drawing\" position your body takes at the top.Here's how to do it:1. Grip: Grasp a pull-up bar with a wider-than-shoulder-width overhand grip.2. Starting Position: Hang with arms fully extended, engaging your core and keeping your shoulder blades pulled down.3. The Pull: Pull your body up towards one hand, similar to a regul",
     "source": "wger"
@@ -984,6 +1924,30 @@
       "Quads",
       "Serratus anterior"
     ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
     "description": "The plank is a bodyweight exercise. As a multi-functional movement, the plank not only targets your abdominal muscles but also the spine and hip. Plank strengthens and tightens your entire body, improves your posture and balance, reduces body fat, and can help boost your metabolism. Exercises such as the “plank pose” help strengthen the stamina of stabilizing abdominal muscles. It can also help relieve back pain associated with a weakening of the function of the stabilizing muscles of the body. ",
     "source": "wger"
   },
@@ -999,6 +1963,26 @@
     "secondaryMuscles": [
       "Shoulders"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "description": "Start with the dumbbells resting on your shoulders and squat down. Push into standing and raise the dumbbells into an overhead position. Bring the dumbbells back to your shoulders and repeat.",
     "source": "wger"
   },
@@ -1008,6 +1992,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Starting position: Start in the upright push-up position, aka. the high plank position.Hands should be directly under your shoulders.Keep your head in line with your back, facing the floor.Feet should be about hip-width apart. Steps: Move one knee toward the center of your body, towards your elbows, keeping the other leg extended. In a quick jumping movement, straighten the bent leg out and pull the other knee toward your body. Keep repeating step 2, alternating legs. Notes: Throughout the exerc",
     "source": "wger"
   },
@@ -1019,6 +2005,13 @@
       "Quads"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different. Most gym and weight rooms will have the machine in their facility. The leg extension is an isolated exercise targeting one specific muscle group, the quadriceps. It should not be considered as a total leg workout, such as the squat or d",
     "source": "wger"
   },
@@ -1030,6 +2023,13 @@
       "Calves"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The seated dumbbell calf raise is a targeted exercise for strengthening the lower leg muscles. It follows the same movement pattern as the machine version: you place the weight on your knees, and by extending and flexing your ankles, you move the weight.",
     "source": "wger"
   },
@@ -1041,6 +2041,13 @@
       "Calves"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Move the leg press using your calves by placing your feet at the bottom of the platform.",
     "source": "wger"
   },
@@ -1052,6 +2059,13 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The bar should go directly on your upper thigh, directly below your crotch. Your feet should be directly under your knees. Push your hips up so that you form a straight line from your knees to your shoulders. Use a pad for comfort.",
     "source": "wger"
   },
@@ -1063,6 +2077,13 @@
       "Lats"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Lift with your elbows leading, not your hands. Don’t shrug your shoulders; keep traps quiet.",
     "source": "wger"
   },
@@ -1072,6 +2093,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Starting position: Start kneeling on all fours, knees shoulder-width apart. Place your right hand behind your head while keeping your left hand outstretched and touching the floor. Steps: On inhale, move your right elbow toward your left hand, keeping your right hand behind your head. On exhale, move your right elbow to point up toward the ceiling. Repeat.",
     "source": "wger"
   },
@@ -1083,6 +2106,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Setup: Stand with feet together and grip the bar slightly wider than shoulders. Position: Rest the bar on your upper chest. Press: Brace your core and push the bar straight up until your arms lock out. Finish: Control the bar back down to your chest. https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1",
     "source": "wger"
   },
@@ -1092,6 +2122,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Hold yourself in a support position on gymnastic rings with arms straight at sides. Focus on keeping rings turned out slightly and maintaining hollow body position. This is an isometric hold for chest, shoulders, and triceps.",
     "source": "wger"
   },
@@ -1105,6 +2137,21 @@
       "Serratus anterior"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 3,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Grasp a moderately weighted dumbbell so your palms are flat against the underside of the top plates and your thumbs are around the bar. Lie on your back across a flat bench so only your upper back and shoulders are in contact with the bench. Your feet should be set about shoulder-width apart and your head should hang slightly downward. With the dumbbell supported at arm's length directly about your chest, bend your arms about 15 degrees and keep them bent throughout the movement. Slowly lower th",
     "source": "wger"
   },
@@ -1120,6 +2167,26 @@
       "Hamstrings",
       "Calves"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
     "description": "box step ups w/ barbell and 45's on each side",
     "source": "wger"
   },
@@ -1133,6 +2200,18 @@
     "secondaryMuscles": [
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Inclined push-ups primarily target the chest muscles (pectoralis major and minor), but also work the triceps, shoulders, and core to a lesser extent. Because the upper body is elevated, the incline push-up places less emphasis on the triceps compared to regular push-ups, which may be beneficial for individuals looking to specifically target their chest muscles.",
     "source": "wger"
   },
@@ -1144,6 +2223,13 @@
       "Chest"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Take two dumbbells and sit on a decline bench, the feet are firmly on the floor, the head is resting the bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.",
     "source": "wger"
   },
@@ -1153,6 +2239,8 @@
     "videoUrl": null,
     "muscles": [],
     "secondaryMuscles": [],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "description": "Rear-foot-elevated Hip Flexor Stretch Part of: Limber 11 Source: Joe DeFranco Prescription: 5-10 reps each side Type: dynamic Includes dynamic movement plus 3s hold.",
     "source": "wger"
   },
@@ -1170,6 +2258,34 @@
       "Hamstrings",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Load the sled with 25% of your maximum load. If you don’t know this, choose a weight you can push for 10 minutes with short breaks. Beginners may choose to push the sled with no weight. Stand behind the sled and grab the poles with a high-grip hand position. Engage your core muscles and start pushing the sled forward as fast as you can, powering through your entire leg. Extend your hips and knees as you move the sled forward. Your foot stance should resemble your natural running position.",
     "source": "wger"
   },
@@ -1185,6 +2301,26 @@
       "Biceps",
       "Brachialis"
     ],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 13,
+        "front": true
+      }
+    ],
     "description": "Sit at the lat pulldown machine and grab the single handle with a neutral grip. Keep your torso stable, your chest lifted, and your shoulder blades slightly retracted. Start with your arm fully extended overhead, then pull the handle down toward your upper chest following a controlled, slightly diagonal path. Focus on engaging the latissimus dorsi while keeping the shoulder depressed and avoiding any torso rotation. Slowly return to the starting position, maintaining full control throughout the ",
     "source": "wger"
   },
@@ -1198,6 +2334,18 @@
     "secondaryMuscles": [
       "Brachialis"
     ],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 13,
+        "front": true
+      }
+    ],
     "description": "Hold the barbell with an overhand grip (palms facing down) approximately shoulder-width apart. Ensure your back is straight, shoulders slightly pulled back, and arms fully extended. Curl the barbell upwards towards your chest in a controlled motion, keeping your elbows close to your body. The motion should be smooth without any swinging or momentum use. Once the barbell is at chest level, pause briefly to maximize contraction in the biceps and forearms. Slowly lower the barbell back to the start",
     "source": "wger"
   },
@@ -1209,6 +2357,13 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Use rope handle with your back against the cable machine. Straighten your arms until they are filly extended and reverse the motion resisting on the negative.",
     "source": "wger"
   },
@@ -1222,6 +2377,18 @@
     "secondaryMuscles": [
       "Glutes"
     ],
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "description": "Clean your dumbbells onto your shoulders, palms facing in. Take a breath and brace your core. (picture 1)Dip at the knees and use your legs to help (picture 2) press your dumbbells overhead. Lower under control with a slow tempo to your shoulders and repeat.",
     "source": "wger"
   },
@@ -1234,6 +2401,18 @@
     ],
     "secondaryMuscles": [
       "Abs"
+    ],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
     ],
     "description": "Single-arm cable pushdown is a unilateral isolation exercise that targets the triceps brachii. By working one arm at a time, it helps correct strength imbalances between sides while also engaging the core for stability. Starting position: Stand facing the cable machine with your feet shoulder-width apart. Attach a single handle to the high pulley. Grab the handle with one hand using an overhand grip (pronated), with your elbow bent at approximately 90° and tucked close to your body. Keep your co",
     "source": "wger"
@@ -1250,6 +2429,26 @@
       "Brachialis",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 13,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "The chin-up (also known as a chin or chinup) is a strength training exercise. People frequently do this exercise with the intention of strengthening muscles such as the latissimus dorsi and biceps, which extend the shoulder and flex the elbow, respectively. In this maneuver, the palms are faced towards the body. It is a form of pull-up in which the range of motion is established in relation to a person's chin.",
     "source": "wger"
   },
@@ -1264,6 +2463,26 @@
     ],
     "secondaryMuscles": [
       "Trapezius"
+    ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
     ],
     "description": "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms. Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, sprea",
     "source": "wger"
@@ -1287,6 +2506,54 @@
       "Trapezius",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Hold the ends of the rope at arm's length in front of your hips with your hands shoulder-width apart. Brace your core and begin alternately raising and lowering each arm explosively. Keep alternating arms for three to four sets of 1 to 2 minutes.",
     "source": "wger"
   },
@@ -1300,6 +2567,18 @@
     "secondaryMuscles": [
       "Lats"
     ],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
     "description": "Setup: Stand facing the cable, feet shoulder-width apart, with a slight forward lean. Grip: Hold the rope with palms facing each other and elbows tucked tight to your ribs. Execution: Push the rope down until arms are fully straight, pulling the ends apart at the bottom. Control: Keep upper arms still and return to the start with a slow, controlled motion.",
     "source": "wger"
   },
@@ -1311,6 +2590,13 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Sit with your legs completely straight (knees locked), spread wide in a straddle position. Place your hands on the back of your neck. Hinge your torso and head towards the floor.",
     "source": "wger"
   },
@@ -1323,6 +2609,17 @@
       "Trapezius"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The plate front raise is a variation of the dumbbell front raise where the lifter holds a weight plate between two hands, rather than using a dumbbell, barbell, or other weight. It can provide variety in a shoulder-focused muscle-building workout, or as part of an upper body or full-body circuit. While standing straight, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended and locked with a slight bend at the",
     "source": "wger"
   },
@@ -1338,6 +2635,29 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Stand with heels, shoulders, back of head, and hips touching the wall. Start with biceps straight out and elbows at a 90 degree angle. Straighten the arms while remaining againstthe wall without arching the back off of the wall, mimicking a shoulder press movement.",
     "source": "wger"
   },
@@ -1353,6 +2673,30 @@
       "Shoulders",
       "Hamstrings",
       "Trapezius"
+    ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      }
     ],
     "description": "The barbell is held overhead in a wide-arm snatch grip; however, it is also possible to use a closer grip if balance allows.",
     "source": "wger"
@@ -1370,6 +2714,30 @@
       "Quads",
       "Trapezius"
     ],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "description": "On your feet, stand tall with your dumbbells, holding them at your sides. Hinge at the hips to lower them to your knees (picture 1). Stand back up with a slight jump, using the momentum to pull the dumbbells up on to your shoulders (picture 2). Stand up straight, then lower under control to your sides and repeat. Keep this fast and explosive; if your heart rate doesn’t hit the roof, you’re doing them wrong.",
     "source": "wger"
   },
@@ -1384,6 +2752,22 @@
     "secondaryMuscles": [
       "Hamstrings"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "description": "Belt Squat: a squat variation done with a belt attached to a loading machine or platform so the weight is supported at the hips instead of on the spine. It mainly trains the quads and glutes, with much less lower-back fatigue than a barbell squat. Use a full range of motion, keep the torso upright, and drive through the mid-foot.",
     "source": "wger"
   },
@@ -1395,6 +2779,13 @@
       "Chest"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Lay down on a decline bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.",
     "source": "wger"
   },
@@ -1406,6 +2797,13 @@
       "Trapezius"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Overhead Triceps Extension with EZ Bar – Quick Guide The overhead position emphasizes the long head of the triceps (because it's stretched under load), the exercise does engage all three triceps heads (long, lateral, and medial) to some degree during extension. Setup : Sit on a bench (or stand) and hold an EZ bar with a narrow, overhand grip. Lift the bar overhead, arms fully extended. Keep your core tight and elbows close to your head. Execution : Slowly lower the bar behind your head by bendin",
     "source": "wger"
   },
@@ -1419,6 +2817,22 @@
     "secondaryMuscles": [
       "Shoulders",
       "Chest"
+    ],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      }
     ],
     "description": "Setup: Lie flat on the bench and grip the bar at shoulder-width (closer than a standard bench press). Descent: Lower the bar with control to your lower chest. Form: Keep your elbows tucked in tight against your torso—do not let them flare out. Ascent: Press the bar straight back up, squeezing your triceps at the top.",
     "source": "wger"
@@ -1434,6 +2848,22 @@
       "Biceps",
       "Chest"
     ],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
     "description": "The JM press keeps your shoulders stationary, relying on the elbow flexion and extension to move the weight using your triceps strength. That means you get all the benefits of the best triceps-strengthening exercises without overtaxing that delicate shoulder joint. Classic win-win!",
     "source": "wger"
   },
@@ -1446,6 +2876,18 @@
     ],
     "secondaryMuscles": [
       "Triceps"
+    ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
     ],
     "description": "Start: Get into a plank. Place hands close together under your chest so thumbs and index fingers form a diamond shape. Lower: Bend your elbows to lower your chest toward your hands. Keep your body straight. Push: Push back up until arms are fully extended. New note Keep elbows close to your body and core tight.",
     "source": "wger"
@@ -1460,6 +2902,18 @@
     "secondaryMuscles": [
       "Brachialis"
     ],
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 13,
+        "front": true
+      }
+    ],
     "description": "Hold two dumbbells, the arms are streched, the hands are on your side, the palms face inwards. Bend the arms and bring the weight with a fast movement up. At the same time, rotate your arms by 90 degrees at the very beginning of the movement. At the highest point, rotate a little the weights further outwards. Without a pause, bring them down, slowly. Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to th",
     "source": "wger"
   },
@@ -1471,6 +2925,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Raise the handle in a slight arc with controlled movement. Don’t swing your torso to start the rep.",
     "source": "wger"
   },
@@ -1484,6 +2945,22 @@
     "secondaryMuscles": [
       "Shoulders",
       "Triceps"
+    ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
     ],
     "description": "To do slowly, tempo is 4010",
     "source": "wger"
@@ -1501,6 +2978,30 @@
       "Hamstrings",
       "Abs"
     ],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "description": "Bar Position: Anchor one end of a barbell in a landmine attachment or a secure corner. Stance: Stand facing the barbell with feet slightly wider than shoulder-width. Turn your toes out 10–35 degrees to allow for better pelvic movement and depth. Grip: Cup the free end of the barbell with both hands (fingers interlaced or overlapping) and hold it at mid-chest level, just below the collarbone. Descent: Brace your core and sit back into a squat, keeping your chest up and weight on your heels. Depth",
     "source": "wger"
   },
@@ -1513,6 +3014,17 @@
       "Quads"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Stand with your feet wider than your shoulders, with your toes pointed out at a 45 degree angle and barbell on your shoulder. While keeping your back straight, descend slowly by bending at the knees and hips as if you are sitting down (squatting). Lower yourself until your quadriceps and hamstrings are parallel to the floor. Return to the starting position by pressing upwards and extending your legs while maintaining an equal distribution of weight on your forefoot and heel.",
     "source": "wger"
   },
@@ -1528,6 +3040,26 @@
       "Abs",
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "The clap push-up is an explosive upper body movement that builds power and fast-twitch muscle strength. It adds a plyometric challenge to the traditional push-up by requiring the hands to leave the ground mid-rep. Start in a strong push-up position with your hands slightly wider than shoulder-width and core engaged Lower your body explosively and push off the ground with enough force to lift your hands. Quickly clap your hands together at chest level before returning them to the floor. Land with",
     "source": "wger"
   },
@@ -1539,6 +3071,13 @@
       "Chest"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Holding your upper body at an approximate 105° angle.",
     "source": "wger"
   },
@@ -1550,6 +3089,13 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position. Now,",
     "source": "wger"
   },
@@ -1562,6 +3108,17 @@
       "Abs"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "The leg raise is a strength training exercise which targets the iliopsoas (the anterior hip flexors). Because the abdominal muscles are used isometrically to stabilize the body during the motion, leg raises are also often used to strengthen the rectus abdominis muscle and the internal and external oblique muscles.",
     "source": "wger"
   },
@@ -1573,6 +3130,13 @@
       "Lats"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Lat pull downs with a neutral grip on the bar.",
     "source": "wger"
   },
@@ -1586,6 +3150,22 @@
     "secondaryMuscles": [
       "Lats",
       "Obliquus externus abdominis"
+    ],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      }
     ],
     "description": "The name \"Toes to Bar\" says it all: This exercise, in which you hang from a pull-up bar, involves bringing your toes toward the bar, pointing toward your face. This really works your abdominal muscles. \"Toes to Bar\" is popular in functional fitness programs like Freeletics and CrossFit, and is an effective exercise for six-pack training.",
     "source": "wger"
@@ -1602,6 +3182,26 @@
       "Hamstrings",
       "Calves"
     ],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
     "description": "Controlled execution No momentum Execute slowly",
     "source": "wger"
   },
@@ -1615,6 +3215,18 @@
     "secondaryMuscles": [
       "Triceps"
     ],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "description": "Single arm chest press done with the cable machine. Use the other arm to brace bodyweight to focus on strength of the press, rather than balancing of the body. Start with the hand as close to the chest as possible, and then press against the cable at a slight decline and aiming towards the center of your chest.",
     "source": "wger"
   },
@@ -1627,6 +3239,17 @@
       "Triceps"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Lie down with your back on a flat bench. Hold a dumbbell in each hand. Raise your arms towards the ceiling with your palms facing each other and dumbbells pressed together. Slowly lower the dumbbells to your chest, then slowly push them back. Repeat the exercise.",
     "source": "wger"
   },
@@ -1638,6 +3261,13 @@
       "Shoulders"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Keep your elbow tucked to your side like it's superglued there. Don’t rotate your torso — only your forearm should move.",
     "source": "wger"
   },
@@ -1649,6 +3279,13 @@
       "Glutes"
     ],
     "secondaryMuscles": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [],
     "description": "Starting Position: Adjust the seat height so that your knees are aligned with the pivot point of the machine. Sit with your back flat against the backrest, maintaining good posture. Place the outside of your thighs against the machine's padded levers. Position your feet flat on the footrests or platform of the machine. Grasp the handles or sides of the seat for stability. Ensure your spine is neutral and your core is slightly engaged. Movement: Exhale as you slowly push your legs outward against",
     "source": "wger"
   },
@@ -1662,6 +3299,22 @@
     "secondaryMuscles": [
       "Glutes",
       "Abs"
+    ],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 6,
+        "front": true
+      }
     ],
     "description": "Natural Leg Extension is alternative to Leg Extension machine with no equipment.",
     "source": "wger"

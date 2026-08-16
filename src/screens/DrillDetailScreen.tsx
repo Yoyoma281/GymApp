@@ -3,6 +3,7 @@ import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'r
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import ExerciseVideo from '../components/ExerciseVideo';
+import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -75,6 +76,12 @@ export default function DrillDetailScreen({ route }: Props) {
                   ) : detail.imageUrl ? (
                     <Image source={{ uri: detail.imageUrl }} style={styles.exerciseDetailImage} />
                   ) : null}
+                  {detail.muscleIds && detail.muscleIds.length > 0 && (
+                    <BodyMap
+                      muscles={detail.muscleIds}
+                      secondaryMuscles={detail.secondaryMuscleIds}
+                    />
+                  )}
                   {detail.muscles && detail.muscles.length > 0 && (
                     <Text style={styles.exerciseMeta}>
                       <Text style={styles.exerciseMetaLabel}>Muscles: </Text>

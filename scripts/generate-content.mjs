@@ -253,6 +253,8 @@ async function fetchWgerCatalog() {
       video: videoByExercise.get(ex.id) ?? null,
       muscles: (ex.muscles ?? []).map((m) => m.name_en || m.name).filter(Boolean),
       secondaryMuscles: (ex.muscles_secondary ?? []).map((m) => m.name_en || m.name).filter(Boolean),
+      muscleIds: (ex.muscles ?? []).map((m) => ({ id: m.id, front: !!m.is_front })),
+      secondaryMuscleIds: (ex.muscles_secondary ?? []).map((m) => ({ id: m.id, front: !!m.is_front })),
       description: stripHtml(en[0]?.description).slice(0, 500) || null,
     };
   });
@@ -362,6 +364,9 @@ function enrichSportFile(file, index, mwByName, details) {
           difficulty: mw.difficulty,
           grips: mw.grips,
           steps: mw.steps,
+          // body-map layers come from the wger match even when MuscleWiki wins
+          muscleIds: hit?.muscleIds ?? [],
+          secondaryMuscleIds: hit?.secondaryMuscleIds ?? [],
           source: 'musclewiki',
         };
       }
@@ -377,6 +382,8 @@ function enrichSportFile(file, index, mwByName, details) {
             videoUrl: hit.video,
             muscles: hit.muscles,
             secondaryMuscles: hit.secondaryMuscles,
+            muscleIds: hit.muscleIds,
+            secondaryMuscleIds: hit.secondaryMuscleIds,
             description: hit.description,
             source: 'wger',
           };

@@ -16,6 +16,11 @@ export interface ExerciseVideoSource {
   angle?: string | null;
 }
 
+export interface MuscleRef {
+  id: number;
+  front: boolean;
+}
+
 export interface ExerciseDetail {
   name: string;
   imageUrl?: string | null;
@@ -23,6 +28,8 @@ export interface ExerciseDetail {
   videos?: ExerciseVideoSource[];
   muscles?: string[];
   secondaryMuscles?: string[];
+  muscleIds?: MuscleRef[];
+  secondaryMuscleIds?: MuscleRef[];
   description?: string | null;
   difficulty?: string | null;
   grips?: string[];
