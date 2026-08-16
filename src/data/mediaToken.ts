@@ -1,9 +1,9 @@
 // MuscleWiki stream URLs require a short-lived media token (~15 min).
-// Tokens are minted by a tiny server endpoint that holds the API key
-// (the key itself must never ship in the app). Configure it via
-// EXPO_PUBLIC_MW_TOKEN_URL; without it the app falls back to images.
+// Tokens are minted by the app's backend, which holds the API key and
+// caches the token so the whole user base costs only a few API calls an
+// hour (see server/api/token.js).
 
-const TOKEN_ENDPOINT = process.env.EXPO_PUBLIC_MW_TOKEN_URL;
+import { markWorking, orderedBases } from './api';
 
 let cached: { token: string; expiresAt: number } | null = null;
 let inflight: Promise<string | null> | null = null;
@@ -13,19 +13,23 @@ export function isMuscleWikiUrl(url: string): boolean {
 }
 
 async function fetchToken(): Promise<string | null> {
-  if (!TOKEN_ENDPOINT) return null;
-  try {
-    const res = await fetch(TOKEN_ENDPOINT, { method: 'POST' });
-    if (!res.ok) return null;
-    const data = (await res.json()) as { token: string; expires_in: number };
-    cached = {
-      token: data.token,
-      expiresAt: Date.now() + Math.max(data.expires_in - 60, 60) * 1000,
-    };
-    return data.token;
-  } catch {
-    return null;
+  for (const base of orderedBases()) {
+    try {
+      const res = await fetch(`${base}/api/token`, { method: 'POST' });
+      if (!res.ok) continue;
+      const data = (await res.json()) as { token?: string; expires_in?: number };
+      if (!data?.token) continue;
+      markWorking(base);
+      cached = {
+        token: data.token,
+        expiresAt: Date.now() + Math.max((data.expires_in ?? 900) - 60, 60) * 1000,
+      };
+      return data.token;
+    } catch {
+      // try the next base
+    }
   }
+  return null;
 }
 
 export async function getMediaToken(): Promise<string | null> {
