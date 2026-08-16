@@ -35,7 +35,7 @@ interface Props {
 }
 
 export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
-  const player = useVideoPlayer(uri, (p) => {
+  const player = useVideoPlayer({ uri, useCaching: true }, (p) => {
     p.loop = true;
     p.muted = ambient;
     p.timeUpdateEventInterval = 0.2;
@@ -84,6 +84,19 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
   const seek = (seconds: number) => {
     player.currentTime = seconds;
     setStarted(true);
+  };
+
+  // YouTube-style: playback pauses for the duration of a drag so frames
+  // track the thumb, then resumes if it was playing beforehand.
+  const resumeAfterScrub = useRef(false);
+  const onScrubbingChange = (active: boolean) => {
+    setScrubbing(active);
+    if (active) {
+      resumeAfterScrub.current = player.playing;
+      player.pause();
+    } else if (resumeAfterScrub.current) {
+      player.play();
+    }
   };
 
   if (status === 'error') {
@@ -141,7 +154,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
           currentTime={currentTime}
           duration={duration}
           onSeek={seek}
-          onScrubbingChange={setScrubbing}
+          onScrubbingChange={onScrubbingChange}
         />
         <View style={styles.buttonRow}>
           <Pressable style={styles.smallButton} onPress={toggleMute} hitSlop={8}>

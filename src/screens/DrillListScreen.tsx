@@ -1,7 +1,8 @@
-import React, { useMemo } from 'react';
+import React, { useEffect, useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { Drill, loadSport } from '../data/activities';
+import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -9,6 +10,13 @@ type Props = NativeStackScreenProps<RootStackParamList, 'DrillList'>;
 
 export default function DrillListScreen({ navigation, route }: Props) {
   const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
+
+  // Warm every clip/poster for this sport while the user browses the list.
+  useEffect(() => {
+    if (!activity) return;
+    primeMediaToken(activity);
+    void prefetchSportMedia(activity);
+  }, [activity]);
 
   const groups = useMemo(() => {
     if (!activity) return [];

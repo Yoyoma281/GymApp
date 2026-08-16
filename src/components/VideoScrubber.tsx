@@ -6,7 +6,7 @@ interface Props {
   currentTime: number;
   duration: number;
   onSeek: (seconds: number) => void;
-  /** Called on drag start/end so the parent can keep controls visible. */
+  /** Fires on drag start/end so the player can pause and resume. */
   onScrubbingChange?: (scrubbing: boolean) => void;
 }
 
@@ -21,7 +21,9 @@ export default function VideoScrubber({ currentTime, duration, onSeek, onScrubbi
   const [width, setWidth] = useState(0);
   const [dragRatio, setDragRatio] = useState<number | null>(null);
   const widthRef = useRef(0);
+  const durationRef = useRef(0);
   const startRatio = useRef(0);
+  durationRef.current = duration;
 
   const ratio =
     dragRatio ?? (duration > 0 ? Math.min(Math.max(currentTime / duration, 0), 1) : 0);
@@ -29,14 +31,17 @@ export default function VideoScrubber({ currentTime, duration, onSeek, onScrubbi
   const seekTo = (r: number) => {
     const clamped = Math.min(Math.max(r, 0), 1);
     setDragRatio(clamped);
-    if (duration > 0) onSeek(clamped * duration);
+    if (durationRef.current > 0) onSeek(clamped * durationRef.current);
   };
 
   const pan = useRef(
     PanResponder.create({
-      onStartShouldSetPanResponder: () => true,
-      onMoveShouldSetPanResponder: () => true,
+      // Capture-phase claims beat the parent ScrollView, which would
+      // otherwise swallow the horizontal drag.
+      onStartShouldSetPanResponderCapture: () => true,
+      onMoveShouldSetPanResponderCapture: () => true,
       onPanResponderTerminationRequest: () => false,
+      onShouldBlockNativeResponder: () => true,
       onPanResponderGrant: (evt) => {
         onScrubbingChange?.(true);
         const w = widthRef.current || 1;
@@ -65,7 +70,8 @@ export default function VideoScrubber({ currentTime, duration, onSeek, onScrubbi
     setWidth(w);
   };
 
-  const shown = dragRatio !== null && duration > 0 ? dragRatio * duration : currentTime;
+  const scrubbing = dragRatio !== null;
+  const shown = scrubbing && duration > 0 ? dragRatio! * duration : currentTime;
 
   return (
     <View style={styles.wrap}>
@@ -74,7 +80,13 @@ export default function VideoScrubber({ currentTime, duration, onSeek, onScrubbi
         <View style={styles.track}>
           <View style={[styles.fill, { width: ratio * width }]} />
         </View>
-        <View style={[styles.thumb, { left: Math.max(0, ratio * width - 7) }]} />
+        <View
+          style={[
+            styles.thumb,
+            scrubbing && styles.thumbActive,
+            { left: Math.max(0, ratio * width - (scrubbing ? 10 : 7)) },
+          ]}
+        />
       </View>
       <Text style={styles.time}>{fmt(duration)}</Text>
     </View>
@@ -88,7 +100,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 8,
     paddingHorizontal: 10,
-    paddingBottom: 8,
+    paddingBottom: 6,
     paddingTop: 4,
   },
   time: {
@@ -98,8 +110,8 @@ const styles = StyleSheet.create({
     minWidth: 30,
     textAlign: 'center',
   },
-  // generous touch target around a thin visual track
-  trackArea: { flex: 1, height: 26, justifyContent: 'center' },
+  // tall touch target around a thin visual track (easy to grab)
+  trackArea: { flex: 1, height: 34, justifyContent: 'center' },
   track: {
     height: 4,
     borderRadius: 2,
@@ -115,5 +127,10 @@ const styles = StyleSheet.create({
     backgroundColor: colors.accent,
     borderWidth: 2,
     borderColor: '#fff',
+  },
+  thumbActive: {
+    width: 20,
+    height: 20,
+    borderRadius: 10,
   },
 });
