@@ -51,7 +51,10 @@
         "Taking the touch dead under your feet rather than into the space you want to attack.",
         "Watching the ball arrive instead of scanning before it gets there."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=soccer+first+touch+drills+tutorial"
+      "videoUrl": "https://www.youtube.com/results?search_query=soccer+first+touch+drills+tutorial",
+      "clipUrl": "https://videos.pexels.com/video-files/10349015/10349015-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/10349015/pexels-photo-10349015.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "juggling",
@@ -96,7 +99,10 @@
         "Kicking with a floppy ankle so every touch sprays at a new angle.",
         "Reaching for the ball with the leg instead of moving the body under it."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=soccer+juggling+tutorial+beginners"
+      "videoUrl": "https://www.youtube.com/results?search_query=soccer+juggling+tutorial+beginners",
+      "clipUrl": "https://videos.pexels.com/video-files/10349015/10349015-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/10349015/pexels-photo-10349015.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "close-control-dribbling",
@@ -140,7 +146,10 @@
         "Head down the whole time — you beat the cone but miss the pass.",
         "Touches too heavy at speed, turning dribbling into chasing."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=close+control+dribbling+drills+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=close+control+dribbling+drills+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/10349015/10349015-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/10349015/pexels-photo-10349015.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "stepover",
@@ -192,7 +201,10 @@
         "Doing the move too far from the defender, giving them time to reset.",
         "Slow exit touch after a fast stepover wastes the deception."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=stepover+skill+tutorial+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=stepover+skill+tutorial+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/10349015/10349015-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/10349015/pexels-photo-10349015.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "push-pass",
@@ -236,7 +248,10 @@
         "Plant foot points away from the target, dragging the pass wide.",
         "Stabbing at the ball with no follow-through, killing pace and accuracy."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=inside+foot+push+pass+technique+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=inside+foot+push+pass+technique+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/5449924/5449924-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/5449924/pexels-photo-5449924.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Gustavo Fring / Pexels"
     },
     {
       "id": "driven-long-pass",
@@ -290,7 +305,10 @@
         "Striking across the ball instead of through its center, adding unwanted curl.",
         "Short, choked backswing — distance needs a full knee cock."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=driven+long+pass+technique+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=driven+long+pass+technique+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/5449924/5449924-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/5449924/pexels-photo-5449924.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Gustavo Fring / Pexels"
     },
     {
       "id": "crossing",
@@ -359,7 +377,10 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 30s"
         }
-      ]
+      ],
+      "clipUrl": "https://videos.pexels.com/video-files/5449924/5449924-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/5449924/pexels-photo-5449924.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Gustavo Fring / Pexels"
     },
     {
       "id": "placed-finish",
@@ -406,7 +427,10 @@
         "Looking up at the keeper during contact and dragging the shot at them.",
         "Leaning back and lifting an easy save over the bar from eight yards."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=placed+finish+shooting+technique+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=placed+finish+shooting+technique+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/6084024/6084024-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6084024/action-activity-athlete-athletes-6084024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Tima Miroshnichenko / Pexels"
     },
     {
       "id": "instep-drive",
@@ -461,7 +485,10 @@
         "Plant foot too far from the ball, forcing a reach that slices the shot.",
         "Leaning back at contact — knee over the ball keeps it under the bar."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=instep+drive+laces+shot+technique+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=instep+drive+laces+shot+technique+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/6084024/6084024-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6084024/action-activity-athlete-athletes-6084024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Tima Miroshnichenko / Pexels"
     },
     {
       "id": "volley",
@@ -514,7 +541,10 @@
         "Letting the ball drop too low and scooping it over the bar.",
         "Square hips at contact — turn sideways so the swing travels flat."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=volley+technique+tutorial+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=volley+technique+tutorial+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/6084024/6084024-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6084024/action-activity-athlete-athletes-6084024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Tima Miroshnichenko / Pexels"
     },
     {
       "id": "heading",
@@ -561,7 +591,10 @@
         "Heading with the top of the skull instead of the forehead's flat plate.",
         "No trunk snap — a neck-only header has no power and no direction."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=heading+technique+tutorial+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=heading+technique+tutorial+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/6084024/6084024-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6084024/action-activity-athlete-athletes-6084024.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Tima Miroshnichenko / Pexels"
     },
     {
       "id": "jockeying",
@@ -604,7 +637,10 @@
         "Diving into a tackle the moment the attacker invites it with a fake.",
         "Standing tall between movements — the stance is a constant, not a pose."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=jockeying+defensive+stance+soccer+tutorial"
+      "videoUrl": "https://www.youtube.com/results?search_query=jockeying+defensive+stance+soccer+tutorial",
+      "clipUrl": "https://videos.pexels.com/video-files/15449387/15449387-hd_1280_720_60fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/15449387/pexels-photo-15449387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Luis Quintero / Pexels"
     },
     {
       "id": "block-tackle",
@@ -645,7 +681,10 @@
         "Tackling with a soft ankle and losing the 50/50 collision.",
         "Lunging from too far out, arriving off balance with studs showing."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=block+tackle+technique+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=block+tackle+technique+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/15449387/15449387-hd_1280_720_60fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/15449387/pexels-photo-15449387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Luis Quintero / Pexels"
     },
     {
       "id": "agility-ladder",
@@ -687,7 +726,10 @@
         "Staring at the ladder — eyes belong up, feet learn by feel.",
         "Flat-footed stomping instead of light contacts off the forefoot."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=agility+ladder+drills+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=agility+ladder+drills+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/7187049/7187049-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7187049/accomplishment-action-action-energy-active-7187049.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "RDNE Stock project / Pexels"
     },
     {
       "id": "sprint-mechanics",
@@ -736,7 +778,10 @@
         "Popping upright out of the acceleration lean after two steps.",
         "Arms swinging across the body instead of hip-to-cheek straight lines."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=sprint+mechanics+acceleration+drills+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=sprint+mechanics+acceleration+drills+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/7187049/7187049-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7187049/accomplishment-action-action-energy-active-7187049.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "RDNE Stock project / Pexels"
     },
     {
       "id": "change-of-direction",
@@ -779,7 +824,10 @@
         "Plant foot too close to the body's midline, killing the push-off angle.",
         "Rounding the turn instead of planting sharply — defenders read the arc."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=change+of+direction+cutting+drills+soccer"
+      "videoUrl": "https://www.youtube.com/results?search_query=change+of+direction+cutting+drills+soccer",
+      "clipUrl": "https://videos.pexels.com/video-files/7187049/7187049-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7187049/accomplishment-action-action-energy-active-7187049.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "RDNE Stock project / Pexels"
     }
   ]
 }
