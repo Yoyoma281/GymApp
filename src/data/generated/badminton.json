@@ -17,7 +17,8 @@
         {
           "name": "Jump rope",
           "scheme": "3 × 60s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Pogo jumps",
@@ -31,7 +32,8 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         }
       ],
       "stretches": [
@@ -59,13 +61,15 @@
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Reverse lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 999,
-          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+          "detailId": "wger-999"
         },
         {
           "name": "Lateral lunges",
@@ -75,7 +79,8 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Adductor machine",
@@ -119,7 +124,8 @@
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Sled pushes",
@@ -155,7 +161,8 @@
         {
           "name": "Box jumps",
           "scheme": "3 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Barbell hip thrusts",
@@ -190,23 +197,27 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Dumbbell external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 1715
+          "wgerId": 1715,
+          "detailId": "wger-1715"
         },
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 12 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -238,7 +249,8 @@
           "name": "Dumbbell shoulder press",
           "scheme": "3 × 10",
           "wgerId": 567,
-          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
+          "detailId": "wger-567"
         },
         {
           "name": "Wrist curls",
@@ -277,17 +289,20 @@
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Grip crushers",
@@ -357,13 +372,15 @@
           "name": "Tempo dumbbell shoulder press",
           "scheme": "3 × 10",
           "wgerId": 567,
-          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
+          "detailId": "wger-567"
         },
         {
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "detailId": "wger-1726"
         },
         {
           "name": "Forearm pronation with dumbbell",
@@ -403,7 +420,8 @@
           "name": "Pull-ups",
           "scheme": "3 × 8",
           "wgerId": 475,
-          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
+          "detailId": "wger-475"
         },
         {
           "name": "Cable woodchoppers (high to low)",
@@ -448,7 +466,8 @@
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Medicine ball rotational slams",
@@ -457,7 +476,8 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         },
         {
           "name": "Depth jumps",
@@ -491,12 +511,14 @@
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         },
         {
           "name": "Wrist circles with light dumbbell",
@@ -531,7 +553,8 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Grip crushers",
@@ -545,7 +568,8 @@
           "name": "Dumbbell front raises",
           "scheme": "3 × 12",
           "wgerId": 256,
-          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png"
+          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png",
+          "detailId": "wger-256"
         }
       ],
       "stretches": [
@@ -584,7 +608,8 @@
         {
           "name": "Wall sits",
           "scheme": "3 × 45s",
-          "wgerId": 1408
+          "wgerId": 1408,
+          "detailId": "wger-1408"
         }
       ],
       "stretches": [
@@ -615,13 +640,15 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 12 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         },
         {
           "name": "Lateral lunges",
@@ -664,12 +691,14 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         }
       ],
       "stretches": [

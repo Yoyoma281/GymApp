@@ -26,13 +26,15 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         },
         {
           "name": "Box step-ups",
@@ -72,12 +74,14 @@
           "name": "Seated calf raises",
           "scheme": "3 × 15",
           "wgerId": 1620,
-          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
+          "detailId": "wger-1620"
         },
         {
           "name": "Glute bridges",
           "scheme": "3 × 12",
-          "wgerId": 265
+          "wgerId": 265,
+          "detailId": "wger-265"
         }
       ],
       "stretches": [
@@ -116,7 +120,8 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021
+          "wgerId": 1021,
+          "detailId": "wger-1021"
         },
         {
           "name": "Dead bug",
@@ -148,7 +153,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Nordic hamstring curls",
@@ -192,7 +198,8 @@
         {
           "name": "Jump rope",
           "scheme": "4 × 60s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Pogo hops",
@@ -202,7 +209,8 @@
           "name": "Seated calf raises",
           "scheme": "3 × 15",
           "wgerId": 1620,
-          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
+          "detailId": "wger-1620"
         },
         {
           "name": "Dead bug",
@@ -233,7 +241,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Calf raises",
@@ -276,7 +285,8 @@
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Lying hamstring curls",
@@ -286,13 +296,15 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Plank",
           "scheme": "3 × 60s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         }
       ],
       "stretches": [
@@ -328,7 +340,8 @@
         {
           "name": "Hip thrusts",
           "scheme": "3 × 8",
-          "wgerId": 294
+          "wgerId": 294,
+          "detailId": "wger-294"
         },
         {
           "name": "Depth jumps",
@@ -337,7 +350,8 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021
+          "wgerId": 1021,
+          "detailId": "wger-1021"
         }
       ],
       "stretches": [
@@ -366,7 +380,8 @@
           "name": "Step-ups",
           "scheme": "3 × 10 / leg",
           "wgerId": 981,
-          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
+          "detailId": "wger-981"
         },
         {
           "name": "Split squats",
@@ -379,7 +394,8 @@
         {
           "name": "Glute bridges",
           "scheme": "3 × 12",
-          "wgerId": 265
+          "wgerId": 265,
+          "detailId": "wger-265"
         }
       ],
       "stretches": [
@@ -405,13 +421,15 @@
         {
           "name": "Slow-eccentric leg press",
           "scheme": "3 × 8",
-          "wgerId": 1515
+          "wgerId": 1515,
+          "detailId": "wger-1515"
         },
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Depth jumps",
@@ -425,7 +443,8 @@
           "name": "Reverse lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 999,
-          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+          "detailId": "wger-999"
         }
       ],
       "stretches": [
@@ -457,23 +476,27 @@
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 20",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 580
+          "wgerId": 580,
+          "detailId": "wger-580"
         },
         {
           "name": "Glute bridges",
           "scheme": "3 × 15",
-          "wgerId": 265
+          "wgerId": 265,
+          "detailId": "wger-265"
         }
       ],
       "stretches": [
@@ -506,25 +529,29 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 12 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Plank",
           "scheme": "3 × 60s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         }
       ],
       "stretches": [
@@ -553,18 +580,21 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Box jumps",
           "scheme": "3 × 6",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Lying hamstring curls",
@@ -573,7 +603,8 @@
         {
           "name": "Mountain climbers",
           "scheme": "3 × 30s",
-          "wgerId": 996
+          "wgerId": 996,
+          "detailId": "wger-996"
         }
       ],
       "stretches": [
@@ -602,28 +633,33 @@
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Hip thrusts",
           "scheme": "3 × 10",
-          "wgerId": 294
+          "wgerId": 294,
+          "detailId": "wger-294"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 580
+          "wgerId": 580,
+          "detailId": "wger-580"
         }
       ],
       "stretches": [
@@ -654,13 +690,15 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 6",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Weighted plank",
@@ -670,7 +708,8 @@
           "name": "Standing calf raises",
           "scheme": "4 × 12",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         }
       ],
       "stretches": [
@@ -702,12 +741,14 @@
         {
           "name": "Hip thrusts",
           "scheme": "3 × 8",
-          "wgerId": 294
+          "wgerId": 294,
+          "detailId": "wger-294"
         },
         {
           "name": "Box jumps",
           "scheme": "3 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Nordic hamstring curls",
@@ -716,7 +757,8 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021
+          "wgerId": 1021,
+          "detailId": "wger-1021"
         }
       ],
       "stretches": [

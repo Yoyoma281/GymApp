@@ -1,12 +1,37 @@
 import { loadSport as loadGenerated, sportIndex as generatedIndex } from './generated';
 import searchRows from './generated/search-index.json';
+import detailsJson from './generated/exercise-details.json';
 
 export interface Exercise {
   name: string;
   scheme: string;
   wgerId?: number;
   imageUrl?: string;
+  detailId?: string;
 }
+
+export interface ExerciseVideoSource {
+  url: string;
+  gender?: string | null;
+  angle?: string | null;
+}
+
+export interface ExerciseDetail {
+  name: string;
+  imageUrl?: string | null;
+  videoUrl?: string | null;
+  videos?: ExerciseVideoSource[];
+  muscles?: string[];
+  secondaryMuscles?: string[];
+  description?: string | null;
+  difficulty?: string | null;
+  grips?: string[];
+  steps?: string[];
+  source: 'wger' | 'musclewiki';
+}
+
+export const exerciseDetails: Record<string, ExerciseDetail> =
+  detailsJson as unknown as Record<string, ExerciseDetail>;
 
 export interface Drill {
   id: string;

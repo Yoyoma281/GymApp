@@ -29,7 +29,8 @@
         {
           "name": "Wall slides",
           "scheme": "3 × 10",
-          "wgerId": 716
+          "wgerId": 716,
+          "detailId": "wger-716"
         },
         {
           "name": "Hanging from pull-up bar",
@@ -61,7 +62,8 @@
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
-          "wgerId": 145
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Side plank with reach-through",
@@ -71,13 +73,15 @@
           "name": "Russian twists",
           "scheme": "3 × 16",
           "wgerId": 1193,
-          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
+          "detailId": "wger-1193"
         },
         {
           "name": "Bird dog",
           "scheme": "3 × 8 / side",
           "wgerId": 1572,
-          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png",
+          "detailId": "wger-1572"
         },
         {
           "name": "Dead bug",
@@ -113,18 +117,21 @@
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 580
+          "wgerId": 580,
+          "detailId": "wger-580"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 12",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -165,7 +172,8 @@
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -193,19 +201,22 @@
         {
           "name": "Single-arm lat pulldowns",
           "scheme": "3 × 10 / arm",
-          "wgerId": 1972
+          "wgerId": 1972,
+          "detailId": "wger-1972"
         },
         {
           "name": "Single-arm dumbbell rows",
           "scheme": "3 × 10 / arm",
           "wgerId": 1637,
-          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png",
+          "detailId": "wger-1637"
         },
         {
           "name": "Plank shoulder taps",
           "scheme": "3 × 12",
           "wgerId": 1091,
-          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg",
+          "detailId": "wger-1091"
         },
         {
           "name": "Hollow body hold",
@@ -241,17 +252,20 @@
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         },
         {
           "name": "Dumbbell external rotations",
           "scheme": "3 × 12 / arm",
-          "wgerId": 1715
+          "wgerId": 1715,
+          "detailId": "wger-1715"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         }
       ],
       "stretches": [
@@ -280,23 +294,27 @@
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "detailId": "wger-1726"
         },
         {
           "name": "Bent-over cable pullovers",
           "scheme": "3 × 10",
-          "wgerId": 1469
+          "wgerId": 1469,
+          "detailId": "wger-1469"
         },
         {
           "name": "Pull-ups",
           "scheme": "3 × 8",
           "wgerId": 475,
-          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
+          "detailId": "wger-475"
         },
         {
           "name": "Dumbbell triceps kickbacks",
           "scheme": "3 × 12",
-          "wgerId": 655
+          "wgerId": 655,
+          "detailId": "wger-655"
         },
         {
           "name": "Dead bug",
@@ -328,7 +346,8 @@
         {
           "name": "Leg raises",
           "scheme": "3 × 12",
-          "wgerId": 376
+          "wgerId": 376,
+          "detailId": "wger-376"
         },
         {
           "name": "Cable hip flexor march",
@@ -338,7 +357,8 @@
           "name": "Leg extensions",
           "scheme": "3 × 12",
           "wgerId": 369,
-          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
+          "detailId": "wger-369"
         },
         {
           "name": "Seated ankle dorsiflexion with band",
@@ -379,25 +399,29 @@
           "name": "Seated cable rows",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "detailId": "wger-1726"
         },
         {
           "name": "Overhead triceps extensions",
           "scheme": "3 × 12",
           "wgerId": 1519,
-          "imageUrl": "https://wger.de/media/exercise-images/1519/fab7f641-27d4-40b5-8edd-1a0a137bfd94.gif"
+          "imageUrl": "https://wger.de/media/exercise-images/1519/fab7f641-27d4-40b5-8edd-1a0a137bfd94.gif",
+          "detailId": "wger-1519"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -425,12 +449,14 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         },
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
-          "wgerId": 173
+          "wgerId": 173,
+          "detailId": "wger-173"
         },
         {
           "name": "Back extensions",
@@ -475,22 +501,26 @@
         {
           "name": "Lat pulldowns behind neutral grip",
           "scheme": "3 × 10",
-          "wgerId": 1510
+          "wgerId": 1510,
+          "detailId": "wger-1510"
         },
         {
           "name": "Glute bridges",
           "scheme": "3 × 15",
-          "wgerId": 265
+          "wgerId": 265,
+          "detailId": "wger-265"
         },
         {
           "name": "Leg raises",
           "scheme": "3 × 12",
-          "wgerId": 376
+          "wgerId": 376,
+          "detailId": "wger-376"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         }
       ],
       "stretches": [
@@ -518,7 +548,8 @@
         {
           "name": "Sumo squats",
           "scheme": "3 × 10",
-          "wgerId": 632
+          "wgerId": 632,
+          "detailId": "wger-632"
         },
         {
           "name": "Hip adduction machine",
@@ -531,7 +562,8 @@
         {
           "name": "Glute bridges",
           "scheme": "3 × 12",
-          "wgerId": 265
+          "wgerId": 265,
+          "detailId": "wger-265"
         },
         {
           "name": "Copenhagen plank",
@@ -565,7 +597,8 @@
           "name": "Pull-ups",
           "scheme": "4 × 6",
           "wgerId": 475,
-          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
+          "detailId": "wger-475"
         },
         {
           "name": "Medicine ball slams",
@@ -574,7 +607,8 @@
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
-          "wgerId": 173
+          "wgerId": 173,
+          "detailId": "wger-173"
         },
         {
           "name": "Dumbbell pullovers",
@@ -611,7 +645,8 @@
         {
           "name": "Box jumps",
           "scheme": "3 × 6",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Goblet squats",
@@ -651,23 +686,27 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         },
         {
           "name": "Jump squats",
           "scheme": "3 × 8",
-          "wgerId": 614
+          "wgerId": 614,
+          "detailId": "wger-614"
         },
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
-          "wgerId": 173
+          "wgerId": 173,
+          "detailId": "wger-173"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "detailId": "wger-371"
         },
         {
           "name": "Hollow body rocks",
@@ -711,7 +750,8 @@
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         }
       ],
       "stretches": [

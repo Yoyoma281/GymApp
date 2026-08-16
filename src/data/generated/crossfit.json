@@ -30,7 +30,8 @@
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "detailId": "wger-1726"
         },
         {
           "name": "Dead bug",
@@ -78,7 +79,8 @@
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         }
       ],
       "stretches": [
@@ -118,7 +120,8 @@
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         },
         {
           "name": "Farmer's carries",
@@ -154,12 +157,14 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         },
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
-          "wgerId": 173
+          "wgerId": 173,
+          "detailId": "wger-173"
         },
         {
           "name": "Hanging beat swings",
@@ -196,7 +201,8 @@
           "name": "Seated dumbbell shoulder press",
           "scheme": "4 × 8",
           "wgerId": 567,
-          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
+          "detailId": "wger-567"
         },
         {
           "name": "Pike push-ups on box",
@@ -246,7 +252,8 @@
           "name": "Seated cable rows",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Hanging knee raises",
@@ -291,7 +298,8 @@
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Barbell push press",
@@ -304,7 +312,8 @@
         {
           "name": "Front plank",
           "scheme": "3 × 45s",
-          "wgerId": 1307
+          "wgerId": 1307,
+          "detailId": "wger-1307"
         }
       ],
       "stretches": [
@@ -333,7 +342,8 @@
           "name": "Front squats",
           "scheme": "4 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Barbell push press",
@@ -346,13 +356,15 @@
         {
           "name": "Dumbbell thrusters",
           "scheme": "3 × 10",
-          "wgerId": 1684
+          "wgerId": 1684,
+          "detailId": "wger-1684"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -385,7 +397,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Clean-grip high pulls",
@@ -399,7 +412,8 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         }
       ],
       "stretches": [
@@ -428,7 +442,8 @@
         {
           "name": "Box jumps",
           "scheme": "4 × 6",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Barbell back squats",
@@ -437,19 +452,22 @@
         {
           "name": "Jump squats",
           "scheme": "3 × 8",
-          "wgerId": 614
+          "wgerId": 614,
+          "detailId": "wger-614"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         }
       ],
       "stretches": [
@@ -477,18 +495,21 @@
         {
           "name": "Jump rope singles",
           "scheme": "4 × 60s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 20",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Wrist curls with dumbbell",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Pogo hops",
@@ -526,7 +547,8 @@
           "name": "Push-ups",
           "scheme": "3 × 15",
           "wgerId": 1551,
-          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
+          "detailId": "wger-1551"
         },
         {
           "name": "Bodyweight squats",
@@ -539,12 +561,14 @@
         {
           "name": "Mountain climbers",
           "scheme": "3 × 30s",
-          "wgerId": 996
+          "wgerId": 996,
+          "detailId": "wger-996"
         },
         {
           "name": "Front plank",
           "scheme": "3 × 45s",
-          "wgerId": 1307
+          "wgerId": 1307,
+          "detailId": "wger-1307"
         }
       ],
       "stretches": [
@@ -624,7 +648,8 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Goblet squats",
@@ -700,7 +725,8 @@
           "name": "Kettlebell swings",
           "scheme": "4 × 20",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Wall-ball big-set practice",

@@ -30,13 +30,15 @@
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -66,7 +68,8 @@
           "name": "Front squats",
           "scheme": "4 × 5",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Front rack barbell holds",
@@ -79,12 +82,14 @@
         {
           "name": "Plate front raises",
           "scheme": "3 × 12",
-          "wgerId": 254
+          "wgerId": 254,
+          "detailId": "wger-254"
         },
         {
           "name": "Wall slides",
           "scheme": "3 × 10",
-          "wgerId": 716
+          "wgerId": 716,
+          "detailId": "wger-716"
         }
       ],
       "stretches": [
@@ -130,7 +135,8 @@
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
           "wgerId": 571,
-          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
+          "detailId": "wger-571"
         }
       ],
       "stretches": [
@@ -175,7 +181,8 @@
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
           "wgerId": 571,
-          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
+          "detailId": "wger-571"
         }
       ],
       "stretches": [
@@ -212,17 +219,20 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Overhead squats",
           "scheme": "3 × 5",
-          "wgerId": 441
+          "wgerId": 441,
+          "detailId": "wger-441"
         }
       ],
       "stretches": [
@@ -258,7 +268,8 @@
         {
           "name": "Overhead squats",
           "scheme": "3 × 5",
-          "wgerId": 441
+          "wgerId": 441,
+          "detailId": "wger-441"
         },
         {
           "name": "Barbell push press",
@@ -268,7 +279,8 @@
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -308,7 +320,8 @@
         {
           "name": "Overhead squats",
           "scheme": "3 × 3",
-          "wgerId": 441
+          "wgerId": 441,
+          "detailId": "wger-441"
         },
         {
           "name": "Back squats",
@@ -342,7 +355,8 @@
           "name": "Hang power cleans",
           "scheme": "5 × 3",
           "wgerId": 1087,
-          "imageUrl": "https://wger.de/media/exercise-images/1087/d85f4e02-b20c-457c-bdfb-0b00e2d14150.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/1087/d85f4e02-b20c-457c-bdfb-0b00e2d14150.jpg",
+          "detailId": "wger-1087"
         },
         {
           "name": "Clean-grip high pulls",
@@ -352,18 +366,21 @@
           "name": "Front squats",
           "scheme": "3 × 5",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
           "wgerId": 571,
-          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
+          "detailId": "wger-571"
         }
       ],
       "stretches": [
@@ -439,7 +456,8 @@
           "name": "Front squats",
           "scheme": "4 × 4",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Clean pulls",
@@ -489,7 +507,8 @@
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Dumbbell Z-press",
@@ -538,7 +557,8 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Weighted front plank",
@@ -583,7 +603,8 @@
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Copenhagen plank",
@@ -624,7 +645,8 @@
           "name": "Push press",
           "scheme": "3 × 5",
           "wgerId": 478,
-          "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
+          "detailId": "wger-478"
         },
         {
           "name": "Behind-the-neck jerks, light",
@@ -670,7 +692,8 @@
           "name": "Front squats",
           "scheme": "4 × 3",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Clean pulls",
@@ -680,7 +703,8 @@
           "name": "Weighted dips",
           "scheme": "3 × 8",
           "wgerId": 194,
-          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
+          "detailId": "wger-194"
         }
       ],
       "stretches": [

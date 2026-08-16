@@ -1,7 +1,8 @@
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { loadSport } from '../data/activities';
+import { exerciseDetails, loadSport } from '../data/activities';
+import ExerciseVideo from '../components/ExerciseVideo';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -10,6 +11,7 @@ type Props = NativeStackScreenProps<RootStackParamList, 'DrillDetail'>;
 export default function DrillDetailScreen({ route }: Props) {
   const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
   const drill = activity?.drills.find((d) => d.id === route.params.drillId);
+  const [expanded, setExpanded] = useState<string | null>(null);
   if (!activity || !drill) return null;
 
   return (
@@ -45,19 +47,64 @@ export default function DrillDetailScreen({ route }: Props) {
 
       <Text style={styles.sectionTitle}>Gym work</Text>
       <View style={styles.exerciseList}>
-        {drill.exercises.map((e) => (
-          <View key={e.name} style={styles.exerciseCard}>
-            {e.imageUrl ? (
-              <Image source={{ uri: e.imageUrl }} style={styles.exerciseImage} />
-            ) : (
-              <View style={[styles.exerciseImage, styles.exerciseImagePlaceholder]}>
-                <Text style={styles.exerciseImageEmoji}>🏋️</Text>
+        {drill.exercises.map((e) => {
+          const detail = e.detailId ? exerciseDetails[e.detailId] : undefined;
+          const isOpen = expanded === e.name;
+          return (
+            <Pressable
+              key={e.name}
+              style={styles.exerciseCard}
+              onPress={() => detail && setExpanded(isOpen ? null : e.name)}
+            >
+              <View style={styles.exerciseRow}>
+                {e.imageUrl ? (
+                  <Image source={{ uri: e.imageUrl }} style={styles.exerciseImage} />
+                ) : (
+                  <View style={[styles.exerciseImage, styles.exerciseImagePlaceholder]}>
+                    <Text style={styles.exerciseImageEmoji}>🏋️</Text>
+                  </View>
+                )}
+                <Text style={styles.exerciseName}>{e.name}</Text>
+                <Text style={styles.exerciseScheme}>{e.scheme}</Text>
+                {detail && <Text style={styles.exerciseChevron}>{isOpen ? '▾' : '▸'}</Text>}
               </View>
-            )}
-            <Text style={styles.exerciseName}>{e.name}</Text>
-            <Text style={styles.exerciseScheme}>{e.scheme}</Text>
-          </View>
-        ))}
+              {isOpen && detail && (
+                <View style={styles.exerciseDetail}>
+                  {detail.videoUrl ? (
+                    <ExerciseVideo uri={detail.videoUrl} />
+                  ) : detail.imageUrl ? (
+                    <Image source={{ uri: detail.imageUrl }} style={styles.exerciseDetailImage} />
+                  ) : null}
+                  {detail.muscles && detail.muscles.length > 0 && (
+                    <Text style={styles.exerciseMeta}>
+                      <Text style={styles.exerciseMetaLabel}>Muscles: </Text>
+                      {detail.muscles.join(', ')}
+                      {detail.secondaryMuscles?.length
+                        ? `  ·  also ${detail.secondaryMuscles.join(', ')}`
+                        : ''}
+                    </Text>
+                  )}
+                  {detail.difficulty && (
+                    <Text style={styles.exerciseMeta}>
+                      <Text style={styles.exerciseMetaLabel}>Difficulty: </Text>
+                      {detail.difficulty}
+                      {detail.grips?.length ? `  ·  Grip: ${detail.grips.join(', ')}` : ''}
+                    </Text>
+                  )}
+                  {detail.steps?.length ? (
+                    detail.steps.map((s, i) => (
+                      <Text key={s} style={styles.exerciseStep}>
+                        {i + 1}. {s}
+                      </Text>
+                    ))
+                  ) : detail.description ? (
+                    <Text style={styles.exerciseDescription}>{detail.description}</Text>
+                  ) : null}
+                </View>
+              )}
+            </Pressable>
+          );
+        })}
       </View>
 
       <Text style={styles.sectionTitle}>Stretches</Text>
@@ -146,10 +193,25 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     paddingHorizontal: 12,
     paddingVertical: 10,
+  },
+  exerciseRow: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,
   },
+  exerciseChevron: { fontSize: 13, color: colors.muted },
+  exerciseDetail: { marginTop: 12, gap: 8 },
+  exerciseDetailImage: {
+    width: '100%',
+    aspectRatio: 4 / 3,
+    borderRadius: 12,
+    backgroundColor: colors.accentSoft,
+    resizeMode: 'contain' as const,
+  },
+  exerciseMeta: { fontSize: 13, lineHeight: 19, color: colors.body },
+  exerciseMetaLabel: { fontWeight: '700', color: colors.text },
+  exerciseStep: { fontSize: 13.5, lineHeight: 20, color: colors.body },
+  exerciseDescription: { fontSize: 13.5, lineHeight: 20, color: colors.body },
   exerciseImage: {
     width: 48,
     height: 48,

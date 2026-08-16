@@ -21,7 +21,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Deep bodyweight squat hold",
@@ -67,7 +68,8 @@
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "detailId": "wger-371"
         },
         {
           "name": "Barbell hip hinges (RDL)",
@@ -77,13 +79,15 @@
           "name": "Seated cable rows",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         }
       ],
       "stretches": [
@@ -112,13 +116,15 @@
           "name": "Seated cable rows with pause",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Barbell bent-over rows",
           "scheme": "3 × 8",
           "wgerId": 81,
-          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
+          "detailId": "wger-81"
         },
         {
           "name": "Hollow body hold",
@@ -128,7 +134,8 @@
           "name": "Dumbbell biceps curls",
           "scheme": "3 × 12",
           "wgerId": 92,
-          "imageUrl": "https://wger.de/media/exercise-images/81/Biceps-curl-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/81/Biceps-curl-1.png",
+          "detailId": "wger-92"
         },
         {
           "name": "Back extensions",
@@ -160,7 +167,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Stability ball hamstring curls",
@@ -201,7 +209,8 @@
           "name": "Seated cable rows",
           "scheme": "3 × 12",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Back extensions",
@@ -215,7 +224,8 @@
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         }
       ],
       "stretches": [
@@ -244,19 +254,22 @@
           "name": "Leg press",
           "scheme": "4 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "detailId": "wger-371"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         },
         {
           "name": "Weighted plank",
@@ -292,13 +305,15 @@
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 580
+          "wgerId": 580,
+          "detailId": "wger-580"
         },
         {
           "name": "Bird dog",
           "scheme": "3 × 8 / side",
           "wgerId": 1572,
-          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png",
+          "detailId": "wger-1572"
         },
         {
           "name": "Back extensions with pause",
@@ -343,7 +358,8 @@
           "name": "Seated cable rows with pause",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         }
       ],
       "stretches": [
@@ -372,12 +388,14 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Box jumps",
           "scheme": "3 × 6",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Goblet squats",
@@ -418,23 +436,27 @@
           "name": "Bent-over barbell rows",
           "scheme": "4 × 6",
           "wgerId": 81,
-          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
+          "detailId": "wger-81"
         },
         {
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Hip thrusts",
           "scheme": "3 × 8",
-          "wgerId": 294
+          "wgerId": 294,
+          "detailId": "wger-294"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         }
       ],
       "stretches": [
@@ -514,7 +536,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Back extensions",
@@ -524,7 +547,8 @@
           "name": "Plank",
           "scheme": "3 × 60s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "wger-458"
         }
       ],
       "stretches": [
@@ -554,29 +578,34 @@
           "name": "Front squats",
           "scheme": "4 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+          "detailId": "wger-257"
         },
         {
           "name": "Seated cable rows",
           "scheme": "4 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 580
+          "wgerId": 580,
+          "detailId": "wger-580"
         }
       ],
       "stretches": [
@@ -604,12 +633,14 @@
         {
           "name": "Power cleans",
           "scheme": "5 × 3",
-          "wgerId": 683
+          "wgerId": 683,
+          "detailId": "wger-683"
         },
         {
           "name": "Jump squats",
           "scheme": "4 × 6",
-          "wgerId": 614
+          "wgerId": 614,
+          "detailId": "wger-614"
         },
         {
           "name": "Trap bar deadlifts",
@@ -622,7 +653,8 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         }
       ],
       "stretches": [
@@ -663,7 +695,8 @@
           "name": "Kettlebell swings",
           "scheme": "3 × 20",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
+          "detailId": "wger-960"
         },
         {
           "name": "Weighted plank",

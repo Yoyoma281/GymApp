@@ -17,7 +17,8 @@
         {
           "name": "Jump rope",
           "scheme": "4 × 60s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Pogo hops",
@@ -31,7 +32,8 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Lateral bounds",
@@ -107,7 +109,8 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Trap bar deadlifts",
@@ -163,12 +166,14 @@
         {
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
-          "wgerId": 1779
+          "wgerId": 1779,
+          "detailId": "wger-1779"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         }
       ],
       "stretches": [
@@ -201,7 +206,8 @@
           "name": "Seated cable rows",
           "scheme": "3 × 10",
           "wgerId": 1117,
-          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
+          "detailId": "wger-1117"
         },
         {
           "name": "Medicine ball shot-put toss (non-dominant)",
@@ -249,18 +255,21 @@
         {
           "name": "Single-arm lat pulldowns",
           "scheme": "3 × 10 / side",
-          "wgerId": 1972
+          "wgerId": 1972,
+          "detailId": "wger-1972"
         },
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -292,22 +301,26 @@
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
-          "wgerId": 222
+          "wgerId": 222,
+          "detailId": "wger-222"
         },
         {
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
-          "wgerId": 1779
+          "wgerId": 1779,
+          "detailId": "wger-1779"
         },
         {
           "name": "Dumbbell split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1366
+          "wgerId": 1366,
+          "detailId": "wger-1366"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 20",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         }
       ],
       "stretches": [
@@ -348,12 +361,14 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Barbell Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 1700
+          "wgerId": 1700,
+          "detailId": "wger-1700"
         }
       ],
       "stretches": [
@@ -382,7 +397,8 @@
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         },
         {
           "name": "Medicine ball rotational throws",
@@ -391,12 +407,14 @@
         {
           "name": "Jump squats",
           "scheme": "3 × 6",
-          "wgerId": 614
+          "wgerId": 614,
+          "detailId": "wger-614"
         },
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         },
         {
           "name": "Reactive lateral bounds",
@@ -436,7 +454,8 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Dumbbell wrist pronation/supination",
@@ -484,7 +503,8 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Hanging knee raises",
@@ -517,28 +537,33 @@
         {
           "name": "Cable chest press (standing)",
           "scheme": "3 × 10",
-          "wgerId": 1656
+          "wgerId": 1656,
+          "detailId": "wger-1656"
         },
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 20",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         }
       ],
       "stretches": [
@@ -579,12 +604,14 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         }
       ],
       "stretches": [
@@ -624,7 +651,8 @@
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         },
         {
           "name": "Split-stance Pallof press",
@@ -661,17 +689,20 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Wall sits",
           "scheme": "3 × 45s",
-          "wgerId": 1408
+          "wgerId": 1408,
+          "detailId": "wger-1408"
         },
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Lateral lunges",

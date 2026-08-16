@@ -209,6 +209,10 @@ async function generateDrills(client, sport) {
 
 // ── wger enrichment ─────────────────────────────────────────────
 
+const stripHtml = (html) =>
+  (html ?? '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+    .replace(/\s+/g, ' ').trim();
+
 async function fetchWgerCatalog() {
   if (fs.existsSync(WGER_CACHE)) {
     return JSON.parse(fs.readFileSync(WGER_CACHE, 'utf8'));
@@ -225,16 +229,85 @@ async function fetchWgerCatalog() {
     process.stdout.write(`  ${all.length}/${page.count}\r`);
   }
   console.log(`\n  fetched ${all.length} exercises`);
-  const slim = all.map((ex) => ({
-    id: ex.id,
-    names: (ex.translations ?? [])
-      .filter((t) => t.language === 2) // English
-      .flatMap((t) => [t.name, ...(t.aliases ?? []).map((a) => a.alias)])
-      .filter(Boolean),
-    image: ex.images?.find((i) => i.is_main)?.image ?? ex.images?.[0]?.image ?? null,
-  }));
+
+  // videos live on a separate endpoint, keyed by exercise id
+  const videoByExercise = new Map();
+  url = 'https://wger.de/api/v2/video/?limit=100&format=json';
+  while (url) {
+    const res = await fetch(url);
+    if (!res.ok) break;
+    const page = await res.json();
+    for (const v of page.results) {
+      if (!videoByExercise.has(v.exercise)) videoByExercise.set(v.exercise, v.video);
+    }
+    url = page.next;
+  }
+  console.log(`  fetched ${videoByExercise.size} exercise videos`);
+
+  const slim = all.map((ex) => {
+    const en = (ex.translations ?? []).filter((t) => t.language === 2);
+    return {
+      id: ex.id,
+      names: en.flatMap((t) => [t.name, ...(t.aliases ?? []).map((a) => a.alias)]).filter(Boolean),
+      image: ex.images?.find((i) => i.is_main)?.image ?? ex.images?.[0]?.image ?? null,
+      video: videoByExercise.get(ex.id) ?? null,
+      muscles: (ex.muscles ?? []).map((m) => m.name_en || m.name).filter(Boolean),
+      secondaryMuscles: (ex.muscles_secondary ?? []).map((m) => m.name_en || m.name).filter(Boolean),
+      description: stripHtml(en[0]?.description).slice(0, 500) || null,
+    };
+  });
   fs.writeFileSync(WGER_CACHE, JSON.stringify(slim));
   return slim;
+}
+
+// ── MuscleWiki enrichment (requires MUSCLEWIKI_API_KEY) ─────────
+//
+// api.musclewiki.com is a paid API: /exercises?search=<name> finds ids,
+// /exercises/{id} returns videos (per gender/angle), muscles, difficulty,
+// grips and step-by-step instructions. Responses are cached so the call
+// quota is only spent once per unique exercise name.
+
+const MW_CACHE = path.join(here, '.musclewiki-cache.json');
+const MW_BASE = 'https://api.musclewiki.com';
+
+async function mwGet(pathname, key) {
+  const res = await fetch(`${MW_BASE}${pathname}`, { headers: { 'X-API-Key': key } });
+  if (res.status === 429) throw new Error('MuscleWiki rate limit hit — re-run later, cache keeps progress');
+  if (!res.ok) throw new Error(`MuscleWiki ${pathname}: ${res.status}`);
+  return res.json();
+}
+
+async function fetchMuscleWikiDetails(uniqueNames, key) {
+  const cache = fs.existsSync(MW_CACHE) ? JSON.parse(fs.readFileSync(MW_CACHE, 'utf8')) : {};
+  let calls = 0;
+  for (const name of uniqueNames) {
+    if (name in cache) continue;
+    try {
+      const search = await mwGet(`/exercises?search=${encodeURIComponent(name)}&limit=1`, key);
+      calls += 1;
+      const hit = search.results?.[0];
+      if (!hit) { cache[name] = null; continue; }
+      const detail = await mwGet(`/exercises/${hit.id}`, key);
+      calls += 1;
+      cache[name] = {
+        id: detail.id,
+        name: detail.name,
+        videos: (detail.videos ?? []).map((v) => ({ url: v.url, gender: v.gender, angle: v.angle })),
+        muscles: detail.primary_muscles ?? [],
+        difficulty: detail.difficulty ?? null,
+        grips: detail.grips ?? [],
+        steps: detail.steps ?? [],
+      };
+    } catch (err) {
+      console.warn(`  musclewiki "${name}": ${err.message}`);
+      if (/rate limit/.test(err.message)) break;
+      cache[name] = null;
+    }
+    fs.writeFileSync(MW_CACHE, JSON.stringify(cache));
+  }
+  fs.writeFileSync(MW_CACHE, JSON.stringify(cache));
+  console.log(`  musclewiki: ${calls} API calls this run`);
+  return cache;
 }
 
 const normalize = (s) =>
@@ -268,19 +341,48 @@ function tokenMatch(index, name) {
   return bestScore >= 0.75 ? best : null;
 }
 
-function enrichSportFile(file, index) {
+function enrichSportFile(file, index, mwByName, details) {
   const activity = JSON.parse(fs.readFileSync(file, 'utf8'));
   let matched = 0;
   let total = 0;
   for (const drill of activity.drills) {
     for (const ex of drill.exercises) {
       total += 1;
+      delete ex.detailId;
+      const mw = mwByName?.[normalize(ex.name)] ?? null;
       const hit = tokenMatch(index, ex.name);
+      if (mw) {
+        ex.detailId = `mw-${mw.id}`;
+        const mainVideo = mw.videos.find((v) => v.gender === 'male' && v.angle === 'front') ?? mw.videos[0];
+        details[ex.detailId] = {
+          name: mw.name,
+          videoUrl: mainVideo?.url ?? null,
+          videos: mw.videos,
+          muscles: mw.muscles,
+          difficulty: mw.difficulty,
+          grips: mw.grips,
+          steps: mw.steps,
+          source: 'musclewiki',
+        };
+      }
       if (hit) {
         matched += 1;
         ex.wgerId = hit.id;
         if (hit.image) ex.imageUrl = hit.image;
+        if (!mw) {
+          ex.detailId = `wger-${hit.id}`;
+          details[ex.detailId] = {
+            name: hit.names[0] ?? ex.name,
+            imageUrl: hit.image,
+            videoUrl: hit.video,
+            muscles: hit.muscles,
+            secondaryMuscles: hit.secondaryMuscles,
+            description: hit.description,
+            source: 'wger',
+          };
+        }
       }
+      if (mw) matched += hit ? 0 : 1;
     }
   }
   fs.writeFileSync(file, JSON.stringify(activity, null, 2) + '\n');
@@ -290,7 +392,9 @@ function enrichSportFile(file, index) {
 // ── codegen ─────────────────────────────────────────────────────
 
 function codegen() {
-  const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.json') && f !== 'sports.json' && f !== 'search-index.json');
+  const files = fs
+    .readdirSync(GEN_DIR)
+    .filter((f) => f.endsWith('.json') && !['sports.json', 'search-index.json', 'exercise-details.json'].includes(f));
   const sportsMeta = fs.existsSync(SPORTS_FILE) ? JSON.parse(fs.readFileSync(SPORTS_FILE, 'utf8')) : [];
   const metaById = new Map(sportsMeta.map((s) => [s.id, s]));
 
@@ -358,17 +462,44 @@ async function main() {
     try {
       const catalog = await fetchWgerCatalog();
       const wgerIndex = buildWgerIndex(catalog);
-      const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.json') && f !== 'sports.json' && f !== 'search-index.json');
+      const files = fs
+        .readdirSync(GEN_DIR)
+        .filter((f) => f.endsWith('.json') && !['sports.json', 'search-index.json', 'exercise-details.json'].includes(f));
+
+      // Optional MuscleWiki pass — needs the paid API key
+      let mwByName = null;
+      if (process.env.MUSCLEWIKI_API_KEY) {
+        const uniqueNames = new Set();
+        for (const f of files) {
+          const a = JSON.parse(fs.readFileSync(path.join(GEN_DIR, f), 'utf8'));
+          for (const d of a.drills) for (const ex of d.exercises) uniqueNames.add(ex.name);
+        }
+        console.log(`MuscleWiki enrichment: ${uniqueNames.size} unique exercise names (≤2 API calls each, cached)`);
+        const cache = await fetchMuscleWikiDetails([...uniqueNames], process.env.MUSCLEWIKI_API_KEY);
+        mwByName = {};
+        for (const [name, entry] of Object.entries(cache)) {
+          if (entry) mwByName[normalize(name)] = entry;
+        }
+      } else {
+        console.log('MUSCLEWIKI_API_KEY not set — skipping MuscleWiki, using wger only');
+      }
+
+      const details = {};
       let matched = 0;
       let total = 0;
       for (const f of files) {
-        const r = enrichSportFile(path.join(GEN_DIR, f), wgerIndex);
+        const r = enrichSportFile(path.join(GEN_DIR, f), wgerIndex, mwByName, details);
         matched += r.matched;
         total += r.total;
       }
-      console.log(`wger enrichment: matched ${matched}/${total} exercises`);
+      fs.writeFileSync(
+        path.join(GEN_DIR, 'exercise-details.json'),
+        JSON.stringify(details, null, 2) + '\n',
+      );
+      const withVideo = Object.values(details).filter((d) => d.videoUrl).length;
+      console.log(`enrichment: matched ${matched}/${total} exercises, ${Object.keys(details).length} detail entries (${withVideo} with video)`);
     } catch (err) {
-      console.warn(`wger enrichment skipped: ${err.message}`);
+      console.warn(`enrichment skipped: ${err.message}`);
     }
   }
 

@@ -17,7 +17,8 @@
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         },
         {
           "name": "Barbell hip thrusts",
@@ -35,7 +36,8 @@
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -71,7 +73,8 @@
         {
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
-          "wgerId": 1779
+          "wgerId": 1779,
+          "detailId": "wger-1779"
         },
         {
           "name": "Barbell back squats",
@@ -159,7 +162,8 @@
           "name": "Single-arm dumbbell rows",
           "scheme": "3 × 10 / side",
           "wgerId": 1637,
-          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png",
+          "detailId": "wger-1637"
         },
         {
           "name": "Pallof press with hold",
@@ -168,7 +172,8 @@
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         }
       ],
       "stretches": [
@@ -197,12 +202,14 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         },
         {
           "name": "Dead bug",
@@ -211,7 +218,8 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Lateral sled drags",
@@ -286,7 +294,8 @@
         {
           "name": "Cable external rotations (90/90)",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Prone Y-T-W raises",
@@ -295,7 +304,8 @@
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 20",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         },
         {
           "name": "Rebounder rhythmic stabilizations",
@@ -341,12 +351,14 @@
           "name": "Kettlebell deadlifts",
           "scheme": "3 × 10",
           "wgerId": 1003,
-          "imageUrl": "https://wger.de/media/exercise-images/1003/772d6e47-3865-4944-9255-7435d0b06782.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1003/772d6e47-3865-4944-9255-7435d0b06782.png",
+          "detailId": "wger-1003"
         },
         {
           "name": "Wall sits",
           "scheme": "3 × 40s",
-          "wgerId": 1408
+          "wgerId": 1408,
+          "detailId": "wger-1408"
         },
         {
           "name": "Mini-band lateral walks",
@@ -378,7 +390,8 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407
+          "wgerId": 1407,
+          "detailId": "wger-1407"
         },
         {
           "name": "Lateral sled drags",
@@ -388,7 +401,8 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Copenhagen plank",
@@ -398,7 +412,8 @@
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
-          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+          "detailId": "wger-1194"
         }
       ],
       "stretches": [
@@ -442,7 +457,8 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         }
       ],
       "stretches": [
@@ -474,7 +490,8 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Medicine ball chest pass (accuracy target)",
@@ -487,7 +504,8 @@
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 20",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         }
       ],
       "stretches": [
@@ -515,7 +533,8 @@
         {
           "name": "Barbell Romanian deadlifts",
           "scheme": "4 × 6",
-          "wgerId": 1700
+          "wgerId": 1700,
+          "detailId": "wger-1700"
         },
         {
           "name": "Medicine ball scoop throws",
@@ -611,7 +630,8 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407
+          "wgerId": 1407,
+          "detailId": "wger-1407"
         },
         {
           "name": "Cable hip flexor march",
@@ -663,7 +683,8 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407
+          "wgerId": 1407,
+          "detailId": "wger-1407"
         }
       ],
       "stretches": [

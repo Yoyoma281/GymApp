@@ -18,18 +18,21 @@
           "name": "Dumbbell shoulder press",
           "scheme": "3 × 10",
           "wgerId": 567,
-          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
+          "detailId": "wger-567"
         },
         {
           "name": "Cable triceps pushdowns",
           "scheme": "3 × 12",
           "wgerId": 805,
-          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png",
+          "detailId": "wger-805"
         },
         {
           "name": "Wrist curls with dumbbell",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Goblet squats",
@@ -120,7 +123,8 @@
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         }
       ],
       "stretches": [
@@ -149,7 +153,8 @@
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Box jumps (single-leg takeoff)",
@@ -159,7 +164,8 @@
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Dumbbell step-ups",
@@ -196,12 +202,14 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Wrist curls with dumbbell",
           "scheme": "3 × 15",
-          "wgerId": 1205
+          "wgerId": 1205,
+          "detailId": "wger-1205"
         },
         {
           "name": "Single-leg balance with ball toss",
@@ -210,7 +218,8 @@
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
-          "wgerId": 173
+          "wgerId": 173,
+          "detailId": "wger-173"
         }
       ],
       "stretches": [
@@ -251,7 +260,8 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Standing cable woodchoppers",
@@ -283,7 +293,8 @@
         {
           "name": "Wrist curls & reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "Farmer's carries",
@@ -292,7 +303,8 @@
         {
           "name": "Plate pinch holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430
+          "wgerId": 1430,
+          "detailId": "wger-1430"
         },
         {
           "name": "Medicine ball slams",
@@ -331,7 +343,8 @@
         {
           "name": "Wrist curls & reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 48
+          "wgerId": 48,
+          "detailId": "wger-48"
         },
         {
           "name": "5-10-5 pro agility shuttles",
@@ -383,7 +396,8 @@
         {
           "name": "Jump rope (crossovers)",
           "scheme": "3 × 45s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         }
       ],
       "stretches": [
@@ -419,7 +433,8 @@
         {
           "name": "Wall sit",
           "scheme": "3 × 45s",
-          "wgerId": 1408
+          "wgerId": 1408,
+          "detailId": "wger-1408"
         },
         {
           "name": "Adductor machine",
@@ -549,7 +564,8 @@
         {
           "name": "Jump rope (side-to-side)",
           "scheme": "3 × 45s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         }
       ],
       "stretches": [
@@ -632,12 +648,14 @@
           "name": "Standing calf raises (heavy)",
           "scheme": "4 × 10",
           "wgerId": 622,
-          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+          "detailId": "wger-622"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         }
       ],
       "stretches": [

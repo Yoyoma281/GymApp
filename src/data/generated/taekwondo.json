@@ -17,7 +17,8 @@
         {
           "name": "Jump rope",
           "scheme": "4 × 2 min",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Pogo hops",
@@ -27,7 +28,8 @@
           "name": "Seated calf raises",
           "scheme": "3 × 15",
           "wgerId": 1620,
-          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
+          "detailId": "wger-1620"
         },
         {
           "name": "Single-leg balance on wobble board",
@@ -63,7 +65,8 @@
         {
           "name": "Jump rope double unders",
           "scheme": "4 × 30s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "wger-993"
         },
         {
           "name": "Split squat jumps",
@@ -104,7 +107,8 @@
           "name": "Leg extensions",
           "scheme": "3 × 12",
           "wgerId": 369,
-          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
+          "detailId": "wger-369"
         },
         {
           "name": "Standing cable hip flexions",
@@ -141,7 +145,8 @@
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "wger-988"
         },
         {
           "name": "Cable hip abductions",
@@ -154,7 +159,8 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
-          "wgerId": 1021
+          "wgerId": 1021,
+          "detailId": "wger-1021"
         },
         {
           "name": "Copenhagen plank",
@@ -191,7 +197,8 @@
         {
           "name": "Single-leg leg press",
           "scheme": "3 × 10 / leg",
-          "wgerId": 1515
+          "wgerId": 1515,
+          "detailId": "wger-1515"
         },
         {
           "name": "Side plank with top-leg raise",
@@ -231,7 +238,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Cable straight-leg kickbacks",
@@ -240,12 +248,14 @@
         {
           "name": "Hanging straight-leg raises",
           "scheme": "3 × 10",
-          "wgerId": 283
+          "wgerId": 283,
+          "detailId": "wger-283"
         },
         {
           "name": "Glute ham raises",
           "scheme": "3 × 8",
-          "wgerId": 2478
+          "wgerId": 2478,
+          "detailId": "wger-2478"
         },
         {
           "name": "Standing cable hip flexions",
@@ -278,18 +288,21 @@
         {
           "name": "Sled push",
           "scheme": "4 × 20 m",
-          "wgerId": 1523
+          "wgerId": 1523,
+          "detailId": "wger-1523"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "detailId": "wger-371"
         },
         {
           "name": "Single-leg glute bridges",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1740
+          "wgerId": 1740,
+          "detailId": "wger-1740"
         },
         {
           "name": "Standing cable hip flexions",
@@ -325,7 +338,8 @@
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
-          "wgerId": 507
+          "wgerId": 507,
+          "detailId": "wger-507"
         },
         {
           "name": "Cable glute kickbacks",
@@ -377,7 +391,8 @@
         {
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
-          "wgerId": 1779
+          "wgerId": 1779,
+          "detailId": "wger-1779"
         },
         {
           "name": "Single-leg balance with head turns",
@@ -410,7 +425,8 @@
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
-          "wgerId": 1373
+          "wgerId": 1373,
+          "detailId": "wger-1373"
         },
         {
           "name": "Split squat jumps",
@@ -463,7 +479,8 @@
         {
           "name": "Hanging toes-to-bar",
           "scheme": "3 × 8",
-          "wgerId": 1529
+          "wgerId": 1529,
+          "detailId": "wger-1529"
         },
         {
           "name": "Weighted broad jumps",
@@ -500,7 +517,8 @@
         {
           "name": "Landmine press",
           "scheme": "3 × 8 / side",
-          "wgerId": 346
+          "wgerId": 346,
+          "detailId": "wger-346"
         },
         {
           "name": "Medicine ball chest throws",
@@ -510,7 +528,8 @@
           "name": "Push-ups",
           "scheme": "3 × 15",
           "wgerId": 1551,
-          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
+          "detailId": "wger-1551"
         },
         {
           "name": "Cable rows",
@@ -542,18 +561,21 @@
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 142
+          "wgerId": 142,
+          "detailId": "wger-142"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
-          "wgerId": 1380
+          "wgerId": 1380,
+          "detailId": "wger-1380"
         },
         {
           "name": "Single-arm dumbbell rows",
           "scheme": "3 × 10 / side",
           "wgerId": 1637,
-          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png",
+          "detailId": "wger-1637"
         },
         {
           "name": "Goblet squat with pause",
@@ -586,7 +608,8 @@
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+          "detailId": "wger-206"
         },
         {
           "name": "Goblet squat with pause",
@@ -596,7 +619,8 @@
           "name": "Plank shoulder taps",
           "scheme": "3 × 20",
           "wgerId": 1091,
-          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg",
+          "detailId": "wger-1091"
         },
         {
           "name": "Kettlebell halos",
@@ -683,7 +707,8 @@
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
-          "wgerId": 1388
+          "wgerId": 1388,
+          "detailId": "wger-1388"
         }
       ],
       "stretches": [

@@ -49,7 +49,17 @@ npm run generate -- --only karate,boxing                 # limit to specific spo
 npm run generate -- --codegen-only                       # re-run wger matching + codegen only (no key)
 ```
 
-The script generates the sport list, then ≥15 drills per sport organized into technique groups (e.g. Karate → Kicks / Punches / Stances), matches each gym exercise against the free [wger.de](https://wger.de) database to attach exercise images, and regenerates the index + search files. Existing `<sport-id>.json` files are skipped, so runs are resumable — delete a file to regenerate that sport.
+The script generates the sport list, then ≥15 drills per sport organized into technique groups (e.g. Karate → Kicks / Punches / Stances), matches each gym exercise against the free [wger.de](https://wger.de) database to attach exercise images/videos/muscle data, and regenerates the index + search + `exercise-details.json` files. Existing `<sport-id>.json` files are skipped, so runs are resumable — delete a file to regenerate that sport.
+
+### MuscleWiki (optional, paid)
+
+If you have a [MuscleWiki API](https://api.musclewiki.com) key (paid plans only — the free tier is playground-only), exercise enrichment upgrades to MuscleWiki's 1,900+ exercise database with per-angle demo videos, difficulty, grips, and step-by-step instructions:
+
+```bash
+MUSCLEWIKI_API_KEY=... npm run generate -- --codegen-only
+```
+
+MuscleWiki entries take priority over wger; responses are cached in `scripts/.musclewiki-cache.json` so the call quota (~2 calls per unique exercise name, ~1,100 unique names) is only spent once. In the app, tapping an exercise card expands it to show the demo video (or image), muscles, and instructions.
 
 ## Roadmap ideas
 
