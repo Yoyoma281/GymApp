@@ -1,0 +1,177 @@
+{
+  "id": "karate",
+  "name": "Karate",
+  "emoji": "🥋",
+  "tag": "KA",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "mawashi-geri",
+      "group": "Kicks",
+      "name": "Mawashi-geri",
+      "alt": "Roundhouse kick",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Core",
+      "desc": "A rotational kick striking with the instep or ball of the foot. Power comes from pivoting the support foot and whipping the hip over — not from the leg alone. Chamber high, rotate, snap, retract.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Lying figure-4",
+        "Standing quad stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Support foot doesn’t pivot — kills hip rotation and strains the knee.",
+        "Dropping the guard hand on the kicking side.",
+        "Striking with the toes instead of instep or ball of foot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mawashi+geri+tutorial"
+    },
+    {
+      "id": "mae-geri",
+      "group": "Kicks",
+      "name": "Mae-geri",
+      "alt": "Front snap kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads",
+      "desc": "A linear snap kick driven by a fast knee lift and extension, striking with the ball of the foot. Speed of the chamber decides the power.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Ankle dorsiflexion raises",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Leaning back excessively instead of driving hips forward.",
+        "Slow retraction — leaves the leg exposed to catches."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mae+geri+tutorial"
+    },
+    {
+      "id": "gyaku-zuki",
+      "group": "Punches",
+      "name": "Gyaku-zuki",
+      "alt": "Reverse punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "The rear-hand straight punch. Force chains from the rear foot through hip rotation into the fist; the arm is the last link, not the engine.",
+      "exercises": [
+        {
+          "name": "Landmine rotational press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Medicine ball chest throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Thread the needle",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Punching with the arm only — no hip drive.",
+        "Overextending and losing the returning hand (hikite)."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=gyaku+zuki+tutorial"
+    },
+    {
+      "id": "kiba-dachi",
+      "group": "Stances & footwork",
+      "name": "Kiba-dachi hold",
+      "alt": "Horse stance endurance",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Adductors",
+      "desc": "A static wide stance held with thighs near parallel. Builds the leg endurance and rooted posture every karate technique sits on.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Butterfly stretch",
+        "Frog stretch"
+      ],
+      "mistakes": [
+        "Knees caving inward under fatigue.",
+        "Leaning the torso forward instead of sitting down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kiba+dachi+horse+stance"
+    }
+  ]
+}

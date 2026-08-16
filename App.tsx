@@ -6,7 +6,7 @@ import HomeScreen from './src/screens/HomeScreen';
 import DrillListScreen from './src/screens/DrillListScreen';
 import DrillDetailScreen from './src/screens/DrillDetailScreen';
 import { RootStackParamList } from './src/navigation';
-import { activities } from './src/data/activities';
+import { loadSport, sportIndex } from './src/data/activities';
 import { colors } from './src/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -39,14 +39,14 @@ export default function App() {
           name="DrillList"
           component={DrillListScreen}
           options={({ route }) => ({
-            title: activities.find((a) => a.id === route.params.activityId)?.name ?? 'Drills',
+            title: sportIndex.find((s) => s.id === route.params.activityId)?.name ?? 'Drills',
           })}
         />
         <Stack.Screen
           name="DrillDetail"
           component={DrillDetailScreen}
           options={({ route }) => {
-            const activity = activities.find((a) => a.id === route.params.activityId);
+            const activity = loadSport(route.params.activityId);
             const drill = activity?.drills.find((d) => d.id === route.params.drillId);
             return { title: drill?.name ?? 'Drill' };
           }}

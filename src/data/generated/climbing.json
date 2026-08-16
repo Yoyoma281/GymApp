@@ -1,0 +1,87 @@
+{
+  "id": "climbing",
+  "name": "Climbing",
+  "emoji": "🧗",
+  "tag": "CL",
+  "category": "Outdoor & adventure",
+  "drills": [
+    {
+      "id": "hangboard-repeaters",
+      "group": "Finger strength",
+      "name": "Hangboard repeaters",
+      "alt": "7:3 protocol",
+      "level": "Intermediate",
+      "muscles": "Forearms · Fingers",
+      "desc": "Seven seconds hanging, three seconds rest, repeated. The standard protocol for finger strength — done fresh, never after a full session.",
+      "exercises": [
+        {
+          "name": "Weighted pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Scapular pulls",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Full crimping on the board — use half crimp or open hand.",
+        "Shrugged, disengaged shoulders while hanging."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hangboard+repeaters+7+3"
+    },
+    {
+      "id": "silent-feet",
+      "group": "Footwork",
+      "name": "Silent feet",
+      "alt": "Footwork drill",
+      "level": "Beginner",
+      "muscles": "Calves · Core",
+      "desc": "Climb easy routes placing every foot silently and precisely. Forces deliberate hip positioning and weight transfer.",
+      "exercises": [
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12",
+          "wgerId": 1021
+        },
+        {
+          "name": "Pistol squat progressions",
+          "scheme": "3 × 5 / leg"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Hip airplanes",
+          "scheme": "3 × 6 / side",
+          "wgerId": 2447
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Pigeon pose",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Watching hands instead of feet.",
+        "Stabbing at footholds instead of placing them."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=silent+feet+climbing+drill"
+    }
+  ]
+}

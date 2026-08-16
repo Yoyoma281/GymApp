@@ -1,0 +1,8 @@
+[
+  { "id": "karate", "name": "Karate", "emoji": "🥋", "tag": "KA", "category": "Striking arts" },
+  { "id": "boxing", "name": "Boxing", "emoji": "🥊", "tag": "BX", "category": "Striking arts" },
+  { "id": "muay-thai", "name": "Muay Thai", "emoji": "🦵", "tag": "MT", "category": "Striking arts" },
+  { "id": "bjj", "name": "BJJ / Grappling", "emoji": "🤼", "tag": "JJ", "category": "Grappling arts" },
+  { "id": "running", "name": "Running", "emoji": "🏃", "tag": "RN", "category": "Endurance" },
+  { "id": "climbing", "name": "Climbing", "emoji": "🧗", "tag": "CL", "category": "Outdoor & adventure" }
+]

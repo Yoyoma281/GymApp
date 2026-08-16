@@ -1,42 +1,62 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { activities } from '../data/activities';
+import { Drill, loadSport } from '../data/activities';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DrillList'>;
 
 export default function DrillListScreen({ navigation, route }: Props) {
-  const activity = activities.find((a) => a.id === route.params.activityId);
+  const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
+
+  const groups = useMemo(() => {
+    if (!activity) return [];
+    const order: string[] = [];
+    const byGroup = new Map<string, Drill[]>();
+    for (const drill of activity.drills) {
+      if (!byGroup.has(drill.group)) {
+        byGroup.set(drill.group, []);
+        order.push(drill.group);
+      }
+      byGroup.get(drill.group)!.push(drill);
+    }
+    return order.map((name) => ({ name, drills: byGroup.get(name)! }));
+  }, [activity]);
+
   if (!activity) return null;
 
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
       <Text style={styles.title}>{activity.name}</Text>
       <Text style={styles.subtitle}>Pick the technique you're drilling this week.</Text>
-      <View style={styles.list}>
-        {activity.drills.map((drill) => (
-          <Pressable
-            key={drill.id}
-            style={styles.card}
-            onPress={() =>
-              navigation.navigate('DrillDetail', {
-                activityId: activity.id,
-                drillId: drill.id,
-              })
-            }
-          >
-            <View style={styles.cardText}>
-              <Text style={styles.drillName}>{drill.name}</Text>
-              <Text style={styles.drillAlt}>{drill.alt}</Text>
-            </View>
-            <View style={styles.levelPill}>
-              <Text style={styles.levelText}>{drill.level.toUpperCase()}</Text>
-            </View>
-          </Pressable>
-        ))}
-      </View>
+      {groups.map((group) => (
+        <View key={group.name}>
+          <Text style={styles.groupTitle}>{group.name}</Text>
+          <View style={styles.list}>
+            {group.drills.map((drill) => (
+              <Pressable
+                key={drill.id}
+                style={styles.card}
+                onPress={() =>
+                  navigation.navigate('DrillDetail', {
+                    activityId: activity.id,
+                    drillId: drill.id,
+                  })
+                }
+              >
+                <View style={styles.cardText}>
+                  <Text style={styles.drillName}>{drill.name}</Text>
+                  <Text style={styles.drillAlt}>{drill.alt}</Text>
+                </View>
+                <View style={styles.levelPill}>
+                  <Text style={styles.levelText}>{drill.level.toUpperCase()}</Text>
+                </View>
+              </Pressable>
+            ))}
+          </View>
+        </View>
+      ))}
     </ScrollView>
   );
 }
@@ -51,7 +71,16 @@ const styles = StyleSheet.create({
     color: colors.text,
   },
   subtitle: { marginTop: 4, fontSize: 14, color: colors.secondary },
-  list: { marginTop: 20, gap: 10 },
+  groupTitle: {
+    marginTop: 24,
+    marginBottom: 10,
+    fontSize: 13,
+    fontWeight: '700',
+    letterSpacing: 1,
+    textTransform: 'uppercase',
+    color: colors.accent,
+  },
+  list: { gap: 10 },
   card: {
     backgroundColor: colors.card,
     borderWidth: 1,

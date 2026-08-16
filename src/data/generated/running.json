@@ -1,0 +1,87 @@
+{
+  "id": "running",
+  "name": "Running",
+  "emoji": "🏃",
+  "tag": "RN",
+  "category": "Endurance",
+  "drills": [
+    {
+      "id": "stride-outs",
+      "group": "Speed work",
+      "name": "Stride-outs",
+      "alt": "80m accelerations",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Calves",
+      "desc": "Relaxed accelerations to ~90% top speed, focusing on tall posture and quick turnover. Teaches fast mechanics without sprint strain.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Calf raises",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "A-skips",
+          "scheme": "3 × 20m"
+        },
+        {
+          "name": "Hamstring curls",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Calf wall stretch",
+        "Hip flexor lunge"
+      ],
+      "mistakes": [
+        "Overstriding — foot lands ahead of the hips.",
+        "Straining at 100% instead of staying relaxed at 90%."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=running+strides+workout"
+    },
+    {
+      "id": "hill-repeats",
+      "group": "Strength",
+      "name": "Hill repeats",
+      "alt": "Strength endurance",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Calves",
+      "desc": "Short uphill efforts with walk-down recovery. Builds leg power and running economy with less impact than flat sprinting.",
+      "exercises": [
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Split squats",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Downward dog",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Looking down at the feet instead of ahead.",
+        "Sprinting the first rep and dying on the rest."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hill+repeats+running"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 import React, { useMemo, useState } from 'react';
 import {
-  FlatList,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -9,7 +8,7 @@ import {
   View,
 } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { activities } from '../data/activities';
+import { searchIndex, sportIndex, SportMeta } from '../data/activities';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -23,37 +22,73 @@ interface SearchResult {
   drillId?: string;
 }
 
+const CATEGORY_ORDER = [
+  'Striking arts',
+  'Grappling arts',
+  'Weapon & traditional arts',
+  'Endurance',
+  'Strength & fitness',
+  'Ball & team sports',
+  'Outdoor & adventure',
+];
+
 export default function HomeScreen({ navigation }: Props) {
   const [query, setQuery] = useState('');
+  const [activeCategory, setActiveCategory] = useState<string | null>(null);
   const needle = query.trim().toLowerCase();
+
+  const sportById = useMemo(() => {
+    const map = new Map<string, SportMeta>();
+    for (const s of sportIndex) map.set(s.id, s);
+    return map;
+  }, []);
+
+  const categories = useMemo(() => {
+    const present = new Set(sportIndex.map((s) => s.category));
+    const ordered = CATEGORY_ORDER.filter((c) => present.has(c));
+    for (const c of present) if (!ordered.includes(c)) ordered.push(c);
+    return ordered;
+  }, []);
+
+  const sections = useMemo(
+    () =>
+      categories
+        .filter((c) => !activeCategory || c === activeCategory)
+        .map((category) => ({
+          category,
+          sports: sportIndex.filter((s) => s.category === category),
+        })),
+    [categories, activeCategory],
+  );
 
   const results = useMemo<SearchResult[]>(() => {
     if (!needle) return [];
     const out: SearchResult[] = [];
-    for (const a of activities) {
-      if (a.name.toLowerCase().includes(needle)) {
+    for (const s of sportIndex) {
+      if (s.name.toLowerCase().includes(needle)) {
         out.push({
-          key: a.id,
-          title: a.name,
-          sub: `${a.drills.length} drills`,
-          activityId: a.id,
+          key: s.id,
+          title: s.name,
+          sub: `${s.drillCount} drills · ${s.category}`,
+          activityId: s.id,
         });
       }
-      for (const d of a.drills) {
-        const hay = `${d.name} ${d.alt} ${d.muscles}`.toLowerCase();
-        if (hay.includes(needle)) {
-          out.push({
-            key: `${a.id}-${d.id}`,
-            title: d.name,
-            sub: `${a.name} · ${d.alt}`,
-            activityId: a.id,
-            drillId: d.id,
-          });
-        }
+    }
+    for (const row of searchIndex) {
+      const hay = `${row.name} ${row.alt} ${row.muscles}`.toLowerCase();
+      if (hay.includes(needle)) {
+        const sport = sportById.get(row.sportId);
+        out.push({
+          key: `${row.sportId}-${row.drillId}`,
+          title: row.name,
+          sub: `${sport?.name ?? row.sportId} · ${row.alt}`,
+          activityId: row.sportId,
+          drillId: row.drillId,
+        });
       }
     }
-    return out.slice(0, 8);
-  }, [needle]);
+    return out.slice(0, 10);
+  }, [needle, sportById]);
 
   const openResult = (r: SearchResult) => {
     setQuery('');
@@ -65,7 +100,7 @@ export default function HomeScreen({ navigation }: Props) {
   };
 
   return (
-    <ScrollView style={styles.root} contentContainerStyle={styles.content}>
+    <ScrollView style={styles.root} contentContainerStyle={styles.content} stickyHeaderIndices={[]}>
       <Text style={styles.kicker}>TRAIN FOR YOUR SPORT</Text>
       <Text style={styles.title}>What are you working on?</Text>
       <Text style={styles.subtitle}>
@@ -100,26 +135,53 @@ export default function HomeScreen({ navigation }: Props) {
       )}
 
       {!needle && (
-        <FlatList
-          scrollEnabled={false}
-          data={activities}
-          keyExtractor={(a) => a.id}
-          numColumns={2}
-          columnWrapperStyle={styles.gridRow}
-          contentContainerStyle={styles.grid}
-          renderItem={({ item }) => (
+        <>
+          <ScrollView
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            style={styles.chipRow}
+            contentContainerStyle={styles.chipRowContent}
+          >
             <Pressable
-              style={styles.activityCard}
-              onPress={() => navigation.navigate('DrillList', { activityId: item.id })}
+              style={[styles.chip, !activeCategory && styles.chipActive]}
+              onPress={() => setActiveCategory(null)}
             >
-              <View style={styles.activityBadge}>
-                <Text style={styles.activityEmoji}>{item.emoji}</Text>
-              </View>
-              <Text style={styles.activityName}>{item.name}</Text>
-              <Text style={styles.activityCount}>{item.drills.length} drills</Text>
+              <Text style={[styles.chipText, !activeCategory && styles.chipTextActive]}>All</Text>
             </Pressable>
-          )}
-        />
+            {categories.map((c) => (
+              <Pressable
+                key={c}
+                style={[styles.chip, activeCategory === c && styles.chipActive]}
+                onPress={() => setActiveCategory(activeCategory === c ? null : c)}
+              >
+                <Text style={[styles.chipText, activeCategory === c && styles.chipTextActive]}>
+                  {c}
+                </Text>
+              </Pressable>
+            ))}
+          </ScrollView>
+
+          {sections.map((section) => (
+            <View key={section.category}>
+              <Text style={styles.sectionTitle}>{section.category}</Text>
+              <View style={styles.grid}>
+                {section.sports.map((sport) => (
+                  <Pressable
+                    key={sport.id}
+                    style={styles.activityCard}
+                    onPress={() => navigation.navigate('DrillList', { activityId: sport.id })}
+                  >
+                    <View style={styles.activityBadge}>
+                      <Text style={styles.activityEmoji}>{sport.emoji}</Text>
+                    </View>
+                    <Text style={styles.activityName}>{sport.name}</Text>
+                    <Text style={styles.activityCount}>{sport.drillCount} drills</Text>
+                  </Pressable>
+                ))}
+              </View>
+            </View>
+          ))}
+        </>
       )}
     </ScrollView>
   );
@@ -172,16 +234,40 @@ const styles = StyleSheet.create({
   resultTitle: { fontWeight: '700', fontSize: 15, color: colors.text },
   resultSub: { fontSize: 12.5, color: colors.muted, marginTop: 1 },
   resultArrow: { color: colors.muted, fontSize: 14 },
-  grid: { marginTop: 20 },
-  gridRow: { gap: 12 },
+  chipRow: { marginTop: 16, marginHorizontal: -20 },
+  chipRowContent: { paddingHorizontal: 20, gap: 8 },
+  chip: {
+    borderRadius: 999,
+    paddingHorizontal: 14,
+    paddingVertical: 7,
+    backgroundColor: colors.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+  },
+  chipActive: { backgroundColor: colors.accent, borderColor: colors.accent },
+  chipText: { fontSize: 13, fontWeight: '600', color: colors.secondary },
+  chipTextActive: { color: '#fff' },
+  sectionTitle: {
+    marginTop: 22,
+    marginBottom: 10,
+    fontSize: 18,
+    fontWeight: '700',
+    letterSpacing: -0.2,
+    color: colors.text,
+  },
+  grid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
+  },
   activityCard: {
-    flex: 1,
+    flexBasis: '47%',
+    flexGrow: 1,
     backgroundColor: colors.card,
     borderWidth: 1,
     borderColor: colors.border,
     borderRadius: 16,
     padding: 16,
-    marginBottom: 12,
     gap: 10,
   },
   activityBadge: {

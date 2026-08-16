@@ -1,0 +1,90 @@
+{
+  "id": "muay-thai",
+  "name": "Muay Thai",
+  "emoji": "🦵",
+  "tag": "MT",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "teep",
+      "group": "Kicks",
+      "name": "Teep",
+      "alt": "Push kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Core",
+      "desc": "The long-range push kick used to control distance. Lift the knee high, thrust the hips forward and stab through the target with the ball of the foot.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Single-leg RDL",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Pawing with the leg instead of driving the hips.",
+        "Telegraphing by leaning back before the lift."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+teep+tutorial"
+    },
+    {
+      "id": "low-kick",
+      "group": "Kicks",
+      "name": "Roundhouse (low kick)",
+      "alt": "Te kha",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hips · Shins",
+      "desc": "A swinging kick landing with the shin. The whole body turns through the target like swinging a bat — pivot fully and let the arm swing for torque.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Pigeon pose",
+        "90/90 hip switch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Kicking with the foot instead of the lower shin.",
+        "Stopping rotation at contact instead of swinging through."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+low+kick+tutorial"
+    }
+  ]
+}

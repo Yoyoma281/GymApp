@@ -1,14 +1,14 @@
-import React from 'react';
-import { Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import React, { useMemo } from 'react';
+import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { activities } from '../data/activities';
+import { loadSport } from '../data/activities';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DrillDetail'>;
 
 export default function DrillDetailScreen({ route }: Props) {
-  const activity = activities.find((a) => a.id === route.params.activityId);
+  const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
   const drill = activity?.drills.find((d) => d.id === route.params.drillId);
   if (!activity || !drill) return null;
 
@@ -34,6 +34,9 @@ export default function DrillDetailScreen({ route }: Props) {
           <Text style={styles.pillAccentText}>{drill.level.toUpperCase()}</Text>
         </View>
         <View style={[styles.pill, styles.pillMuted]}>
+          <Text style={styles.pillMutedText}>{drill.group.toUpperCase()}</Text>
+        </View>
+        <View style={[styles.pill, styles.pillMuted]}>
           <Text style={styles.pillMutedText}>{drill.muscles.toUpperCase()}</Text>
         </View>
       </View>
@@ -44,6 +47,13 @@ export default function DrillDetailScreen({ route }: Props) {
       <View style={styles.exerciseList}>
         {drill.exercises.map((e) => (
           <View key={e.name} style={styles.exerciseCard}>
+            {e.imageUrl ? (
+              <Image source={{ uri: e.imageUrl }} style={styles.exerciseImage} />
+            ) : (
+              <View style={[styles.exerciseImage, styles.exerciseImagePlaceholder]}>
+                <Text style={styles.exerciseImageEmoji}>🏋️</Text>
+              </View>
+            )}
             <Text style={styles.exerciseName}>{e.name}</Text>
             <Text style={styles.exerciseScheme}>{e.scheme}</Text>
           </View>
@@ -53,8 +63,8 @@ export default function DrillDetailScreen({ route }: Props) {
       <Text style={styles.sectionTitle}>Stretches</Text>
       <View style={styles.stretchWrap}>
         {drill.stretches.map((s) => (
-          <View key={s.name} style={styles.stretchChip}>
-            <Text style={styles.stretchText}>{s.name}</Text>
+          <View key={s} style={styles.stretchChip}>
+            <Text style={styles.stretchText}>{s}</Text>
           </View>
         ))}
       </View>
@@ -134,14 +144,21 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: colors.border,
     borderRadius: 12,
-    paddingHorizontal: 14,
-    paddingVertical: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'space-between',
     gap: 12,
   },
-  exerciseName: { fontWeight: '600', fontSize: 15, color: colors.text, flexShrink: 1 },
+  exerciseImage: {
+    width: 48,
+    height: 48,
+    borderRadius: 8,
+    backgroundColor: colors.accentSoft,
+  },
+  exerciseImagePlaceholder: { alignItems: 'center', justifyContent: 'center' },
+  exerciseImageEmoji: { fontSize: 20 },
+  exerciseName: { flex: 1, fontWeight: '600', fontSize: 15, color: colors.text },
   exerciseScheme: { fontSize: 13, fontWeight: '700', color: colors.accent },
   stretchWrap: { marginTop: 10, flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
   stretchChip: {

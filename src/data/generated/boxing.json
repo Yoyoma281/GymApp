@@ -1,0 +1,126 @@
+{
+  "id": "boxing",
+  "name": "Boxing",
+  "emoji": "🥊",
+  "tag": "BX",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "cross",
+      "group": "Punches",
+      "name": "Cross",
+      "alt": "Rear straight punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Calves",
+      "desc": "The rear-hand power straight. Push off the rear foot, rotate hip and shoulder together, and land with the knuckles turned over.",
+      "exercises": [
+        {
+          "name": "Landmine punch press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Rotational med-ball slams",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Plyo push-ups",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Lat stretch on rack",
+        "Neck side flexion"
+      ],
+      "mistakes": [
+        "Rear heel stays planted — hip can’t rotate through.",
+        "Dropping the lead hand while punching."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+cross+technique"
+    },
+    {
+      "id": "slip-roll",
+      "group": "Defense",
+      "name": "Slip & roll",
+      "alt": "Head movement drill",
+      "level": "Intermediate",
+      "muscles": "Core · Legs · Neck",
+      "desc": "Rhythmic defensive movement: slipping outside punches and rolling under hooks. Legs and obliques do the work; eyes stay on the target.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Side planks",
+          "scheme": "3 × 40s",
+          "wgerId": 580
+        },
+        {
+          "name": "Band rotations",
+          "scheme": "3 × 15 / side"
+        },
+        {
+          "name": "Neck curls",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Standing side bend",
+        "Cat-cow",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Bending at the waist instead of the knees.",
+        "Taking eyes off the opponent during the roll."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+slip+and+roll+drill"
+    },
+    {
+      "id": "heavy-bag",
+      "group": "Conditioning",
+      "name": "Heavy bag rounds",
+      "alt": "Conditioning drill",
+      "level": "Beginner",
+      "muscles": "Full body",
+      "desc": "Timed rounds of continuous output on the bag. Builds punch endurance, breathing rhythm and the habit of staying busy while tired.",
+      "exercises": [
+        {
+          "name": "Assault bike intervals",
+          "scheme": "8 × 20s"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Burpees",
+          "scheme": "3 × 12",
+          "wgerId": 132
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Child’s pose",
+        "Shoulder cross-body stretch",
+        "Forearm stretch"
+      ],
+      "mistakes": [
+        "Pushing the bag instead of snapping punches.",
+        "Holding breath — exhale on every shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=heavy+bag+workout+rounds"
+    }
+  ]
+}

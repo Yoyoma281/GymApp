@@ -1,0 +1,85 @@
+{
+  "id": "bjj",
+  "name": "BJJ / Grappling",
+  "emoji": "🤼",
+  "tag": "JJ",
+  "category": "Grappling arts",
+  "drills": [
+    {
+      "id": "shrimping",
+      "group": "Movement fundamentals",
+      "name": "Shrimping",
+      "alt": "Hip escape",
+      "level": "Beginner",
+      "muscles": "Core · Hips",
+      "desc": "The fundamental escape movement: bridge, turn to the side and drive the hips away. Every guard retention chain starts here.",
+      "exercises": [
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 20m"
+        },
+        {
+          "name": "V-ups",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Happy baby",
+        "Spinal twist",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Pushing with arms instead of driving off the foot.",
+        "Flat hips — no bridge before the escape."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+shrimping+drill"
+    },
+    {
+      "id": "takedown-entries",
+      "group": "Takedowns",
+      "name": "Takedown entries",
+      "alt": "Level change & penetration step",
+      "level": "Intermediate",
+      "muscles": "Legs · Back",
+      "desc": "Dropping levels and stepping deep between the opponent’s feet. A fast, low, postured entry decides the whole takedown.",
+      "exercises": [
+        {
+          "name": "Trap-bar deadlifts",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Zercher carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Deep squat hold",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Bending at the waist instead of the knees on the level change.",
+        "Short penetration step — head ends up too far away."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+takedown+entries"
+    }
+  ]
+}

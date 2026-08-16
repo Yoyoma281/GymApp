@@ -23,22 +23,36 @@ Then scan the QR code with the [Expo Go](https://expo.dev/go) app on your phone,
 
 ```
 App.tsx                          # navigation (Home → DrillList → DrillDetail)
+scripts/generate-content.mjs     # Claude-powered content generator + wger enrichment
 src/
   theme.ts                       # color palette
   navigation.ts                  # typed route params
-  data/activities.ts             # sports, drills, exercises, stretches, mistakes
+  data/activities.ts             # types + loader over the generated catalog
+  data/generated/                # committed, generated content
+    sports.json                  # sport list (id, name, emoji, tag, category)
+    <sport-id>.json              # drills for one sport, grouped by technique
+    search-index.json            # lightweight rows for global search
+    index.ts                     # codegen'd metadata + static require map
   screens/
-    HomeScreen.tsx               # sport grid + search
-    DrillListScreen.tsx          # drills for the chosen sport
-    DrillDetailScreen.tsx        # description, video, gym work, stretches
+    HomeScreen.tsx               # category sections + chips + search
+    DrillListScreen.tsx          # drills grouped by technique (Kicks, Punches…)
+    DrillDetailScreen.tsx        # description, video, gym work (with images), stretches
 ```
 
-## Adding content
+## Content generation
 
-All content lives in `src/data/activities.ts`. Add a new sport or drill by following the existing shape — no other code changes needed. Search on the home screen automatically picks up new entries.
+Content is pre-generated with the Claude API (`claude-opus-5`) and committed — the app ships fully offline with no API key.
+
+```bash
+ANTHROPIC_API_KEY=sk-ant-... npm run generate            # full run (~40 sports, 15+ drills each)
+npm run generate -- --only karate,boxing                 # limit to specific sports
+npm run generate -- --codegen-only                       # re-run wger matching + codegen only (no key)
+```
+
+The script generates the sport list, then ≥15 drills per sport organized into technique groups (e.g. Karate → Kicks / Punches / Stances), matches each gym exercise against the free [wger.de](https://wger.de) database to attach exercise images, and regenerates the index + search files. Existing `<sport-id>.json` files are skipped, so runs are resumable — delete a file to regenerate that sport.
 
 ## Roadmap ideas
 
-- Exercise videos/GIFs via the [MuscleWiki API](https://musclewiki.com) (requires an API key)
 - Favorites & weekly plan builder
 - Progress tracking per drill
+- Embedded technique videos instead of link-outs

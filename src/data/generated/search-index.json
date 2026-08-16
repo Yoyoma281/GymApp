@@ -1,0 +1,107 @@
+[
+  {
+    "sportId": "bjj",
+    "drillId": "shrimping",
+    "name": "Shrimping",
+    "alt": "Hip escape",
+    "muscles": "Core · Hips"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "takedown-entries",
+    "name": "Takedown entries",
+    "alt": "Level change & penetration step",
+    "muscles": "Legs · Back"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "cross",
+    "name": "Cross",
+    "alt": "Rear straight punch",
+    "muscles": "Shoulders · Core · Calves"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "slip-roll",
+    "name": "Slip & roll",
+    "alt": "Head movement drill",
+    "muscles": "Core · Legs · Neck"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "heavy-bag",
+    "name": "Heavy bag rounds",
+    "alt": "Conditioning drill",
+    "muscles": "Full body"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "hangboard-repeaters",
+    "name": "Hangboard repeaters",
+    "alt": "7:3 protocol",
+    "muscles": "Forearms · Fingers"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "silent-feet",
+    "name": "Silent feet",
+    "alt": "Footwork drill",
+    "muscles": "Calves · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "mawashi-geri",
+    "name": "Mawashi-geri",
+    "alt": "Roundhouse kick",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "mae-geri",
+    "name": "Mae-geri",
+    "alt": "Front snap kick",
+    "muscles": "Hip flexors · Quads"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "gyaku-zuki",
+    "name": "Gyaku-zuki",
+    "alt": "Reverse punch",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "kiba-dachi",
+    "name": "Kiba-dachi hold",
+    "alt": "Horse stance endurance",
+    "muscles": "Quads · Glutes · Adductors"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "teep",
+    "name": "Teep",
+    "alt": "Push kick",
+    "muscles": "Hip flexors · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "low-kick",
+    "name": "Roundhouse (low kick)",
+    "alt": "Te kha",
+    "muscles": "Glutes · Hips · Shins"
+  },
+  {
+    "sportId": "running",
+    "drillId": "stride-outs",
+    "name": "Stride-outs",
+    "alt": "80m accelerations",
+    "muscles": "Hamstrings · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "hill-repeats",
+    "name": "Hill repeats",
+    "alt": "Strength endurance",
+    "muscles": "Glutes · Quads · Calves"
+  }
+]
