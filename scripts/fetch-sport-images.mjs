@@ -86,7 +86,9 @@ async function searchCommons(term) {
     'https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*' +
     '&generator=search&gsrnamespace=6&gsrlimit=8' +
     `&gsrsearch=${encodeURIComponent(`filetype:bitmap ${term}`)}` +
-    '&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640';
+    // 1000px keeps thumbnails crisp on 3x-density phones without bloating
+    // the app bundle (they render ~104pt tall).
+    '&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1000';
   const res = await fetchWithBackoff(url);
   if (!res.ok) throw new Error(`commons search ${res.status}`);
   const data = await res.json();
@@ -111,10 +113,16 @@ async function searchCommons(term) {
 const attributions = fs.existsSync(META_FILE) ? JSON.parse(fs.readFileSync(META_FILE, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Commons serves PNG thumbnails for PNG sources, so the extension has to
+// follow the actual file — naming a PNG ".jpg" confuses Metro's asset
+// pipeline (and image tooling).
+const extOf = (url) => (/\.png(\?|$)/i.test(url) ? 'png' : 'jpg');
+const existingFile = (id) =>
+  ['jpg', 'png'].map((e) => path.join(IMG_DIR, `${id}.${e}`)).find((p) => fs.existsSync(p));
+
 for (const sport of SPORTS) {
   if (only && !only.includes(sport.id)) continue;
-  const file = path.join(IMG_DIR, `${sport.id}.jpg`);
-  if (fs.existsSync(file)) {
+  if (existingFile(sport.id)) {
     console.log(`skip ${sport.id} (exists)`);
     continue;
   }
@@ -127,6 +135,7 @@ for (const sport of SPORTS) {
     }
     const res = await fetchWithBackoff(hit.thumbUrl);
     if (!res.ok) throw new Error(`download ${res.status}`);
+    const file = path.join(IMG_DIR, `${sport.id}.${extOf(hit.thumbUrl)}`);
     fs.writeFileSync(file, Buffer.from(await res.arrayBuffer()));
     attributions[sport.id] = { title: hit.title, author: hit.author, license: hit.license, source: hit.pageUrl };
     console.log(`${sport.id}: ${hit.title} (${hit.license})`);
@@ -155,9 +164,9 @@ const mapLines = [
   "import { ImageSourcePropType } from 'react-native';",
   '',
   'export const sportImages: Record<string, ImageSourcePropType> = {',
-  ...SPORTS.filter((s) => fs.existsSync(path.join(IMG_DIR, `${s.id}.jpg`))).map(
-    (s) => `  '${s.id}': require('../../assets/sports/${s.id}.jpg'),`,
-  ),
+  ...SPORTS.map((s) => [s, existingFile(s.id)])
+    .filter(([, file]) => file)
+    .map(([s, file]) => `  '${s.id}': require('../../assets/sports/${path.basename(file)}'),`),
   '};',
   '',
 ];
