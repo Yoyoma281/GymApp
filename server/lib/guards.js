@@ -32,11 +32,23 @@ function rateLimited(req) {
   return entry.count > MAX_PER_WINDOW;
 }
 
-export function withGuards(handler, { methods = ['GET'] } = {}) {
+// Shared app key: the app sends it as x-app-key. It's shipped inside the
+// app so a determined attacker can extract it — the point is to stop
+// casual/scripted abuse of the MuscleWiki quota, alongside rate limiting.
+// Enforced only when APP_KEY is configured, so setting it never breaks a
+// deployment mid-rollout.
+function unauthorized(req) {
+  const expected = process.env.APP_KEY;
+  if (!expected) return false;
+  const given = req.headers['x-app-key'];
+  return given !== expected;
+}
+
+export function withGuards(handler, { methods = ['GET'], requireAppKey = false } = {}) {
   return async (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', [...methods, 'OPTIONS'].join(', '));
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, x-app-key');
     if (req.method === 'OPTIONS') return res.status(204).end();
 
     if (!methods.includes(req.method)) {
@@ -44,6 +56,9 @@ export function withGuards(handler, { methods = ['GET'] } = {}) {
     }
     if (rateLimited(req)) {
       return json(res, 429, { error: 'rate limit exceeded, slow down' });
+    }
+    if (requireAppKey && unauthorized(req)) {
+      return json(res, 401, { error: 'missing or invalid app key' });
     }
     try {
       return await handler(req, res);

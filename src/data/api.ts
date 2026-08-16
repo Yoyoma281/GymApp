@@ -13,6 +13,15 @@ export const API_BASES: string[] = [
   'https://dojofit-token-shais-projects-f6bbc652.vercel.app',
 ];
 
+// Shared key identifying this app to the backend. Not a real secret (it
+// ships inside the app); it exists so the public endpoint can't be
+// trivially scripted against, alongside the server's rate limiting.
+const APP_KEY = process.env.EXPO_PUBLIC_APP_KEY;
+
+export function apiHeaders(): Record<string, string> {
+  return APP_KEY ? { 'x-app-key': APP_KEY } : {};
+}
+
 /** Base that last answered successfully, tried first next time. */
 let preferred: string | null = null;
 

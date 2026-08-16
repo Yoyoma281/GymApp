@@ -32,4 +32,4 @@ async function handler(req, res) {
   return json(res, 200, body, 600);
 }
 
-export default withGuards(handler, { methods: ['POST', 'GET'] });
+export default withGuards(handler, { methods: ['POST', 'GET'], requireAppKey: true });

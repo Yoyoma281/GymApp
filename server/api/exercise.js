@@ -54,4 +54,4 @@ async function handler(req, res) {
   return json(res, 200, payload, DAY);
 }
 
-export default withGuards(handler, { methods: ['GET'] });
+export default withGuards(handler, { methods: ['GET'], requireAppKey: true });

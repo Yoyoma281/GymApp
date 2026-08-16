@@ -3,7 +3,7 @@
 // caches the token so the whole user base costs only a few API calls an
 // hour (see server/api/token.js).
 
-import { markWorking, orderedBases } from './api';
+import { apiHeaders, markWorking, orderedBases } from './api';
 
 let cached: { token: string; expiresAt: number } | null = null;
 let inflight: Promise<string | null> | null = null;
@@ -15,7 +15,7 @@ export function isMuscleWikiUrl(url: string): boolean {
 async function fetchToken(): Promise<string | null> {
   for (const base of orderedBases()) {
     try {
-      const res = await fetch(`${base}/api/token`, { method: 'POST' });
+      const res = await fetch(`${base}/api/token`, { method: 'POST', headers: apiHeaders() });
       if (!res.ok) continue;
       const data = (await res.json()) as { token?: string; expires_in?: number };
       if (!data?.token) continue;
