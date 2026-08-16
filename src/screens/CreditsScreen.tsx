@@ -1,0 +1,114 @@
+import React from 'react';
+import { Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import attributions from '../../assets/sports/attributions.json';
+import { sportIndex } from '../data/activities';
+import { colors } from '../theme';
+
+interface Attribution {
+  title: string;
+  author: string;
+  license: string;
+  source: string;
+}
+
+const SOURCES = [
+  {
+    name: 'wger',
+    what: 'Exercise images, muscle diagrams and body maps',
+    license: 'CC BY-SA 4.0',
+    url: 'https://wger.de',
+  },
+  {
+    name: 'free-exercise-db',
+    what: 'Exercise instructions and photos',
+    license: 'Public domain (Unlicense)',
+    url: 'https://github.com/yuhonas/free-exercise-db',
+  },
+  {
+    name: 'MuscleWiki',
+    what: 'Exercise demonstration videos and instructions',
+    license: 'Licensed via MuscleWiki API',
+    url: 'https://musclewiki.com',
+  },
+  {
+    name: 'Pexels',
+    what: 'Sport and technique clips',
+    license: 'Pexels License',
+    url: 'https://www.pexels.com',
+  },
+  {
+    name: 'Wikimedia Commons',
+    what: 'Sport photographs (listed below)',
+    license: 'Various open licenses',
+    url: 'https://commons.wikimedia.org',
+  },
+];
+
+export default function CreditsScreen() {
+  const photos = sportIndex
+    .map((s) => ({ sport: s.name, a: (attributions as Record<string, Attribution>)[s.id] }))
+    .filter((x) => x.a);
+
+  return (
+    <ScrollView style={styles.root} contentContainerStyle={styles.content}>
+      <Text style={styles.intro}>
+        DojoFit is built on openly licensed and licensed third-party content. Thanks to everyone
+        who made this material available.
+      </Text>
+
+      <Text style={styles.sectionTitle}>Data & media sources</Text>
+      {SOURCES.map((s) => (
+        <Pressable key={s.name} style={styles.card} onPress={() => Linking.openURL(s.url)}>
+          <Text style={styles.cardTitle}>{s.name}</Text>
+          <Text style={styles.cardBody}>{s.what}</Text>
+          <Text style={styles.cardLicense}>{s.license}</Text>
+        </Pressable>
+      ))}
+
+      <Text style={styles.sectionTitle}>Sport photographs</Text>
+      <View style={styles.photoList}>
+        {photos.map(({ sport, a }) => (
+          <Pressable key={sport} onPress={() => Linking.openURL(a.source)}>
+            <Text style={styles.photo}>
+              <Text style={styles.photoSport}>{sport}</Text> — {a.author || 'unknown'}, {a.license}
+            </Text>
+          </Pressable>
+        ))}
+      </View>
+
+      <Text style={styles.footer}>
+        Drill programming and technique descriptions are original to DojoFit. Exercise guidance is
+        general information, not medical advice — train within your ability and seek coaching for
+        unfamiliar techniques.
+      </Text>
+    </ScrollView>
+  );
+}
+
+const styles = StyleSheet.create({
+  root: { flex: 1, backgroundColor: colors.bg },
+  content: { padding: 20, paddingBottom: 40 },
+  intro: { fontSize: 14, lineHeight: 21, color: colors.body },
+  sectionTitle: {
+    marginTop: 24,
+    marginBottom: 10,
+    fontSize: 18,
+    fontWeight: '700',
+    color: colors.text,
+  },
+  card: {
+    backgroundColor: colors.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: 12,
+    padding: 14,
+    marginBottom: 8,
+  },
+  cardTitle: { fontSize: 15, fontWeight: '700', color: colors.text },
+  cardBody: { fontSize: 13, color: colors.body, marginTop: 3 },
+  cardLicense: { fontSize: 12, color: colors.accent, marginTop: 5, fontWeight: '600' },
+  photoList: { gap: 6 },
+  photo: { fontSize: 12.5, lineHeight: 18, color: colors.secondary },
+  photoSport: { color: colors.text, fontWeight: '600' },
+  footer: { marginTop: 26, fontSize: 12, lineHeight: 18, color: colors.muted },
+});
