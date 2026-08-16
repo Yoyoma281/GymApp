@@ -1,7 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { ActivityIndicator, Image, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
+import VideoScrubber from './VideoScrubber';
 import { colors } from '../theme';
 
 // On web, expo-video renders the <video> at its intrinsic size (e.g.
@@ -28,14 +29,18 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
   const player = useVideoPlayer(uri, (p) => {
     p.loop = true;
     p.muted = ambient;
+    p.timeUpdateEventInterval = 0.2;
   });
+  const viewRef = useRef<VideoView>(null);
 
   const { isPlaying } = useEvent(player, 'playingChange', { isPlaying: player.playing });
   const { status, error } = useEvent(player, 'statusChange', { status: player.status });
+  const timeUpdate = useEvent(player, 'timeUpdate');
+  const currentTime = timeUpdate?.currentTime ?? player.currentTime;
   const [started, setStarted] = useState(false);
   const [muted, setMuted] = useState(ambient);
+  const [scrubbing, setScrubbing] = useState(false);
 
-  // Reset when the source changes (e.g. a re-resolved token URL)
   useEffect(() => {
     setStarted(false);
   }, [uri]);
@@ -55,6 +60,11 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
     setMuted(next);
   };
 
+  const seek = (seconds: number) => {
+    player.currentTime = seconds;
+    setStarted(true);
+  };
+
   if (status === 'error') {
     return (
       <View style={[styles.frame, styles.center]}>
@@ -67,38 +77,66 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
     );
   }
 
+  const duration = Number.isFinite(player.duration) ? player.duration : 0;
+  const showControls = !isPlaying || scrubbing;
+
   return (
-    <Pressable style={styles.frame} onPress={toggle}>
-      <VideoView
-        player={player}
-        style={StyleSheet.absoluteFill}
-        contentFit="contain"
-        nativeControls={false}
-      />
+    <View style={styles.frame}>
+      <Pressable style={styles.fill} onPress={toggle}>
+        <VideoView
+          ref={viewRef}
+          player={player}
+          style={styles.fill}
+          contentFit="contain"
+          nativeControls={false}
+        />
 
-      {/* Poster covers the frame until playback actually starts */}
-      {!started && poster ? <Image source={{ uri: poster }} style={styles.poster} /> : null}
+        {!started && poster ? <Image source={{ uri: poster }} style={styles.poster} /> : null}
 
-      {status === 'loading' && started ? (
-        <View style={styles.center} pointerEvents="none">
-          <ActivityIndicator color={colors.accent} size="large" />
-        </View>
-      ) : null}
-
-      {!isPlaying ? (
-        <View style={styles.center} pointerEvents="none">
-          <View style={styles.playButton}>
-            <Text style={styles.playIcon}>▶</Text>
+        {status === 'loading' && started ? (
+          <View style={styles.center} pointerEvents="none">
+            <ActivityIndicator color={colors.accent} size="large" />
           </View>
-        </View>
-      ) : null}
+        ) : null}
 
-      {isPlaying ? (
-        <Pressable style={styles.muteButton} onPress={toggleMute} hitSlop={8}>
-          <Text style={styles.muteIcon}>{muted ? '🔇' : '🔊'}</Text>
-        </Pressable>
-      ) : null}
-    </Pressable>
+        {!isPlaying ? (
+          <View style={styles.center} pointerEvents="none">
+            <View style={styles.playButton}>
+              <Text style={styles.playIcon}>▶</Text>
+            </View>
+          </View>
+        ) : null}
+      </Pressable>
+
+      {/* Controls: scrubber + mute + fullscreen. Always available while
+          paused or scrubbing; a slim scrubber stays visible during play. */}
+      <View style={[styles.controls, showControls && styles.controlsSolid]}>
+        <VideoScrubber
+          currentTime={currentTime}
+          duration={duration}
+          onSeek={seek}
+          onScrubbingChange={setScrubbing}
+        />
+        <View style={styles.buttonRow}>
+          <Pressable style={styles.smallButton} onPress={toggleMute} hitSlop={8}>
+            <Text style={styles.smallIcon}>{muted ? '🔇' : '🔊'}</Text>
+          </Pressable>
+          <Pressable
+            style={styles.smallButton}
+            onPress={() => viewRef.current?.enterFullscreen()}
+            hitSlop={8}
+          >
+            {/* font-independent fullscreen glyph: four corner brackets */}
+            <View style={styles.fsIcon}>
+              <View style={[styles.fsCorner, styles.fsTL]} />
+              <View style={[styles.fsCorner, styles.fsTR]} />
+              <View style={[styles.fsCorner, styles.fsBL]} />
+              <View style={[styles.fsCorner, styles.fsBR]} />
+            </View>
+          </Pressable>
+        </View>
+      </View>
+    </View>
   );
 }
 
@@ -111,14 +149,23 @@ const styles = StyleSheet.create({
     backgroundColor: '#000',
     justifyContent: 'center',
   },
+  fill: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 },
   poster: {
-    position: "absolute", top: 0, left: 0, right: 0, bottom: 0,
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
     width: '100%',
     height: '100%',
     resizeMode: 'contain' as const,
   },
   center: {
-    position: "absolute", top: 0, left: 0, right: 0, bottom: 0,
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -136,20 +183,38 @@ const styles = StyleSheet.create({
     elevation: 4,
   },
   playIcon: { color: '#fff', fontSize: 24, marginLeft: 5 },
-  muteButton: {
+  controls: {
     position: 'absolute',
-    right: 8,
-    bottom: 8,
-    width: 32,
-    height: 32,
-    borderRadius: 16,
-    backgroundColor: 'rgba(0,0,0,0.55)',
+    left: 0,
+    right: 0,
+    bottom: 0,
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0,0,0,0.35)',
+  },
+  controlsSolid: { backgroundColor: 'rgba(0,0,0,0.6)' },
+  buttonRow: { flexDirection: 'row', gap: 4, paddingRight: 8 },
+  smallButton: {
+    width: 30,
+    height: 30,
+    borderRadius: 15,
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: 'rgba(0,0,0,0.45)',
   },
-  muteIcon: { fontSize: 15 },
+  smallIcon: { fontSize: 14, color: '#fff' },
+  fsIcon: { width: 14, height: 14 },
+  fsCorner: { position: 'absolute', width: 5, height: 5, borderColor: '#fff' },
+  fsTL: { top: 0, left: 0, borderTopWidth: 2, borderLeftWidth: 2 },
+  fsTR: { top: 0, right: 0, borderTopWidth: 2, borderRightWidth: 2 },
+  fsBL: { bottom: 0, left: 0, borderBottomWidth: 2, borderLeftWidth: 2 },
+  fsBR: { bottom: 0, right: 0, borderBottomWidth: 2, borderRightWidth: 2 },
   errorOverlay: {
-    position: "absolute", top: 0, left: 0, right: 0, bottom: 0,
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: 'rgba(0,0,0,0.55)',
