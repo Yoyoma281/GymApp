@@ -57,7 +57,8 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
   },
   map: {
-    width: 110,
+    flex: 1,
+    maxWidth: 150,
     aspectRatio: 200 / 369,
   },
 });

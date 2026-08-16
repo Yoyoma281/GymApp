@@ -28,8 +28,13 @@ for (const d of Object.values(details)) {
 
 // Strip XML prolog/comments/metadata and collapse whitespace — these
 // Inkscape exports carry a lot of editor cruft.
+//
+// They also declare a fixed width/height (200x369) with NO viewBox, so
+// rendering them at 100% of a smaller container crops the artwork
+// instead of scaling it. Convert the intrinsic size into a viewBox and
+// let the container drive the size.
 function minify(svg) {
-  return svg
+  const cleaned = svg
     .replace(/<\?xml[^>]*\?>/g, '')
     .replace(/<!--[\s\S]*?-->/g, '')
     .replace(/<metadata[\s\S]*?<\/metadata>/g, '')
@@ -37,6 +42,18 @@ function minify(svg) {
     .replace(/\s+/g, ' ')
     .replace(/> </g, '><')
     .trim();
+
+  const open = cleaned.match(/<svg\b[^>]*>/);
+  if (!open) return cleaned;
+  let tag = open[0];
+  if (!/viewBox=/.test(tag)) {
+    const w = parseFloat(tag.match(/\bwidth="([\d.]+)/)?.[1] ?? '200');
+    const h = parseFloat(tag.match(/\bheight="([\d.]+)/)?.[1] ?? '369');
+    tag = tag.replace(/<svg\b/, `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet"`);
+  }
+  // Drop the fixed pixel size so width/height props take effect.
+  tag = tag.replace(/\s(width|height)="[^"]*"/g, '');
+  return cleaned.replace(open[0], tag);
 }
 
 async function get(pathname) {
