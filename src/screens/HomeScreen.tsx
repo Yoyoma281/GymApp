@@ -291,9 +291,12 @@ const styles = StyleSheet.create({
     padding: 16,
     gap: 10,
   },
+  // Fixed height, not aspectRatio: a bundled require() image reports its
+  // own intrinsic size, and aspectRatio can lose to it on native, which
+  // stretched cards to the height of the source photo.
   activityBadge: {
     width: '100%',
-    aspectRatio: 16 / 9,
+    height: 104,
     borderRadius: 12,
     backgroundColor: colors.accentSoft,
     alignItems: 'center',
@@ -302,7 +305,7 @@ const styles = StyleSheet.create({
   // contain (not cover) so subjects aren't cropped out of the frame
   activityPhoto: {
     width: '100%',
-    aspectRatio: 16 / 9,
+    height: 104,
     borderRadius: 12,
     resizeMode: 'contain' as const,
     backgroundColor: '#000',
