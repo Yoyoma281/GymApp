@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import {
+  Image,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -9,6 +10,7 @@ import {
 } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { searchIndex, sportIndex, SportMeta } from '../data/activities';
+import { sportImages } from '../data/sportImages';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -171,9 +173,13 @@ export default function HomeScreen({ navigation }: Props) {
                     style={styles.activityCard}
                     onPress={() => navigation.navigate('DrillList', { activityId: sport.id })}
                   >
-                    <View style={styles.activityBadge}>
-                      <Text style={styles.activityEmoji}>{sport.emoji}</Text>
-                    </View>
+                    {sportImages[sport.id] ? (
+                      <Image source={sportImages[sport.id]} style={styles.activityPhoto} />
+                    ) : (
+                      <View style={styles.activityBadge}>
+                        <Text style={styles.activityEmoji}>{sport.emoji}</Text>
+                      </View>
+                    )}
                     <Text style={styles.activityName}>{sport.name}</Text>
                     <Text style={styles.activityCount}>{sport.drillCount} drills</Text>
                   </Pressable>
@@ -271,11 +277,18 @@ const styles = StyleSheet.create({
     gap: 10,
   },
   activityBadge: {
-    height: 64,
+    height: 92,
     borderRadius: 12,
     backgroundColor: colors.accentSoft,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  activityPhoto: {
+    height: 92,
+    borderRadius: 12,
+    width: '100%',
+    resizeMode: 'cover' as const,
+    backgroundColor: colors.accentSoft,
   },
   activityEmoji: { fontSize: 30 },
   activityName: { fontWeight: '700', fontSize: 16.5, color: colors.text },

@@ -19,7 +19,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "wger-206"
+          "detailId": "mw-537"
         },
         {
           "name": "Single-leg balance board holds",
@@ -30,14 +30,14 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 981,
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
-          "detailId": "wger-981"
+          "detailId": "mw-99"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Cable hip flexions",
@@ -71,7 +71,7 @@
           "scheme": "3 × 20",
           "wgerId": 1193,
           "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
-          "detailId": "fed-Russian_Twist"
+          "detailId": "mw-58"
         },
         {
           "name": "Standing cable hip rotations",
@@ -79,14 +79,17 @@
         },
         {
           "name": "Lateral lunges",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "detailId": "mw-104",
+          "wgerId": 1604,
+          "imageUrl": "https://wger.de/media/exercise-images/1604/7695428e-bfed-4021-b987-498d93153995.png"
         },
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         }
       ],
       "stretches": [
@@ -116,13 +119,14 @@
         },
         {
           "name": "Forearm plank",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "detailId": "mw-204"
         },
         {
           "name": "Burpees",
           "scheme": "3 × 10",
           "wgerId": 132,
-          "detailId": "wger-132"
+          "detailId": "mw-475"
         },
         {
           "name": "Neck flexion holds",
@@ -158,23 +162,29 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         },
         {
           "name": "Tuck jumps",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
+          "detailId": "fed-Knee_Tuck_Jump"
         },
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 6",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -203,21 +213,22 @@
           "name": "Jump squats",
           "scheme": "3 × 8",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         },
         {
           "name": "Seated calf raises",
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "fed-Seated_Calf_Raise"
+          "detailId": "mw-34"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         },
         {
           "name": "Lateral hops over line",
@@ -292,9 +303,9 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         },
         {
           "name": "Ankle eversion with resistance band",
@@ -302,15 +313,22 @@
         },
         {
           "name": "Tuck jumps",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
+          "detailId": "fed-Knee_Tuck_Jump"
         },
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         },
         {
           "name": "Depth jumps",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "detailId": "mw-701",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -338,9 +356,9 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         },
         {
           "name": "Ankle inversion with resistance band",
@@ -350,11 +368,15 @@
           "name": "Jump squats",
           "scheme": "3 × 8",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         },
         {
           "name": "Hollow body holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         }
       ],
       "stretches": [
@@ -381,7 +403,10 @@
       "exercises": [
         {
           "name": "Hollow body holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Single-leg balance board holds",
@@ -392,13 +417,13 @@
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "fed-Seated_Calf_Raise"
+          "detailId": "mw-34"
         },
         {
           "name": "Dead bugs",
           "scheme": "3 × 10 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
-          "detailId": "fed-Dead_Bug"
+          "detailId": "mw-869"
         },
         {
           "name": "Copenhagen plank",
@@ -430,19 +455,22 @@
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 988,
+          "wgerId": 1366,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "wger-988"
+          "detailId": "mw-42"
         },
         {
           "name": "Tibialis raises",
           "scheme": "3 × 15",
           "wgerId": 1200,
-          "detailId": "wger-1200"
+          "detailId": "mw-859"
         },
         {
           "name": "Hollow body holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Single-leg balance board holds",
@@ -475,26 +503,28 @@
           "name": "Jump squats",
           "scheme": "4 × 8",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         },
         {
           "name": "Kettlebell swings",
           "scheme": "3 × 12",
           "wgerId": 960,
           "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "wger-960"
+          "detailId": "mw-79"
         },
         {
           "name": "Wall sits",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "wger-1408"
+          "detailId": "mw-1595"
         },
         {
           "name": "Box jumps",
           "scheme": "3 × 6",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -522,22 +552,28 @@
         {
           "name": "Barbell front squats",
           "scheme": "3 × 8",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
-          "detailId": "fed-Front_Barbell_Squat"
+          "imageUrl": "https://wger.de/media/exercise-images/1640/bdea82f1-15ef-4649-8b5a-1303cfc178e7.webp",
+          "detailId": "mw-298",
+          "wgerId": 1640
         },
         {
           "name": "Depth jumps",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "detailId": "mw-701",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg"
         },
         {
           "name": "Hollow body holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Tibialis raises",
           "scheme": "3 × 15",
           "wgerId": 1200,
-          "detailId": "wger-1200"
+          "detailId": "mw-859"
         }
       ],
       "stretches": [
@@ -564,14 +600,17 @@
       "exercises": [
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         },
         {
           "name": "Reverse lunges",
           "scheme": "3 × 8 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "wger-999"
+          "detailId": "mw-1134"
         },
         {
           "name": "Cable hip flexions",
@@ -620,21 +659,21 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         }
       ],
       "stretches": [
@@ -673,7 +712,7 @@
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 580,
-          "detailId": "wger-580"
+          "detailId": "mw-322"
         },
         {
           "name": "Single-leg balance board holds",

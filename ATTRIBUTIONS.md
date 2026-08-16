@@ -1,0 +1,44 @@
+# Image attributions
+
+Sport thumbnails are sourced from Wikimedia Commons under their respective licenses:
+
+- **Karate** — [File:Karate Kick (254694569).jpeg](https://commons.wikimedia.org/wiki/File:Karate_Kick_(254694569).jpeg) by Mike Fighter, CC BY 3.0
+- **Boxing** — [File:Amateur Kick boxing (72386820).jpg](https://commons.wikimedia.org/wiki/File:Amateur_Kick_boxing_(72386820).jpg) by over hilowsee from Akita, Japan, CC BY-SA 2.0
+- **Muay Thai** — [File:Muay Thai Fight Us Vs Burma (80668027).jpeg](https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668027).jpeg) by Gerrit Phil Baumann, CC BY 3.0
+- **Taekwondo** — [File:5th Annual ROK-U S Friendship Children & Family Taekwondo Exhibition Festival (9661742).jpg](https://commons.wikimedia.org/wiki/File:5th_Annual_ROK-U_S_Friendship_Children_%26_Family_Taekwondo_Exhibition_Festival_(9661742).jpg) by U.S. Air Force photo by Tech. Sgt. Desiree Ware, Public domain
+- **Kickboxing** — [File:Founder of Kunlun Fight Jiang Hua.png](https://commons.wikimedia.org/wiki/File:Founder_of_Kunlun_Fight_Jiang_Hua.png) by Ali Elezzabi, CC BY-SA 4.0
+- **MMA** — [File:Cage Fury Fighting Championships Logo.jpg](https://commons.wikimedia.org/wiki/File:Cage_Fury_Fighting_Championships_Logo.jpg) by Cagefury, CC BY-SA 4.0
+- **Krav Maga** — [File:Solid Training Krav Maga, Groningen (2020) 03.jpg](https://commons.wikimedia.org/wiki/File:Solid_Training_Krav_Maga,_Groningen_(2020)_03.jpg) by Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 23:16, 5 January 2020 (UTC), CC BY-SA 4.0
+- **Capoeira** — [File:Roda de Capoeira Angola.jpg](https://commons.wikimedia.org/wiki/File:Roda_de_Capoeira_Angola.jpg) by Ayres Alves de Lima Sales, CC BY-SA 4.0
+- **Kung Fu** — [File:Shaolin Kung Fu In Iran- Photo By 2007-Mostafa meraji 03.jpg](https://commons.wikimedia.org/wiki/File:Shaolin_Kung_Fu_In_Iran-_Photo_By_2007-Mostafa_meraji_03.jpg) by Mostafameraji, CC0
+- **BJJ / Grappling** — [File:Brazilian Jiu-Jitsu Gi Competition-Armbar.jpg](https://commons.wikimedia.org/wiki/File:Brazilian_Jiu-Jitsu_Gi_Competition-Armbar.jpg) by parhessiastes, CC BY-SA 2.0
+- **Judo** — [File:Judo throw.jpg](https://commons.wikimedia.org/wiki/File:Judo_throw.jpg) by Schnuffel2002, CC BY-SA 3.0
+- **Wrestling** — [File:Olympic Freestyle Wrestling at Excel - 96kg Gold Medal Match 001.jpg](https://commons.wikimedia.org/wiki/File:Olympic_Freestyle_Wrestling_at_Excel_-_96kg_Gold_Medal_Match_001.jpg) by Ed Webster, CC BY 2.0
+- **Aikido** — [File:Generic fighting style ThrowingTechnique 2.JPG](https://commons.wikimedia.org/wiki/File:Generic_fighting_style_ThrowingTechnique_2.JPG) by KVDP, Public domain
+- **Fencing** — [File:Romania v France EFS 2013 Fencing WCH t165941.jpg](https://commons.wikimedia.org/wiki/File:Romania_v_France_EFS_2013_Fencing_WCH_t165941.jpg) by Marie-Lan Nguyen, CC BY 3.0
+- **Kendo** — [File:Johnny Devine kendo stick.jpg](https://commons.wikimedia.org/wiki/File:Johnny_Devine_kendo_stick.jpg) by Tabercil, CC BY-SA 3.0
+- **Archery** — [File:Scopes and Bows at Dunster Archery Competition (3684358052).jpg](https://commons.wikimedia.org/wiki/File:Scopes_and_Bows_at_Dunster_Archery_Competition_(3684358052).jpg) by IDS.photos from Tiverton, UK, CC BY-SA 2.0
+- **Running** — [File:Marathon runners near the end of the race - geograph.org.uk - 6142899.jpg](https://commons.wikimedia.org/wiki/File:Marathon_runners_near_the_end_of_the_race_-_geograph.org.uk_-_6142899.jpg) by Stephen Craven, CC BY-SA 2.0
+- **Swimming** — [File:Maikel Melero - Exhibición Freestyle GP Camión de España 2013 - 01.jpg](https://commons.wikimedia.org/wiki/File:Maikel_Melero_-_Exhibici%C3%B3n_Freestyle_GP_Cami%C3%B3n_de_Espa%C3%B1a_2013_-_01.jpg) by Carlos Delgado, CC BY-SA 3.0
+- **Cycling** — [File:Japan Cup Cycle Road Race 2019 PA200848.jpg](https://commons.wikimedia.org/wiki/File:Japan_Cup_Cycle_Road_Race_2019_PA200848.jpg) by Fukumoto, CC BY-SA 4.0
+- **Rowing** — [File:Regata Sevilla Betis 2015.jpg](https://commons.wikimedia.org/wiki/File:Regata_Sevilla_Betis_2015.jpg) by Carlos Molina, CC BY-SA 4.0
+- **Triathlon** — [File:Toyota Motor Triathlon Race Car Concept (394262670).jpg](https://commons.wikimedia.org/wiki/File:Toyota_Motor_Triathlon_Race_Car_Concept_(394262670).jpg) by Ian Muttoo from Mississauga, Canada, CC BY-SA 2.0
+- **Powerlifting** — [File:Alessio Pavone deadlift European Chamionships.jpg](https://commons.wikimedia.org/wiki/File:Alessio_Pavone_deadlift_European_Chamionships.jpg) by FactNoter, CC BY-SA 4.0
+- **Olympic Weightlifting** — [File:Weightlifting at the 2016 Summer Olympics - Men's +105 kg 003.jpg](https://commons.wikimedia.org/wiki/File:Weightlifting_at_the_2016_Summer_Olympics_-_Men%27s_%2B105_kg_003.jpg) by Mohammad Hassanzadeh / Tasnimnews, CC BY 4.0
+- **CrossFit** — [File:Crossfit (200277073).jpeg](https://commons.wikimedia.org/wiki/File:Crossfit_(200277073).jpeg) by Jongsun Lee, CC BY 3.0
+- **Gymnastics** — [File:2015 European Artistic Gymnastics Championships - Rings - Eleftherios Petrounias 07.jpg](https://commons.wikimedia.org/wiki/File:2015_European_Artistic_Gymnastics_Championships_-_Rings_-_Eleftherios_Petrounias_07.jpg) by Pierre-Yves Beaudouin, CC BY-SA 4.0
+- **Yoga** — [File:Nude Yoga pose outdoor.jpg](https://commons.wikimedia.org/wiki/File:Nude_Yoga_pose_outdoor.jpg) by Tino &amp; Tina, CC BY 2.0
+- **Soccer** — [File:Galatasaray-Fenerbahçe match (1923).jpg](https://commons.wikimedia.org/wiki/File:Galatasaray-Fenerbah%C3%A7e_match_(1923).jpg) by Unknown authorUnknown author, Public domain
+- **Basketball** — [File:20130126 Jahlil Okafor forces jump ball at Simeon-Whitney Young game (2).JPG](https://commons.wikimedia.org/wiki/File:20130126_Jahlil_Okafor_forces_jump_ball_at_Simeon-Whitney_Young_game_(2).JPG) by TonyTheTiger, CC BY-SA 3.0
+- **Tennis** — [File:Secretary Kerry Watches As Venus Williams Prepares to Receive a Serve During A Tennis Match (28736162851).jpg](https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Watches_As_Venus_Williams_Prepares_to_Receive_a_Serve_During_A_Tennis_Match_(28736162851).jpg) by U.S. Department of State from United States, Public domain
+- **Volleyball** — [File:NCAA beach volleyball match at Stanford in 2016 (26517288255).jpg](https://commons.wikimedia.org/wiki/File:NCAA_beach_volleyball_match_at_Stanford_in_2016_(26517288255).jpg) by John Loo from Sunnyvale, USA, CC BY 2.0
+- **Baseball** — [File:Baseball swing.jpg](https://commons.wikimedia.org/wiki/File:Baseball_swing.jpg) by unknown, Public domain
+- **Rugby** — [File:Tackling, rugby match, Omagh - geograph.org.uk - 4656531.jpg](https://commons.wikimedia.org/wiki/File:Tackling,_rugby_match,_Omagh_-_geograph.org.uk_-_4656531.jpg) by Kenneth  Allen, CC BY-SA 2.0
+- **Golf** — [File:Golfer in Golf Links 2.jpg](https://commons.wikimedia.org/wiki/File:Golfer_in_Golf_Links_2.jpg) by kallerna, CC BY-SA 3.0
+- **Badminton** — [File:Fence 12, Badminton Horse Trials - geograph.org.uk - 794809.jpg](https://commons.wikimedia.org/wiki/File:Fence_12,_Badminton_Horse_Trials_-_geograph.org.uk_-_794809.jpg) by Trish Steel, CC BY-SA 2.0
+- **Climbing** — [File:Joshue Tree National Park - Manx Boulder - 2.jpg](https://commons.wikimedia.org/wiki/File:Joshue_Tree_National_Park_-_Manx_Boulder_-_2.jpg) by Jarek Tuszyński, CC BY-SA 3.0
+- **Hiking** — [File:Hiking trail on Námafjall Mountain, Iceland, 20240716 1130 1346.jpg](https://commons.wikimedia.org/wiki/File:Hiking_trail_on_N%C3%A1mafjall_Mountain,_Iceland,_20240716_1130_1346.jpg) by Jakub Hałun, CC BY 4.0
+- **Surfing** — [File:La horde - Surfers riding a wave in Paea, Tahiti.jpg](https://commons.wikimedia.org/wiki/File:La_horde_-_Surfers_riding_a_wave_in_Paea,_Tahiti.jpg) by Brigittebourger Brigitte Bourger, CC BY-SA 4.0
+- **Skiing** — [File:Alpine ski binding plates 01.jpg](https://commons.wikimedia.org/wiki/File:Alpine_ski_binding_plates_01.jpg) by Chianti, CC BY-SA 3.0
+- **Snowboarding** — [File:Big air Québec 2011.jpg](https://commons.wikimedia.org/wiki/File:Big_air_Qu%C3%A9bec_2011.jpg) by Letartean, CC BY 3.0
+- **Skateboarding** — [File:Andre Beverly rolls away after landing a trick at LES skatepark.jpg](https://commons.wikimedia.org/wiki/File:Andre_Beverly_rolls_away_after_landing_a_trick_at_LES_skatepark.jpg) by Wil540 art, CC BY-SA 4.0

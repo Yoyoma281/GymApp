@@ -19,24 +19,26 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "wger-206"
+          "detailId": "mw-537"
         },
         {
           "name": "Bodyweight squats",
           "scheme": "3 × 20",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg",
-          "detailId": "fed-Bodyweight_Squat"
+          "detailId": "mw-192"
         },
         {
           "name": "Lateral band walks",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "wgerId": 1514,
+          "detailId": "wger-1514"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Plank shoulder taps",
@@ -76,7 +78,8 @@
         },
         {
           "name": "Deep squat hold",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "detailId": "mw-1934"
         },
         {
           "name": "Push-up hold at bottom",
@@ -118,7 +121,7 @@
           "scheme": "3 × 12",
           "wgerId": 1551,
           "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
-          "detailId": "wger-1551"
+          "detailId": "fed-Clock_Push-Up"
         },
         {
           "name": "Cossack squats",
@@ -159,12 +162,14 @@
         {
           "name": "Goblet squats",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
-          "detailId": "fed-Goblet_Squat"
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+          "detailId": "mw-11",
+          "wgerId": 203
         },
         {
           "name": "Deep squat hold",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "detailId": "mw-1934"
         },
         {
           "name": "Ankle dorsiflexion wall rocks",
@@ -177,7 +182,8 @@
           "name": "Jump squats",
           "scheme": "3 × 8",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         }
       ],
       "stretches": [
@@ -204,24 +210,27 @@
       "exercises": [
         {
           "name": "Side lunges",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "detailId": "mw-189"
         },
         {
           "name": "Side planks",
           "scheme": "3 × 40s",
           "wgerId": 580,
-          "detailId": "wger-580"
+          "detailId": "mw-322"
         },
         {
           "name": "Standing cable woodchoppers",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 988,
+          "wgerId": 1366,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "wger-988"
+          "detailId": "mw-42"
         }
       ],
       "stretches": [
@@ -251,7 +260,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 1830,
           "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg",
-          "detailId": "wger-1830"
+          "detailId": "mw-348"
         },
         {
           "name": "Cossack squats",
@@ -267,11 +276,13 @@
           "name": "Glute bridges",
           "scheme": "3 × 15",
           "wgerId": 265,
-          "detailId": "wger-265"
+          "detailId": "mw-29",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg"
         },
         {
           "name": "Deep squat hold",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "detailId": "mw-1934"
         }
       ],
       "stretches": [
@@ -303,8 +314,7 @@
         {
           "name": "Standing straight-leg raises",
           "scheme": "3 × 10 / leg",
-          "wgerId": 378,
-          "detailId": "wger-378"
+          "wgerId": 378
         },
         {
           "name": "Hanging leg raises",
@@ -318,7 +328,7 @@
           "scheme": "3 × 10",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "fed-Romanian_Deadlift"
+          "detailId": "mw-197"
         }
       ],
       "stretches": [
@@ -348,24 +358,27 @@
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "fed-Leg_Press"
+          "detailId": "mw-9"
         },
         {
           "name": "Cable knee drives",
-          "scheme": "3 × 10 / leg"
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1965,
+          "imageUrl": "https://wger.de/media/exercise-images/1965/03c08a42-dedb-4a46-8d15-acaf497a35a2.png",
+          "detailId": "wger-1965"
         },
         {
           "name": "Step-ups with knee drive",
           "scheme": "3 × 8 / leg",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Step-up_with_Knee_Raise/0.jpg",
-          "detailId": "fed-Step-up_with_Knee_Raise"
+          "detailId": "mw-1255"
         },
         {
           "name": "Single-leg glute bridges",
           "scheme": "3 × 10 / leg",
           "wgerId": 1740,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
-          "detailId": "fed-Single_Leg_Glute_Bridge"
+          "detailId": "mw-50"
         }
       ],
       "stretches": [
@@ -392,18 +405,22 @@
       "exercises": [
         {
           "name": "Standing cable woodchoppers",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Cable hip abductions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-223",
+          "wgerId": 1672
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "detailId": "mw-197"
         },
         {
           "name": "Lateral med-ball throws",
@@ -412,9 +429,9 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         }
       ],
       "stretches": [
@@ -446,9 +463,9 @@
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         },
         {
           "name": "Rotational med-ball throws",
@@ -457,9 +474,9 @@
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 988,
+          "wgerId": 1366,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "wger-988"
+          "detailId": "mw-42"
         },
         {
           "name": "Copenhagen plank",
@@ -491,30 +508,35 @@
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 988,
+          "wgerId": 1366,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "wger-988"
+          "detailId": "mw-42"
         },
         {
           "name": "Cable hip abductions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-223",
+          "wgerId": 1672
         },
         {
           "name": "Standing cable woodchoppers",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Box jumps",
           "scheme": "3 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
-          "wgerId": 1021,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "wgerId": 1243,
+          "imageUrl": "https://wger.de/media/exercise-images/1243/53d4fabe-c994-4907-873f-8d82813a9832.png",
+          "detailId": "mw-64"
         }
       ],
       "stretches": [
@@ -544,22 +566,27 @@
           "scheme": "4 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "fed-Romanian_Deadlift"
+          "detailId": "mw-197"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "detailId": "mw-197"
         },
         {
           "name": "Cable hip extensions",
-          "scheme": "3 × 12 / leg"
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1131,
+          "imageUrl": "https://wger.de/media/exercise-images/1131/3bcf3024-2dcc-4995-9694-55aa2c2e4a9a.png",
+          "detailId": "wger-1131"
         },
         {
           "name": "Standing cable woodchoppers",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Push-up to downward dog",
@@ -596,9 +623,9 @@
         {
           "name": "Dumbbell overhead press",
           "scheme": "3 × 10",
-          "wgerId": 567,
+          "wgerId": 687,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "wger-567"
+          "detailId": "mw-45"
         },
         {
           "name": "Side planks with hip lift",
@@ -643,11 +670,14 @@
           "name": "Side planks",
           "scheme": "3 × 40s",
           "wgerId": 580,
-          "detailId": "wger-580"
+          "detailId": "mw-322"
         },
         {
           "name": "Hollow-body holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Wrist push-up rocks",
@@ -685,14 +715,14 @@
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "wger-454"
+          "detailId": "fed-Clock_Push-Up"
         },
         {
           "name": "Dumbbell overhead press",
           "scheme": "3 × 10",
-          "wgerId": 567,
+          "wgerId": 687,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "wger-567"
+          "detailId": "mw-45"
         },
         {
           "name": "Plank shoulder taps",
@@ -728,25 +758,29 @@
           "name": "Jump squats",
           "scheme": "3 × 8",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         },
         {
           "name": "Kettlebell swings",
           "scheme": "4 × 15",
           "wgerId": 960,
           "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "wger-960"
+          "detailId": "mw-79"
         },
         {
           "name": "Bridge push-ups",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "wgerId": 1964,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/0.jpg",
+          "detailId": "fed-Clock_Push-Up"
         },
         {
           "name": "Single-arm overhead dumbbell press",
           "scheme": "3 × 8 / side",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "wger-1968"
+          "detailId": "mw-453"
         },
         {
           "name": "Hollow-body rocks",

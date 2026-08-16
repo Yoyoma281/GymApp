@@ -18,7 +18,7 @@
           "name": "Wall sits",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "wger-1408"
+          "detailId": "mw-1595"
         },
         {
           "name": "Goblet squats (pause at bottom)",
@@ -26,7 +26,10 @@
         },
         {
           "name": "Lateral lunges",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "detailId": "mw-104",
+          "wgerId": 1604,
+          "imageUrl": "https://wger.de/media/exercise-images/1604/7695428e-bfed-4021-b987-498d93153995.png"
         },
         {
           "name": "Mini-band lateral walks",
@@ -37,7 +40,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "fed-Plank"
+          "detailId": "mw-204"
         }
       ],
       "stretches": [
@@ -65,8 +68,9 @@
         {
           "name": "Goblet squats",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
-          "detailId": "fed-Goblet_Squat"
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+          "detailId": "mw-11",
+          "wgerId": 203
         },
         {
           "name": "Front plank shoulder taps",
@@ -80,17 +84,20 @@
           "scheme": "3 × 12",
           "wgerId": 256,
           "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png",
-          "detailId": "fed-Front_Dumbbell_Raise"
+          "detailId": "mw-46"
         },
         {
           "name": "Lateral lunges",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "detailId": "mw-104",
+          "wgerId": 1604,
+          "imageUrl": "https://wger.de/media/exercise-images/1604/7695428e-bfed-4021-b987-498d93153995.png"
         },
         {
           "name": "Wall sits",
           "scheme": "3 × 40s",
           "wgerId": 1408,
-          "detailId": "wger-1408"
+          "detailId": "mw-1595"
         }
       ],
       "stretches": [
@@ -128,13 +135,14 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         },
         {
           "name": "Goblet squats",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
-          "detailId": "fed-Goblet_Squat"
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+          "detailId": "mw-11",
+          "wgerId": 203
         },
         {
           "name": "Reactive shuttle shuffles",
@@ -167,7 +175,8 @@
           "name": "Jump squats",
           "scheme": "3 × 6",
           "wgerId": 614,
-          "detailId": "wger-614"
+          "detailId": "mw-191",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
         },
         {
           "name": "Lateral bounds with stick landing",
@@ -176,15 +185,15 @@
         {
           "name": "Bulgarian split squats",
           "scheme": "3 × 8 / leg",
-          "wgerId": 988,
+          "wgerId": 1366,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "wger-988"
+          "detailId": "mw-42"
         },
         {
           "name": "Dead bug",
           "scheme": "3 × 10 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
-          "detailId": "fed-Dead_Bug"
+          "detailId": "mw-869"
         },
         {
           "name": "Medicine ball drop catches",
@@ -222,7 +231,7 @@
           "scheme": "3 × 20",
           "wgerId": 996,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
-          "detailId": "fed-Mountain_Climbers"
+          "detailId": "mw-474"
         },
         {
           "name": "Slider body saws",
@@ -236,7 +245,7 @@
           "name": "Burpees",
           "scheme": "3 × 8",
           "wgerId": 132,
-          "detailId": "wger-132"
+          "detailId": "mw-475"
         }
       ],
       "stretches": [
@@ -265,8 +274,9 @@
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205,
-          "detailId": "wger-1205"
+          "wgerId": 1224,
+          "detailId": "mw-32",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         },
         {
           "name": "Overhead medicine ball throws",
@@ -284,8 +294,9 @@
         {
           "name": "Goblet squats",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
-          "detailId": "fed-Goblet_Squat"
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+          "detailId": "mw-11",
+          "wgerId": 203
         },
         {
           "name": "Finger-tip push-up holds",
@@ -319,30 +330,35 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         },
         {
           "name": "Dumbbell wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 1205,
-          "detailId": "wger-1205"
+          "wgerId": 1224,
+          "detailId": "mw-32",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         }
       ],
       "stretches": [
@@ -371,30 +387,34 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
-          "detailId": "fed-Trap_Bar_Deadlift"
+          "detailId": "mw-2221"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Barbell hip thrusts",
           "scheme": "3 × 10",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
-          "detailId": "fed-Barbell_Hip_Thrust"
+          "detailId": "mw-30",
+          "wgerId": 294
         },
         {
           "name": "Depth jumps",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "detailId": "mw-701",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         }
       ],
       "stretches": [
@@ -421,7 +441,9 @@
       "exercises": [
         {
           "name": "Medicine ball overhead slams",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+          "detailId": "fed-One-Arm_Medicine_Ball_Slam"
         },
         {
           "name": "Single-arm cable pulldown throws",
@@ -432,18 +454,20 @@
           "scheme": "3 × 12 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
-          "detailId": "fed-External_Rotation_with_Cable"
+          "detailId": "mw-1701"
         },
         {
           "name": "Standing cable woodchoppers",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "detailId": "wger-145"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 15",
           "wgerId": 222,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
-          "detailId": "fed-Face_Pull"
+          "detailId": "mw-22"
         }
       ],
       "stretches": [
@@ -471,16 +495,16 @@
         {
           "name": "Dumbbell shoulder press",
           "scheme": "3 × 10",
-          "wgerId": 567,
-          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "fed-Dumbbell_Shoulder_Press"
+          "wgerId": 1353,
+          "imageUrl": "https://wger.de/media/exercise-images/1353/138cb483-7d4d-4519-b029-63e4269810a6.webp",
+          "detailId": "mw-453"
         },
         {
           "name": "Cable internal rotations",
           "scheme": "3 × 12 / side",
-          "wgerId": 1728,
+          "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "fed-Cable_Internal_Rotation"
+          "detailId": "mw-1700"
         },
         {
           "name": "Wrist roller",
@@ -492,13 +516,14 @@
           "name": "Box jumps",
           "scheme": "3 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Dead bug",
           "scheme": "3 × 10 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
-          "detailId": "fed-Dead_Bug"
+          "detailId": "mw-869"
         }
       ],
       "stretches": [
@@ -526,8 +551,9 @@
         {
           "name": "Barbell Romanian deadlifts",
           "scheme": "4 × 6",
-          "wgerId": 1700,
-          "detailId": "wger-1700"
+          "wgerId": 1652,
+          "detailId": "mw-313",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp"
         },
         {
           "name": "Broad jumps",
@@ -536,12 +562,13 @@
         {
           "name": "Single-leg bounds",
           "scheme": "3 × 5 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "fed-Single-Leg_Leg_Extension"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg"
         },
         {
           "name": "Medicine ball overhead slams",
-          "scheme": "3 × 6"
+          "scheme": "3 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+          "detailId": "fed-One-Arm_Medicine_Ball_Slam"
         },
         {
           "name": "Hanging leg raises",
@@ -578,7 +605,7 @@
           "scheme": "4 × 12",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Lateral bounds",
@@ -590,7 +617,8 @@
           "name": "Box jumps",
           "scheme": "4 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Dumbbell overhead carries",
@@ -627,15 +655,18 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
-          "detailId": "fed-Trap_Bar_Deadlift"
+          "detailId": "mw-2221"
         },
         {
           "name": "Depth jumps",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "detailId": "mw-701",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg"
         },
         {
           "name": "Lat pulldowns",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "detailId": "mw-1659"
         },
         {
           "name": "Approach jumps with reach",
@@ -670,27 +701,28 @@
       "exercises": [
         {
           "name": "Half-kneeling landmine press",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "detailId": "mw-754"
         },
         {
           "name": "Medicine ball chest pass throws",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "fed-Medicine_Ball_Chest_Pass"
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         },
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
-          "detailId": "fed-External_Rotation_with_Cable"
+          "detailId": "mw-1701"
         },
         {
           "name": "Plate pinch holds",
@@ -725,31 +757,35 @@
           "name": "Box jumps",
           "scheme": "4 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Medicine ball chest pass throws",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "fed-Medicine_Ball_Chest_Pass"
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
-          "detailId": "fed-External_Rotation_with_Cable"
+          "detailId": "mw-1701"
         }
       ],
       "stretches": [
@@ -778,11 +814,13 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
-          "detailId": "fed-Trap_Bar_Deadlift"
+          "detailId": "mw-2221"
         },
         {
           "name": "Medicine ball overhead slams",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+          "detailId": "fed-One-Arm_Medicine_Ball_Slam"
         },
         {
           "name": "Single-arm cable pulldown throws",
@@ -790,14 +828,16 @@
         },
         {
           "name": "Depth jumps",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "detailId": "mw-701",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg"
         },
         {
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
-          "detailId": "fed-External_Rotation_with_Cable"
+          "detailId": "mw-1701"
         }
       ],
       "stretches": [

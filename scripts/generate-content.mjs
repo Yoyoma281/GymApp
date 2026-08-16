@@ -319,12 +319,23 @@ async function mwGet(pathname, key) {
 async function fetchMuscleWikiDetails(uniqueNames, key) {
   const cache = fs.existsSync(MW_CACHE) ? JSON.parse(fs.readFileSync(MW_CACHE, 'utf8')) : {};
   let calls = 0;
+  const sameMovement = (a, b) => {
+    const ka = normalize(a);
+    const kb = normalize(b);
+    if (ka === kb || ka.includes(kb) || kb.includes(ka)) return true;
+    return headNoun(ka) === headNoun(kb);
+  };
   for (const name of uniqueNames) {
     if (name in cache) continue;
     try {
-      const search = await mwGet(`/exercises?search=${encodeURIComponent(name)}&limit=1`, key);
-      calls += 1;
-      const hit = search.results?.[0];
+      // their search is literal about plurals etc. — try raw, then normalized
+      let hit = null;
+      for (const q of [...new Set([name, normalize(name)])]) {
+        const search = await mwGet(`/exercises?search=${encodeURIComponent(q)}&limit=5`, key);
+        calls += 1;
+        hit = (search.results ?? []).find((r) => sameMovement(name, r.name)) ?? null;
+        if (hit) break;
+      }
       if (!hit) { cache[name] = null; continue; }
       const detail = await mwGet(`/exercises/${hit.id}`, key);
       calls += 1;
@@ -364,20 +375,24 @@ function buildWgerIndex(catalog) {
   return index;
 }
 
+// Same movement iff the head noun (last token: "raise", "squat", "press"…)
+// matches — prevents e.g. "calf raise" matching "leg extension".
+const headNoun = (key) => key.split(' ').at(-1) ?? '';
+
 function tokenMatch(index, name) {
   const key = normalize(name);
   if (index.has(key)) return index.get(key);
-  // token-overlap fallback: all tokens of one side contained in the other
   const tokens = new Set(key.split(' '));
   let best = null;
   let bestScore = 0;
   for (const [candKey, ex] of index) {
+    if (headNoun(candKey) !== headNoun(key)) continue;
     const candTokens = candKey.split(' ');
     const overlap = candTokens.filter((t) => tokens.has(t)).length;
     const score = overlap / Math.max(tokens.size, candTokens.length);
     if (score > bestScore) { bestScore = score; best = ex; }
   }
-  return bestScore >= 0.75 ? best : null;
+  return bestScore >= 0.6 ? best : null;
 }
 
 function enrichSportFile(file, index, fedIndex, mwByName, details) {

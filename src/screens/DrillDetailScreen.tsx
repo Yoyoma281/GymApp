@@ -2,7 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
-import ExerciseVideo from '../components/ExerciseVideo';
+import ExerciseMedia from '../components/ExerciseMedia';
 import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
@@ -71,11 +71,7 @@ export default function DrillDetailScreen({ route }: Props) {
               </View>
               {isOpen && detail && (
                 <View style={styles.exerciseDetail}>
-                  {detail.videoUrl ? (
-                    <ExerciseVideo uri={detail.videoUrl} />
-                  ) : detail.imageUrl ? (
-                    <Image source={{ uri: detail.imageUrl }} style={styles.exerciseDetailImage} />
-                  ) : null}
+                  <ExerciseMedia detail={detail} />
                   {detail.muscleIds && detail.muscleIds.length > 0 && (
                     <BodyMap
                       muscles={detail.muscleIds}

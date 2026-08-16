@@ -16,7 +16,10 @@
       "exercises": [
         {
           "name": "Barbell overhead squats",
-          "scheme": "4 × 5"
+          "scheme": "4 × 5",
+          "wgerId": 43,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "detailId": "fed-Barbell_Full_Squat"
         },
         {
           "name": "Overhead squat holds in the bottom",
@@ -24,21 +27,24 @@
         },
         {
           "name": "Barbell Z-press",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-366",
+          "wgerId": 1638,
+          "imageUrl": "https://wger.de/media/exercise-images/1638/046c09b0-c35d-48d0-a552-39dd49f956d2.webp"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         }
       ],
       "stretches": [
@@ -69,7 +75,7 @@
           "scheme": "4 × 5",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Front rack barbell holds",
@@ -77,14 +83,15 @@
         },
         {
           "name": "Lat pulldowns",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "detailId": "mw-1659"
         },
         {
           "name": "Plate front raises",
           "scheme": "3 × 12",
-          "wgerId": 254,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/0.jpg",
-          "detailId": "fed-Front_Plate_Raise"
+          "wgerId": 256,
+          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png",
+          "detailId": "mw-492"
         },
         {
           "name": "Wall slides",
@@ -118,7 +125,8 @@
       "exercises": [
         {
           "name": "Snatch-grip Romanian deadlifts",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-354"
         },
         {
           "name": "Snatch-grip barbell rows",
@@ -130,14 +138,17 @@
         },
         {
           "name": "Back extensions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-1402",
+          "wgerId": 1348,
+          "imageUrl": "https://wger.de/media/exercise-images/1348/a3769120-2445-49f2-97d3-afc1238bfc2a.webp"
         },
         {
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
-          "wgerId": 571,
+          "wgerId": 1925,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "fed-Barbell_Shrug"
+          "detailId": "mw-213"
         }
       ],
       "stretches": [
@@ -164,7 +175,9 @@
       "exercises": [
         {
           "name": "Barbell muscle snatch",
-          "scheme": "4 × 4"
+          "scheme": "4 × 4",
+          "detailId": "mw-1706",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/0.jpg"
         },
         {
           "name": "Wide-grip upright rows",
@@ -176,14 +189,17 @@
         },
         {
           "name": "Dumbbell lateral raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-20",
+          "wgerId": 1654,
+          "imageUrl": "https://wger.de/media/exercise-images/1654/aa724a58-b3b5-4522-b278-1155416236a5.jpg"
         },
         {
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
-          "wgerId": 571,
+          "wgerId": 1925,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "fed-Barbell_Shrug"
+          "detailId": "mw-213"
         }
       ],
       "stretches": [
@@ -210,31 +226,35 @@
       "exercises": [
         {
           "name": "Hang power snatch",
-          "scheme": "5 × 3"
+          "scheme": "5 × 3",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/0.jpg",
+          "detailId": "fed-Hang_Snatch"
         },
         {
           "name": "Snatch-grip high pulls",
-          "scheme": "4 × 4"
+          "scheme": "4 × 4",
+          "detailId": "mw-1712"
         },
         {
           "name": "Kettlebell swings",
           "scheme": "3 × 15",
           "wgerId": 960,
           "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "wger-960"
+          "detailId": "mw-79"
         },
         {
           "name": "Box jumps",
           "scheme": "4 × 5",
           "wgerId": 1373,
-          "detailId": "wger-1373"
+          "detailId": "mw-700",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg"
         },
         {
           "name": "Overhead squats",
           "scheme": "3 × 5",
           "wgerId": 441,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
-          "detailId": "fed-Overhead_Squat"
+          "detailId": "mw-521"
         }
       ],
       "stretches": [
@@ -274,18 +294,21 @@
           "scheme": "3 × 5",
           "wgerId": 441,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
-          "detailId": "fed-Overhead_Squat"
+          "detailId": "mw-521"
         },
         {
           "name": "Barbell push press",
-          "scheme": "3 × 6"
+          "scheme": "3 × 6",
+          "detailId": "mw-773",
+          "wgerId": 1638,
+          "imageUrl": "https://wger.de/media/exercise-images/1638/046c09b0-c35d-48d0-a552-39dd49f956d2.webp"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "fed-Pallof_Press"
+          "detailId": "mw-250"
         }
       ],
       "stretches": [
@@ -327,11 +350,12 @@
           "scheme": "3 × 3",
           "wgerId": 441,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
-          "detailId": "fed-Overhead_Squat"
+          "detailId": "mw-521"
         },
         {
           "name": "Back squats",
-          "scheme": "4 × 5"
+          "scheme": "4 × 5",
+          "detailId": "mw-191"
         }
       ],
       "stretches": [
@@ -362,7 +386,7 @@
           "scheme": "5 × 3",
           "wgerId": 1087,
           "imageUrl": "https://wger.de/media/exercise-images/1087/d85f4e02-b20c-457c-bdfb-0b00e2d14150.jpg",
-          "detailId": "wger-1087"
+          "detailId": "fed-Alternating_Hang_Clean"
         },
         {
           "name": "Clean-grip high pulls",
@@ -373,21 +397,21 @@
           "scheme": "3 × 5",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "fed-Romanian_Deadlift"
+          "detailId": "mw-197"
         },
         {
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
-          "wgerId": 571,
+          "wgerId": 1925,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "fed-Barbell_Shrug"
+          "detailId": "mw-213"
         }
       ],
       "stretches": [
@@ -418,15 +442,23 @@
         },
         {
           "name": "Clean-grip deadlifts",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Deadlift/0.jpg",
+          "detailId": "fed-Clean_Deadlift"
         },
         {
           "name": "Back extensions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-1402",
+          "wgerId": 1348,
+          "imageUrl": "https://wger.de/media/exercise-images/1348/a3769120-2445-49f2-97d3-afc1238bfc2a.webp"
         },
         {
           "name": "Heavy barbell shrugs",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "wgerId": 1925,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "detailId": "fed-Barbell_Shrug"
         },
         {
           "name": "Farmer's carries",
@@ -464,7 +496,7 @@
           "scheme": "4 × 4",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Clean pulls",
@@ -478,7 +510,10 @@
         },
         {
           "name": "Ab wheel rollouts",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "wgerId": 41,
+          "imageUrl": "https://wger.de/media/exercise-images/41/34b37423-269f-43d4-9d29-d2a90eeaa6b4.png",
+          "detailId": "fed-Barbell_Ab_Rollout"
         }
       ],
       "stretches": [
@@ -506,26 +541,37 @@
       "exercises": [
         {
           "name": "Barbell push press",
-          "scheme": "4 × 5"
+          "scheme": "4 × 5",
+          "detailId": "mw-773",
+          "wgerId": 1638,
+          "imageUrl": "https://wger.de/media/exercise-images/1638/046c09b0-c35d-48d0-a552-39dd49f956d2.webp"
         },
         {
           "name": "Strict overhead press",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "wgerId": 687,
+          "detailId": "wger-687"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Dumbbell Z-press",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-388",
+          "wgerId": 1353,
+          "imageUrl": "https://wger.de/media/exercise-images/1353/138cb483-7d4d-4519-b029-63e4269810a6.webp"
         },
         {
           "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-206",
+          "wgerId": 978,
+          "imageUrl": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png"
         }
       ],
       "stretches": [
@@ -567,11 +613,13 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "fed-Standing_Calf_Raises"
+          "detailId": "mw-33"
         },
         {
           "name": "Weighted front plank",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "wgerId": 1307,
+          "detailId": "wger-1307"
         }
       ],
       "stretches": [
@@ -613,7 +661,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "wger-206"
+          "detailId": "mw-537"
         },
         {
           "name": "Copenhagen plank",
@@ -655,7 +703,7 @@
           "scheme": "3 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "fed-Push_Press"
+          "detailId": "mw-152"
         },
         {
           "name": "Behind-the-neck jerks, light",
@@ -702,7 +750,7 @@
           "scheme": "4 × 3",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "wger-257"
+          "detailId": "mw-42"
         },
         {
           "name": "Clean pulls",
@@ -715,7 +763,7 @@
           "scheme": "3 × 8",
           "wgerId": 194,
           "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
-          "detailId": "wger-194"
+          "detailId": "mw-1608"
         }
       ],
       "stretches": [
