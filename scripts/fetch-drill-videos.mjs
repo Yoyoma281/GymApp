@@ -1,12 +1,14 @@
 // Attach an ambient stock clip to every drill via the Pexels video API.
-// One clip per (sport, technique group) — e.g. "karate kicks" — written
-// into each drill as clipUrl/clipPoster/clipCredit. Pexels video files
-// are public CDN mp4s, so playback needs no key or token at runtime;
-// PEXELS_API_KEY is needed only when running this script.
+//
+// Pexels has little footage for specific techniques ("mawashi geri"), so
+// searching per drill mostly returns the same generic sport clip. Instead
+// we pull a POOL of results per (sport, technique group) plus a sport-wide
+// pool, then hand each drill a clip no other drill in that sport is using.
+// That keeps clips on-topic while making them distinct per drill.
 //
 // Usage: PEXELS_API_KEY=... node scripts/fetch-drill-videos.mjs
-// Responses are cached in scripts/.pexels-cache.json (delete an entry
-// to re-search it). Rate limit: 200 requests/hour on the free tier.
+// Search results are cached in scripts/.pexels-pool.json; the free tier
+// allows 200 requests/hour and the script resumes where it stopped.
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -14,7 +16,8 @@ import { fileURLToPath } from 'node:url';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const GEN_DIR = path.join(here, '..', 'src', 'data', 'generated');
-const CACHE = path.join(here, '.pexels-cache.json');
+const CACHE = path.join(here, '.pexels-pool.json');
+const PER_PAGE = 15;
 
 const KEY = process.env.PEXELS_API_KEY;
 if (!KEY) {
@@ -23,36 +26,37 @@ if (!KEY) {
 }
 
 const cache = fs.existsSync(CACHE) ? JSON.parse(fs.readFileSync(CACHE, 'utf8')) : {};
+let calls = 0;
 
-async function searchClip(query) {
+/** Returns an array of clips for a query, cached. */
+async function searchPool(query) {
   if (query in cache) return cache[query];
   const res = await fetch(
-    `https://api.pexels.com/videos/search?query=${encodeURIComponent(query)}&per_page=3&orientation=landscape`,
+    `https://api.pexels.com/videos/search?query=${encodeURIComponent(query)}&per_page=${PER_PAGE}&orientation=landscape`,
     { headers: { Authorization: KEY } },
   );
-  if (res.status === 429) throw new Error('Pexels rate limit hit — re-run later, cache keeps progress');
+  calls += 1;
+  if (res.status === 429) throw new Error('RATE_LIMIT');
   if (!res.ok) throw new Error(`pexels ${res.status}`);
   const data = await res.json();
-  let best = null;
+  const clips = [];
   for (const video of data.videos ?? []) {
-    // prefer a modest-resolution mp4 (mobile-friendly bandwidth)
     const file =
       (video.video_files ?? [])
         .filter((f) => f.file_type === 'video/mp4' && f.width >= 640 && f.width <= 1400)
         .sort((a, b) => a.width - b.width)
         .at(-1) ?? null;
     if (file) {
-      best = {
+      clips.push({
         url: file.link,
         poster: video.image,
         credit: `${video.user?.name ?? 'Pexels'} / Pexels`,
-      };
-      break;
+      });
     }
   }
-  cache[query] = best;
-  fs.writeFileSync(CACHE, JSON.stringify(cache, null, 1));
-  return best;
+  cache[query] = clips;
+  fs.writeFileSync(CACHE, JSON.stringify(cache));
+  return clips;
 }
 
 const files = fs
@@ -60,41 +64,53 @@ const files = fs
   .filter((f) => f.endsWith('.json') && !['sports.json', 'search-index.json', 'exercise-details.json'].includes(f));
 
 let assigned = 0;
-let searched = 0;
+let rateLimited = false;
+
 for (const f of files) {
+  if (rateLimited) break;
   const file = path.join(GEN_DIR, f);
   const activity = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const used = new Set();
+  let changed = false;
+
   for (const drill of activity.drills) {
-    // most specific first: "karate roundhouse kick" → "karate kicks" → "karate"
+    // Most specific pool first, then the sport-wide pool as backup.
     const queries = [
-      `${activity.name} ${drill.alt ?? drill.name}`.toLowerCase(),
       `${activity.name} ${drill.group}`.toLowerCase(),
       activity.name.toLowerCase(),
     ];
-    let clip;
+    let chosen = null;
     try {
-      for (const query of queries) {
-        const had = query in cache;
-        clip = await searchClip(query);
-        if (!had) searched += 1;
-        if (clip) break;
+      for (const q of queries) {
+        const pool = await searchPool(q);
+        chosen = pool.find((c) => !used.has(c.url)) ?? null;
+        if (chosen) break;
+        // pool exhausted for this sport — reuse its least-used entry
+        if (!chosen && pool.length && q === queries.at(-1)) chosen = pool[0];
       }
     } catch (err) {
-      console.warn(`${activity.id}/${drill.id}: ${err.message}`);
-      if (/rate limit/.test(err.message)) {
-        fs.writeFileSync(file, JSON.stringify(activity, null, 2) + '\n');
-        process.exit(2);
+      if (err.message === 'RATE_LIMIT') {
+        console.warn(`rate limit reached after ${calls} calls — rerun to continue`);
+        rateLimited = true;
+        break;
       }
+      console.warn(`${activity.id}/${drill.id}: ${err.message}`);
       continue;
     }
-    if (clip) {
-      drill.clipUrl = clip.url;
-      drill.clipPoster = clip.poster;
-      drill.clipCredit = clip.credit;
+    if (chosen) {
+      used.add(chosen.url);
+      drill.clipUrl = chosen.url;
+      drill.clipPoster = chosen.poster;
+      drill.clipCredit = chosen.credit;
       assigned += 1;
+      changed = true;
     }
   }
-  fs.writeFileSync(file, JSON.stringify(activity, null, 2) + '\n');
-  console.log(`${activity.id}: done`);
+
+  if (changed) fs.writeFileSync(file, JSON.stringify(activity, null, 2) + '\n');
+  const unique = new Set(activity.drills.map((d) => d.clipUrl).filter(Boolean)).size;
+  console.log(`${activity.id}: ${unique} unique clips / ${activity.drills.length} drills`);
 }
-console.log(`assigned clips to ${assigned} drills (${searched} API searches this run)`);
+
+console.log(`assigned ${assigned} drills (${calls} API searches this run)`);
+if (rateLimited) process.exit(2);
