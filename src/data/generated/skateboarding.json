@@ -1,0 +1,656 @@
+{
+  "id": "skateboarding",
+  "name": "Skateboarding",
+  "emoji": "🛹",
+  "tag": "SB",
+  "category": "Outdoor & adventure",
+  "drills": [
+    {
+      "id": "pushing-stance",
+      "group": "Stance & pushing",
+      "name": "Pushing & stance",
+      "alt": "Rolling comfortably and pushing with the back foot",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Glutes · Ankles",
+      "desc": "Balancing over the front foot while the back foot delivers long, smooth pushes, then setting both feet over the bolts to roll. Stability comes from single-leg strength on the board leg and an upright, relaxed posture with eyes ahead. A clean push is the difference between skating somewhere and wobbling somewhere.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing calf stretch",
+        "Ankle circles",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Pushing mongo (with the front foot), which delays every setup for tricks.",
+        "Short, choppy pushes that never let the board glide.",
+        "Staring at the front truck instead of where you are rolling."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+push+on+a+skateboard+beginner+tutorial"
+    },
+    {
+      "id": "tic-tac-carving",
+      "group": "Stance & pushing",
+      "name": "Tic-tacs & carving",
+      "alt": "Steering with lifts and leans",
+      "level": "Beginner",
+      "muscles": "Obliques · Hips · Ankles",
+      "desc": "Steering by leaning the board on its wheels through carves, and by lifting the nose and swinging it side to side to generate speed with tic-tacs. Both come from hip rotation over an anchored back foot — the shoulders wind and the board follows. These are the first tools for creating and controlling momentum without pushing.",
+      "exercises": [
+        {
+          "name": "Russian twists",
+          "scheme": "3 × 20",
+          "wgerId": 1193,
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+        },
+        {
+          "name": "Standing cable hip rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Turning with the arms only while the hips stay frozen.",
+        "Lifting the nose too high on tic-tacs and looping out backwards."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tic+tac+carving+skateboard+beginner+tutorial"
+    },
+    {
+      "id": "bailing-safely",
+      "group": "Stance & pushing",
+      "name": "Bailing & falling safely",
+      "alt": "Running out and rolling out of falls",
+      "level": "Beginner",
+      "muscles": "Core · Shoulders · Neck",
+      "desc": "Recognizing a lost trick early enough to run out, kick the board away, or drop into a shoulder roll instead of catching the ground with straight arms. Safe falls come from staying tucked, rolling along the shoulder to the opposite hip, and keeping the hands as fists. Skaters who practice falling on purpose skate bigger obstacles sooner.",
+      "exercises": [
+        {
+          "name": "Medicine ball forward rolls",
+          "scheme": "3 × 5 / side"
+        },
+        {
+          "name": "Forearm plank",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Burpees",
+          "scheme": "3 × 10",
+          "wgerId": 132
+        },
+        {
+          "name": "Neck flexion holds",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Child's pose",
+        "Neck half-circles"
+      ],
+      "mistakes": [
+        "Stiff-arming the ground — sprained and broken wrists come from this one reflex.",
+        "Riding out a doomed trick too long instead of bailing while balanced.",
+        "Falling flat and sliding on palms instead of rolling through the shoulder."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+fall+safely+skateboarding"
+    },
+    {
+      "id": "ollie",
+      "group": "Flat-ground tricks",
+      "name": "Ollie",
+      "alt": "Jumping with the board",
+      "level": "Intermediate",
+      "muscles": "Calves · Hip flexors · Core",
+      "desc": "A sharp tail snap off the ground while the front foot slides up the grip to drag the board into the air and level it out. Height comes from the timing between pop, slide, and a hard knee tuck — not from jumping strength alone. The ollie is the master key: nearly every street trick is an ollie with something added.",
+      "exercises": [
+        {
+          "name": "Broad jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Tuck jumps",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 6",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch",
+        "Seated hamstring stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Popping and jumping as one motion instead of snap-then-slide.",
+        "Front foot pushing down on the nose instead of sliding up the grip.",
+        "Landing with locked knees over the nose or tail rather than the bolts."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+ollie+skateboard+tutorial"
+    },
+    {
+      "id": "pop-shove-it",
+      "group": "Flat-ground tricks",
+      "name": "Pop shove-it",
+      "alt": "Spinning the board 180 under you",
+      "level": "Intermediate",
+      "muscles": "Calves · Hips · Core",
+      "desc": "Popping the tail backward and slightly down so the board spins 180 degrees beneath you while your body stays square and rises straight up. The spin comes entirely from the back foot's scoop; the front foot's job is to stay out of the way and catch the bolts. Jumping straight up over the spinning board is the whole trick.",
+      "exercises": [
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Lateral hops over line",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Seated spinal twist",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Scooping out and away so the board spins off behind you.",
+        "Rotating the shoulders with the board instead of staying square.",
+        "Catching with one foot and letting the board keep spinning out."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pop+shove+it+skateboard+tutorial"
+    },
+    {
+      "id": "frontside-180",
+      "group": "Flat-ground tricks",
+      "name": "Frontside 180",
+      "alt": "Ollie with a half body spin",
+      "level": "Intermediate",
+      "muscles": "Obliques · Hips · Calves",
+      "desc": "An ollie during which body and board rotate 180 degrees frontside together, landing rolling fakie. The rotation is pre-loaded by winding the shoulders against the hips before the pop, then releasing the coil as the board leaves the ground. Head leads, shoulders follow, board finishes — in that order.",
+      "exercises": [
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Jump squats with 180 turn",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Supine spinal twist",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "No shoulder pre-wind, so the board only makes it 90 degrees and you land sideways.",
+        "Rotating flat off the ground without a real ollie underneath.",
+        "Stopping the head mid-spin instead of turning it through to the landing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=frontside+180+skateboard+tutorial"
+    },
+    {
+      "id": "kickflip",
+      "group": "Flat-ground tricks",
+      "name": "Kickflip",
+      "alt": "Ollie with a flick that flips the board",
+      "level": "Advanced",
+      "muscles": "Calves · Hip flexors · Ankles",
+      "desc": "An ollie where the front foot flicks sharply off the heelside corner of the nose, spinning the board one full rotation along its length before the catch. The flip comes from a precise ankle flick at the top of the ollie — force without precision just sends the board away. Catching with the back foot first keeps the rotation from over-flipping.",
+      "exercises": [
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Ankle eversion with resistance band",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Tuck jumps",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Kicking forward off the nose instead of flicking out the heelside corner.",
+        "Body weight drifting behind the board, so it flips out in front of you.",
+        "Not committing both feet back onto the grip after the flick."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickflip+skateboard+tutorial"
+    },
+    {
+      "id": "heelflip",
+      "group": "Flat-ground tricks",
+      "name": "Heelflip",
+      "alt": "Kickflip's mirror — flicking with the heel",
+      "level": "Advanced",
+      "muscles": "Calves · Ankles · Hip flexors",
+      "desc": "An ollie where the front foot kicks out toward the toeside corner of the nose, flipping the board the opposite way to a kickflip with the heel doing the flicking. It rewards skaters whose toes naturally hang over the edge and punishes a lazy, low flick with half-flipped boards at the shins. Straight-up jump, diagonal kick, level catch.",
+      "exercises": [
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Ankle inversion with resistance band",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Downward dog calf pedal",
+        "Standing quad stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Kicking straight forward so the board flips slow and lands primo.",
+        "Leaning forward over the toes and jumping ahead of the board.",
+        "Flicking before the ollie peaks, killing all the height."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=heelflip+skateboard+tutorial"
+    },
+    {
+      "id": "manual",
+      "group": "Manuals & balance",
+      "name": "Manual",
+      "alt": "Rolling wheelie on the back wheels",
+      "level": "Intermediate",
+      "muscles": "Core · Hip flexors · Calves",
+      "desc": "Rolling balanced on the back wheels with the nose held just off the ground, steering the balance point with tiny ankle and hip corrections. The hold comes from a braced core and micro-adjustments — big corrections are already falls in progress. Arms out and eyes ahead extend the balance window dramatically.",
+      "exercises": [
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing calf stretch",
+        "Cat-cow",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Locking the tail against the ground instead of hovering above it.",
+        "Correcting with the whole upper body — the wobble amplifies each swing.",
+        "Looking down at the nose, which drags the balance point forward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=manual+skateboard+tutorial"
+    },
+    {
+      "id": "nose-manual",
+      "group": "Manuals & balance",
+      "name": "Nose manual",
+      "alt": "Wheelie on the front wheels",
+      "level": "Advanced",
+      "muscles": "Core · Quads · Ankles",
+      "desc": "Balancing on the front wheels with the tail lifted, weight pressed through a bent front leg while the back foot floats the tail. It is harder than the regular manual because the balance point sits ahead of you and a nose-dip means stopping dead. Control lives in the front ankle and a tall, quiet torso.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s / leg"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Couch stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Leaning the chest over the nose instead of dropping weight through a bent front knee.",
+        "Entering too slowly — a rolling nose manual is far more stable than a crawling one.",
+        "Letting the back foot press the tail down out of habit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=nose+manual+skateboard+tutorial"
+    },
+    {
+      "id": "pumping-transition",
+      "group": "Transition & ramps",
+      "name": "Pumping transition",
+      "alt": "Generating speed in ramps without pushing",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Building speed in a ramp or bowl by compressing through the flat bottom and extending up through each transition, adding energy to every swing like pumping a playground swing. The push comes from a well-timed leg drive against the curve, not from arm swings or wiggles. Once pumping clicks, transition skating stops costing energy and starts creating it.",
+      "exercises": [
+        {
+          "name": "Jump squats",
+          "scheme": "4 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 12",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Standing calf stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Pumping on the flat instead of extending exactly through the transition's curve.",
+        "Staying crouched the whole run — without extension there is no energy added.",
+        "Stiff ankles that lose board contact at the top of each wall."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+pump+transition+skateboarding+tutorial"
+    },
+    {
+      "id": "dropping-in",
+      "group": "Transition & ramps",
+      "name": "Dropping in",
+      "alt": "Tipping in from the ramp's edge",
+      "level": "Intermediate",
+      "muscles": "Quads · Core · Ankles",
+      "desc": "From tail on the coping, stamping the front foot over the bolts and driving the shoulders down the transition so all four wheels land together. It is almost purely a commitment move: lean forward and it works, lean back and the board shoots away. A low crouch and eyes across the ramp make the tip-in feel smaller than it looks.",
+      "exercises": [
+        {
+          "name": "Barbell front squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Leaning back at the moment of commitment — the classic slam onto the tailbone.",
+        "Stamping the front foot on the nose instead of over the front bolts.",
+        "Dropping in tall and stiff instead of crouched and springy."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+drop+in+skateboard+tutorial"
+    },
+    {
+      "id": "rock-to-fakie",
+      "group": "Transition & ramps",
+      "name": "Rock to fakie",
+      "alt": "Rocking the board over the coping and rolling back",
+      "level": "Advanced",
+      "muscles": "Hip flexors · Core · Quads",
+      "desc": "Riding up the transition, lapping the front truck over the coping, rocking the board like a seesaw, then lifting the nose clear and rolling back in fakie. The make-or-break moment is the exit: the front wheels must be lifted over the coping while the shoulders stay over the down-ramp. It teaches coping awareness for every lip trick that follows.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        },
+        {
+          "name": "Cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 16",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Seated spinal twist",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Forgetting to lift the nose on the way back — the front truck hangs up and slams you.",
+        "Leaning into the ramp's flat instead of keeping weight over the transition.",
+        "Rocking too fast to actually set the board before the return."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rock+to+fakie+skateboard+tutorial"
+    },
+    {
+      "id": "fifty-fifty-grind",
+      "group": "Grinds & slides",
+      "name": "50-50 grind",
+      "alt": "Grinding on both trucks",
+      "level": "Advanced",
+      "muscles": "Core · Quads · Ankles",
+      "desc": "Ollieing onto a ledge or rail so both trucks lock and grind along it, then popping or riding off the end. The lock comes from a precise ollie landed dead-square with weight centered over both trucks; any lean turns the grind into a slip. Approach angle and speed do most of the work before you ever leave the ground.",
+      "exercises": [
+        {
+          "name": "Box jumps with precise landing",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Deep squat hold",
+        "Lying figure-4",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Ollieing at the ledge from parallel instead of a slight approach angle.",
+        "Landing with weight toeside or heelside so the trucks slip straight off.",
+        "Stalling dead on the ledge because the approach had no speed."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=50-50+grind+skateboard+tutorial"
+    },
+    {
+      "id": "boardslide",
+      "group": "Grinds & slides",
+      "name": "Boardslide",
+      "alt": "Sliding the middle of the board along a rail",
+      "level": "Advanced",
+      "muscles": "Obliques · Quads · Core",
+      "desc": "Ollieing a 90-degree turn over a rail so the middle of the deck lands and slides along it, then turning back out to roll away. Balance comes from shoulders kept parallel to the rail and weight centered over the deck while the board slides beneath. Turning out early, before the rail ends, is what keeps the wheels from clipping.",
+      "exercises": [
+        {
+          "name": "Jump squats with 90 degree turn",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Supine spinal twist",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Leaning back as the board locks on — the slide-out onto the back happens instantly.",
+        "Turning only the board 90 degrees while the shoulders stay square to the runway.",
+        "Riding the slide to the very end of the rail and clipping the wheels on exit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boardslide+skateboard+tutorial"
+    }
+  ]
+}

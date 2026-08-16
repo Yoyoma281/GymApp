@@ -1,0 +1,708 @@
+{
+  "id": "kung-fu",
+  "name": "Kung Fu",
+  "emoji": "🐉",
+  "tag": "KF",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "ma-bu",
+      "group": "Stances & footwork",
+      "name": "Ma bu",
+      "alt": "Horse stance hold",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Adductors",
+      "desc": "The foundation stance of Chinese martial arts: feet wide, thighs sinking toward parallel, spine vertical, fists chambered at the hips. Traditional schools measure progress in minutes held — the stance forges leg endurance, breath control, and the rooted structure every technique launches from. Sink lower as the legs strengthen; never let the posture buy comfort.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 60s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Butterfly stretch",
+        "Frog stretch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Knees collapsing inward instead of tracking over the toes.",
+        "Hips tilting forward and arching the lower back.",
+        "Rising taller as fatigue builds instead of holding the set depth."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ma+bu+horse+stance+kung+fu+tutorial"
+    },
+    {
+      "id": "gong-bu",
+      "group": "Stances & footwork",
+      "name": "Gong bu",
+      "alt": "Bow stance",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Hip flexors",
+      "desc": "The long forward stance: front knee bent over the toes, rear leg straight and driving, hips square to the front. It is the delivery platform for straight punches and palm strikes — power flows from the rear foot's push through the squared hips. Transitioning cleanly between ma bu and gong bu is the first footwork skill.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Sled push",
+          "scheme": "4 × 20 m",
+          "wgerId": 1523
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Standing calf stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Rear heel lifting off the floor, breaking the drive line.",
+        "Hips left angled sideways instead of squared to the front.",
+        "Front knee sliding past the toes under load."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=gong+bu+bow+stance+kung+fu+tutorial"
+    },
+    {
+      "id": "wu-bu-transitions",
+      "group": "Stances & footwork",
+      "name": "Five-stance transitions",
+      "alt": "Flowing between ma bu, gong bu, xu bu, pu bu, xie bu",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Hips",
+      "desc": "Linking the five basic stances in a continuous flow while the head stays level and the hips stay low. The skill is transferring weight smoothly through the low positions without bobbing up to rest — the legs work like pistons under a still torso. This drill is the mobility-under-load engine of all forms work.",
+      "exercises": [
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Goblet squat with pause",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Single-leg balance on wobble board",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Cossack squat hold",
+        "90/90 hip switch",
+        "Frog stretch"
+      ],
+      "mistakes": [
+        "Standing up between stances instead of staying low through the transition.",
+        "Rushing the flow and arriving in shallow, unset positions.",
+        "Eyes dropping to the feet instead of staying on an imagined opponent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kung+fu+five+stances+transition+drill"
+    },
+    {
+      "id": "chong-quan",
+      "group": "Punches & strikes",
+      "name": "Chong quan",
+      "alt": "Straight thrust punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "The basic corkscrew punch fired from the hip chamber, usually drilled in ma bu or gong bu in alternating chains. The fist rotates palm-down at full extension while the opposite hand snaps back to the hip with equal force. Drilled in long sets, it welds hip, waist, and shoulder into one delivery system.",
+      "exercises": [
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 346
+        },
+        {
+          "name": "Medicine ball chest throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Push-ups on knuckles",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Thread the needle"
+      ],
+      "mistakes": [
+        "Punching from the shoulder while the waist stays frozen.",
+        "Weak pulling hand — the returning fist powers the outgoing one.",
+        "Wrist bending at extension instead of a straight line to the first two knuckles."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=chong+quan+kung+fu+straight+punch+tutorial"
+    },
+    {
+      "id": "lian-huan-quan",
+      "group": "Punches & strikes",
+      "name": "Lian huan quan",
+      "alt": "Continuous chain punching",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Triceps · Core",
+      "desc": "Rapid alternating straight punches down the center line, each fist rolling over the last in an unbroken chain. Speed comes from relaxation — the arms stay loose between impacts while the elbows track close to the ribs. The drill trains the center-line dominance that styles like Wing Chun are built around.",
+      "exercises": [
+        {
+          "name": "Band-resisted punches",
+          "scheme": "3 × 20 / side"
+        },
+        {
+          "name": "Cable single-arm chest press",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Plyometric push-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Triceps rope pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 1900,
+          "imageUrl": "https://wger.de/media/exercise-images/1900/a8243245-8f8f-4e2b-93ca-694d416cb11d.png"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Overhead triceps stretch",
+        "Wrist flexor stretch",
+        "Wrist extensor stretch"
+      ],
+      "mistakes": [
+        "Elbows flaring wide off the center line between punches.",
+        "Tensing the shoulders, which throttles the chain's speed.",
+        "Reaching forward with the torso instead of keeping structure and letting the fists cycle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=chain+punching+kung+fu+tutorial"
+    },
+    {
+      "id": "tui-zhang",
+      "group": "Punches & strikes",
+      "name": "Tui zhang",
+      "alt": "Pushing palm strike",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "An open-palm thrust that drives the heel of the hand through the target with the whole body behind it. The wrist cocks back late so the palm arrives structurally stacked over the forearm, transferring leg drive without risking the knuckles. It teaches issuing force from the ground up — fa jin in its simplest form.",
+      "exercises": [
+        {
+          "name": "Landmine rotational press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Sled push",
+          "scheme": "4 × 15 m",
+          "wgerId": 1523
+        },
+        {
+          "name": "Medicine ball push throws from split stance",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Doorway pec stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Striking with the fingers or flat palm instead of the heel of the hand.",
+        "Pushing with the arm after the body has stopped moving.",
+        "Locking the elbow violently at full extension."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=palm+strike+kung+fu+tutorial"
+    },
+    {
+      "id": "deng-tui",
+      "group": "Kicks",
+      "name": "Deng tui",
+      "alt": "Front heel kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Glutes",
+      "desc": "A straight kick that chambers the knee and drives the heel forward with the toes pulled back. Unlike a snapping toe kick it thrusts through the target, borrowing the hip's forward drive. It doubles as a stop-kick against an advancing opponent and as the base pattern for all thrusting kicks.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1740
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Calf wall stretch",
+        "Seated toe reach"
+      ],
+      "mistakes": [
+        "Kicking with pointed toes instead of leading with the heel.",
+        "Leaning far back and losing the hip drive forward.",
+        "No re-chamber — the leg drops straight down after impact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=deng+tui+front+heel+kick+kung+fu+tutorial"
+    },
+    {
+      "id": "tan-tui",
+      "group": "Kicks",
+      "name": "Tan tui",
+      "alt": "Springing snap kick",
+      "level": "Beginner",
+      "muscles": "Quads · Hip flexors · Calves",
+      "desc": "A low, whipping snap kick to shin or knee height, flicked out from the knee like a released spring and paired with hand techniques above it. The famous Tan Tui line routines chain it with punches so the hands and feet learn to arrive together. Its virtues are speed, disguise, and never compromising the stance.",
+      "exercises": [
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 2 min",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Calf wall stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Lifting the whole leg from the hip instead of snapping from the knee.",
+        "Kicking high and slow when the technique lives low and fast.",
+        "Hands going dead while the leg works — tan tui is a hands-and-feet rhythm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tan+tui+springing+leg+kung+fu+tutorial"
+    },
+    {
+      "id": "ce-chuai-tui",
+      "group": "Kicks",
+      "name": "Ce chuai tui",
+      "alt": "Side thrust kick",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hips · Obliques",
+      "desc": "The kung fu side kick: knee chambered across the body, hips stacked, then the heel driven out on a straight line with the torso counterbalancing. Wushu practice adds a held extension — pausing the kick mid-air — which builds the hip strength that makes the fast version effortless. Control equals power here.",
+      "exercises": [
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Side-lying leg raises",
+          "scheme": "3 × 15 / side",
+          "wgerId": 377,
+          "imageUrl": "https://wger.de/media/exercise-images/125/Leg-raises-2.png"
+        },
+        {
+          "name": "Slow motion side kick holds",
+          "scheme": "3 × 5 × 5s / leg"
+        },
+        {
+          "name": "Side plank with top-leg raise",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Single-leg leg press",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1515
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Cossack squat hold",
+        "Lying figure-4",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Hips unstacked so the kick pushes diagonally instead of piercing.",
+        "Dropping the torso to the floor to fake height.",
+        "Striking with the flat foot instead of heel and blade."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=side+kick+kung+fu+wushu+tutorial"
+    },
+    {
+      "id": "bai-lian-jiao",
+      "group": "Kicks",
+      "name": "Bai lian jiao",
+      "alt": "Outside crescent kick (lotus kick)",
+      "level": "Intermediate",
+      "muscles": "Hips · Obliques · Hip flexors",
+      "desc": "A straight-leg kick swept up the center line and out in a wide arc, slapping the outside edge of the foot into the raised palm in training. It opens the hip in the opposite direction from most kicks, building the rotational range that spinning techniques depend on. Height and sweep grow from hamstring and hip mobility, not brute swing.",
+      "exercises": [
+        {
+          "name": "Cable straight-leg hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Hanging straight-leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Cable horizontal woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "Standing hamstring stretch",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Bending the knee mid-arc, collapsing the sweep.",
+        "Rotating the whole torso with the kick instead of keeping the chest square.",
+        "Swinging from momentum only, with no control at the top of the arc."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bai+lian+outside+crescent+kick+wushu+tutorial"
+    },
+    {
+      "id": "xuan-feng-jiao",
+      "group": "Kicks",
+      "name": "Xuan feng jiao",
+      "alt": "Tornado kick",
+      "level": "Advanced",
+      "muscles": "Hips · Core · Calves",
+      "desc": "The wushu tornado kick: a running or stepping 360-degree jump spin finishing with an inside crescent kick that slaps the opposite palm mid-air. The cross-step converts sprint momentum into rotation, the arms wrap hard to accelerate the spin, and the kick fires at the top of the jump. It is the gateway technique to all aerial kicks.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Medicine ball rotational slams",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Hanging knee raises with twist",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Jumping before the cross-step finishes, so the spin has no stored rotation.",
+        "Arms hanging loose instead of wrapping to whip the turn.",
+        "Kicking on the way down instead of at the peak of the jump."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=xuan+feng+jiao+tornado+kick+tutorial"
+    },
+    {
+      "id": "hu-zhua",
+      "group": "Animal styles",
+      "name": "Hu zhua",
+      "alt": "Tiger claw strikes",
+      "level": "Intermediate",
+      "muscles": "Forearms · Grip · Shoulders",
+      "desc": "The tiger shape: fingers clawed and tensed, striking with the palm heel then raking or seizing on the recoil. Tiger work is direct and heavy — deep stances, aggressive forward pressure, and crushing grip strength turned into strikes. Conditioning the hands and forearms is half the style.",
+      "exercises": [
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30 m"
+        },
+        {
+          "name": "Fingertip push-ups",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 346
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Finger extensor stretch with band",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Claw shape held rigid the whole time instead of tensing only at contact.",
+        "Slapping with the fingers rather than driving the palm heel first.",
+        "All arm, no stance — tiger power is bodyweight moving forward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tiger+claw+kung+fu+technique+tutorial"
+    },
+    {
+      "id": "tang-lang-gou",
+      "group": "Animal styles",
+      "name": "Tang lang gou",
+      "alt": "Praying mantis hook hand",
+      "level": "Advanced",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "The mantis hook: wrist flexed into a hook that snags the opponent's arm, redirects it, and clears the line for an instant counter. Techniques chain in rapid grab-strike rhythms, demanding fast, precise wrists and elastic shoulders. It trains the trapping-hand sensitivity that separates mantis boxing from pure striking styles.",
+      "exercises": [
+        {
+          "name": "Reverse-grip wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1290,
+          "imageUrl": "https://wger.de/media/exercise-images/1290/c05818bf-1c81-46df-9f24-42e354265388.png"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Battle rope intervals",
+          "scheme": "4 × 20s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Thread the needle"
+      ],
+      "mistakes": [
+        "Grabbing and holding on instead of hooking, redirecting, and striking in one beat.",
+        "Wrist too soft, letting the hook collapse under the opponent's arm.",
+        "Watching the trapping hand instead of the opponent's center."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=praying+mantis+kung+fu+hook+hand+tutorial"
+    },
+    {
+      "id": "wu-bu-quan",
+      "group": "Forms & flexibility",
+      "name": "Wu bu quan",
+      "alt": "Five-stance form",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Full body",
+      "desc": "The first form of modern wushu: a short routine linking the five fundamental stances with basic punches, blocks, and a snap kick. It is judged on depth of stance, clean shapes, and a level head throughout the transitions. Every long form is built from the vocabulary this routine installs.",
+      "exercises": [
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Walking lunges with rotation",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Kettlebell halos",
+          "scheme": "3 × 8 / direction"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Kneeling hip flexor stretch",
+        "Seated straddle",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Shallow stances that make the form easier but empty.",
+        "Head bobbing up and down through the transitions.",
+        "Performing shapes without intent — every movement should strike or defend something."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wu+bu+quan+five+stance+form+tutorial"
+    },
+    {
+      "id": "zheng-ti-tui",
+      "group": "Forms & flexibility",
+      "name": "Zheng ti tui",
+      "alt": "Front stretch kick",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Hip flexors · Core",
+      "desc": "A straight-leg swing kick toward the forehead, walked in lines with the torso upright and the standing leg locked. It is flexibility training disguised as kicking: each rep actively stretches the hamstring at speed, building the loose, controlled hips wushu kicking demands. Height is earned rep by rep, never yanked.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Hanging straight-leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Cable straight-leg kickbacks",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Glute ham raises",
+          "scheme": "3 × 8",
+          "wgerId": 2478
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying hamstring stretch with strap",
+        "Seated toe reach",
+        "Downward dog",
+        "Front split progression"
+      ],
+      "mistakes": [
+        "Leaning the torso back to buy height instead of keeping it tall.",
+        "Bending either knee — both legs stay straight throughout.",
+        "Kicking with momentum only and slamming the leg down uncontrolled."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=zheng+ti+tui+front+stretch+kick+wushu+tutorial"
+    },
+    {
+      "id": "ya-tui",
+      "group": "Forms & flexibility",
+      "name": "Ya tui",
+      "alt": "Pressing leg stretch",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Adductors · Hips",
+      "desc": "The classical leg-pressing routine: heel on a bar or rail at waist height and above, folding the chest to the shin in front, side, and back positions. Done daily it is the engine behind wushu's high kicks and full splits. The press is patient and breathing-led — force applied gradually on the exhale, never bounced.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10 light, full range",
+          "wgerId": 507
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Seated good mornings",
+          "scheme": "3 × 10",
+          "wgerId": 1845
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Side split progression",
+        "Seated straddle",
+        "Standing hamstring stretch",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Bouncing into the stretch instead of pressing gradually with the breath.",
+        "Rounding the spine to reach the shin rather than folding from the hips.",
+        "Only stretching the favorite leg and building a lopsided kicking range."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ya+tui+leg+pressing+stretch+wushu+tutorial"
+    }
+  ]
+}

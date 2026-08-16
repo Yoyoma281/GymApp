@@ -1,0 +1,704 @@
+{
+  "id": "krav-maga",
+  "name": "Krav Maga",
+  "emoji": "🛡️",
+  "tag": "KM",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "palm-strike",
+      "group": "Strikes",
+      "name": "Palm heel strike",
+      "alt": "Open-hand straight strike",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "A straight strike with the heel of the palm to the nose or chin — the safest hand weapon for an untrained fist under stress. Power is generated exactly like a cross: rear foot drives, hips rotate, arm extends through the target. Krav Maga's first strike because it works barehanded on hard targets.",
+      "exercises": [
+        {
+          "name": "Landmine punch press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Med-ball chest pass",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 12",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Wrist extensor stretch",
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Neck side flexion"
+      ],
+      "mistakes": [
+        "Striking with a bent wrist — the heel of the palm must be stacked behind the forearm.",
+        "Pushing the target instead of striking through and recoiling.",
+        "No hip rotation, turning a strike into a shove."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+palm+heel+strike+tutorial"
+    },
+    {
+      "id": "hammer-fist",
+      "group": "Strikes",
+      "name": "Hammer fist",
+      "alt": "Downward & lateral fist strike",
+      "level": "Beginner",
+      "muscles": "Shoulders · Lats · Core",
+      "desc": "Striking with the meaty bottom of the fist — downward onto the nose or collarbone, sideways to a flanking attacker. It needs no precise fist formation and hits hard from awkward angles, which makes it a stress-proof weapon. The whole body drops or rotates into the strike like swinging a hammer.",
+      "exercises": [
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Med-ball overhead slams",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Cross-body shoulder stretch",
+        "Triceps overhead stretch",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Swinging with the arm only instead of dropping bodyweight through the strike.",
+        "Winding up high and telegraphing the blow.",
+        "Striking with the knuckles instead of the padded bottom of the fist."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+hammer+fist+technique"
+    },
+    {
+      "id": "front-kick-groin",
+      "group": "Strikes",
+      "name": "Front kick to the groin",
+      "alt": "Kick to the soft target",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Core",
+      "desc": "A rising kick driven upward between the attacker's legs with the shin or instep — not a push kick, a whip. The knee spears up first, then the hip snaps the lower leg through the target. One of Krav Maga's highest-value strikes: fast, hard to see and immediately disabling.",
+      "exercises": [
+        {
+          "name": "Cable knee drives",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge stretch",
+        "Hamstring stretch on rack",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Kicking forward like a push kick instead of upward through the groin.",
+        "Leaning back and losing balance instead of keeping the base under the hips.",
+        "Dropping both hands while kicking."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+front+kick+groin+tutorial"
+    },
+    {
+      "id": "elbow-strikes",
+      "group": "Strikes",
+      "name": "Elbow strikes",
+      "alt": "Horizontal, upward & rear elbows",
+      "level": "Intermediate",
+      "muscles": "Core · Shoulders · Hips",
+      "desc": "Close-range strikes with the point of the elbow, delivered in every direction — horizontal to the jaw, upward under the chin, backward into an attacker behind you. The elbow is the hardest surface on the body; the hips and torso rotation supply all the force. Essential when an attacker is inside punching range.",
+      "exercises": [
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Thread the needle",
+        "Doorway pec stretch",
+        "Triceps overhead stretch",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Striking with the forearm instead of the tip of the elbow.",
+        "Arm-swinging without rotating the hips and shoulders through.",
+        "Standing static after the elbow instead of following up or moving."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+elbow+strikes+tutorial"
+    },
+    {
+      "id": "knee-strike",
+      "group": "Strikes",
+      "name": "Knee strike",
+      "alt": "Clinch knee to groin or body",
+      "level": "Intermediate",
+      "muscles": "Hips · Core · Hamstrings",
+      "desc": "Driving the knee upward into the groin, thigh or midsection while controlling the attacker's shoulder and arm. Pull the attacker onto the strike as the hips snap forward — the collision doubles the force. The default weapon once the fight collapses to grabbing range.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Cable knee drives",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Couch stretch",
+        "Hamstring stretch on rack",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Lifting the knee without driving the hips through it.",
+        "Losing grip control so the attacker angles away from the strike.",
+        "Leaning back to raise the knee higher and sacrificing balance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+knee+strike+technique"
+    },
+    {
+      "id": "360-defense",
+      "group": "Defenses",
+      "name": "360 defense",
+      "alt": "Outside defense against circular attacks",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "Instinctive blocking against hooks, wild swings and overhead knife-like attacks: the forearm meets the attacking arm at 90 degrees, wrist to wrist, on any of seven positions around the body. Built on the flinch reflex, so it works under surprise. In Krav Maga the block and the counterstrike happen together, never in sequence.",
+      "exercises": [
+        {
+          "name": "Band external rotations",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Reaction-ball catches",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Dumbbell front raise isometric hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Neck rolls"
+      ],
+      "mistakes": [
+        "Blocking with a soft, bent wrist instead of a rigid forearm frame.",
+        "Defending without counterattacking in the same beat.",
+        "Chasing the attack with the eyes and turning the head away from the attacker."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+360+defense+drill"
+    },
+    {
+      "id": "inside-defense",
+      "group": "Defenses",
+      "name": "Inside defense",
+      "alt": "Defense against straight punches",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "Redirecting a straight punch with a small inward slap of the palm while the head shifts off the line — defense and evasion in one motion. The hand moves only as far as the width of the attacker's fist; economy is the technique. Immediately followed by simultaneous or bursting counters.",
+      "exercises": [
+        {
+          "name": "Reaction-ball catches",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Single-arm cable press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1969
+        },
+        {
+          "name": "Band rotations",
+          "scheme": "3 × 15 / side"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Neck side flexion",
+        "Cat-cow",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Slapping wide across the body and opening the opposite line.",
+        "Moving only the hand — the head must slide off the punch line too.",
+        "Waiting to see the punch fully before committing the defense."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+inside+defense+straight+punch"
+    },
+    {
+      "id": "overhead-knife-defense",
+      "group": "Defenses",
+      "name": "Overhead attack defense",
+      "alt": "Defense vs downward stab or club",
+      "level": "Advanced",
+      "muscles": "Shoulders · Forearms · Legs",
+      "desc": "Bursting diagonally forward into a descending attack, meeting the attacking forearm with a rigid 360-style frame while the other hand counterattacks the throat or face. Distance is safety: either fully inside the arc or fully outside it — never at the blade's tip. Control of the weapon arm follows immediately after the burst.",
+      "exercises": [
+        {
+          "name": "Push press",
+          "scheme": "4 × 5",
+          "wgerId": 478,
+          "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg"
+        },
+        {
+          "name": "Isometric overhead plate hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Split-stance jump lunges",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Band external rotations",
+          "scheme": "3 × 12 / side"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Lat stretch on rack",
+        "Hip flexor lunge stretch"
+      ],
+      "mistakes": [
+        "Leaning away and blocking at arm’s length instead of bursting in.",
+        "Blocking without simultaneously counterstriking.",
+        "Releasing the weapon arm after the first counter."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+overhead+knife+defense"
+    },
+    {
+      "id": "front-choke-release",
+      "group": "Escapes",
+      "name": "Front choke release",
+      "alt": "Plucking defense vs two-hand choke",
+      "level": "Beginner",
+      "muscles": "Biceps · Back · Core",
+      "desc": "Against hands on your throat: both hands hook and pluck the attacker's thumbs explosively down and away while a knee drives into the groin. The pluck exploits the grip's weakest link — the thumbs — and the counterattack starts before the airway is even clear. Explosiveness, not strength, breaks the choke.",
+      "exercises": [
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Band face pulls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Cable knee drives",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Chin tucks",
+        "Neck side flexion",
+        "Biceps wall stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Grabbing and peeling the wrists instead of plucking the thumbs.",
+        "Plucking slowly and evenly — it must be one explosive snap.",
+        "Escaping the choke without striking back immediately."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+choke+defense+pluck+front"
+    },
+    {
+      "id": "rear-choke-release",
+      "group": "Escapes",
+      "name": "Rear choke release",
+      "alt": "Defense vs choke from behind",
+      "level": "Intermediate",
+      "muscles": "Back · Shoulders · Legs",
+      "desc": "Against a choke or forearm from behind: tuck the chin, pluck down on the choking arm, step to the side and turn aggressively into the attacker with elbows and hammer fists. The first half-second — chin tuck plus pluck — is what keeps you conscious. Then the turn converts defense into attack.",
+      "exercises": [
+        {
+          "name": "Chin-ups",
+          "scheme": "3 × 6",
+          "wgerId": 152,
+          "imageUrl": "https://wger.de/media/exercise-images/152/6c1a7459-266d-491a-bd50-7cbaea2bc771.png"
+        },
+        {
+          "name": "Neck curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 12",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        },
+        {
+          "name": "Lateral box step-ups",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Chin tucks",
+        "Upper-trap stretch",
+        "Thread the needle",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Reaching back overhead for the attacker instead of attacking the choking arm.",
+        "Turning without first releasing pressure on the airway.",
+        "Staying square and pulling forward — that tightens the choke."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+rear+naked+choke+defense+standing"
+    },
+    {
+      "id": "bearhug-escape",
+      "group": "Escapes",
+      "name": "Bearhug escape",
+      "alt": "Defense vs front & rear bearhug",
+      "level": "Intermediate",
+      "muscles": "Legs · Hips · Core",
+      "desc": "Against a crushing body grab: immediately drop your weight into a wide base so you can't be lifted, then attack — headbutts, groin strikes and foot stomps from the front, or shifting hips and striking back from the rear. Base first, damage second, space third. The escape is a sequence of pain, not a wrestling match.",
+      "exercises": [
+        {
+          "name": "Sumo deadlifts",
+          "scheme": "4 × 6",
+          "wgerId": 630,
+          "imageUrl": "https://wger.de/media/exercise-images/630/b0f0c7d8-5878-4d9e-b820-21acc013741d.webp"
+        },
+        {
+          "name": "Goblet squat pulses",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Isometric bear-hug plate holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Adductor rock-backs",
+        "Hip flexor lunge stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Pulling at the attacker’s arms instead of dropping the base and striking.",
+        "Staying tall and getting lifted off the ground.",
+        "Stopping after one strike instead of chaining attacks until space opens."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+bear+hug+defense+tutorial"
+    },
+    {
+      "id": "headlock-escape",
+      "group": "Escapes",
+      "name": "Side headlock escape",
+      "alt": "Release from standing headlock",
+      "level": "Advanced",
+      "muscles": "Neck · Back · Legs",
+      "desc": "Trapped under a side headlock: turn the chin toward the attacker to protect the airway, strike the groin, then climb the free hand to the attacker's face and lever the head back while stepping behind their legs. The face lever bends the spine backward — no strength contest with the arms can match it. Finish with strikes as you take control.",
+      "exercises": [
+        {
+          "name": "Neck harness extensions",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Single-arm dumbbell rows",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1637,
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+        },
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Neck side flexion",
+        "Chin tucks",
+        "Lat stretch on rack",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Pulling backward out of the headlock — that feeds the choke and takedown.",
+        "Forgetting the groin strike that loosens the grip before the face lever.",
+        "Levering the face without stepping the legs into position behind the attacker."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+headlock+escape+standing"
+    },
+    {
+      "id": "burst-drill",
+      "group": "Stress drills",
+      "name": "Burst counterattack drill",
+      "alt": "Explosive aggression on cue",
+      "level": "Beginner",
+      "muscles": "Full body · Legs · Shoulders",
+      "desc": "On a partner's signal — a raised pad, a shout — explode from a passive stance into a continuous flurry of palm strikes, hammer fists and knees until the stop command. Trains the switch from calm to maximum aggression, the core Krav Maga attribute. The first movement must be forward.",
+      "exercises": [
+        {
+          "name": "Med-ball slam to sprint",
+          "scheme": "5 × 1"
+        },
+        {
+          "name": "Burpees",
+          "scheme": "3 × 12",
+          "wgerId": 132
+        },
+        {
+          "name": "Battle ropes",
+          "scheme": "6 × 20s",
+          "wgerId": 1524
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Child’s pose",
+        "Standing quad stretch",
+        "Doorway pec stretch",
+        "Hamstring stretch on rack"
+      ],
+      "mistakes": [
+        "Hesitating between the cue and the first strike.",
+        "Bursting backward or sideways instead of straight into the threat.",
+        "Flailing with arm-only strikes as fatigue sets in."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+burst+attack+pad+drill"
+    },
+    {
+      "id": "eyes-closed-drill",
+      "group": "Stress drills",
+      "name": "Eyes-closed reaction drill",
+      "alt": "Surprise-attack response",
+      "level": "Intermediate",
+      "muscles": "Full body · Core · Neck",
+      "desc": "Standing with eyes closed while a partner initiates a random grab, choke or bearhug — you identify the attack by feel and execute the matching release at full speed. Removes the luxury of visual warning and forges recognition under startle. This is where techniques become reflexes.",
+      "exercises": [
+        {
+          "name": "Reaction-ball catches",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Turkish get-ups",
+          "scheme": "3 × 3 / side",
+          "wgerId": 675
+        },
+        {
+          "name": "Single-leg balance-board stands",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Neck curls",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Neck rolls",
+        "Cat-cow",
+        "Lying spinal twist",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Guessing the defense before feeling where the attack actually is.",
+        "Freezing at contact instead of moving on first touch.",
+        "Opening the eyes early and rehearsing instead of reacting."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+eyes+closed+stress+drill"
+    },
+    {
+      "id": "exhaustion-drill",
+      "group": "Stress drills",
+      "name": "Fatigue fighting drill",
+      "alt": "Defenses under exhaustion",
+      "level": "Advanced",
+      "muscles": "Full body",
+      "desc": "Sprints, burpees and pad flurries drive the heart rate to its ceiling — then the defenses begin: chokes, bearhugs and attacks arriving while the body begs to quit. Real violence happens with adrenaline-flooded, oxygen-starved muscles, and this drill is the rehearsal. Technique that survives here survives anywhere.",
+      "exercises": [
+        {
+          "name": "Assault bike intervals",
+          "scheme": "8 × 20s"
+        },
+        {
+          "name": "Burpee sprawls",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "5 × 15m"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Child’s pose",
+        "Deep squat hold",
+        "Hamstring stretch on rack",
+        "Doorway pec stretch",
+        "Neck rolls"
+      ],
+      "mistakes": [
+        "Pacing the conditioning portion to save energy — it defeats the drill’s purpose.",
+        "Letting the guard and strikes go sloppy instead of fighting for form when tired.",
+        "Holding the breath under stress instead of breathing deliberately."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+fatigue+stress+training+drill"
+    },
+    {
+      "id": "multiple-attackers",
+      "group": "Stress drills",
+      "name": "Multiple-attacker drill",
+      "alt": "Two-on-one movement & escape",
+      "level": "Advanced",
+      "muscles": "Legs · Core · Full body",
+      "desc": "Two or more pad-holding partners pressure from different angles while you strike, redirect and constantly reposition so the attackers stack into a single line. The goal is never to trade in the middle — it's to fight your way to an exit. Footwork and scanning matter more than any single strike.",
+      "exercises": [
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Shuttle sprints",
+          "scheme": "6 × 10m"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Standing calf stretch",
+        "Lying figure-4",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Standing between two attackers instead of moving to line them up.",
+        "Tunnel vision on one attacker while the other flanks.",
+        "Fighting for a finish when the exit is already open."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+multiple+attackers+drill"
+    }
+  ]
+}

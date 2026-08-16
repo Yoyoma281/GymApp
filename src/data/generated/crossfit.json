@@ -1,0 +1,733 @@
+{
+  "id": "crossfit",
+  "name": "CrossFit",
+  "emoji": "🔥",
+  "tag": "CF",
+  "category": "Strength & fitness",
+  "drills": [
+    {
+      "id": "hollow-arch-beat-swing",
+      "group": "Gymnastics",
+      "name": "Hollow, arch and beat swing",
+      "alt": "The tight body shapes behind every kipping movement",
+      "level": "Beginner",
+      "muscles": "Core · Lats · Glutes · Shoulders",
+      "desc": "Every kipping movement is a rhythm between two rigid shapes: hollow (ribs down, abs on, toes pointed) and arch (chest open, glutes squeezed). The beat swing alternates them from the bar with straight arms, generating force from the shoulders and core — not from bent elbows. Master the swing before chasing a single kipping rep.",
+      "exercises": [
+        {
+          "name": "Hollow body holds",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Superman holds",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Hanging beat swings",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Thoracic foam-roller extension",
+        "Child's pose with side reach",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Bending the arms in the swing instead of pushing on the bar with straight arms.",
+        "A soft, noodly body — the shapes only transfer force when rigid.",
+        "Swinging from the hips with the shoulders doing nothing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hollow+arch+beat+swing+crossfit+tutorial"
+    },
+    {
+      "id": "kipping-pull-up",
+      "group": "Gymnastics",
+      "name": "Kipping pull-up",
+      "alt": "Using the swing to string fast pull-ups together",
+      "level": "Intermediate",
+      "muscles": "Lats · Core · Hip flexors · Shoulders",
+      "desc": "The kipping pull-up converts the beat swing into vertical propulsion: drive the hips as the body passes through arch, push down on the bar, and ride the momentum until the chin clears. The push-away at the top links the descent straight into the next arch. Earn strict pull-ups first — the shoulders need the strength base to survive the volume.",
+      "exercises": [
+        {
+          "name": "Strict pull-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hanging beat swings",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Kipping without strict strength and grinding the shoulders under fatigue.",
+        "Pulling early with the arms instead of finishing the hip drive.",
+        "Dropping from the top instead of pushing away into the next swing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kipping+pull+up+tutorial+crossfit"
+    },
+    {
+      "id": "butterfly-pull-up",
+      "group": "Gymnastics",
+      "name": "Butterfly pull-up",
+      "alt": "Continuous circular pull-ups for max cycle speed",
+      "level": "Advanced",
+      "muscles": "Lats · Shoulders · Core · Biceps",
+      "desc": "The butterfly traces a continuous circle: the chin passes the bar as the body travels forward and down, flowing straight into the next pull with no backswing pause. It is the fastest pull-up cycle in the sport but the least forgiving — timing errors compound within two or three reps. Build it only on a foundation of solid kipping sets of ten plus.",
+      "exercises": [
+        {
+          "name": "Weighted strict pull-ups",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Butterfly drills on low rings",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Banded shoulder dislocates",
+        "Biceps wall stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Learning butterfly before kipping is consistent — the timing has nothing to hold onto.",
+        "Kicking backward at the top and killing the forward circle.",
+        "Losing the rhythm under fatigue and muscling ugly half-reps instead of breaking early."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=butterfly+pull+up+tutorial+crossfit"
+    },
+    {
+      "id": "kipping-toes-to-bar",
+      "group": "Gymnastics",
+      "name": "Toes-to-bar",
+      "alt": "Swinging the toes up to touch the bar",
+      "level": "Intermediate",
+      "muscles": "Core · Hip flexors · Lats · Grip",
+      "desc": "Toes-to-bar rides the same hollow-arch engine: from the arch, push down on the bar, compress the hips, and flick the toes to the bar between the hands. Efficiency comes from letting the legs fall straight back into the next arch instead of dying at the bottom. Big sets are won by rhythm and grip economy, not abdominal heroics.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Hanging beat swings",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Timed bar hangs",
+          "scheme": "3 × 40s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lat stretch on rack",
+        "Cobra stretch",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Breaking the swing after every rep instead of linking the rebound.",
+        "Bending the knees and barely grazing the bar — full toes contact between the hands.",
+        "Gripping the bar in the palms and tearing instead of hooking the fingers."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=toes+to+bar+tutorial+crossfit"
+    },
+    {
+      "id": "handstand-push-up",
+      "group": "Gymnastics",
+      "name": "Kipping handstand push-up",
+      "alt": "Vertical pressing upside down against the wall",
+      "level": "Advanced",
+      "muscles": "Shoulders · Triceps · Core",
+      "desc": "The kipping handstand push-up lowers to a tripod of head and hands, loads the hips onto the chest, then drives the legs to the ceiling as the arms punch to lockout. The kip is a knee-drive timed with the press — hips rising as the elbows extend. Strict strength and a rock-solid wall handstand hold come first; the kip multiplies capacity, it doesn't replace it.",
+      "exercises": [
+        {
+          "name": "Seated dumbbell shoulder press",
+          "scheme": "4 × 8",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Pike push-ups on box",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Wall handstand holds",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Barbell push press",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Triceps overhead stretch",
+        "Lat stretch on rack",
+        "Wrist extensor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Landing on the top of the head instead of a controlled tripod with the forehead forward.",
+        "Kicking the legs before the arms press — the two must fire together.",
+        "Overarching the back at lockout instead of finishing in a stacked hollow line."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kipping+handstand+push+up+tutorial"
+    },
+    {
+      "id": "rope-climb",
+      "group": "Gymnastics",
+      "name": "Rope climb",
+      "alt": "Climbing with the legs doing the heavy lifting",
+      "level": "Intermediate",
+      "muscles": "Grip · Lats · Biceps · Hip flexors",
+      "desc": "Efficient rope climbing is a leg exercise with the hands along for the ride: clamp the rope with a J-hook or Spanish wrap, stand up on the locked foot, then reach and repeat. Each stand should gain half a meter or more while the arms merely hold position. Arms-only climbing is a party trick that torches grip mid-workout.",
+      "exercises": [
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Timed towel hangs",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Lat stretch on rack",
+        "Hip flexor stretch",
+        "Biceps wall stretch"
+      ],
+      "mistakes": [
+        "Climbing with the arms and arriving at the top with nothing left to descend.",
+        "A sloppy foot lock that slips and burns the rope across the ankle.",
+        "Sliding down freely — descend hand under hand with the feet still locked."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rope+climb+technique+crossfit+j+hook"
+    },
+    {
+      "id": "wall-ball-shot",
+      "group": "Weightlifting & wall balls",
+      "name": "Wall-ball shot",
+      "alt": "Squat and throw a medicine ball to a target",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Shoulders · Core",
+      "desc": "The wall ball is a front squat flowing into a push press that throws the ball to a 9 or 10 foot target. Power comes from timing the leg drive out of the squat into the throw — the arms only steer. Catching the ball high and riding it straight down into the next squat is what separates smooth sets from stop-start misery.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Barbell push press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Medicine ball throws to target",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Banded shoulder dislocates",
+        "Ankle dorsiflexion wall stretch"
+      ],
+      "mistakes": [
+        "Catching the ball low and absorbing it with the arms instead of riding it into the squat.",
+        "Cutting squat depth as fatigue builds — below parallel every rep.",
+        "Standing too far from the wall so every throw arcs and wastes energy."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wall+ball+shot+technique+crossfit"
+    },
+    {
+      "id": "thruster",
+      "group": "Weightlifting & wall balls",
+      "name": "Thruster",
+      "alt": "Front squat straight into an overhead press",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Shoulders · Triceps · Core",
+      "desc": "The thruster fuses a front squat and push press into one breath: the drive out of the hole flows directly into the bar leaving the shoulders, arms finishing overhead as the hips lock. There is no pause at the shoulders — momentum is the whole trick. Elbows stay high in the rack and the bar descends straight into the next squat.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Barbell push press",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Barbell thrusters",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Dumbbell thrusters",
+          "scheme": "3 × 10",
+          "wgerId": 1684
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Front rack stretch on rack",
+        "Deep squat hold",
+        "Lat stretch on rack",
+        "Triceps overhead stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Pausing at the shoulders and pressing from a dead stop, wasting the leg drive.",
+        "Elbows dropping in the squat, tipping the torso forward.",
+        "Short lockouts overhead that get no-repped in competition."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=thruster+technique+crossfit"
+    },
+    {
+      "id": "barbell-cycling",
+      "group": "Weightlifting & wall balls",
+      "name": "Barbell cycling",
+      "alt": "Fast touch-and-go reps of cleans and snatches",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Traps · Grip · Core",
+      "desc": "Cycling a barbell means linking touch-and-go reps — clean, snatch, or deadlift — with a controlled descent that becomes the next rep's loading phase. The eccentric is the skill: guide the bar down the same path it went up, hinge over it, and use the floor contact as a rebound, not a crash. Hook grip and a patient hip rhythm keep sets unbroken deep into a workout.",
+      "exercises": [
+        {
+          "name": "Touch-and-go power cleans",
+          "scheme": "5 × 5"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Clean-grip high pulls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Timed barbell holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor stretch",
+        "Forearm flexor stretch",
+        "Lat stretch on rack",
+        "Thumb and wrist stretch"
+      ],
+      "mistakes": [
+        "Dropping the chest and rounding on the way down between reps.",
+        "Skipping the hook grip and losing the bar to grip fatigue mid-set.",
+        "Choosing unbroken sets your engine can't afford instead of planned quick singles."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=barbell+cycling+touch+and+go+crossfit"
+    },
+    {
+      "id": "box-jump",
+      "group": "Jump rope & plyometrics",
+      "name": "Box jump",
+      "alt": "Explosive two-foot jump onto a box",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Calves · Core",
+      "desc": "The box jump loads a quarter squat with an aggressive arm swing and lands softly on top in the same quarter-squat shape. Height comes from triple extension of hips, knees, and ankles — not from tucking the knees to the chest. In workouts, the step-down rebound rhythm protects the Achilles while keeping the pace honest.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Downward dog calf pedal",
+        "Kneeling hip flexor stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Landing in a deep collapsed squat because the box is too high for the jump.",
+        "Scraped shins from jumping off the toes without a full hip drive.",
+        "Bounding straight into rebound reps under heavy fatigue and courting an Achilles injury."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=box+jump+technique+crossfit"
+    },
+    {
+      "id": "double-under",
+      "group": "Jump rope & plyometrics",
+      "name": "Double-under",
+      "alt": "Two rope passes per jump",
+      "level": "Intermediate",
+      "muscles": "Calves · Forearms · Shoulders · Core",
+      "desc": "The double-under spins the rope twice per jump using fast wrists, not big arms — hands stay low and close to the hips while the body jumps slightly higher and slower than a single-under. The paradox is relaxation: a tall, quiet bounce with soft knees outlasts frantic donkey-kicking every time. Practice in short daily sets before workouts, when the calves are fresh.",
+      "exercises": [
+        {
+          "name": "Jump rope singles",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 20",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Wrist curls with dumbbell",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "4 × 20"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Calf wall stretch",
+        "Downward dog calf pedal",
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Shoulder rolls"
+      ],
+      "mistakes": [
+        "Wide 'chicken wing' arms that shorten the rope and catch the feet.",
+        "Piking or donkey-kicking instead of a tall, straight-body bounce.",
+        "Speeding up the jump when the rope should speed up instead."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=double+under+tutorial+crossfit"
+    },
+    {
+      "id": "burpee-efficiency",
+      "group": "Jump rope & plyometrics",
+      "name": "Burpee efficiency",
+      "alt": "The lazy burpee — smooth reps that never redline",
+      "level": "Beginner",
+      "muscles": "Chest · Quads · Glutes · Core",
+      "desc": "In a workout the burpee is a pacing instrument: drop with control, let the chest touch, then step or snap the feet wide outside the hands to rise with less hip flexion demand. A steady breath-per-rep cadence you can hold for minutes beats sprint-and-stall every time. Efficiency, not intensity, wins burpee-heavy workouts.",
+      "exercises": [
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Bodyweight squats",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Burpees at steady tempo",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 30s",
+          "wgerId": 996
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Downward dog",
+        "Kneeling hip flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Sprinting the first ten and standing bent-over gasping for the next thirty seconds.",
+        "Snaking the chest off the floor one vertebra at a time instead of a rigid push-up.",
+        "Jumping the feet so far under the hands that every rep costs a deep squat."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=efficient+burpee+technique+crossfit"
+    },
+    {
+      "id": "breathing-under-fatigue",
+      "group": "Engine & pacing",
+      "name": "Breathing under fatigue",
+      "alt": "Keeping the breath rhythmic when the workout bites",
+      "level": "Beginner",
+      "muscles": "Diaphragm · Intercostals · Core",
+      "desc": "Panicked, shallow breathing is usually what ends a set — not the muscles. Pairing breath to movement (exhale on every wall-ball throw, breathe every two reps on the bar) keeps CO2 manageable and the heart rate a gear lower. Nasal breathing on easy pieces and deliberate recovery breaths between sets are trainable skills, not talents.",
+      "exercises": [
+        {
+          "name": "Zone 2 rowing with nasal breathing",
+          "scheme": "3 × 8 min"
+        },
+        {
+          "name": "Assault bike intervals",
+          "scheme": "6 × 30s hard / 60s easy"
+        },
+        {
+          "name": "Dead bug with full exhale",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Front plank with slow breathing",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Child's pose breathing",
+        "Supine 90/90 breathing",
+        "Cat-cow",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Holding the breath through reps and paying with a heart-rate spike.",
+        "Collapsing hands-on-knees instead of standing tall and forcing long exhales.",
+        "Never practicing breath patterns until a workout forces the panic."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=breathing+techniques+crossfit+workouts"
+    },
+    {
+      "id": "pacing-the-wod",
+      "group": "Engine & pacing",
+      "name": "Pacing the WOD",
+      "alt": "Negative-splitting workouts instead of flying and dying",
+      "level": "Intermediate",
+      "muscles": "Aerobic system · Full body",
+      "desc": "Most workouts are lost in the first ninety seconds by going out at sprint pace. The skill is choosing a rep pace and planned break scheme you can hold in round three, then speeding up when others fade. Score the workout before it starts: target splits per round, where to break sets, and what the last two minutes should feel like.",
+      "exercises": [
+        {
+          "name": "Rowing negative-split intervals",
+          "scheme": "4 × 500 m"
+        },
+        {
+          "name": "EMOM practice pieces",
+          "scheme": "12 min EMOM"
+        },
+        {
+          "name": "Assault bike pace-hold intervals",
+          "scheme": "5 × 2 min"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Pigeon pose",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Matching the fastest athlete's opening pace instead of your own plan.",
+        "Unbroken sets early that force long stares at the bar later.",
+        "No plan at all — deciding when to rest while already gasping."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+pace+crossfit+wod"
+    },
+    {
+      "id": "transition-efficiency",
+      "group": "Engine & pacing",
+      "name": "Transition efficiency",
+      "alt": "Stealing seconds between movements",
+      "level": "Intermediate",
+      "muscles": "Full body · Focus",
+      "desc": "In a multi-movement workout, the rest you take walking between stations often costs more than the reps. Set up equipment in a tight triangle, finish each set moving toward the next piece, and take measured breaths in motion rather than standing rest. Ten transitions at three saved seconds each is a free half minute on the leaderboard.",
+      "exercises": [
+        {
+          "name": "Circuit practice: row-to-barbell-to-rig",
+          "scheme": "5 rounds for time"
+        },
+        {
+          "name": "Sled push sprints",
+          "scheme": "4 × 15 m"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        },
+        {
+          "name": "Burpees at steady tempo",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Full-body foam rolling",
+        "Downward dog",
+        "Hip circles",
+        "Shoulder rolls"
+      ],
+      "mistakes": [
+        "Walking slow laps between stations as disguised extra rest.",
+        "Chalking up every round as a ritual rather than a need.",
+        "Poor equipment layout that adds meters to every single round."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=crossfit+transition+efficiency+tips"
+    },
+    {
+      "id": "chipper-strategy",
+      "group": "Engine & pacing",
+      "name": "Chipper and interval strategy",
+      "alt": "Breaking big rep sets before they break you",
+      "level": "Advanced",
+      "muscles": "Aerobic system · Full body · Grip",
+      "desc": "Chippers — long lists of big rep sets — reward athletes who break sets early and small: 5×10 with five breaths beats 30-15-5 with a two-minute stare. Plan breaks around limiting muscle groups, protect grip before pulling movements, and bank easy movements at speed. The strategy layer is what lets a smaller engine beat a bigger one.",
+      "exercises": [
+        {
+          "name": "Rowing intervals",
+          "scheme": "5 × 400 m"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 20",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Wall-ball big-set practice",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Timed bar hangs",
+          "scheme": "3 × 40s"
+        },
+        {
+          "name": "Sled drag",
+          "scheme": "4 × 20 m"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Lat stretch on rack",
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Going unbroken early on the movement that fries the muscles the next movement needs.",
+        "Treating a 40-minute chipper like a 10-minute sprint.",
+        "Ignoring grip budgeting until the hands open on the rig."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=crossfit+chipper+workout+strategy"
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "id": "olympic-weightlifting",
+  "name": "Olympic Weightlifting",
+  "emoji": "🏋️‍♂️",
+  "tag": "OL",
+  "category": "Strength & fitness",
+  "drills": [
+    {
+      "id": "overhead-squat",
+      "group": "Foundations & mobility",
+      "name": "Overhead squat",
+      "alt": "Full-depth squat with the bar locked out overhead",
+      "level": "Beginner",
+      "muscles": "Shoulders · Upper back · Core · Quads",
+      "desc": "The overhead squat is the receiving position of the snatch and the gatekeeper of the whole lift. Stability comes from active shoulders punching up into a wide grip, a vertical torso, and ankles mobile enough to keep the bar over the mid-foot at full depth. Own it with an empty bar before ever adding plates.",
+      "exercises": [
+        {
+          "name": "Barbell overhead squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Overhead squat holds in the bottom",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Barbell Z-press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Ankle dorsiflexion wall stretch",
+        "Thoracic foam-roller extension",
+        "Deep squat hold",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Passive shoulders — the bar must be actively pushed toward the ceiling.",
+        "Bar drifting forward of the mid-foot as depth increases.",
+        "Compensating for stiff ankles by tipping the chest and dumping the bar."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=overhead+squat+tutorial+weightlifting"
+    },
+    {
+      "id": "front-rack-mobility",
+      "group": "Foundations & mobility",
+      "name": "Front rack position",
+      "alt": "Building the elbows-up shelf for cleans and jerks",
+      "level": "Beginner",
+      "muscles": "Lats · Triceps · Wrists · Upper back",
+      "desc": "The front rack rests the bar on the shoulders with elbows high and fingers relaxed under it — the bar sits on the body, not in the hands. The position is built from lat and triceps flexibility plus thoracic extension, and without it every clean turns into a wrist-crushing arm catch. Daily mobility work here pays off in every lift that follows.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 5",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Front rack barbell holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Plate front raises",
+          "scheme": "3 × 12",
+          "wgerId": 254
+        },
+        {
+          "name": "Wall slides",
+          "scheme": "3 × 10",
+          "wgerId": 716
+        }
+      ],
+      "stretches": [
+        "Front rack stretch on rack",
+        "Wrist flexor stretch",
+        "Lat stretch on rack",
+        "Thoracic foam-roller extension",
+        "Triceps overhead stretch"
+      ],
+      "mistakes": [
+        "Death-gripping the bar instead of letting it rest on the shoulders.",
+        "Elbows dropping in the squat, tipping the bar and the torso forward.",
+        "Stretching the wrists only, when the real restriction is usually lats and thoracic spine."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=front+rack+mobility+weightlifting"
+    },
+    {
+      "id": "snatch-grip-hang-position",
+      "group": "Snatch",
+      "name": "Hang positions and snatch-grip RDL",
+      "alt": "Learning the power position and positions above the knee",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Glutes · Lats · Upper back",
+      "desc": "Before snatching from the floor, lifters learn the hang: bar at the hip crease, shoulders over the bar, weight mid-foot, lats pinning the bar close. The power position — torso nearly vertical, bar brushing the hip — is where all the explosion happens. Snatch-grip RDLs and slow position holds carve these shapes into muscle memory.",
+      "exercises": [
+        {
+          "name": "Snatch-grip Romanian deadlifts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Snatch-grip barbell rows",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Position holds at knee and hip",
+          "scheme": "3 × 10s each"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Seated forward fold",
+        "Lat stretch on rack",
+        "Hip flexor stretch"
+      ],
+      "mistakes": [
+        "Letting the bar swing away from the body instead of sweeping it into the hips.",
+        "Shoulders behind the bar too early, killing the hamstring loading.",
+        "Bending the arms during the descent to the hang position."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snatch+hang+position+drills"
+    },
+    {
+      "id": "muscle-snatch",
+      "group": "Snatch",
+      "name": "Muscle snatch",
+      "alt": "Snatching without dropping under the bar",
+      "level": "Beginner",
+      "muscles": "Traps · Shoulders · Lats · Hips",
+      "desc": "The muscle snatch takes the bar from hip to overhead in one continuous pull with no re-bend of the knees, teaching the turnover path: elbows high and outside, bar close, then punched to lockout. Because there is no dip under the bar, it strengthens exactly the pulling and turnover muscles that get lazy in full lifts. It is the standard warm-up and technique primer for every snatch session.",
+      "exercises": [
+        {
+          "name": "Barbell muscle snatch",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Wide-grip upright rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Snatch-grip push press",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Cross-body shoulder stretch",
+        "Wrist extensor stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Swinging the bar out and looping it instead of keeping it against the body.",
+        "Pressing the bar out slowly at the top — the turnover should be crisp.",
+        "Going so heavy it becomes an ugly power snatch."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muscle+snatch+technique"
+    },
+    {
+      "id": "hang-power-snatch",
+      "group": "Snatch",
+      "name": "Hang power snatch",
+      "alt": "Explosive snatch from the hip, caught high",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Traps · Shoulders",
+      "desc": "From the power position, the lifter extends the hips violently, shrugs, and pulls under just enough to catch the bar overhead above parallel. Stripping away the floor pull isolates the most important skill in the sport: finishing the hips and moving the feet fast. It is the best-value snatch variation for learning aggression without complexity.",
+      "exercises": [
+        {
+          "name": "Hang power snatch",
+          "scheme": "5 × 3"
+        },
+        {
+          "name": "Snatch-grip high pulls",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Overhead squats",
+          "scheme": "3 × 5",
+          "wgerId": 441
+        }
+      ],
+      "stretches": [
+        "Hip flexor stretch",
+        "Banded shoulder dislocates",
+        "Standing hamstring stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Pulling with the arms before the hips finish extending.",
+        "Jumping the feet forward or wide instead of a short, flat reposition.",
+        "Catching with soft elbows and losing the bar in front."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hang+power+snatch+tutorial"
+    },
+    {
+      "id": "snatch-balance",
+      "group": "Snatch",
+      "name": "Snatch balance",
+      "alt": "Dropping fast under a bar into the overhead squat",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Quads · Core",
+      "desc": "From the bar on the back, a small dip-drive pops it just off the shoulders while the lifter drives down into a full overhead squat, punching to lockout on the way. It trains speed under the bar and confidence receiving weight at depth — the exact skills that separate power-snatchers from full snatchers. The bar barely rises; the lifter does the moving.",
+      "exercises": [
+        {
+          "name": "Snatch balance",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Drop snatch (no dip)",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Overhead squats",
+          "scheme": "3 × 5",
+          "wgerId": 441
+        },
+        {
+          "name": "Barbell push press",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Ankle dorsiflexion wall stretch",
+        "Deep squat hold",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Pressing the bar up instead of dropping the body under it.",
+        "Landing with the bar forward of the ears rather than stacked over the traps.",
+        "Slow, cautious descent — the whole point is aggressive speed down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snatch+balance+exercise+tutorial"
+    },
+    {
+      "id": "full-snatch",
+      "group": "Snatch",
+      "name": "Snatch (full)",
+      "alt": "Floor to overhead in one motion, caught in a deep squat",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Traps · Shoulders · Core",
+      "desc": "The snatch takes the bar from floor to arm's length overhead in one movement, received in a full overhead squat. It chains a patient first pull, a violent hip extension, and a lightning pull-under into a single rhythm — slow off the floor, explode at the hip, punch and sit. It is the fastest lift in sport and rewards positions over raw strength.",
+      "exercises": [
+        {
+          "name": "Full snatch",
+          "scheme": "6 × 2"
+        },
+        {
+          "name": "Snatch pulls at 100-110%",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Snatch-grip deficit deadlifts",
+          "scheme": "3 × 4"
+        },
+        {
+          "name": "Overhead squats",
+          "scheme": "3 × 3",
+          "wgerId": 441
+        },
+        {
+          "name": "Back squats",
+          "scheme": "4 × 5"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Banded shoulder dislocates",
+        "Ankle dorsiflexion wall stretch",
+        "Pigeon pose",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Rushing the first pull and arriving at the hip with the shoulders behind the bar.",
+        "Finishing the pull with the arms instead of the hips.",
+        "Chasing the bar forward on the catch because it looped away from the body."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snatch+technique+olympic+weightlifting"
+    },
+    {
+      "id": "hang-power-clean",
+      "group": "Clean",
+      "name": "Hang power clean",
+      "alt": "Explosive clean from the hip, caught above parallel",
+      "level": "Beginner",
+      "muscles": "Glutes · Hamstrings · Traps · Quads",
+      "desc": "The hang power clean condenses the clean to its engine: hips load at the hang, then extend hard as the bar brushes the thighs, elbows whipping around into the front rack above parallel. It teaches bar contact, a vertical finish, and a fast catch without the complexity of the floor pull or deep receiving squat. Most athletes learn to clean here first.",
+      "exercises": [
+        {
+          "name": "Hang power cleans",
+          "scheme": "5 × 3",
+          "wgerId": 1087,
+          "imageUrl": "https://wger.de/media/exercise-images/1087/d85f4e02-b20c-457c-bdfb-0b00e2d14150.jpg"
+        },
+        {
+          "name": "Clean-grip high pulls",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 5",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        }
+      ],
+      "stretches": [
+        "Front rack stretch on rack",
+        "Wrist flexor stretch",
+        "Standing hamstring stretch",
+        "Hip flexor stretch"
+      ],
+      "mistakes": [
+        "Reverse-curling the bar up instead of extending the hips and whipping the elbows.",
+        "Catching the bar on the wrists with elbows down.",
+        "Banging the bar off the thighs and away from the body."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hang+power+clean+tutorial"
+    },
+    {
+      "id": "clean-pull",
+      "group": "Clean",
+      "name": "Clean pull",
+      "alt": "Heavy pull to full extension without a catch",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Glutes · Erectors · Traps",
+      "desc": "The clean pull repeats the clean's pull — patient off the floor, sweep to the hip, explosive triple extension and shrug — with no turnover, allowing 100-110 percent of best clean. It builds pulling strength in exact clean positions and drills the timing of the finish. The bar stays close, arms stay long, and the toes-shrug finish is total.",
+      "exercises": [
+        {
+          "name": "Clean pulls at 100-110%",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Clean-grip deadlifts",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Heavy barbell shrugs",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Seated forward fold",
+        "Upper trap stretch",
+        "Hip flexor stretch"
+      ],
+      "mistakes": [
+        "Turning it into a fast deadlift with no explosive finish at the hip.",
+        "Bending the elbows early to fake bar height.",
+        "Hips rising first off the floor, tipping the shoulders too far forward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=clean+pull+technique+weightlifting"
+    },
+    {
+      "id": "full-clean",
+      "group": "Clean",
+      "name": "Clean (full)",
+      "alt": "Floor to shoulders, received in a front squat",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Hamstrings · Traps · Core",
+      "desc": "The full clean pulls the bar from the floor and receives it in the front rack at the bottom of a front squat. The rhythm is identical to the snatch — controlled first pull, brutal hip finish, fast elbows — but the catch demands a bulletproof front rack and the leg strength to stand up out of the hole with a heavy bounce. Meet the bar tight; ride it down; drive up immediately.",
+      "exercises": [
+        {
+          "name": "Full cleans",
+          "scheme": "6 × 2"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "4 × 4",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Clean pulls",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Clean deadlift to slow eccentric",
+          "scheme": "3 × 4"
+        },
+        {
+          "name": "Ab wheel rollouts",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Front rack stretch on rack",
+        "Deep squat hold",
+        "Ankle dorsiflexion wall stretch",
+        "Wrist flexor stretch",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Catching the bar out front and getting folded in the hole.",
+        "Pausing in the bottom instead of using the bounce to stand.",
+        "Pulling too high at heavy weights instead of committing to a fast turnover under."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=clean+technique+olympic+weightlifting"
+    },
+    {
+      "id": "push-press",
+      "group": "Jerk",
+      "name": "Push press",
+      "alt": "Leg-driven overhead press",
+      "level": "Beginner",
+      "muscles": "Shoulders · Triceps · Quads · Core",
+      "desc": "The push press adds a shallow, vertical dip-and-drive to the strict press, teaching the leg drive that powers every jerk. The dip stays short and on flat feet, the torso vertical, and the bar leaves the shoulders on the leg drive before the arms finish the lockout. It doubles as the best overhead strength builder in the program.",
+      "exercises": [
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Strict overhead press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Dumbbell Z-press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Lat stretch on rack",
+        "Triceps overhead stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Dipping forward onto the toes and shoving the bar out in front.",
+        "A slow, deep dip that leaks the elastic rebound.",
+        "Pressing early with the arms instead of riding the leg drive."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=push+press+technique+barbell"
+    },
+    {
+      "id": "jerk-dip-drive",
+      "group": "Jerk",
+      "name": "Jerk dip and drive",
+      "alt": "Grooving the short, vertical dip that launches the bar",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core · Upper back",
+      "desc": "The jerk is won or lost in the dip: 8-10 percent of body height straight down, weight over the whole foot, torso rigid, then a maximal vertical brake-and-drive. Any forward lean or rushed bottom position sends the bar off balance before the split even begins. Dip squats and jerk drives with heavy weights build both the pattern and the confidence.",
+      "exercises": [
+        {
+          "name": "Jerk dip squats at 100%+",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Jerk drives off blocks",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Front rack barbell holds",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Weighted front plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Ankle dorsiflexion wall stretch",
+        "Front rack stretch on rack",
+        "Couch stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Dipping onto the toes so the bar drifts forward.",
+        "Losing torso rigidity and letting the chest collapse in the dip.",
+        "Cutting the drive short and pressing the bar out the last inch."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=jerk+dip+drive+drill+weightlifting"
+    },
+    {
+      "id": "split-jerk-footwork",
+      "group": "Jerk",
+      "name": "Split jerk footwork",
+      "alt": "Learning the lunge-catch stance with drills and no bar",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Glutes · Adductors · Calves",
+      "desc": "The split receives the bar with the front shin vertical, back knee soft, and both feet on the lifter's rail — hips square beneath the bar. Footwork drills from a standing start tape the pattern in before load: jump to split against a wall, step to marks on the floor, hold and recover front-foot-first. Consistency of the split, not depth, is what makes heavy jerks land.",
+      "exercises": [
+        {
+          "name": "Jump-to-split drills (no bar)",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Split squat isometric holds",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Barbell split jerks from rack, light",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "90/90 hip switch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Splitting long and low with the front knee past vertical, unstable and slow to recover.",
+        "Feet landing on a tightrope — no lateral base, hips twisted.",
+        "Recovering back foot first, which drags the bar forward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=split+jerk+footwork+drills"
+    },
+    {
+      "id": "split-jerk",
+      "group": "Jerk",
+      "name": "Split jerk",
+      "alt": "Driving the bar overhead and splitting under it",
+      "level": "Advanced",
+      "muscles": "Shoulders · Triceps · Quads · Glutes · Core",
+      "desc": "The split jerk drives the bar off the shoulders with the legs and snaps the body under into a split, arms punching to a locked overhead position slightly behind the ears. The bar travels the least distance of any lift — the lifter does the moving, fast. Timing is everything: drive, split, and lockout arrive in the same instant.",
+      "exercises": [
+        {
+          "name": "Split jerks from the rack",
+          "scheme": "5 × 2"
+        },
+        {
+          "name": "Jerk recoveries in the rack",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Push press",
+          "scheme": "3 × 5",
+          "wgerId": 478,
+          "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg"
+        },
+        {
+          "name": "Behind-the-neck jerks, light",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Overhead barbell carries",
+          "scheme": "3 × 20 m"
+        }
+      ],
+      "stretches": [
+        "Banded shoulder dislocates",
+        "Couch stretch",
+        "Lat stretch on rack",
+        "Triceps overhead stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Pressing the bar out because the drive and split didn't finish together.",
+        "Bar locked out in front of the head instead of over the base.",
+        "Short-stepping the front foot under fatigue and taking the bar back down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=split+jerk+technique+tutorial"
+    },
+    {
+      "id": "clean-and-jerk-complex",
+      "group": "Jerk",
+      "name": "Clean & jerk (full lift)",
+      "alt": "The complete competition lift, floor to overhead",
+      "level": "Advanced",
+      "muscles": "Full body · Quads · Glutes · Shoulders · Core",
+      "desc": "The clean & jerk is two maximal efforts welded together, and the skill between them is the recovery: standing the clean, resetting the breath and grip, then dipping for the jerk before the legs fade. Complexes — clean plus front squat plus jerk — build the capacity to jerk on tired legs. Competition is decided by lifters who treat the jerk with the same respect as the clean.",
+      "exercises": [
+        {
+          "name": "Clean & jerk singles",
+          "scheme": "6 × 1"
+        },
+        {
+          "name": "Clean + front squat + jerk complex",
+          "scheme": "4 × 1 complex"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "4 × 3",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Clean pulls",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Weighted dips",
+          "scheme": "3 × 8",
+          "wgerId": 194,
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Front rack stretch on rack",
+        "Banded shoulder dislocates",
+        "Couch stretch",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Rushing the jerk before the breath and grip are reset after the clean.",
+        "Letting a hard clean recovery talk you out of an aggressive dip.",
+        "Training the clean to a max but the jerk only to a comfortable weight."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=clean+and+jerk+technique+tutorial"
+    }
+  ]
+}

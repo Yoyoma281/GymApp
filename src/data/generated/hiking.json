@@ -1,0 +1,653 @@
+{
+  "id": "hiking",
+  "name": "Hiking",
+  "emoji": "🥾",
+  "tag": "HK",
+  "category": "Outdoor & adventure",
+  "drills": [
+    {
+      "id": "uphill-striding",
+      "group": "Uphill technique",
+      "name": "Uphill striding",
+      "alt": "Efficient climbing gait",
+      "level": "Beginner",
+      "muscles": "Glutes · Quads · Calves",
+      "desc": "Shortening the stride, planting the whole foot, and driving from the glutes rather than bouncing off the toes. Efficient uphill walking pushes the hill down and back instead of lifting the body with the calves. A slight forward lean from the ankles keeps the weight over the driving leg.",
+      "exercises": [
+        {
+          "name": "Box step-ups with dumbbells",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Incline treadmill walking",
+          "scheme": "3 × 5 min"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Hip flexor lunge stretch",
+        "Standing quad stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Taking long strides uphill, which shifts work from glutes to overloaded calves.",
+        "Bending at the waist instead of leaning from the ankles."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=uphill+hiking+technique+tutorial"
+    },
+    {
+      "id": "rest-step",
+      "group": "Uphill technique",
+      "name": "Rest step",
+      "alt": "Locking the leg between steps",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "A mountaineering pace where the rear leg locks straight for a micro-pause on every step, resting muscle on bone. It looks slow and feels slow, but it is the technique that lets hikers climb for hours without stopping. Rhythm and breathing sync into a sustainable metronome.",
+      "exercises": [
+        {
+          "name": "Rear-foot-elevated split squats",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Step-ups (slow tempo)",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 60s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing calf stretch",
+        "Hamstring stretch with strap",
+        "Hip flexor lunge stretch"
+      ],
+      "mistakes": [
+        "Rushing the pause — the skeletal rest is the entire point of the step.",
+        "Saving the technique for when you are already exhausted instead of starting with it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rest+step+mountaineering+technique"
+    },
+    {
+      "id": "steep-grade-power-hiking",
+      "group": "Uphill technique",
+      "name": "Steep-grade power hiking",
+      "alt": "Hands-on-knees climbing",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Hamstrings · Core",
+      "desc": "Attacking sustained steep grades with a forward hinge, hands pressing on the knees to add upper-body drive. The hinge recruits glutes and hamstrings that upright walking leaves idle. Used by trail runners and fastpackers when the gradient makes running slower than striding.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Weighted step-ups (high box)",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Stair climber machine",
+          "scheme": "3 × 5 min"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Pigeon pose",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Starting too fast and blowing up halfway — steep grades punish uneven pacing.",
+        "Rounding the back heavily instead of hinging with a long spine."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=power+hiking+steep+hills+technique"
+    },
+    {
+      "id": "altitude-pacing",
+      "group": "Uphill technique",
+      "name": "Altitude pacing",
+      "alt": "Climbing high without redlining",
+      "level": "Advanced",
+      "muscles": "Legs · Diaphragm · Heart",
+      "desc": "Holding a conversational effort as oxygen thins — deliberately slower than sea-level pace, with rhythmic breathing matched to steps. Above roughly 2500 m the margin for error shrinks; going anaerobic costs recovery you cannot buy back. Aerobic base training is what makes high days feel low.",
+      "exercises": [
+        {
+          "name": "Zone 2 incline treadmill hikes",
+          "scheme": "2 × 30 min"
+        },
+        {
+          "name": "Rowing machine steady state",
+          "scheme": "1 × 20 min"
+        },
+        {
+          "name": "Goblet squats (high rep)",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Weighted carries uphill",
+          "scheme": "4 × 60s"
+        }
+      ],
+      "stretches": [
+        "Child's pose with deep breathing",
+        "Doorway chest stretch",
+        "Standing side bend",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Matching a fitter partner's pace instead of your own breathing rhythm.",
+        "Skipping food and water because altitude blunts appetite — the engine still burns fuel."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hiking+high+altitude+pacing+tips"
+    },
+    {
+      "id": "downhill-control",
+      "group": "Downhill control",
+      "name": "Downhill braking control",
+      "alt": "Eccentric descent technique",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Knees",
+      "desc": "Descending with soft knees, short quick steps, and the torso upright so the quads absorb each landing eccentrically. Most hiking injuries and next-day soreness come from descents, not climbs. Control means landing quietly under the hips, never braking on a straight leg.",
+      "exercises": [
+        {
+          "name": "Slow eccentric squats (5s down)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        },
+        {
+          "name": "Step-downs from box",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Leg press (slow negative)",
+          "scheme": "3 × 10",
+          "wgerId": 1515
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Couch stretch",
+        "Lying figure-4",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Leaning back and heel-striking on straight legs, which hammers the knees.",
+        "Taking long, jarring steps instead of short, quick ones."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=downhill+hiking+technique+knees"
+    },
+    {
+      "id": "steep-descent-technique",
+      "group": "Downhill control",
+      "name": "Steep descent technique",
+      "alt": "Controlled drops and side-stepping",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Ankles · Core",
+      "desc": "Managing very steep or loose descents by side-stepping, zig-zagging, and lowering the center of gravity — sometimes facing the slope on the steepest sections. The legs work like independent suspension while the eyes scan two or three steps ahead. Speed is earned by control, not gravity.",
+      "exercises": [
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Lateral box step-downs",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Adductor rock-back",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Descending straight down a loose slope instead of zig-zagging across it.",
+        "Locking eyes on your feet instead of reading the line ahead."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=steep+descent+hiking+technique"
+    },
+    {
+      "id": "pack-carrying",
+      "group": "Load carrying",
+      "name": "Pack carrying",
+      "alt": "Hiking under load",
+      "level": "Beginner",
+      "muscles": "Traps · Core · Glutes · Hips",
+      "desc": "Carrying a fitted pack with most of the weight on the hip belt and the trunk braced tall against the load. Heavy items ride close to the spine, mid-back height. A well-packed, well-fitted load changes posture very little — a badly worn one bends the hiker before the miles do.",
+      "exercises": [
+        {
+          "name": "Weighted pack walks (rucking)",
+          "scheme": "2 × 30 min"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Doorway chest stretch",
+        "Neck side stretch",
+        "Hip flexor lunge stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Hanging the whole load on the shoulder straps instead of the hip belt.",
+        "Jumping straight to a heavy pack instead of building load week by week."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+carry+backpack+hiking+properly"
+    },
+    {
+      "id": "heavy-pack-training",
+      "group": "Load carrying",
+      "name": "Heavy pack training",
+      "alt": "Progressive rucking",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Traps · Lower back",
+      "desc": "Systematically building the body for multi-day loads — progressing pack weight and vertical gain over weeks the way a lifter progresses a barbell. The trunk, hips, and feet all need time under load; the trail is a bad place to discover they never got it.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Weighted step-ups",
+          "scheme": "4 × 8 / leg",
+          "wgerId": 722
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Incline treadmill rucks",
+          "scheme": "2 × 20 min"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Couch stretch",
+        "Lying spinal twist",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Increasing weight and distance in the same week.",
+        "Training only flat ground when the objective has real vertical."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rucking+training+plan+hiking"
+    },
+    {
+      "id": "trekking-pole-use",
+      "group": "Terrain skills",
+      "name": "Trekking pole use",
+      "alt": "Four points of contact",
+      "level": "Beginner",
+      "muscles": "Triceps · Shoulders · Lats · Core",
+      "desc": "Using poles to unload the knees downhill, add drive uphill, and stabilize on rough ground — planting opposite pole to foot in a natural walking rhythm. Straps take the weight through the wrists so the hands stay relaxed. Lengthen poles for descents, shorten for climbs.",
+      "exercises": [
+        {
+          "name": "Triceps cable pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        },
+        {
+          "name": "Dumbbell bent-over rows",
+          "scheme": "3 × 10",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Overhead dumbbell press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Triceps overhead stretch",
+        "Cross-body shoulder stretch",
+        "Wrist circles",
+        "Doorway chest stretch"
+      ],
+      "mistakes": [
+        "Gripping the poles hard instead of loading the straps.",
+        "Planting poles far ahead of the body, which brakes every stride."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=trekking+pole+technique+tutorial"
+    },
+    {
+      "id": "stream-crossings",
+      "group": "Terrain skills",
+      "name": "Stream crossings",
+      "alt": "Safe water fords",
+      "level": "Intermediate",
+      "muscles": "Core · Hips · Ankles",
+      "desc": "Crossing moving water facing slightly upstream, shuffling sideways with a wide stance and a pole or stick as a third leg. Unbuckle the hip belt before entering so the pack can be shed if you go down. The skill is judgment as much as balance — knowing when a ford is a walk-around.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        },
+        {
+          "name": "Single-leg balance on foam pad",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Standing calf stretch",
+        "Adductor rock-back",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Crossing with the hip belt buckled — a swamped pack becomes an anchor.",
+        "Stepping on wet, algae-slick rocks instead of shuffling on the streambed.",
+        "Facing downstream, letting the current buckle the knees."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=river+crossing+technique+hiking+safety"
+    },
+    {
+      "id": "scrambling",
+      "group": "Terrain skills",
+      "name": "Scrambling",
+      "alt": "Hands-on rock terrain",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Shoulders · Forearms",
+      "desc": "Moving over steep rock where hands are needed for balance — three points of contact, weight on the feet, hands mostly steering. Test every hold before trusting it and keep the hips close to the rock. Descending is the real test; if you cannot down-climb it, think before going up.",
+      "exercises": [
+        {
+          "name": "Incline push-ups",
+          "scheme": "3 × 12",
+          "wgerId": 1111
+        },
+        {
+          "name": "Step-ups (high box)",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Dead hangs on bar",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Bear crawls",
+          "scheme": "3 × 15m"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Wrist flexor stretch",
+        "Hip flexor lunge stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Pulling with the arms instead of standing on the feet.",
+        "Committing upward on terrain you could not reverse.",
+        "Hugging the rock so tightly the feet lose their angle and slip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=scrambling+technique+hiking+tutorial"
+    },
+    {
+      "id": "talus-boulder-hopping",
+      "group": "Terrain skills",
+      "name": "Talus and boulder hopping",
+      "alt": "Moving across rock fields",
+      "level": "Advanced",
+      "muscles": "Ankles · Calves · Quads · Core",
+      "desc": "Flowing across fields of loose rock by reading stability at a glance, landing mid-foot on the high points, and keeping momentum so no single rock bears weight for long. The eyes stay two or three moves ahead; hesitation on a tipping block is what turns ankles.",
+      "exercises": [
+        {
+          "name": "Lateral bounds with stick landing",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Single-leg hops",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Box jumps with soft landing",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Single-leg balance on foam pad",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Standing calf stretch",
+        "Downward dog",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Stopping dead on every rock instead of keeping light, continuous momentum.",
+        "Landing on the edges of blocks that rock or slide instead of their centers."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=talus+boulder+field+hiking+technique"
+    },
+    {
+      "id": "ankle-stability",
+      "group": "Stability & endurance",
+      "name": "Ankle stability work",
+      "alt": "Sprain-proofing the ankles",
+      "level": "Beginner",
+      "muscles": "Ankles · Calves · Peroneals · Feet",
+      "desc": "Strengthening the stabilizers that catch every uneven step — the peroneals, calves, and intrinsic foot muscles. A rolled ankle miles from a trailhead is the classic hike-ender, and single-leg balance work under load is cheap insurance. Barefoot balance drills build the reflexes shoes have dulled.",
+      "exercises": [
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Banded ankle eversions",
+          "scheme": "3 × 15 / side"
+        },
+        {
+          "name": "Single-leg balance with eyes closed",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        },
+        {
+          "name": "Short-foot doming",
+          "scheme": "3 × 10 / foot"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Standing calf stretch",
+        "Kneeling shin stretch",
+        "Toe extension stretch on wall"
+      ],
+      "mistakes": [
+        "Relying on stiff boots for stability instead of building it in the joint.",
+        "Training balance only on flat ground rather than pads, slopes, and single-leg loads."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ankle+stability+exercises+for+hiking"
+    },
+    {
+      "id": "leg-endurance",
+      "group": "Stability & endurance",
+      "name": "Hiking leg endurance",
+      "alt": "Legs that last all day",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Calves · Hamstrings",
+      "desc": "Building muscular endurance for thousands of steps of climbing and braking in a single day. High-rep leg work and long incline sessions teach the legs to clear fatigue while still moving. Strength is the ceiling, but endurance under that ceiling is what finishes big days.",
+      "exercises": [
+        {
+          "name": "Walking lunges (high rep)",
+          "scheme": "3 × 20 / leg"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 15",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Stair climber machine",
+          "scheme": "2 × 15 min"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 20",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Pigeon pose",
+        "Standing calf stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Training only short, hard sessions and never a genuinely long one.",
+        "Ignoring downhill (eccentric) work, then being wrecked by the descent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=leg+endurance+training+for+hiking"
+    },
+    {
+      "id": "all-day-pacing",
+      "group": "Stability & endurance",
+      "name": "All-day pacing",
+      "alt": "Effort management over big days",
+      "level": "Advanced",
+      "muscles": "Legs · Heart · Core",
+      "desc": "Holding an output you can sustain from first light to camp — a conversational effort uphill, disciplined restraint early, and steady fueling every hour. Big days are lost in the first two hours by hiking someone else's pace. The watch checks the plan; the breath sets it.",
+      "exercises": [
+        {
+          "name": "Zone 2 incline treadmill hikes",
+          "scheme": "1 × 60 min"
+        },
+        {
+          "name": "Weighted pack walks (rucking)",
+          "scheme": "1 × 45 min"
+        },
+        {
+          "name": "Goblet squats (high rep)",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Rowing machine steady state",
+          "scheme": "1 × 20 min"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Hip flexor lunge stretch",
+        "Child's pose",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Surging on climbs and collapsing on flats instead of holding even effort.",
+        "Waiting until hungry or thirsty to fuel — by then the deficit is already taxing pace."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pacing+strategy+long+distance+hiking"
+    }
+  ]
+}

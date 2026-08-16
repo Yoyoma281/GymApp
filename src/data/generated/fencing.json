@@ -1,0 +1,664 @@
+{
+  "id": "fencing",
+  "name": "Fencing",
+  "emoji": "🤺",
+  "tag": "FN",
+  "category": "Weapon & traditional arts",
+  "drills": [
+    {
+      "id": "en-garde-stance",
+      "group": "Footwork",
+      "name": "En garde",
+      "alt": "Ready stance",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "The half-squat ready position: feet at right angles a shoulder-width apart, knees bent over the toes, torso upright and profiled. Every action in fencing launches from this loaded position, so the legs must hold it for entire bouts without rising.",
+      "exercises": [
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Split squat isometric holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Standing quad stretch",
+        "Standing calf stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Standing up tall between actions — the stance must stay loaded.",
+        "Front knee collapsing inward instead of tracking over the toes.",
+        "Squaring the shoulders and offering a bigger target."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+en+garde+stance+tutorial"
+    },
+    {
+      "id": "advance-retreat",
+      "group": "Footwork",
+      "name": "Advance & retreat",
+      "alt": "Step forward, step back",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Hip flexors",
+      "desc": "The basic marching steps of the piste: front foot leads the advance, rear foot leads the retreat, heel-toe, never crossing or bouncing. Distance control lives here — small, fast, even steps that keep the stance intact at all times.",
+      "exercises": [
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / direction"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Bobbing up and down with each step instead of gliding at one height.",
+        "Feet sliding together, shrinking the base and killing balance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+advance+retreat+footwork+drill"
+    },
+    {
+      "id": "footwork-ladders",
+      "group": "Footwork",
+      "name": "Footwork ladders",
+      "alt": "Tempo-change footwork patterns",
+      "level": "Intermediate",
+      "muscles": "Calves · Quads · Core",
+      "desc": "Chained patterns — advance-advance-retreat, check-step, half-steps — done at varying rhythm to hide intentions. The skill is changing speed and direction without changing height or telegraphing, which demands elastic calves and hip control.",
+      "exercises": [
+        {
+          "name": "Agility ladder drills",
+          "scheme": "5 × 30s"
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Couch stretch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Keeping one metronome rhythm — opponents time you instantly.",
+        "Letting the back foot drag and narrow the stance during direction changes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+footwork+drills+tempo"
+    },
+    {
+      "id": "balestra",
+      "group": "Footwork",
+      "name": "Balestra",
+      "alt": "Jump-forward preparation",
+      "level": "Advanced",
+      "muscles": "Calves · Quads · Glutes",
+      "desc": "A short, flat forward hop that closes distance suddenly, usually chained straight into a lunge. Both feet leave and land almost together, stance intact — it is a plyometric ankle action that steals a tempo, not a leap.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Barbell jump squats (light)",
+          "scheme": "3 × 6"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Standing quad stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Jumping high instead of skimming forward — hang time is dead time.",
+        "Landing with straight legs, unable to explode into the lunge that follows."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+balestra+lunge+tutorial"
+    },
+    {
+      "id": "point-control",
+      "group": "Bladework",
+      "name": "Point control",
+      "alt": "Keeping the tip on target",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Fingers",
+      "desc": "Steering the weapon's tip through small, precise circles and lines using the fingers — thumb and index drive, last fingers stabilize. Accuracy comes from a relaxed hand and a shoulder that stays quiet; a tight fist makes the point wander.",
+      "exercises": [
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 12",
+          "wgerId": 48
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Dumbbell front raise isometric hold",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Finger extensor stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Steering from the wrist and elbow — big joints make big, slow arcs.",
+        "Death-gripping the handle so the fingers can't make fine corrections."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+point+control+drills"
+    },
+    {
+      "id": "disengage",
+      "group": "Bladework",
+      "name": "Dégagé",
+      "alt": "Disengage around the blade",
+      "level": "Intermediate",
+      "muscles": "Fingers · Forearms · Shoulders",
+      "desc": "Dropping the point under the opponent's blade to evade their parry and arrive on the other side, drawn as the smallest possible spiral with the fingers. Done well it is invisible — the arm keeps extending while only the tip changes line.",
+      "exercises": [
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Dumbbell wrist rotations",
+          "scheme": "3 × 12 / arm"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / arm",
+          "wgerId": 142
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Making a wide arc with the whole arm instead of a fingertip spiral.",
+        "Pausing the extension during the disengage, giving the parry a second chance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+disengage+tutorial"
+    },
+    {
+      "id": "beat-attack",
+      "group": "Bladework",
+      "name": "Battuta",
+      "alt": "Beat attack",
+      "level": "Intermediate",
+      "muscles": "Forearms · Wrist · Shoulders",
+      "desc": "A sharp, dry tap against the opponent's blade to knock it offline and open the way for an immediate straight attack. The beat is a finger-and-wrist snap, crisp and short — a heavy swing telegraphs and leaves your own blade out of line.",
+      "exercises": [
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 12",
+          "wgerId": 48
+        },
+        {
+          "name": "Cable lateral raises",
+          "scheme": "3 × 12",
+          "wgerId": 1730
+        },
+        {
+          "name": "Hammer curls",
+          "scheme": "3 × 10",
+          "wgerId": 272,
+          "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png"
+        },
+        {
+          "name": "Med ball chest passes",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Winding up for the beat — the preparation is read before it lands.",
+        "Beating without following in: the touch must come in the same tempo."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+beat+attack+tutorial"
+    },
+    {
+      "id": "prise-de-fer",
+      "group": "Bladework",
+      "name": "Prise de fer",
+      "alt": "Taking of the blade (bind / envelopment)",
+      "level": "Advanced",
+      "muscles": "Forearms · Shoulders · Lats",
+      "desc": "Capturing the opponent's blade and carrying it through a controlled spiral — bind, croisé or envelopment — to dominate the line while attacking. It requires constant leverage from a strong forearm and shoulder: lose contact for an instant and the trap is gone.",
+      "exercises": [
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Single-arm cable rows",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1621,
+          "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg"
+        },
+        {
+          "name": "Dumbbell external rotations",
+          "scheme": "3 × 12 / arm",
+          "wgerId": 1715
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Lat stretch on rack",
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Pressing on the strong part of their blade instead of leveraging weak with strong.",
+        "Muscling the bind with the shoulder so your own point leaves the target."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+prise+de+fer+bind+tutorial"
+    },
+    {
+      "id": "lunge",
+      "group": "Attacks",
+      "name": "Fente",
+      "alt": "The lunge",
+      "level": "Beginner",
+      "muscles": "Glutes · Quads · Hamstrings",
+      "desc": "Fencing's signature attack: the weapon arm extends first, then the rear leg fires the body forward while the front foot skims out to land heel-first. Power is a single rear-leg push; the recovery back to en garde must be just as strong.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Single-leg press",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1515
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Step-ups with dumbbells",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Stepping the front foot out before the arm extends — attack loses priority and reach.",
+        "Overlunging past the front heel so recovery is impossible.",
+        "Rear leg bending instead of driving, cutting the lunge's power in half."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+lunge+technique+tutorial"
+    },
+    {
+      "id": "advance-lunge",
+      "group": "Attacks",
+      "name": "Marche-fente",
+      "alt": "Advance lunge",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "An advance flowing directly into a lunge to cover long distance, with acceleration saved for the final push. The step must stay small and quiet — the opponent should read one action, not two — and the rear leg still supplies the explosive finish.",
+      "exercises": [
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Sled sprints",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing calf stretch",
+        "Standing hamstring stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Accelerating on the advance instead of the lunge — the surprise is spent early.",
+        "Rising out of the stance during the step and telegraphing the attack."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+advance+lunge+drill"
+    },
+    {
+      "id": "fleche",
+      "group": "Attacks",
+      "name": "Flèche",
+      "alt": "Running attack (arrow)",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Calves",
+      "desc": "An all-or-nothing sprint attack: the body tips past the front foot, the rear leg crosses through and the touch lands mid-flight before running past the opponent. It is a falling start from a loaded stance — pure horizontal power with zero recovery if it misses.",
+      "exercises": [
+        {
+          "name": "Power cleans",
+          "scheme": "4 × 3",
+          "wgerId": 683
+        },
+        {
+          "name": "Sled sprints",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Single-leg broad jumps",
+          "scheme": "3 × 4 / leg"
+        },
+        {
+          "name": "Hill sprints (treadmill incline)",
+          "scheme": "4 × 10s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Launching from too far away, arriving after the counter-attack.",
+        "Leaning the shoulders forward without extending the arm first.",
+        "Slowing down after the touch instead of running safely past."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+fleche+attack+tutorial"
+    },
+    {
+      "id": "flick",
+      "group": "Attacks",
+      "name": "Coup lancé",
+      "alt": "The flick",
+      "level": "Advanced",
+      "muscles": "Forearms · Wrist · Shoulders",
+      "desc": "A whipping throw of the blade that bends the foil or épée over the opponent's guard to land the tip on hidden targets like the back or wrist. The energy comes from a relaxed accelerating wrist snap, timed like throwing a dart — tension anywhere kills the whip.",
+      "exercises": [
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Med ball overhead throws",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Cable wrist flicks (light)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Throwing from the elbow so the blade slaps instead of whipping.",
+        "Flicking at the wrong distance — the bend needs an exact range to land the tip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+flick+technique+foil"
+    },
+    {
+      "id": "parry-riposte",
+      "group": "Defense",
+      "name": "Parade-riposte",
+      "alt": "Parry and immediate counter",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "Deflecting the incoming blade with a small lateral or circular parry, then answering instantly down the opened line. The parry is a short block with the strong of the blade; the riposte must leave in the same heartbeat, before the attacker recovers.",
+      "exercises": [
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / arm",
+          "wgerId": 142
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 12",
+          "wgerId": 48
+        },
+        {
+          "name": "Reaction ball drills",
+          "scheme": "3 × 60s"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Sweeping a huge parry that carries your own blade far off line.",
+        "Parrying and pausing — the riposte window closes in a tempo.",
+        "Retreating out of riposte distance while parrying."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+parry+riposte+tutorial"
+    },
+    {
+      "id": "counter-parry",
+      "group": "Defense",
+      "name": "Contre-parade",
+      "alt": "Circular counter-parry",
+      "level": "Intermediate",
+      "muscles": "Fingers · Forearms · Shoulders",
+      "desc": "A full circle of the point that chases and catches a disengaging blade, bringing it back into the original line. It is drawn by the fingers around a still wrist — the smaller and later the circle, the harder it is to deceive.",
+      "exercises": [
+        {
+          "name": "Wrist circles with light dumbbell",
+          "scheme": "3 × 10 / direction"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Dumbbell front raise isometric hold",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Finger extensor stretch"
+      ],
+      "mistakes": [
+        "Circling from the elbow, making the parry slow and wide.",
+        "Starting the circle early so the attacker simply disengages again."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+circular+parry+counter+parry"
+    },
+    {
+      "id": "distance-control",
+      "group": "Defense",
+      "name": "Distance & measure",
+      "alt": "Managing the gap",
+      "level": "Intermediate",
+      "muscles": "Calves · Quads · Core",
+      "desc": "Constantly adjusting position so the opponent's attacks fall short while yours arrive — defending with the legs before the blade. It is a mirroring game of endless small steps, demanding leg endurance and instant direction changes from a loaded stance.",
+      "exercises": [
+        {
+          "name": "Shuttle runs",
+          "scheme": "4 × 20m"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Standing quad stretch",
+        "90/90 hip switch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Retreating in one straight rhythm until you run out of piste.",
+        "Watching the blade instead of reading the opponent's feet and hips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+distance+control+drills"
+    },
+    {
+      "id": "stop-hit",
+      "group": "Defense",
+      "name": "Coup d'arrêt",
+      "alt": "Stop-hit into the attack",
+      "level": "Advanced",
+      "muscles": "Shoulders · Triceps · Core",
+      "desc": "A counter-attack launched into the opponent's preparation, landing before their attack arrives or with priority into an exposed wrist or arm. It is pure timing: a straight, economical extension fired the instant their blade or feet betray the attack.",
+      "exercises": [
+        {
+          "name": "Cable triceps pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        },
+        {
+          "name": "Med ball chest passes",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Reaction ball drills",
+          "scheme": "3 × 60s"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 16",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Triceps overhead stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Stop-hitting without closing the line or stealing the tempo — a double touch at best.",
+        "Leaning the head forward into the counter instead of extending the arm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fencing+stop+hit+counter+attack"
+    }
+  ]
+}

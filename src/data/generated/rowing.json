@@ -1,0 +1,688 @@
+{
+  "id": "rowing",
+  "name": "Rowing",
+  "emoji": "🚣",
+  "tag": "RW",
+  "category": "Endurance",
+  "drills": [
+    {
+      "id": "catch-position",
+      "group": "Stroke fundamentals",
+      "name": "Catch position",
+      "alt": "The loaded front position of the stroke",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Ankles · Lats",
+      "desc": "Shins vertical, chest against the thighs, arms long, and shoulders relaxed in front of the hips. The catch is a coiled spring — every watt of the drive is set up here. Compression comes from hinging at the hips and sliding forward, never from rounding the back to reach.",
+      "exercises": [
+        {
+          "name": "Goblet squats with pause",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        },
+        {
+          "name": "Deep bodyweight squat hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Seated ankle dorsiflexion with band",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Standing hamstring stretch",
+        "Kneeling ankle dorsiflexion stretch",
+        "Child's pose",
+        "Thoracic extension over foam roller"
+      ],
+      "mistakes": [
+        "Rounding the lower back to get extra reach instead of hinging from the hips.",
+        "Diving the shoulders down at the front so the first drive lifts the body, not the handle.",
+        "Heels floating high because the ankles never learned to compress."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+catch+position+technique"
+    },
+    {
+      "id": "drive-sequence",
+      "group": "Stroke fundamentals",
+      "name": "The drive sequence",
+      "alt": "Legs, then body, then arms",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Lats",
+      "desc": "The stroke's engine: legs push first against a braced, forward-leaning body, the back swings open through the middle, and the arms draw the handle in last. Roughly 60% legs, 30% back, 10% arms — power leaks the moment the order blurs. The handle accelerates smoothly from catch to finish.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Barbell hip hinges (RDL)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Overhead lat stretch on wall"
+      ],
+      "mistakes": [
+        "Snatching with the arms at the catch before the legs have done their work.",
+        "Opening the back early so the legs push the body up instead of the handle back.",
+        "Shooting the slide — the seat drives back while the handle stays still."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+drive+sequence+legs+body+arms"
+    },
+    {
+      "id": "finish-position",
+      "group": "Stroke fundamentals",
+      "name": "The finish",
+      "alt": "Handle to ribs with a supported lean-back",
+      "level": "Beginner",
+      "muscles": "Lats · Biceps · Core",
+      "desc": "A slight lean back past vertical, core braced, elbows drawing the handle to the lower ribs with a flat, quiet wrist. The finish banks the speed the drive created — a sloppy finish bleeds it away. The lean is held by the trunk, not by collapsing onto the tailbone.",
+      "exercises": [
+        {
+          "name": "Seated cable rows with pause",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Barbell bent-over rows",
+          "scheme": "3 × 8",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Dumbbell biceps curls",
+          "scheme": "3 × 12",
+          "wgerId": 92,
+          "imageUrl": "https://wger.de/media/exercise-images/81/Biceps-curl-1.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Supine spinal twist",
+        "Wrist flexor stretch",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Leaning back to 45 degrees like a layback — the lean stays modest and supported.",
+        "Cocking the wrists to force the handle up into the chest.",
+        "Letting the elbows wing out so the draw ends weak and shallow."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+finish+position+technique"
+    },
+    {
+      "id": "recovery-sequencing",
+      "group": "Stroke fundamentals",
+      "name": "Recovery sequencing",
+      "alt": "Arms away, body over, slide slow",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Hip flexors · Core",
+      "desc": "The drive in reverse and at half the speed: hands away first, body pivots over from the hips, then the seat glides to the catch. The recovery is where you breathe and the boat runs — rushing the slide kills boat speed by throwing weight into the bow. Ratio is the mark of a trained rower.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        },
+        {
+          "name": "Stability ball hamstring curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Seated forward fold",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Rushing the slide into the catch, checking the boat's run.",
+        "Breaking the knees before the hands have cleared them.",
+        "Holding tension through the recovery instead of using it to relax and breathe."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+recovery+sequence+technique"
+    },
+    {
+      "id": "pick-drill",
+      "group": "Technique drills",
+      "name": "Pick drill",
+      "alt": "Arms-only building to the full stroke",
+      "level": "Beginner",
+      "muscles": "Lats · Core · Hamstrings",
+      "desc": "The classic warm-up progression: arms-only strokes, then arms-and-body, then half slide, then full stroke. Rebuilds the stroke from the finish backward so each segment is felt in isolation before they chain together. Ten strokes per stage, done at the start of every session.",
+      "exercises": [
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 12",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Kettlebell Romanian deadlifts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Overhead lat stretch on wall",
+        "Standing hamstring stretch",
+        "Child's pose",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Racing through the stages instead of feeling each segment do its own job.",
+        "Adding body swing during the arms-only phase.",
+        "Treating it as a chore — it's the daily calibration of the whole stroke."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+pick+drill+warm+up"
+    },
+    {
+      "id": "legs-only-rowing",
+      "group": "Technique drills",
+      "name": "Legs-only rowing",
+      "alt": "Isolating the leg drive",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Strokes taken with the body held at its catch angle and arms straight, so the legs alone move the handle. Exposes whether the leg drive actually transmits through a braced trunk — if the handle doesn't move when the legs push, the core is leaking power.",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "scheme": "4 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Deep squat hold",
+        "Hip flexor lunge",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Letting the back swing sneak in to help the legs.",
+        "Bending the arms to finish what the legs started.",
+        "Pushing through the toes with heels lifted instead of driving the whole foot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=legs+only+rowing+drill+erg"
+    },
+    {
+      "id": "pause-drills",
+      "group": "Technique drills",
+      "name": "Pause drills",
+      "alt": "Freezing the stroke at checkpoints",
+      "level": "Intermediate",
+      "muscles": "Core · Hamstrings · Lats",
+      "desc": "Rowing with a full stop at a set checkpoint — hands away, body over, or half slide — for a breath before continuing. The pause forces balance and body position to be earned at each point rather than blurred through. Ruthless at exposing where posture collapses.",
+      "exercises": [
+        {
+          "name": "Isometric Romanian deadlift holds",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Bird dog",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1572,
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+        },
+        {
+          "name": "Back extensions with pause",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Thoracic extension over foam roller",
+        "Child's pose",
+        "Hip flexor lunge"
+      ],
+      "mistakes": [
+        "Slumping during the pause instead of holding tall, set posture.",
+        "Restarting with a lurch rather than resuming the sequence smoothly.",
+        "Pausing in a different position every stroke — the checkpoint must be exact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+pause+drill+technique"
+    },
+    {
+      "id": "feet-out-rowing",
+      "group": "Technique drills",
+      "name": "Feet-out rowing",
+      "alt": "Rowing with feet unstrapped",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Core · Hip flexors",
+      "desc": "Rowing with the feet resting on top of the straps. If you yank the finish or hurl yourself up the slide, you fall off the footplate — so the drill forces a suspended, connected finish and a controlled recovery driven by the hamstrings. The strapless erg doesn't lie.",
+      "exercises": [
+        {
+          "name": "Stability ball hamstring curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 40s"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Seated cable rows with pause",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Seated forward fold",
+        "Hip flexor lunge",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Slamming the finish and toppling backward off the footplate.",
+        "Gripping with the toes to cheat the connection the drill is testing.",
+        "Rowing so gently it proves nothing — hold honest pressure."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=feet+out+rowing+drill+erg"
+    },
+    {
+      "id": "rate-ladders",
+      "group": "Technique drills",
+      "name": "Stroke-rate control ladders",
+      "alt": "Shifting rates on command, e.g. 18-22-26",
+      "level": "Intermediate",
+      "muscles": "Quads · Core · Hip flexors",
+      "desc": "Structured shifts up and down the rate ladder — 18 to 22 to 26 and back — while holding the same split trend and stroke length. Rate comes from quickening the recovery, never from shortening the stroke. This is the gearbox every race plan depends on.",
+      "exercises": [
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Buying rate by cutting the slide short and losing length.",
+        "Rushing the recovery at high rates so ratio disappears.",
+        "Letting the split drift up when the rate comes down — pressure stays honest at every rate."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+stroke+rate+ladder+drill"
+    },
+    {
+      "id": "power-tens",
+      "group": "Power",
+      "name": "Power tens",
+      "alt": "Ten maximal strokes within a piece",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Lats",
+      "desc": "Bursts of ten strokes at maximal pressure dropped into steady rowing, holding length and sequence while the intensity spikes. The racing move for lifting boat speed mid-piece — the power goes up but the stroke must not change shape. Announce, build one stroke, then ten full ones.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "5 × 4"
+        },
+        {
+          "name": "Bent-over barbell rows",
+          "scheme": "4 × 6",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 8",
+          "wgerId": 294
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Overhead lat stretch on wall",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Shortening the stroke to hit the pressure instead of driving a full length harder.",
+        "Spiking the rate wildly — the ten are about pressure, not panic.",
+        "Collapsing to below-base pressure the moment the ten ends."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+power+ten+strokes+drill"
+    },
+    {
+      "id": "low-rate-power-strokes",
+      "group": "Power",
+      "name": "Low-rate power strokes",
+      "alt": "Max-wattage rowing at rate 16-20",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Lower back",
+      "desc": "Short pieces at rate 16-20 chasing the biggest watts each stroke can hold — rowing's answer to heavy strength work. The low rate leaves nowhere to hide: every stroke needs a full catch, a violent leg drive, and a suspended finish. Form is the ceiling here, so stop when it cracks.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "5 × 3"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Pendlay rows",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Child's pose",
+        "Thoracic extension over foam roller",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Rounding the lower back under load at the catch — the drill ends there.",
+        "Creeping the rate up to make the watts easier to find.",
+        "Yanking the handle with the arms instead of hanging off a leg-driven stroke."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=low+rate+power+strokes+rowing+erg"
+    },
+    {
+      "id": "steady-state",
+      "group": "Endurance",
+      "name": "Steady state",
+      "alt": "Long continuous rowing at conversational effort",
+      "level": "Beginner",
+      "muscles": "Quads · Lats · Lower back",
+      "desc": "40-70 minutes of continuous rowing at rate 18-20 and a conversational effort — the base that carries every 2k. Thousands of unhurried strokes build the aerobic engine and groove the sequence until it is automatic. Most of a rower's training life happens here.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Overhead lat stretch on wall",
+        "Seated forward fold",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Rowing steady state at threshold and being too tired for real hard days.",
+        "Letting posture slump in the final third when attention wanders.",
+        "Skipping it as junk mileage — it is the biggest lever in aerobic sport."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=steady+state+rowing+erg+training"
+    },
+    {
+      "id": "long-intervals",
+      "group": "Endurance",
+      "name": "Long threshold intervals",
+      "alt": "Repeats like 3 × 10 min at rate 22-24",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Lats",
+      "desc": "Repeats of 8-15 minutes at threshold pressure and rate 22-24 with a few minutes of paddling between. Raises the pace you can sustain without blowing up — the direct currency of the 2k's middle thousand. Even splits across all repeats is the goal; a fast first piece is a failed piece.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Seated cable rows",
+          "scheme": "4 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Thoracic extension over foam roller"
+      ],
+      "mistakes": [
+        "Flying the first interval and limping through the last.",
+        "Letting the rate climb to hold the split as fatigue builds — length, not rate.",
+        "Slumping through the rest instead of paddling and resetting posture."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+threshold+intervals+erg+workout"
+    },
+    {
+      "id": "race-starts",
+      "group": "Racing",
+      "name": "Race starts",
+      "alt": "The start sequence and high strokes",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Arms",
+      "desc": "The rehearsed launch: short punchy strokes — half, half, three-quarter, full — into 15-20 high strokes near rate 40, then a controlled settle to race rhythm. The start buys position but the settle wins races; the skill is shifting down without losing pressure or composure.",
+      "exercises": [
+        {
+          "name": "Power cleans",
+          "scheme": "5 × 3",
+          "wgerId": 683
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "4 × 6",
+          "wgerId": 614
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Overhead lat stretch on wall",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Taking full-length first strokes that stall against a standing-start load.",
+        "Panicking at rate 40 and letting the sequence dissolve into arm-pulling.",
+        "Refusing to settle, then paying with a catastrophic third 500."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rowing+race+start+sequence+technique"
+    },
+    {
+      "id": "2k-pacing",
+      "group": "Racing",
+      "name": "2k pacing",
+      "alt": "Splitting the 2000m race plan",
+      "level": "Advanced",
+      "muscles": "Quads · Lats · Diaphragm",
+      "desc": "Practicing the classic plan — a fast start, settle to goal split plus a second, hold through the brutal third 500, then empty the tank in the last 400. Rehearsed with race-pace pieces like 4 × 500 or broken 2ks. The race is won by whoever slows down least; even splits beat heroics every time.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Rowing machine intervals",
+          "scheme": "4 × 500m"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 20",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Thoracic extension over foam roller",
+        "Child's pose",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Going out five seconds under goal split and detonating at 1100 meters.",
+        "Abandoning the plan the first time the split flickers high.",
+        "Never rehearsing the sprint on exhausted legs before race day."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=2k+erg+race+pacing+strategy+rowing"
+    }
+  ]
+}

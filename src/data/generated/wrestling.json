@@ -1,0 +1,647 @@
+{
+  "id": "wrestling",
+  "name": "Wrestling",
+  "emoji": "🤼‍♂️",
+  "tag": "WR",
+  "category": "Grappling arts",
+  "drills": [
+    {
+      "id": "stance-motion",
+      "group": "Stance & motion",
+      "name": "Stance & motion",
+      "alt": "Staggered stance with level and circle drills",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core · Calves",
+      "desc": "The staggered athletic stance — knees bent, hips back, head up, hands leading — moved in every direction without crossing the feet. Level lives in the legs: you raise and lower by bending the knees, never the back. Everything in wrestling is launched from and defended in this position, so it must hold up for six hard minutes.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Calf wall stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Standing tall when tired — the stance dies from fatigue before it dies from ignorance.",
+        "Crossing the feet while circling, giving up balance for a full step.",
+        "Bending at the waist with the head down, exposing the front headlock."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+stance+and+motion+drill+tutorial"
+    },
+    {
+      "id": "penetration-step",
+      "group": "Stance & motion",
+      "name": "Penetration step",
+      "alt": "Level change and drive step for shots",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Hip flexors · Core",
+      "desc": "The deep step that carries you from stance into an opponent's legs: change levels by bending the knees, drive the lead knee to the mat between their feet, and keep the head up and back flat. Power comes from the trailing leg pushing the hips forward through the target. Drilled solo down the mat, it is the engine of every leg attack.",
+      "exercises": [
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        },
+        {
+          "name": "Dumbbell jump squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Dropping the head and reaching with the arms instead of stepping in with the legs.",
+        "Changing levels by bowing at the waist rather than bending the knees.",
+        "Overstepping so far that the trailing leg can't drive through."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+penetration+step+drill+tutorial"
+    },
+    {
+      "id": "hand-fighting",
+      "group": "Stance & motion",
+      "name": "Hand fighting",
+      "alt": "Wrist, collar and inside-tie control",
+      "level": "Intermediate",
+      "muscles": "Forearms · Grip · Shoulders · Traps",
+      "desc": "The constant battle for inside control — clearing the opponent's ties, snapping their posture, and winning wrist and collar position before shooting. Good hand fighters make contact heavy: every touch either moves the opponent or clears a lane. Shots taken behind won hand fights succeed at triple the rate of naked shots.",
+      "exercises": [
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 10",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Upper trap stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Slapping at the hands without follow-up attacks — clearing a tie means nothing if you don't use the opening.",
+        "Reaching with straight arms so your own wrists get snatched.",
+        "Letting the opponent's collar tie sit on your neck without immediately clearing it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+hand+fighting+drills+tutorial"
+    },
+    {
+      "id": "double-leg",
+      "group": "Takedowns",
+      "name": "Double leg",
+      "alt": "Two-leg takedown",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Back · Core",
+      "desc": "The highest-percentage takedown in wrestling: a penetration step to both legs, head tight to the outside hip, hands locked behind the knees. The finish is a lift-and-turn or a driving cut across, powered by the legs while the back stays flat. Speed of the level change hides the shot; leg drive finishes it.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Shooting from too far out and arriving with no drive left.",
+        "Head down and inside, taking the full brunt of the sprawl on the neck.",
+        "Stalling on the knees after contact instead of running the feet immediately."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+double+leg+takedown+tutorial"
+    },
+    {
+      "id": "single-leg",
+      "group": "Takedowns",
+      "name": "Single leg",
+      "alt": "One-leg takedown",
+      "level": "Intermediate",
+      "muscles": "Legs · Grip · Core · Shoulders",
+      "desc": "Attacking one leg and hugging it to your chest with head pressure on the inside or outside. From there the finishes multiply — run the pipe, lift and trip, or dump to the far side — all driven by posture and hip pressure rather than arm strength. Holding a fighting opponent's leg is a grip and core endurance test in itself.",
+      "exercises": [
+        {
+          "name": "Zercher squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Single-leg RDL",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Kneeling hip flexor stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Holding the leg low at the ankle with a bent back instead of climbing it to the chest.",
+        "Letting the head hang outside with no pressure, inviting the whizzer.",
+        "Pausing to think while the opponent hops — finishes are chained, not chosen slowly."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+single+leg+takedown+finishes+tutorial"
+    },
+    {
+      "id": "ankle-pick",
+      "group": "Takedowns",
+      "name": "Ankle pick",
+      "alt": "Collar-tie ankle attack",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Back · Core · Grip",
+      "desc": "A timing attack: a collar tie drags the opponent's weight over one foot, and the free hand scoops that ankle as it lightens. The pick is finished by driving through the collar tie while the ankle is lifted to the hip. It scores off motion — you create the step you attack.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "One-arm dumbbell rows",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1186,
+          "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Seated forward fold",
+        "Upper trap stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Picking at a planted, weighted ankle instead of one in flight.",
+        "Bending only at the waist to reach, putting your head below your hips.",
+        "Releasing the collar tie during the pick so the opponent squares back up."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+ankle+pick+tutorial"
+    },
+    {
+      "id": "sprawl",
+      "group": "Shot defense",
+      "name": "Sprawl",
+      "alt": "Hips-back shot defense",
+      "level": "Beginner",
+      "muscles": "Hips · Glutes · Core · Chest",
+      "desc": "The reflexive answer to a shot: feet shoot back, hips drop heavily onto the attacker's head and shoulders, legs flare wide out of reach. The whole movement is one violent hip extension — done a beat late it becomes a takedown against you. Wrestlers drill sprawls until the legs move before the mind does.",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "scheme": "4 × 10",
+          "wgerId": 132
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 20",
+          "wgerId": 996
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Cobra stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Sprawling onto the knees instead of the hips and toes.",
+        "Leaving the legs square and reachable instead of flaring them back at an angle.",
+        "Pushing the head away with the hands instead of dropping chest and hip weight on it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+sprawl+technique+tutorial"
+    },
+    {
+      "id": "whizzer",
+      "group": "Shot defense",
+      "name": "Whizzer",
+      "alt": "Overhook counter to the single leg",
+      "level": "Intermediate",
+      "muscles": "Lats · Shoulders · Obliques · Hips",
+      "desc": "A deep overhook thrown over the attacking arm when the opponent is in on your leg, torquing their shoulder down while you limp-leg or hip into them. The whizzer converts defense into offense — enough torque can throw the attacker straight to their back. Force runs through the lat and hip together, never the arm alone.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Side planks with rotation",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        }
+      ],
+      "stretches": [
+        "Lat side-bend stretch",
+        "Doorway pec stretch",
+        "Thread the needle",
+        "Standing spinal twist"
+      ],
+      "mistakes": [
+        "A shallow overhook at the elbow instead of deep at the shoulder.",
+        "Whizzering while square — hips must turn in to generate torque.",
+        "Hanging on the whizzer while the opponent switches to a double."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+whizzer+defense+tutorial"
+    },
+    {
+      "id": "snap-down",
+      "group": "Front headlock & snaps",
+      "name": "Snap down",
+      "alt": "Collar-tie snap to the mat",
+      "level": "Beginner",
+      "muscles": "Lats · Triceps · Core · Hips",
+      "desc": "Snapping the opponent's head and shoulders toward the mat off a collar tie and biceps or wrist control. The snap is a whole-body sit-back through the hips, not an arm pull — timed against their forward pressure it plants their hands on the mat. Every snap either scores a go-behind or drains the opponent's posture.",
+      "exercises": [
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Upper trap stretch",
+        "Lat side-bend stretch",
+        "Chin-to-chest neck stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Pulling with the arms while standing tall instead of dropping the hips into the snap.",
+        "Snapping without circling, letting the opponent recover square.",
+        "Pushing the head down and leaving it there — snap and attack, or snap and re-snap."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+snap+down+drill+tutorial"
+    },
+    {
+      "id": "front-headlock",
+      "group": "Front headlock & snaps",
+      "name": "Front headlock",
+      "alt": "Chin-and-elbow control after the snap",
+      "level": "Intermediate",
+      "muscles": "Arms · Chest · Core · Hips",
+      "desc": "Controlling a broken-down opponent with one arm wrapping the chin and the other cinching their elbow to your chest. Hips stay back and heavy so they cannot penetrate to your legs, while shucks, spins and cradles open up. It is a position of suffocating pressure — held loosely it is a single leg waiting to happen against you.",
+      "exercises": [
+        {
+          "name": "Dumbbell bench press",
+          "scheme": "3 × 10",
+          "wgerId": 186
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 10",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Upper trap stretch",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Letting the trapped elbow slip free, which restores the opponent's posture.",
+        "Squatting the hips close enough for the opponent to reach your legs.",
+        "Squeezing the neck as an end in itself instead of converting to a go-behind or cradle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+front+headlock+series+tutorial"
+    },
+    {
+      "id": "go-behind",
+      "group": "Front headlock & snaps",
+      "name": "Go-behind",
+      "alt": "Shuck and spin to the back",
+      "level": "Intermediate",
+      "muscles": "Core · Shoulders · Hips · Calves",
+      "desc": "Converting the front headlock or a stuffed shot into rear control by shucking the head aside and spinning around the opponent's anchor point. The spin stays tight — chest glued to their back, weight heavy — because space is what lets them re-square. Fast feet and heavy chest are the entire technique.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Shoulder taps in plank",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 20",
+          "wgerId": 996
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        }
+      ],
+      "stretches": [
+        "Thoracic rotation stretch",
+        "Kneeling hip flexor stretch",
+        "Cross-body shoulder stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Spinning wide with light hips, giving the opponent room to turn with you.",
+        "Shucking the head without controlling an arm, so they simply look back up.",
+        "Stopping halfway behind instead of finishing to the far hip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+go+behind+spin+drill+tutorial"
+    },
+    {
+      "id": "duck-under",
+      "group": "Upper body",
+      "name": "Duck under",
+      "alt": "Level change under the tie to the back",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Traps · Shoulders",
+      "desc": "Ducking beneath the opponent's elbow off a collar or inside tie, popping up chest-to-back on the far side. The duck is a knee bend and a step — the head slides under a lifted elbow while your tie pulls them over the top of you. It wins with timing against opponents who post or reach with heavy ties.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / arm",
+          "wgerId": 346
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Upper trap stretch",
+        "Thoracic rotation stretch",
+        "Kneeling hip flexor stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Ducking by bowing the head instead of dropping the level with the knees.",
+        "Ducking into a heavy, clamped elbow rather than a lifted one.",
+        "Surfacing too far away instead of glued to the opponent's side and back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+duck+under+tutorial"
+    },
+    {
+      "id": "hip-toss",
+      "group": "Upper body",
+      "name": "Hip toss",
+      "alt": "Headlock or underhook throw over the hip",
+      "level": "Advanced",
+      "muscles": "Hips · Glutes · Obliques · Back",
+      "desc": "Stepping across the opponent's body with an underhook or headlock and launching them over your hip. Your hips must land below and across theirs before the throw — then a violent rotation and leg extension does the lifting. Thrown with arms alone it fails; thrown with hips it ends matches.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Standing spinal twist",
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Throwing with the hips still square or beside the opponent instead of across them.",
+        "Bending forward at the waist and muscling with the back.",
+        "Losing the underhook mid-throw and landing underneath."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+hip+toss+throw+tutorial"
+    },
+    {
+      "id": "bridging",
+      "group": "Mat wrestling",
+      "name": "Bridging",
+      "alt": "Neck bridge for pin defense",
+      "level": "Beginner",
+      "muscles": "Neck · Traps · Glutes · Back",
+      "desc": "Arching from the mat onto the crown of the head and the feet so the shoulders never touch — the last line of defense against the pin. Combined with a hip turn, the bridge-and-turn escapes bottom positions and reverses near-falls. Neck strength here is built gradually and carefully over months, never rushed.",
+      "exercises": [
+        {
+          "name": "Neck harness extensions",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Chin-to-chest neck stretch",
+        "Cobra stretch",
+        "Kneeling hip flexor stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Bridging on the back of the head instead of rolling to the crown.",
+        "Flat feet far from the hips, leaving the bridge low and weak.",
+        "Bridging straight up without the hip turn that actually escapes the position."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+neck+bridge+drill+tutorial"
+    },
+    {
+      "id": "stand-up-escape",
+      "group": "Mat wrestling",
+      "name": "Stand-up escape",
+      "alt": "Escaping bottom referee's position",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Grip · Back",
+      "desc": "From bottom position: explode up and into the opponent, control their locked hands, and turn to face them for the escape. The first motion is a violent inside-leg step and hip lift into their pressure — hesitation lets them chop you back down. Hand control before the turn is what separates one point from a re-ride.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Dumbbell jump squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Wrist flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Standing straight up and away, making the mat return easy.",
+        "Turning to face before clearing the opponent's hands from your waist.",
+        "A slow first move — the stand-up scores in the first half-second or not at all."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+stand+up+escape+bottom+tutorial"
+    }
+  ]
+}

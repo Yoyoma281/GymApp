@@ -1,5 +1,544 @@
 [
   {
+    "sportId": "aikido",
+    "drillId": "tenkan",
+    "name": "Tenkan",
+    "alt": "Pivoting turn",
+    "muscles": "Hips · Calves · Core"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "irimi",
+    "name": "Irimi",
+    "alt": "Entering step",
+    "muscles": "Legs · Hips · Core"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "shikko",
+    "name": "Shikko",
+    "alt": "Knee walking",
+    "muscles": "Hips · Quads · Adductors · Core"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "mae-ukemi",
+    "name": "Mae ukemi",
+    "alt": "Forward roll",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "ushiro-ukemi-aikido",
+    "name": "Ushiro ukemi",
+    "alt": "Backward roll",
+    "muscles": "Core · Neck · Abs"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "tobu-ukemi",
+    "name": "Tobu ukemi",
+    "alt": "Breakfall (high fall)",
+    "muscles": "Core · Shoulders · Neck · Hips"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "ikkyo",
+    "name": "Ikkyo",
+    "alt": "First control — arm pin",
+    "muscles": "Shoulders · Lats · Core · Legs"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "nikyo",
+    "name": "Nikyo",
+    "alt": "Second control — wrist lock",
+    "muscles": "Forearms · Grip · Core · Shoulders"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "sankyo",
+    "name": "Sankyo",
+    "alt": "Third control — spiral wrist twist",
+    "muscles": "Forearms · Grip · Obliques · Legs"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "shiho-nage",
+    "name": "Shiho-nage",
+    "alt": "Four-direction throw",
+    "muscles": "Shoulders · Core · Legs · Grip"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "irimi-nage",
+    "name": "Irimi-nage",
+    "alt": "Entering throw",
+    "muscles": "Legs · Core · Chest · Shoulders"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "kote-gaeshi",
+    "name": "Kote-gaeshi",
+    "alt": "Wrist-turn throw",
+    "muscles": "Forearms · Grip · Hips · Core"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "tenchi-nage",
+    "name": "Tenchi-nage",
+    "alt": "Heaven-and-earth throw",
+    "muscles": "Legs · Shoulders · Core · Back"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "kokyu-nage",
+    "name": "Kokyu-nage",
+    "alt": "Breath throw",
+    "muscles": "Core · Hips · Shoulders · Legs"
+  },
+  {
+    "sportId": "aikido",
+    "drillId": "koshi-nage",
+    "name": "Koshi-nage",
+    "alt": "Hip throw",
+    "muscles": "Hips · Glutes · Legs · Back"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "archer-stance",
+    "name": "Square stance",
+    "alt": "Foundation foot position on the line",
+    "muscles": "Legs · Glutes · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "t-posture-alignment",
+    "name": "T-posture",
+    "alt": "Vertical alignment of spine and shoulders",
+    "muscles": "Core · Lower back · Neck"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "bow-hand-grip",
+    "name": "Bow hand & grip",
+    "alt": "Relaxed pressure through the thumb pad",
+    "muscles": "Forearms · Wrist · Shoulders"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "hooking-and-set",
+    "name": "Hooking & set position",
+    "alt": "Placing the string fingers and pre-draw",
+    "muscles": "Fingers · Forearms · Rear delts"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "draw-to-loading",
+    "name": "Drawing",
+    "alt": "Pulling to load with the back, not the arm",
+    "muscles": "Rhomboids · Rear delts · Lats"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "anchor-point",
+    "name": "Anchor",
+    "alt": "Locking the string hand to the face",
+    "muscles": "Neck · Rear delts · Rhomboids"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "transfer-loading",
+    "name": "Transfer & loading",
+    "alt": "Shifting the holding load into the back",
+    "muscles": "Rhomboids · Traps · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "back-tension-expansion",
+    "name": "Back tension & expansion",
+    "alt": "Continuous pull through the clicker",
+    "muscles": "Rhomboids · Rear delts · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "release",
+    "name": "Release",
+    "alt": "Letting the string leave, not letting go",
+    "muscles": "Forearms · Rear delts · Rhomboids"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "follow-through",
+    "name": "Follow-through",
+    "alt": "Holding the shot until the arrow lands",
+    "muscles": "Rear delts · Core · Shoulders"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "sight-picture-aiming",
+    "name": "Sight picture & float",
+    "alt": "Aiming with an accepted, moving pin",
+    "muscles": "Neck · Eyes · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "string-alignment",
+    "name": "String alignment",
+    "alt": "Blurred string as a rear reference",
+    "muscles": "Neck · Eyes"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "spt-holding",
+    "name": "SPT — holding",
+    "alt": "Specific physical training: long holds at full draw",
+    "muscles": "Rhomboids · Rear delts · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "spt-power",
+    "name": "SPT — power",
+    "alt": "Repeated draw-ups without release",
+    "muscles": "Rhomboids · Lats · Rear delts"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "spt-structure",
+    "name": "SPT — structure",
+    "alt": "Half-draw holds for bow-arm stability",
+    "muscles": "Front delts · Serratus · Core"
+  },
+  {
+    "sportId": "archery",
+    "drillId": "blank-boss-shooting",
+    "name": "Blank boss shooting",
+    "alt": "Close-range shooting with eyes on form",
+    "muscles": "Rhomboids · Forearms · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "split-step",
+    "name": "Split step",
+    "alt": "Ready hop",
+    "muscles": "Calves · Quads · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "lunge-patterns",
+    "name": "Lunge patterns",
+    "alt": "Deep lunge to the corners",
+    "muscles": "Quads · Glutes · Adductors"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "four-corner-footwork",
+    "name": "Four-corner footwork",
+    "alt": "Shadow movement drill",
+    "muscles": "Quads · Calves · Glutes · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "scissor-jump",
+    "name": "Scissor jump",
+    "alt": "Rear-court jump switch",
+    "muscles": "Glutes · Quads · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "short-backhand-serve",
+    "name": "Short backhand serve",
+    "alt": "Low doubles serve",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "high-serve",
+    "name": "High serve",
+    "alt": "Deep singles serve",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "flick-serve",
+    "name": "Flick serve",
+    "alt": "Surprise deep serve",
+    "muscles": "Forearms · Wrists · Shoulders"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "clear",
+    "name": "Clear",
+    "alt": "Deep overhead shot",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "drop-shot",
+    "name": "Drop shot",
+    "alt": "Slow shot to the front court",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "smash",
+    "name": "Smash",
+    "alt": "Steep attacking shot",
+    "muscles": "Shoulders · Lats · Core · Forearms"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "jump-smash",
+    "name": "Jump smash",
+    "alt": "Airborne smash",
+    "muscles": "Quads · Glutes · Core · Shoulders"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "net-shot",
+    "name": "Net shot",
+    "alt": "Tumbling net drop",
+    "muscles": "Forearms · Quads · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "net-kill",
+    "name": "Net kill",
+    "alt": "Fast finish at the tape",
+    "muscles": "Forearms · Shoulders · Calves"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "defensive-lift",
+    "name": "Defensive lift",
+    "alt": "Underarm clear from defense",
+    "muscles": "Forearms · Legs · Core"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "block-defense",
+    "name": "Smash block",
+    "alt": "Soft return of a smash",
+    "muscles": "Forearms · Core · Legs"
+  },
+  {
+    "sportId": "badminton",
+    "drillId": "wrist-snap-power",
+    "name": "Wrist snap and pronation",
+    "alt": "Racket-head speed drill",
+    "muscles": "Forearms · Wrists · Fingers"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "load-and-stride",
+    "name": "Load & stride",
+    "alt": "Timing move that starts the swing",
+    "muscles": "Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "rotational-swing",
+    "name": "Rotational swing mechanics",
+    "alt": "Turning the barrel with the hips",
+    "muscles": "Hips · Obliques · Lats"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "bat-speed",
+    "name": "Bat speed work",
+    "alt": "Overload-underload swing training",
+    "muscles": "Obliques · Lats · Forearms"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "opposite-field-hitting",
+    "name": "Opposite-field hitting",
+    "alt": "Driving the outside pitch the other way",
+    "muscles": "Core · Lats · Forearms"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "pitching-delivery",
+    "name": "Pitching delivery mechanics",
+    "alt": "The balanced wind-up and stride",
+    "muscles": "Glutes · Core · Shoulders"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "drive-leg-power",
+    "name": "Drive leg & hip power",
+    "alt": "Pushing off the rubber harder",
+    "muscles": "Glutes · Quads · Adductors"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "arm-care-velocity",
+    "name": "Arm speed & arm care",
+    "alt": "Building a fast, durable throwing arm",
+    "muscles": "Rotator cuff · Rear delts · Forearms"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "fielding-grounders",
+    "name": "Fielding ground balls",
+    "alt": "Basic infield grounder technique",
+    "muscles": "Quads · Glutes · Lower back"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "backhand-pickup",
+    "name": "Backhand pickup",
+    "alt": "Grounder on the glove-side crossover",
+    "muscles": "Adductors · Quads · Core"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "outfield-crow-hop",
+    "name": "Outfield crow hop",
+    "alt": "Momentum shuffle into a long throw",
+    "muscles": "Glutes · Calves · Shoulders"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "throwing-accuracy",
+    "name": "Throwing accuracy",
+    "alt": "Hitting the chest every throw",
+    "muscles": "Shoulders · Core · Rotator cuff"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "long-toss",
+    "name": "Long toss",
+    "alt": "Stretching out arm strength by distance",
+    "muscles": "Shoulders · Lats · Glutes"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "sprint-start-first-step",
+    "name": "First-step quickness",
+    "alt": "Explosive starts out of the box and off the bag",
+    "muscles": "Glutes · Hamstrings · Calves"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "base-stealing",
+    "name": "Base stealing",
+    "alt": "Lead, read, and crossover jump",
+    "muscles": "Glutes · Adductors · Hip flexors"
+  },
+  {
+    "sportId": "baseball",
+    "drillId": "sliding",
+    "name": "Sliding technique",
+    "alt": "Bent-leg and pop-up slides",
+    "muscles": "Hamstrings · Glutes · Core"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "form-shooting",
+    "name": "Form shooting",
+    "alt": "Close-range one-hand shooting reps",
+    "muscles": "Shoulders · Triceps · Wrists"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "catch-and-shoot",
+    "name": "Catch and shoot",
+    "alt": "Shooting instantly off the pass",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "pull-up-jumper",
+    "name": "Pull-up jumper",
+    "alt": "Stopping off the dribble to shoot",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "layup-package",
+    "name": "Layups (both hands)",
+    "alt": "Basic finishing off the glass",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "floater",
+    "name": "Floater",
+    "alt": "Soft high runner over the big man",
+    "muscles": "Legs · Core · Wrists"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "euro-step",
+    "name": "Euro step",
+    "alt": "Two-step sidestep around the defender",
+    "muscles": "Glutes · Adductors · Core"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "pound-dribble",
+    "name": "Stationary pound dribbling",
+    "alt": "Hard two-ball and one-ball dribble reps",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "crossover",
+    "name": "Crossover",
+    "alt": "Snapping the ball across to change direction",
+    "muscles": "Forearms · Hips · Adductors"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "combo-dribbling",
+    "name": "Combo moves (behind-back, between-legs)",
+    "alt": "Chaining dribble moves at game speed",
+    "muscles": "Forearms · Hips · Core"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "defensive-slide",
+    "name": "Defensive slides",
+    "alt": "Lateral shuffle in a low stance",
+    "muscles": "Glutes · Quads · Adductors"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "closeout",
+    "name": "Closeouts",
+    "alt": "Sprinting to a shooter under control",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "box-out",
+    "name": "Box-outs",
+    "alt": "Sealing your man off the boards",
+    "muscles": "Glutes · Core · Legs"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "lateral-quickness",
+    "name": "Lateral quickness work",
+    "alt": "Side-to-side speed and reaction drills",
+    "muscles": "Glutes · Adductors · Calves"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "first-step",
+    "name": "First-step explosiveness",
+    "alt": "Winning the first yard off the dribble",
+    "muscles": "Glutes · Quads · Calves"
+  },
+  {
+    "sportId": "basketball",
+    "drillId": "vertical-jump",
+    "name": "Vertical jump training",
+    "alt": "Jumping higher off one and two feet",
+    "muscles": "Glutes · Quads · Calves"
+  },
+  {
     "sportId": "bjj",
     "drillId": "shrimping",
     "name": "Shrimping",
@@ -8,10 +547,136 @@
   },
   {
     "sportId": "bjj",
+    "drillId": "bridging-upa",
+    "name": "Upa",
+    "alt": "Bridge & roll escape",
+    "muscles": "Glutes · Lower back · Neck"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "technical-stand-up",
+    "name": "Technical stand-up",
+    "alt": "Getting up in base",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "granby-roll",
+    "name": "Granby roll",
+    "alt": "Shoulder roll for guard recovery",
+    "muscles": "Shoulders · Core · Neck"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "guard-retention",
+    "name": "Guard retention frames",
+    "alt": "Keeping the legs between you and the passer",
+    "muscles": "Hips · Core · Hamstrings"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "scissor-sweep",
+    "name": "Tesoura",
+    "alt": "Scissor sweep",
+    "muscles": "Obliques · Hips · Lats"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "hip-bump-sweep",
+    "name": "Hip bump sweep",
+    "alt": "Sit-up sweep from closed guard",
+    "muscles": "Core · Hips · Triceps"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "butterfly-sweep",
+    "name": "Butterfly sweep",
+    "alt": "Hook sweep from seated guard",
+    "muscles": "Hip flexors · Hamstrings · Back"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "knee-cut-pass",
+    "name": "Knee cut pass",
+    "alt": "Knee slice through the guard",
+    "muscles": "Quads · Adductors · Core"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "torreando-pass",
+    "name": "Torreando",
+    "alt": "Bullfighter pass",
+    "muscles": "Shoulders · Lats · Calves"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "over-under-pass",
+    "name": "Over-under pass",
+    "alt": "Pressure pass with one arm over, one under",
+    "muscles": "Chest · Hips · Lower back"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "arm-drag-back-take",
+    "name": "Arm drag to back take",
+    "alt": "Dragging the arm across to reach the back",
+    "muscles": "Lats · Biceps · Core"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "back-control-hooks",
+    "name": "Back control & seat belt",
+    "alt": "Keeping the back with hooks and chest pressure",
+    "muscles": "Hip flexors · Forearms · Core"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "armbar-from-guard",
+    "name": "Juji-gatame",
+    "alt": "Armbar from closed guard",
+    "muscles": "Hip flexors · Hamstrings · Core"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "triangle-choke",
+    "name": "Sankaku-jime",
+    "alt": "Triangle choke",
+    "muscles": "Hamstrings · Adductors · Hips"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "rear-naked-choke",
+    "name": "Mata leão",
+    "alt": "Rear naked choke",
+    "muscles": "Biceps · Forearms · Chest"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "grip-fighting",
+    "name": "Grip fighting",
+    "alt": "Winning the tie-up before the shot",
+    "muscles": "Forearms · Traps · Shoulders"
+  },
+  {
+    "sportId": "bjj",
     "drillId": "takedown-entries",
     "name": "Takedown entries",
     "alt": "Level change & penetration step",
     "muscles": "Legs · Back"
+  },
+  {
+    "sportId": "bjj",
+    "drillId": "double-leg-finish",
+    "name": "Double leg finish",
+    "alt": "Driving through after the shot",
+    "muscles": "Legs · Glutes · Back"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "jab",
+    "name": "Jab",
+    "alt": "Lead straight punch",
+    "muscles": "Shoulders · Triceps · Calves"
   },
   {
     "sportId": "boxing",
@@ -22,6 +687,48 @@
   },
   {
     "sportId": "boxing",
+    "drillId": "lead-hook",
+    "name": "Lead hook",
+    "alt": "Left hook (orthodox)",
+    "muscles": "Core · Hips · Shoulders"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "rear-uppercut",
+    "name": "Rear uppercut",
+    "alt": "Rising rear-hand punch",
+    "muscles": "Legs · Core · Biceps"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "body-hook",
+    "name": "Body hook",
+    "alt": "Liver shot",
+    "muscles": "Legs · Obliques · Shoulders"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "combinations",
+    "name": "1-2-3 combinations",
+    "alt": "Jab–cross–hook chaining",
+    "muscles": "Full body · Core · Shoulders"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "high-guard",
+    "name": "High guard & block",
+    "alt": "Shell block",
+    "muscles": "Shoulders · Upper back · Neck"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "parry",
+    "name": "Parry & return",
+    "alt": "Catch-and-counter drill",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "boxing",
     "drillId": "slip-roll",
     "name": "Slip & roll",
     "alt": "Head movement drill",
@@ -29,10 +736,227 @@
   },
   {
     "sportId": "boxing",
+    "drillId": "shoulder-roll",
+    "name": "Shoulder roll",
+    "alt": "Philly shell defense",
+    "muscles": "Shoulders · Obliques · Legs"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "stance-step",
+    "name": "Stance & step drill",
+    "alt": "Step-drag fundamentals",
+    "muscles": "Calves · Quads · Glutes"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "pivot",
+    "name": "Lead-foot pivot",
+    "alt": "Angle-changing pivot",
+    "muscles": "Calves · Glutes · Core"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "cutting-the-ring",
+    "name": "Cutting the ring",
+    "alt": "Lateral movement & ring control",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "shadowboxing",
+    "name": "Shadowboxing rounds",
+    "alt": "Solo technical rounds",
+    "muscles": "Full body · Shoulders · Legs"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "double-end-bag",
+    "name": "Double-end bag",
+    "alt": "Reflex bag work",
+    "muscles": "Shoulders · Core · Calves"
+  },
+  {
+    "sportId": "boxing",
+    "drillId": "jump-rope",
+    "name": "Jump rope rounds",
+    "alt": "Skipping conditioning",
+    "muscles": "Calves · Shoulders · Core"
+  },
+  {
+    "sportId": "boxing",
     "drillId": "heavy-bag",
     "name": "Heavy bag rounds",
     "alt": "Conditioning drill",
     "muscles": "Full body"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "ginga",
+    "name": "Ginga",
+    "alt": "The fundamental sway",
+    "muscles": "Legs · Hips · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "negativa",
+    "name": "Negativa",
+    "alt": "Low denial position",
+    "muscles": "Quads · Core · Wrists"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "role",
+    "name": "Rolê",
+    "alt": "Ground rotation escape",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "cocorinha",
+    "name": "Cocorinha",
+    "alt": "Squatting escape",
+    "muscles": "Quads · Ankles · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "esquiva-lateral",
+    "name": "Esquiva lateral",
+    "alt": "Side escape",
+    "muscles": "Legs · Obliques · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "esquiva-baixa",
+    "name": "Esquiva baixa",
+    "alt": "Low diagonal escape",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "meia-lua-de-frente",
+    "name": "Meia lua de frente",
+    "alt": "Front half-moon kick",
+    "muscles": "Hip flexors · Core · Hamstrings"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "bencao",
+    "name": "Benção",
+    "alt": "Blessing — front push kick",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "queixada",
+    "name": "Queixada",
+    "alt": "Outside crescent to the jaw",
+    "muscles": "Hips · Obliques · Hamstrings"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "armada",
+    "name": "Armada",
+    "alt": "Spinning outside crescent kick",
+    "muscles": "Core · Hips · Calves"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "martelo",
+    "name": "Martelo",
+    "alt": "Hammer roundhouse kick",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "meia-lua-de-compasso",
+    "name": "Meia lua de compasso",
+    "alt": "Compass half-moon — spinning heel kick",
+    "muscles": "Hamstrings · Glutes · Core"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "au",
+    "name": "Aú",
+    "alt": "Capoeira cartwheel",
+    "muscles": "Shoulders · Core · Wrists"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "queda-de-rins",
+    "name": "Queda de rins",
+    "alt": "Fall onto the kidneys — elbow balance",
+    "muscles": "Shoulders · Core · Triceps"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "bananeira",
+    "name": "Bananeira",
+    "alt": "Capoeira handstand",
+    "muscles": "Shoulders · Core · Forearms"
+  },
+  {
+    "sportId": "capoeira",
+    "drillId": "macaco",
+    "name": "Macaco",
+    "alt": "Monkey flip — back walkover from squat",
+    "muscles": "Shoulders · Back · Legs"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "silent-feet",
+    "name": "Silent feet",
+    "alt": "Footwork drill",
+    "muscles": "Calves · Core"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "heel-hooks",
+    "name": "Heel hooks",
+    "alt": "Pulling with the heel",
+    "muscles": "Hamstrings · Glutes · Calves"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "toe-hooks",
+    "name": "Toe hooks",
+    "alt": "Pulling with the top of the foot",
+    "muscles": "Shins · Hip flexors · Core"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "flagging",
+    "name": "Flagging",
+    "alt": "Counterbalance leg",
+    "muscles": "Core · Glutes · Hips"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "drop-knees",
+    "name": "Drop knees",
+    "alt": "Egyptian",
+    "muscles": "Hips · Glutes · Adductors"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "mantling",
+    "name": "Mantling",
+    "alt": "Pressing over a ledge",
+    "muscles": "Triceps · Shoulders · Chest · Core"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "crack-technique",
+    "name": "Crack technique",
+    "alt": "Jamming",
+    "muscles": "Forearms · Hands · Core · Feet"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "lock-offs",
+    "name": "Lock-offs",
+    "alt": "Holding a bent-arm position",
+    "muscles": "Lats · Biceps · Shoulders · Core"
   },
   {
     "sportId": "climbing",
@@ -43,17 +967,829 @@
   },
   {
     "sportId": "climbing",
-    "drillId": "silent-feet",
-    "name": "Silent feet",
-    "alt": "Footwork drill",
-    "muscles": "Calves · Core"
+    "drillId": "max-hangs",
+    "name": "Max hangs",
+    "alt": "Heavy 10-second hangs",
+    "muscles": "Fingers · Forearms · Shoulders"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "campus-board",
+    "name": "Campus board",
+    "alt": "Feet-off ladder training",
+    "muscles": "Fingers · Forearms · Lats · Shoulders"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "deadpoints",
+    "name": "Deadpoints",
+    "alt": "Catching at the top of the arc",
+    "muscles": "Lats · Core · Hips"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "dynos",
+    "name": "Dynos",
+    "alt": "Jumping between holds",
+    "muscles": "Legs · Glutes · Lats · Core"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "route-reading",
+    "name": "Route reading",
+    "alt": "Previewing sequences from the ground",
+    "muscles": "Core · Forearms"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "resting-positions",
+    "name": "Resting positions",
+    "alt": "Shaking out on the wall",
+    "muscles": "Forearms · Calves · Core"
+  },
+  {
+    "sportId": "climbing",
+    "drillId": "four-by-fours",
+    "name": "4x4s",
+    "alt": "Boulder circuits for power endurance",
+    "muscles": "Forearms · Lats · Core · Legs"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "hollow-arch-beat-swing",
+    "name": "Hollow, arch and beat swing",
+    "alt": "The tight body shapes behind every kipping movement",
+    "muscles": "Core · Lats · Glutes · Shoulders"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "kipping-pull-up",
+    "name": "Kipping pull-up",
+    "alt": "Using the swing to string fast pull-ups together",
+    "muscles": "Lats · Core · Hip flexors · Shoulders"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "butterfly-pull-up",
+    "name": "Butterfly pull-up",
+    "alt": "Continuous circular pull-ups for max cycle speed",
+    "muscles": "Lats · Shoulders · Core · Biceps"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "kipping-toes-to-bar",
+    "name": "Toes-to-bar",
+    "alt": "Swinging the toes up to touch the bar",
+    "muscles": "Core · Hip flexors · Lats · Grip"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "handstand-push-up",
+    "name": "Kipping handstand push-up",
+    "alt": "Vertical pressing upside down against the wall",
+    "muscles": "Shoulders · Triceps · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "rope-climb",
+    "name": "Rope climb",
+    "alt": "Climbing with the legs doing the heavy lifting",
+    "muscles": "Grip · Lats · Biceps · Hip flexors"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "wall-ball-shot",
+    "name": "Wall-ball shot",
+    "alt": "Squat and throw a medicine ball to a target",
+    "muscles": "Quads · Glutes · Shoulders · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "thruster",
+    "name": "Thruster",
+    "alt": "Front squat straight into an overhead press",
+    "muscles": "Quads · Glutes · Shoulders · Triceps · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "barbell-cycling",
+    "name": "Barbell cycling",
+    "alt": "Fast touch-and-go reps of cleans and snatches",
+    "muscles": "Hamstrings · Glutes · Traps · Grip · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "box-jump",
+    "name": "Box jump",
+    "alt": "Explosive two-foot jump onto a box",
+    "muscles": "Quads · Glutes · Calves · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "double-under",
+    "name": "Double-under",
+    "alt": "Two rope passes per jump",
+    "muscles": "Calves · Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "burpee-efficiency",
+    "name": "Burpee efficiency",
+    "alt": "The lazy burpee — smooth reps that never redline",
+    "muscles": "Chest · Quads · Glutes · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "breathing-under-fatigue",
+    "name": "Breathing under fatigue",
+    "alt": "Keeping the breath rhythmic when the workout bites",
+    "muscles": "Diaphragm · Intercostals · Core"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "pacing-the-wod",
+    "name": "Pacing the WOD",
+    "alt": "Negative-splitting workouts instead of flying and dying",
+    "muscles": "Aerobic system · Full body"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "transition-efficiency",
+    "name": "Transition efficiency",
+    "alt": "Stealing seconds between movements",
+    "muscles": "Full body · Focus"
+  },
+  {
+    "sportId": "crossfit",
+    "drillId": "chipper-strategy",
+    "name": "Chipper and interval strategy",
+    "alt": "Breaking big rep sets before they break you",
+    "muscles": "Aerobic system · Full body · Grip"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "cadence-drills",
+    "name": "Cadence drills",
+    "alt": "Smooth pedaling at 90-100 rpm",
+    "muscles": "Quads · Hip flexors · Calves"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "single-leg-pedaling",
+    "name": "Single-leg pedaling",
+    "alt": "One-leg trainer drill for a round stroke",
+    "muscles": "Hip flexors · Hamstrings · Quads"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "spin-ups",
+    "name": "High-cadence spin-ups",
+    "alt": "Short bursts toward 120+ rpm",
+    "muscles": "Hip flexors · Calves · Core"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "endurance-base-ride",
+    "name": "Endurance base rides",
+    "alt": "Long steady zone-2 riding",
+    "muscles": "Quads · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "sweet-spot-intervals",
+    "name": "Sweet-spot intervals",
+    "alt": "Long blocks just under threshold",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "ftp-intervals",
+    "name": "FTP intervals",
+    "alt": "Threshold repeats, e.g. 2 × 20 min",
+    "muscles": "Quads · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "vo2-intervals",
+    "name": "VO2max intervals",
+    "alt": "3-5 minute maximal aerobic repeats",
+    "muscles": "Quads · Glutes · Diaphragm"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "low-cadence-torque",
+    "name": "Low-cadence torque work",
+    "alt": "Big-gear seated efforts at 50-60 rpm",
+    "muscles": "Glutes · Quads · Core"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "seated-climbing",
+    "name": "Seated climbing",
+    "alt": "Sustained gradient pacing in the saddle",
+    "muscles": "Glutes · Quads · Lower back"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "standing-climbing",
+    "name": "Standing climbing and attacks",
+    "alt": "Out-of-saddle efforts on steep pitches",
+    "muscles": "Quads · Glutes · Arms"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "sprint-standing-starts",
+    "name": "Standing-start sprints",
+    "alt": "Max power from near-standstill",
+    "muscles": "Glutes · Quads · Arms"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "leadout-sprints",
+    "name": "Race-speed sprints",
+    "alt": "High-speed jumps from 40+ km/h",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "cornering",
+    "name": "Cornering",
+    "alt": "Line choice and lean through turns",
+    "muscles": "Core · Quads · Forearms"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "group-riding",
+    "name": "Group riding and drafting",
+    "alt": "Holding a wheel in a paceline",
+    "muscles": "Core · Neck · Forearms"
+  },
+  {
+    "sportId": "cycling",
+    "drillId": "tt-position",
+    "name": "Time-trial position work",
+    "alt": "Holding an aero tuck at power",
+    "muscles": "Neck · Lower back · Hamstrings"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "en-garde-stance",
+    "name": "En garde",
+    "alt": "Ready stance",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "advance-retreat",
+    "name": "Advance & retreat",
+    "alt": "Step forward, step back",
+    "muscles": "Calves · Quads · Hip flexors"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "footwork-ladders",
+    "name": "Footwork ladders",
+    "alt": "Tempo-change footwork patterns",
+    "muscles": "Calves · Quads · Core"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "balestra",
+    "name": "Balestra",
+    "alt": "Jump-forward preparation",
+    "muscles": "Calves · Quads · Glutes"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "point-control",
+    "name": "Point control",
+    "alt": "Keeping the tip on target",
+    "muscles": "Forearms · Shoulders · Fingers"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "disengage",
+    "name": "Dégagé",
+    "alt": "Disengage around the blade",
+    "muscles": "Fingers · Forearms · Shoulders"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "beat-attack",
+    "name": "Battuta",
+    "alt": "Beat attack",
+    "muscles": "Forearms · Wrist · Shoulders"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "prise-de-fer",
+    "name": "Prise de fer",
+    "alt": "Taking of the blade (bind / envelopment)",
+    "muscles": "Forearms · Shoulders · Lats"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "lunge",
+    "name": "Fente",
+    "alt": "The lunge",
+    "muscles": "Glutes · Quads · Hamstrings"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "advance-lunge",
+    "name": "Marche-fente",
+    "alt": "Advance lunge",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "fleche",
+    "name": "Flèche",
+    "alt": "Running attack (arrow)",
+    "muscles": "Glutes · Hamstrings · Calves"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "flick",
+    "name": "Coup lancé",
+    "alt": "The flick",
+    "muscles": "Forearms · Wrist · Shoulders"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "parry-riposte",
+    "name": "Parade-riposte",
+    "alt": "Parry and immediate counter",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "counter-parry",
+    "name": "Contre-parade",
+    "alt": "Circular counter-parry",
+    "muscles": "Fingers · Forearms · Shoulders"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "distance-control",
+    "name": "Distance & measure",
+    "alt": "Managing the gap",
+    "muscles": "Calves · Quads · Core"
+  },
+  {
+    "sportId": "fencing",
+    "drillId": "stop-hit",
+    "name": "Coup d'arrêt",
+    "alt": "Stop-hit into the attack",
+    "muscles": "Shoulders · Triceps · Core"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "setup-posture",
+    "name": "Setup and posture",
+    "alt": "Address position",
+    "muscles": "Core · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "swing-tempo",
+    "name": "Swing tempo",
+    "alt": "3:1 rhythm drill",
+    "muscles": "Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "backswing-coil",
+    "name": "Backswing coil",
+    "alt": "Loading the turn",
+    "muscles": "Obliques · Lats · Glutes"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "iron-play",
+    "name": "Iron play",
+    "alt": "Ball-first contact",
+    "muscles": "Core · Forearms · Lats"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "driver-swing",
+    "name": "Driver swing",
+    "alt": "Tee shot",
+    "muscles": "Hips · Glutes · Obliques"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "hip-rotation-power",
+    "name": "Hip rotation power",
+    "alt": "Firing the lower body",
+    "muscles": "Hips · Glutes · Obliques"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "chipping",
+    "name": "Chipping",
+    "alt": "Bump and run",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "pitching",
+    "name": "Pitching",
+    "alt": "Half-swing wedge shot",
+    "muscles": "Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "bunker-shots",
+    "name": "Bunker shots",
+    "alt": "Sand escape",
+    "muscles": "Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "flop-shot",
+    "name": "Flop shot",
+    "alt": "High soft lob",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "putting-stroke",
+    "name": "Putting stroke",
+    "alt": "Pendulum stroke",
+    "muscles": "Shoulders · Core · Forearms"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "lag-putting",
+    "name": "Lag putting",
+    "alt": "Long-range distance control",
+    "muscles": "Shoulders · Core"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "lead-side-stability",
+    "name": "Lead-side stability",
+    "alt": "Posting into the lead leg",
+    "muscles": "Glutes · Quads · Core"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "thoracic-rotation",
+    "name": "Thoracic rotation",
+    "alt": "Upper-back turn mobility",
+    "muscles": "Thoracic spine · Obliques · Lats"
+  },
+  {
+    "sportId": "golf",
+    "drillId": "ground-force-speed",
+    "name": "Ground force and swing speed",
+    "alt": "Using the ground for distance",
+    "muscles": "Quads · Glutes · Calves · Core"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "hollow-body-hold",
+    "name": "Hollow body hold",
+    "alt": "Banana-shaped core hold",
+    "muscles": "Abs · Hip flexors · Quads"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "arch-superman-hold",
+    "name": "Arch (Superman) hold",
+    "alt": "Face-down back arch hold",
+    "muscles": "Spinal erectors · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "hollow-rocks",
+    "name": "Hollow rocks",
+    "alt": "Rocking core hold",
+    "muscles": "Abs · Hip flexors · Lats"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "wall-handstand",
+    "name": "Chest-to-wall handstand",
+    "alt": "Handstand practice against a wall",
+    "muscles": "Shoulders · Traps · Core"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "freestanding-handstand",
+    "name": "Freestanding handstand",
+    "alt": "Balancing upside down without support",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "press-handstand",
+    "name": "Press to handstand",
+    "alt": "Lifting to handstand without a jump",
+    "muscles": "Shoulders · Core · Hip flexors"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "cartwheel",
+    "name": "Cartwheel",
+    "alt": "Sideways hand-hand-foot-foot rotation",
+    "muscles": "Shoulders · Obliques · Legs"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "round-off",
+    "name": "Round-off",
+    "alt": "Cartwheel that snaps to two feet",
+    "muscles": "Shoulders · Core · Hamstrings"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "back-handspring",
+    "name": "Back handspring",
+    "alt": "Backward jump to hands to feet",
+    "muscles": "Legs · Shoulders · Spinal erectors"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "support-hold-rings",
+    "name": "Rings support hold",
+    "alt": "Holding yourself steady on top of rings",
+    "muscles": "Shoulders · Triceps · Chest"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "l-sit",
+    "name": "L-sit",
+    "alt": "Legs held straight out while on hands",
+    "muscles": "Hip flexors · Abs · Triceps"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "muscle-up-progression",
+    "name": "Muscle-up progression",
+    "alt": "Pull-up that finishes above the bar",
+    "muscles": "Lats · Chest · Triceps"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "bridge",
+    "name": "Bridge",
+    "alt": "Push-up into a full backbend",
+    "muscles": "Shoulders · Spinal erectors · Glutes"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "front-splits",
+    "name": "Front splits",
+    "alt": "One leg forward, one back, flat on the floor",
+    "muscles": "Hamstrings · Hip flexors · Glutes"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "straddle-splits",
+    "name": "Straddle (middle) splits",
+    "alt": "Legs out to both sides, chest to floor",
+    "muscles": "Adductors · Hamstrings · Hips"
+  },
+  {
+    "sportId": "gymnastics",
+    "drillId": "back-lever-tuck",
+    "name": "Tuck back lever",
+    "alt": "Hanging face-down hold under the rings",
+    "muscles": "Lats · Chest · Spinal erectors"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "uphill-striding",
+    "name": "Uphill striding",
+    "alt": "Efficient climbing gait",
+    "muscles": "Glutes · Quads · Calves"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "rest-step",
+    "name": "Rest step",
+    "alt": "Locking the leg between steps",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "steep-grade-power-hiking",
+    "name": "Steep-grade power hiking",
+    "alt": "Hands-on-knees climbing",
+    "muscles": "Glutes · Quads · Hamstrings · Core"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "altitude-pacing",
+    "name": "Altitude pacing",
+    "alt": "Climbing high without redlining",
+    "muscles": "Legs · Diaphragm · Heart"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "downhill-control",
+    "name": "Downhill braking control",
+    "alt": "Eccentric descent technique",
+    "muscles": "Quads · Glutes · Knees"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "steep-descent-technique",
+    "name": "Steep descent technique",
+    "alt": "Controlled drops and side-stepping",
+    "muscles": "Quads · Glutes · Ankles · Core"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "pack-carrying",
+    "name": "Pack carrying",
+    "alt": "Hiking under load",
+    "muscles": "Traps · Core · Glutes · Hips"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "heavy-pack-training",
+    "name": "Heavy pack training",
+    "alt": "Progressive rucking",
+    "muscles": "Legs · Core · Traps · Lower back"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "trekking-pole-use",
+    "name": "Trekking pole use",
+    "alt": "Four points of contact",
+    "muscles": "Triceps · Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "stream-crossings",
+    "name": "Stream crossings",
+    "alt": "Safe water fords",
+    "muscles": "Core · Hips · Ankles"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "scrambling",
+    "name": "Scrambling",
+    "alt": "Hands-on rock terrain",
+    "muscles": "Legs · Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "talus-boulder-hopping",
+    "name": "Talus and boulder hopping",
+    "alt": "Moving across rock fields",
+    "muscles": "Ankles · Calves · Quads · Core"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "ankle-stability",
+    "name": "Ankle stability work",
+    "alt": "Sprain-proofing the ankles",
+    "muscles": "Ankles · Calves · Peroneals · Feet"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "leg-endurance",
+    "name": "Hiking leg endurance",
+    "alt": "Legs that last all day",
+    "muscles": "Quads · Glutes · Calves · Hamstrings"
+  },
+  {
+    "sportId": "hiking",
+    "drillId": "all-day-pacing",
+    "name": "All-day pacing",
+    "alt": "Effort management over big days",
+    "muscles": "Legs · Heart · Core"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "ushiro-ukemi",
+    "name": "Ushiro ukemi",
+    "alt": "Backward breakfall",
+    "muscles": "Core · Neck · Abs"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "yoko-ukemi",
+    "name": "Yoko ukemi",
+    "alt": "Side breakfall",
+    "muscles": "Obliques · Core · Shoulders"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "zenpo-kaiten-ukemi",
+    "name": "Zenpo kaiten ukemi",
+    "alt": "Forward rolling breakfall",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "kumi-kata",
+    "name": "Kumi kata",
+    "alt": "Gripping strategy",
+    "muscles": "Forearms · Grip · Lats · Shoulders"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "kuzushi-happo",
+    "name": "Happo no kuzushi",
+    "alt": "Off-balancing in eight directions",
+    "muscles": "Lats · Biceps · Core · Legs"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "uchi-komi",
+    "name": "Uchi komi",
+    "alt": "Repetition throw entries",
+    "muscles": "Legs · Hips · Back · Core"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "o-goshi",
+    "name": "O-goshi",
+    "alt": "Major hip throw",
+    "muscles": "Hips · Glutes · Legs · Back"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "osoto-gari",
+    "name": "Osoto-gari",
+    "alt": "Major outer reap",
+    "muscles": "Hamstrings · Glutes · Core · Upper back"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "tai-otoshi",
+    "name": "Tai-otoshi",
+    "alt": "Body drop",
+    "muscles": "Legs · Obliques · Lats · Grip"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "ippon-seoi-nage",
+    "name": "Ippon seoi-nage",
+    "alt": "One-arm shoulder throw",
+    "muscles": "Legs · Back · Shoulders · Core"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "uchi-mata",
+    "name": "Uchi-mata",
+    "alt": "Inner thigh throw",
+    "muscles": "Hamstrings · Glutes · Hips · Core"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "harai-goshi",
+    "name": "Harai-goshi",
+    "alt": "Sweeping hip throw",
+    "muscles": "Glutes · Hamstrings · Core · Back"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "kesa-gatame",
+    "name": "Kesa-gatame",
+    "alt": "Scarf hold",
+    "muscles": "Core · Neck · Chest · Legs"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "yoko-shiho-gatame",
+    "name": "Yoko-shiho-gatame",
+    "alt": "Side four-quarter hold",
+    "muscles": "Core · Chest · Hips · Back"
+  },
+  {
+    "sportId": "judo",
+    "drillId": "juji-gatame",
+    "name": "Juji-gatame",
+    "alt": "Cross armlock",
+    "muscles": "Hamstrings · Hip flexors · Grip · Core"
   },
   {
     "sportId": "karate",
-    "drillId": "mawashi-geri",
-    "name": "Mawashi-geri",
-    "alt": "Roundhouse kick",
-    "muscles": "Hips · Glutes · Core"
+    "drillId": "kiba-dachi",
+    "name": "Kiba-dachi hold",
+    "alt": "Horse stance endurance",
+    "muscles": "Quads · Glutes · Adductors"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "zenkutsu-dachi-stepping",
+    "name": "Zenkutsu-dachi stepping",
+    "alt": "Front stance advancing drill",
+    "muscles": "Quads · Glutes · Hip flexors"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "tai-sabaki",
+    "name": "Tai-sabaki",
+    "alt": "Body shifting / evasive footwork",
+    "muscles": "Calves · Glutes · Core"
   },
   {
     "sportId": "karate",
@@ -64,6 +1800,34 @@
   },
   {
     "sportId": "karate",
+    "drillId": "mawashi-geri",
+    "name": "Mawashi-geri",
+    "alt": "Roundhouse kick",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "yoko-geri-kekomi",
+    "name": "Yoko-geri kekomi",
+    "alt": "Side thrust kick",
+    "muscles": "Glutes · Hips · Obliques"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "ushiro-geri",
+    "name": "Ushiro-geri",
+    "alt": "Back kick",
+    "muscles": "Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "mawashi-geri-jodan",
+    "name": "Jodan mawashi-geri",
+    "alt": "Head-height roundhouse kick",
+    "muscles": "Hips · Hip flexors · Core"
+  },
+  {
+    "sportId": "karate",
     "drillId": "gyaku-zuki",
     "name": "Gyaku-zuki",
     "alt": "Reverse punch",
@@ -71,10 +1835,619 @@
   },
   {
     "sportId": "karate",
-    "drillId": "kiba-dachi",
-    "name": "Kiba-dachi hold",
-    "alt": "Horse stance endurance",
+    "drillId": "oi-zuki",
+    "name": "Oi-zuki",
+    "alt": "Lunge punch (stepping punch)",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "kizami-zuki",
+    "name": "Kizami-zuki",
+    "alt": "Lead-hand jab",
+    "muscles": "Shoulders · Triceps · Calves"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "uraken-uchi",
+    "name": "Uraken-uchi",
+    "alt": "Backfist strike",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "shuto-uchi",
+    "name": "Shuto-uchi",
+    "alt": "Knife-hand strike",
+    "muscles": "Lats · Shoulders · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "age-uke",
+    "name": "Age-uke",
+    "alt": "Rising block",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "gedan-barai",
+    "name": "Gedan-barai",
+    "alt": "Downward sweep block",
+    "muscles": "Lats · Forearms · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "soto-uke",
+    "name": "Soto-uke",
+    "alt": "Outside-to-inside forearm block",
+    "muscles": "Shoulders · Chest · Core"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "heian-shodan",
+    "name": "Heian Shodan",
+    "alt": "First kata — peaceful mind, level one",
+    "muscles": "Legs · Core · Full body"
+  },
+  {
+    "sportId": "karate",
+    "drillId": "sanbon-renzuku-combo",
+    "name": "Sanbon renzuku-waza",
+    "alt": "Three-technique attack combination",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "chudan-no-kamae",
+    "name": "Chūdan-no-kamae",
+    "alt": "Middle guard stance",
+    "muscles": "Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "tenouchi",
+    "name": "Tenouchi",
+    "alt": "The gripping action at impact",
+    "muscles": "Forearms · Fingers · Wrist"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "okuri-ashi",
+    "name": "Okuri-ashi",
+    "alt": "Sliding footwork",
+    "muscles": "Calves · Quads · Hip flexors"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "fumikomi",
+    "name": "Fumikomi",
+    "alt": "Stamping step with the strike",
+    "muscles": "Calves · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "joge-suburi",
+    "name": "Jōge-buri",
+    "alt": "Large up-and-down swing",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "shomen-suburi",
+    "name": "Shōmen-suburi",
+    "alt": "Front head-cut swing",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "haya-suburi",
+    "name": "Haya-suburi",
+    "alt": "Fast jumping suburi",
+    "muscles": "Calves · Shoulders · Core"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "men-uchi",
+    "name": "Men-uchi",
+    "alt": "Strike to the head",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "kote-uchi",
+    "name": "Kote-uchi",
+    "alt": "Strike to the wrist",
+    "muscles": "Forearms · Shoulders · Calves"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "do-uchi",
+    "name": "Dō-uchi",
+    "alt": "Strike to the torso",
+    "muscles": "Obliques · Lats · Wrist"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "kote-men",
+    "name": "Kote-men",
+    "alt": "Two-step combination: wrist then head",
+    "muscles": "Shoulders · Calves · Core"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "kirikaeshi",
+    "name": "Kirikaeshi",
+    "alt": "Continuous alternating men cuts",
+    "muscles": "Shoulders · Lats · Cardio"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "uchikomi-geiko",
+    "name": "Uchikomi-geiko",
+    "alt": "Striking practice at openings",
+    "muscles": "Legs · Shoulders · Cardio"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "kakari-geiko",
+    "name": "Kakari-geiko",
+    "alt": "All-out continuous attack practice",
+    "muscles": "Full body · Cardio"
+  },
+  {
+    "sportId": "kendo",
+    "drillId": "seme-tobikomi-men",
+    "name": "Seme & tobikomi-men",
+    "alt": "Pressuring in, then leaping head strike",
+    "muscles": "Glutes · Calves · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "jab",
+    "name": "Jab",
+    "alt": "Lead-hand straight punch",
+    "muscles": "Shoulders · Triceps · Calves"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "cross",
+    "name": "Cross",
+    "alt": "Rear-hand straight punch",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "lead-hook",
+    "name": "Lead hook",
+    "alt": "Front-hand hook to head or body",
+    "muscles": "Obliques · Shoulders · Legs"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "rear-uppercut",
+    "name": "Rear uppercut",
+    "alt": "Rising rear-hand punch",
+    "muscles": "Legs · Core · Biceps"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "teep",
+    "name": "Teep",
+    "alt": "Front push kick",
+    "muscles": "Hip flexors · Quads · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "low-kick",
+    "name": "Low kick",
+    "alt": "Rear-leg kick to the thigh",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "rear-body-kick",
+    "name": "Rear roundhouse kick",
+    "alt": "Mid-level body kick",
+    "muscles": "Hips · Core · Glutes"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "switch-kick",
+    "name": "Switch kick",
+    "alt": "Lead-leg roundhouse off a stance switch",
+    "muscles": "Hips · Calves · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "high-kick",
+    "name": "High kick",
+    "alt": "Head-level roundhouse",
+    "muscles": "Hips · Hip flexors · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "straight-knee",
+    "name": "Straight knee",
+    "alt": "Front knee strike",
+    "muscles": "Hip flexors · Glutes · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "clinch-knees",
+    "name": "Clinch knees",
+    "alt": "Knee strikes from the collar tie",
+    "muscles": "Core · Hip flexors · Upper back"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "leg-check",
+    "name": "Leg check",
+    "alt": "Shin block against low kicks",
+    "muscles": "Hip flexors · Tibialis · Core"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "slip-and-roll",
+    "name": "Slip and roll",
+    "alt": "Head movement off straight punches and hooks",
+    "muscles": "Obliques · Legs · Neck"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "jab-cross-low-kick",
+    "name": "Jab–cross–low kick",
+    "alt": "The bread-and-butter three",
+    "muscles": "Full body · Core · Hips"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "dutch-drill",
+    "name": "Dutch drill",
+    "alt": "Partner combination trading rounds",
+    "muscles": "Full body · Core · Shoulders"
+  },
+  {
+    "sportId": "kickboxing",
+    "drillId": "pad-rounds",
+    "name": "Pad rounds",
+    "alt": "Full-intensity Thai pad rounds",
+    "muscles": "Full body · Core · Cardio"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "palm-strike",
+    "name": "Palm heel strike",
+    "alt": "Open-hand straight strike",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "hammer-fist",
+    "name": "Hammer fist",
+    "alt": "Downward & lateral fist strike",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "front-kick-groin",
+    "name": "Front kick to the groin",
+    "alt": "Kick to the soft target",
+    "muscles": "Hip flexors · Quads · Core"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "elbow-strikes",
+    "name": "Elbow strikes",
+    "alt": "Horizontal, upward & rear elbows",
+    "muscles": "Core · Shoulders · Hips"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "knee-strike",
+    "name": "Knee strike",
+    "alt": "Clinch knee to groin or body",
+    "muscles": "Hips · Core · Hamstrings"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "360-defense",
+    "name": "360 defense",
+    "alt": "Outside defense against circular attacks",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "inside-defense",
+    "name": "Inside defense",
+    "alt": "Defense against straight punches",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "overhead-knife-defense",
+    "name": "Overhead attack defense",
+    "alt": "Defense vs downward stab or club",
+    "muscles": "Shoulders · Forearms · Legs"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "front-choke-release",
+    "name": "Front choke release",
+    "alt": "Plucking defense vs two-hand choke",
+    "muscles": "Biceps · Back · Core"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "rear-choke-release",
+    "name": "Rear choke release",
+    "alt": "Defense vs choke from behind",
+    "muscles": "Back · Shoulders · Legs"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "bearhug-escape",
+    "name": "Bearhug escape",
+    "alt": "Defense vs front & rear bearhug",
+    "muscles": "Legs · Hips · Core"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "headlock-escape",
+    "name": "Side headlock escape",
+    "alt": "Release from standing headlock",
+    "muscles": "Neck · Back · Legs"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "burst-drill",
+    "name": "Burst counterattack drill",
+    "alt": "Explosive aggression on cue",
+    "muscles": "Full body · Legs · Shoulders"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "eyes-closed-drill",
+    "name": "Eyes-closed reaction drill",
+    "alt": "Surprise-attack response",
+    "muscles": "Full body · Core · Neck"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "exhaustion-drill",
+    "name": "Fatigue fighting drill",
+    "alt": "Defenses under exhaustion",
+    "muscles": "Full body"
+  },
+  {
+    "sportId": "krav-maga",
+    "drillId": "multiple-attackers",
+    "name": "Multiple-attacker drill",
+    "alt": "Two-on-one movement & escape",
+    "muscles": "Legs · Core · Full body"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "ma-bu",
+    "name": "Ma bu",
+    "alt": "Horse stance hold",
     "muscles": "Quads · Glutes · Adductors"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "gong-bu",
+    "name": "Gong bu",
+    "alt": "Bow stance",
+    "muscles": "Quads · Glutes · Hip flexors"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "wu-bu-transitions",
+    "name": "Five-stance transitions",
+    "alt": "Flowing between ma bu, gong bu, xu bu, pu bu, xie bu",
+    "muscles": "Quads · Glutes · Hips"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "chong-quan",
+    "name": "Chong quan",
+    "alt": "Straight thrust punch",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "lian-huan-quan",
+    "name": "Lian huan quan",
+    "alt": "Continuous chain punching",
+    "muscles": "Shoulders · Triceps · Core"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "tui-zhang",
+    "name": "Tui zhang",
+    "alt": "Pushing palm strike",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "deng-tui",
+    "name": "Deng tui",
+    "alt": "Front heel kick",
+    "muscles": "Hip flexors · Quads · Glutes"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "tan-tui",
+    "name": "Tan tui",
+    "alt": "Springing snap kick",
+    "muscles": "Quads · Hip flexors · Calves"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "ce-chuai-tui",
+    "name": "Ce chuai tui",
+    "alt": "Side thrust kick",
+    "muscles": "Glutes · Hips · Obliques"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "bai-lian-jiao",
+    "name": "Bai lian jiao",
+    "alt": "Outside crescent kick (lotus kick)",
+    "muscles": "Hips · Obliques · Hip flexors"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "xuan-feng-jiao",
+    "name": "Xuan feng jiao",
+    "alt": "Tornado kick",
+    "muscles": "Hips · Core · Calves"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "hu-zhua",
+    "name": "Hu zhua",
+    "alt": "Tiger claw strikes",
+    "muscles": "Forearms · Grip · Shoulders"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "tang-lang-gou",
+    "name": "Tang lang gou",
+    "alt": "Praying mantis hook hand",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "wu-bu-quan",
+    "name": "Wu bu quan",
+    "alt": "Five-stance form",
+    "muscles": "Legs · Core · Full body"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "zheng-ti-tui",
+    "name": "Zheng ti tui",
+    "alt": "Front stretch kick",
+    "muscles": "Hamstrings · Hip flexors · Core"
+  },
+  {
+    "sportId": "kung-fu",
+    "drillId": "ya-tui",
+    "name": "Ya tui",
+    "alt": "Pressing leg stretch",
+    "muscles": "Hamstrings · Adductors · Hips"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "mma-stance",
+    "name": "MMA stance & strikes",
+    "alt": "Hybrid stance fundamentals",
+    "muscles": "Legs · Core · Shoulders"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "low-kick",
+    "name": "Low kick",
+    "alt": "Leg kick",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "strikes-to-takedown",
+    "name": "Strikes to shot entry",
+    "alt": "Striking-to-grappling transition",
+    "muscles": "Legs · Hips · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "level-change",
+    "name": "Level change",
+    "alt": "Wrestling stance drop",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "sprawl",
+    "name": "Sprawl",
+    "alt": "Takedown defense",
+    "muscles": "Hips · Hamstrings · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "double-leg",
+    "name": "Double-leg takedown",
+    "alt": "Two-leg shot",
+    "muscles": "Quads · Glutes · Back"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "cage-wrestling",
+    "name": "Cage wrestling",
+    "alt": "Wall wrestling & pressure",
+    "muscles": "Legs · Back · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "clinch-pummeling",
+    "name": "Pummeling",
+    "alt": "Underhook swimming drill",
+    "muscles": "Shoulders · Back · Core"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "clinch-knees",
+    "name": "Clinch knees",
+    "alt": "Knees from the collar tie",
+    "muscles": "Hips · Core · Hamstrings"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "clinch-trips",
+    "name": "Trips from the clinch",
+    "alt": "Inside & outside trips",
+    "muscles": "Legs · Hips · Back"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "shrimp-escape",
+    "name": "Hip escape",
+    "alt": "Shrimping",
+    "muscles": "Core · Hips · Shoulders"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "ground-and-pound",
+    "name": "Ground and pound",
+    "alt": "Striking from top position",
+    "muscles": "Core · Shoulders · Hips"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "wall-walk",
+    "name": "Wall walk-up",
+    "alt": "Standing up against the cage",
+    "muscles": "Legs · Core · Back"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "scramble-transitions",
+    "name": "Scramble transitions",
+    "alt": "Position-to-position flow",
+    "muscles": "Full body · Core · Hips"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "fight-conditioning",
+    "name": "Fight-pace intervals",
+    "alt": "Round-based conditioning circuit",
+    "muscles": "Full body"
+  },
+  {
+    "sportId": "mma",
+    "drillId": "grip-neck-conditioning",
+    "name": "Grip & neck work",
+    "alt": "Fight-specific armor",
+    "muscles": "Forearms · Neck · Traps"
   },
   {
     "sportId": "muay-thai",
@@ -91,6 +2464,573 @@
     "muscles": "Glutes · Hips · Shins"
   },
   {
+    "sportId": "muay-thai",
+    "drillId": "switch-kick",
+    "name": "Switch kick",
+    "alt": "Rear-leg roundhouse off a stance switch",
+    "muscles": "Glutes · Hips · Calves · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "high-kick",
+    "name": "High kick",
+    "alt": "Head-height roundhouse",
+    "muscles": "Hips · Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "khao-trong",
+    "name": "Khao trong",
+    "alt": "Straight knee",
+    "muscles": "Hip flexors · Glutes · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "khao-loi",
+    "name": "Khao loi",
+    "alt": "Flying knee",
+    "muscles": "Hip flexors · Quads · Calves · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "sok-tad",
+    "name": "Sok tad",
+    "alt": "Horizontal elbow",
+    "muscles": "Shoulders · Chest · Core · Obliques"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "sok-ngat",
+    "name": "Sok ngat",
+    "alt": "Uppercut elbow",
+    "muscles": "Legs · Shoulders · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "sok-klap",
+    "name": "Sok klap",
+    "alt": "Spinning back elbow",
+    "muscles": "Core · Obliques · Shoulders · Calves"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "clinch-entry",
+    "name": "Clinch entry & posture",
+    "alt": "Closing distance into the plum",
+    "muscles": "Neck · Traps · Forearms · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "clinch-swimming",
+    "name": "Swimming for inside control",
+    "alt": "Pummelling the arms to the inside",
+    "muscles": "Shoulders · Biceps · Forearms · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "clinch-knees",
+    "name": "Knees from the plum",
+    "alt": "Curve knees with head control",
+    "muscles": "Hip flexors · Glutes · Core · Lats"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "leg-check",
+    "name": "Check",
+    "alt": "Shin block against low kick",
+    "muscles": "Hip flexors · Tibialis · Calves · Core"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "teep-catch-sweep",
+    "name": "Catch and sweep",
+    "alt": "Kick catch to leg sweep",
+    "muscles": "Core · Obliques · Glutes · Grip"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "clinch-dump",
+    "name": "Clinch turn and dump",
+    "alt": "Off-balancing throw from the clinch",
+    "muscles": "Core · Lats · Glutes · Forearms"
+  },
+  {
+    "sportId": "muay-thai",
+    "drillId": "pad-rounds",
+    "name": "Thai pad rounds",
+    "alt": "5 × 3-minute pad rounds",
+    "muscles": "Full body · Shoulders · Hips · Cardio"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "overhead-squat",
+    "name": "Overhead squat",
+    "alt": "Full-depth squat with the bar locked out overhead",
+    "muscles": "Shoulders · Upper back · Core · Quads"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "front-rack-mobility",
+    "name": "Front rack position",
+    "alt": "Building the elbows-up shelf for cleans and jerks",
+    "muscles": "Lats · Triceps · Wrists · Upper back"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "snatch-grip-hang-position",
+    "name": "Hang positions and snatch-grip RDL",
+    "alt": "Learning the power position and positions above the knee",
+    "muscles": "Hamstrings · Glutes · Lats · Upper back"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "muscle-snatch",
+    "name": "Muscle snatch",
+    "alt": "Snatching without dropping under the bar",
+    "muscles": "Traps · Shoulders · Lats · Hips"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "hang-power-snatch",
+    "name": "Hang power snatch",
+    "alt": "Explosive snatch from the hip, caught high",
+    "muscles": "Hips · Glutes · Traps · Shoulders"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "snatch-balance",
+    "name": "Snatch balance",
+    "alt": "Dropping fast under a bar into the overhead squat",
+    "muscles": "Shoulders · Quads · Core"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "full-snatch",
+    "name": "Snatch (full)",
+    "alt": "Floor to overhead in one motion, caught in a deep squat",
+    "muscles": "Hamstrings · Glutes · Traps · Shoulders · Core"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "hang-power-clean",
+    "name": "Hang power clean",
+    "alt": "Explosive clean from the hip, caught above parallel",
+    "muscles": "Glutes · Hamstrings · Traps · Quads"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "clean-pull",
+    "name": "Clean pull",
+    "alt": "Heavy pull to full extension without a catch",
+    "muscles": "Hamstrings · Glutes · Erectors · Traps"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "full-clean",
+    "name": "Clean (full)",
+    "alt": "Floor to shoulders, received in a front squat",
+    "muscles": "Quads · Glutes · Hamstrings · Traps · Core"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "push-press",
+    "name": "Push press",
+    "alt": "Leg-driven overhead press",
+    "muscles": "Shoulders · Triceps · Quads · Core"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "jerk-dip-drive",
+    "name": "Jerk dip and drive",
+    "alt": "Grooving the short, vertical dip that launches the bar",
+    "muscles": "Quads · Glutes · Core · Upper back"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "split-jerk-footwork",
+    "name": "Split jerk footwork",
+    "alt": "Learning the lunge-catch stance with drills and no bar",
+    "muscles": "Hip flexors · Glutes · Adductors · Calves"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "split-jerk",
+    "name": "Split jerk",
+    "alt": "Driving the bar overhead and splitting under it",
+    "muscles": "Shoulders · Triceps · Quads · Glutes · Core"
+  },
+  {
+    "sportId": "olympic-weightlifting",
+    "drillId": "clean-and-jerk-complex",
+    "name": "Clean & jerk (full lift)",
+    "alt": "The complete competition lift, floor to overhead",
+    "muscles": "Full body · Quads · Glutes · Shoulders · Core"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "breathing-and-bracing",
+    "name": "360° breathing and bracing",
+    "alt": "Filling the belly and locking the core before a heavy lift",
+    "muscles": "Diaphragm · Obliques · Transverse abdominis"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "unrack-and-walkout",
+    "name": "Unrack and walkout",
+    "alt": "Taking the bar out of the rack with minimal steps",
+    "muscles": "Upper back · Core · Glutes"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "high-bar-squat",
+    "name": "High-bar back squat",
+    "alt": "Upright squat with the bar on the traps",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "low-bar-squat",
+    "name": "Low-bar competition squat",
+    "alt": "Hip-dominant squat with the bar on the rear delts",
+    "muscles": "Glutes · Hamstrings · Lower back · Quads"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "pause-squat",
+    "name": "Pause squat",
+    "alt": "Squat with a dead stop in the bottom",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "pin-squat-sticking-point",
+    "name": "Pin squat",
+    "alt": "Squatting from a dead stop on safety pins at the sticking point",
+    "muscles": "Quads · Glutes · Erectors"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "bench-setup-arch",
+    "name": "Bench setup and arch",
+    "alt": "Building a tight platform of upper back and arch",
+    "muscles": "Upper back · Lats · Glutes"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "competition-pause-bench",
+    "name": "Competition pause bench",
+    "alt": "Bench press with a motionless pause on the chest",
+    "muscles": "Chest · Front delts · Triceps · Lats"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "close-grip-lockout",
+    "name": "Close-grip bench for lockout",
+    "alt": "Narrow-grip pressing to fix a weak finish",
+    "muscles": "Triceps · Chest · Front delts"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "bench-leg-drive",
+    "name": "Leg drive",
+    "alt": "Pushing through the floor to power the press",
+    "muscles": "Quads · Glutes · Upper back"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "conventional-deadlift-setup",
+    "name": "Conventional deadlift and wedge",
+    "alt": "Pulling from the floor with hips wedged behind the bar",
+    "muscles": "Hamstrings · Glutes · Erectors · Lats · Grip"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "sumo-deadlift",
+    "name": "Sumo deadlift",
+    "alt": "Wide-stance pull with an upright torso",
+    "muscles": "Glutes · Adductors · Quads · Erectors"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "deficit-deadlift",
+    "name": "Deficit deadlift",
+    "alt": "Pulling while standing on a low platform",
+    "muscles": "Hamstrings · Glutes · Quads · Erectors"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "block-pull-lockout",
+    "name": "Block pulls",
+    "alt": "Pulling from raised blocks to overload the lockout",
+    "muscles": "Glutes · Erectors · Traps · Grip"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "competition-commands",
+    "name": "Competition commands",
+    "alt": "Lifting to the referee's start, press, and rack calls",
+    "muscles": "Full body · Focus"
+  },
+  {
+    "sportId": "powerlifting",
+    "drillId": "attempt-selection-peaking",
+    "name": "Attempt selection and openers",
+    "alt": "Choosing nine attempts that build a total",
+    "muscles": "Full body · Strategy"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "catch-position",
+    "name": "Catch position",
+    "alt": "The loaded front position of the stroke",
+    "muscles": "Hamstrings · Ankles · Lats"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "drive-sequence",
+    "name": "The drive sequence",
+    "alt": "Legs, then body, then arms",
+    "muscles": "Quads · Glutes · Lats"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "finish-position",
+    "name": "The finish",
+    "alt": "Handle to ribs with a supported lean-back",
+    "muscles": "Lats · Biceps · Core"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "recovery-sequencing",
+    "name": "Recovery sequencing",
+    "alt": "Arms away, body over, slide slow",
+    "muscles": "Hamstrings · Hip flexors · Core"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "pick-drill",
+    "name": "Pick drill",
+    "alt": "Arms-only building to the full stroke",
+    "muscles": "Lats · Core · Hamstrings"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "legs-only-rowing",
+    "name": "Legs-only rowing",
+    "alt": "Isolating the leg drive",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "pause-drills",
+    "name": "Pause drills",
+    "alt": "Freezing the stroke at checkpoints",
+    "muscles": "Core · Hamstrings · Lats"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "feet-out-rowing",
+    "name": "Feet-out rowing",
+    "alt": "Rowing with feet unstrapped",
+    "muscles": "Hamstrings · Core · Hip flexors"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "rate-ladders",
+    "name": "Stroke-rate control ladders",
+    "alt": "Shifting rates on command, e.g. 18-22-26",
+    "muscles": "Quads · Core · Hip flexors"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "power-tens",
+    "name": "Power tens",
+    "alt": "Ten maximal strokes within a piece",
+    "muscles": "Quads · Glutes · Lats"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "low-rate-power-strokes",
+    "name": "Low-rate power strokes",
+    "alt": "Max-wattage rowing at rate 16-20",
+    "muscles": "Quads · Glutes · Lower back"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "steady-state",
+    "name": "Steady state",
+    "alt": "Long continuous rowing at conversational effort",
+    "muscles": "Quads · Lats · Lower back"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "long-intervals",
+    "name": "Long threshold intervals",
+    "alt": "Repeats like 3 × 10 min at rate 22-24",
+    "muscles": "Quads · Glutes · Lats"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "race-starts",
+    "name": "Race starts",
+    "alt": "The start sequence and high strokes",
+    "muscles": "Quads · Glutes · Arms"
+  },
+  {
+    "sportId": "rowing",
+    "drillId": "2k-pacing",
+    "name": "2k pacing",
+    "alt": "Splitting the 2000m race plan",
+    "muscles": "Quads · Lats · Diaphragm"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "hit-up-carry",
+    "name": "Hit-up ball carry",
+    "alt": "Running hard into contact with the ball secure",
+    "muscles": "Glutes · Quads · Core"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "sidestep",
+    "name": "Sidestep",
+    "alt": "Sharp cut to beat a defender",
+    "muscles": "Glutes · Adductors · Calves"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "fend-hand-off",
+    "name": "Fend / hand-off",
+    "alt": "Straight-arm push to break a tackle",
+    "muscles": "Shoulders · Chest · Core"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "repeat-sprint-fitness",
+    "name": "Contact fitness / repeat efforts",
+    "alt": "Getting up and going again, all game",
+    "muscles": "Full body · Quads · Lungs"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "pop-pass",
+    "name": "Pop pass",
+    "alt": "Short soft pass to a runner",
+    "muscles": "Forearms · Shoulders · Core"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "spin-pass",
+    "name": "Spin pass",
+    "alt": "Long spiral pass off either hand",
+    "muscles": "Core · Lats · Forearms"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "offload",
+    "name": "Offload in the tackle",
+    "alt": "Keeping the ball alive through contact",
+    "muscles": "Core · Shoulders · Forearms"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "tackle-technique",
+    "name": "Front-on tackle",
+    "alt": "Safe, dominant tackle technique",
+    "muscles": "Legs · Shoulders · Neck"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "ruck-cleanout",
+    "name": "Ruck cleanout",
+    "alt": "Clearing defenders off the breakdown",
+    "muscles": "Legs · Glutes · Trunk"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "jackal",
+    "name": "Jackal / breakdown steal",
+    "alt": "Winning turnover ball over the tackle",
+    "muscles": "Glutes · Back · Grip"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "scrummage-body-position",
+    "name": "Scrummaging body position",
+    "alt": "Flat-back pushing shape in the scrum",
+    "muscles": "Legs · Spinal erectors · Neck"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "lineout-lifting",
+    "name": "Lineout lifting",
+    "alt": "Launching and holding the jumper",
+    "muscles": "Legs · Shoulders · Traps"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "lineout-jumping",
+    "name": "Lineout jumping",
+    "alt": "Timing the jump and winning the catch",
+    "muscles": "Calves · Core · Shoulders"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "punt-box-kick",
+    "name": "Punt & box kick",
+    "alt": "Kicking for territory out of hand",
+    "muscles": "Hip flexors · Quads · Core"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "goal-kicking",
+    "name": "Place kicking",
+    "alt": "Kicking for goal off the tee",
+    "muscles": "Hip flexors · Glutes · Core"
+  },
+  {
+    "sportId": "rugby",
+    "drillId": "grubber-kick",
+    "name": "Grubber kick",
+    "alt": "Low stabbing kick along the ground",
+    "muscles": "Quads · Hip flexors · Core"
+  },
+  {
+    "sportId": "running",
+    "drillId": "high-knees",
+    "name": "High knees",
+    "alt": "Knee-drive running drill",
+    "muscles": "Hip flexors · Core · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "butt-kicks",
+    "name": "Butt kicks",
+    "alt": "Heel-recovery drill",
+    "muscles": "Hamstrings · Calves · Hip flexors"
+  },
+  {
+    "sportId": "running",
+    "drillId": "a-skips",
+    "name": "A-skips",
+    "alt": "Skipping knee-drive drill",
+    "muscles": "Hip flexors · Glutes · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "b-skips",
+    "name": "B-skips",
+    "alt": "Knee-drive plus leg extension drill",
+    "muscles": "Hamstrings · Hip flexors · Glutes"
+  },
+  {
+    "sportId": "running",
+    "drillId": "cadence-work",
+    "name": "Cadence work",
+    "alt": "Step-rate training with a metronome",
+    "muscles": "Calves · Hip flexors · Core"
+  },
+  {
     "sportId": "running",
     "drillId": "stride-outs",
     "name": "Stride-outs",
@@ -99,9 +3039,1374 @@
   },
   {
     "sportId": "running",
+    "drillId": "interval-400s",
+    "name": "400m intervals",
+    "alt": "Track repeats with jog recovery",
+    "muscles": "Quads · Hamstrings · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "flying-30s",
+    "name": "Flying 30s",
+    "alt": "Max-velocity sprints with a rolling start",
+    "muscles": "Hamstrings · Glutes · Calves"
+  },
+  {
+    "sportId": "running",
     "drillId": "hill-repeats",
     "name": "Hill repeats",
     "alt": "Strength endurance",
     "muscles": "Glutes · Quads · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "downhill-running",
+    "name": "Downhill running",
+    "alt": "Controlled descents for eccentric strength",
+    "muscles": "Quads · Calves · Core"
+  },
+  {
+    "sportId": "running",
+    "drillId": "easy-long-run",
+    "name": "Long run",
+    "alt": "Weekly extended easy run",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "tempo-run",
+    "name": "Tempo run",
+    "alt": "Comfortably-hard sustained effort",
+    "muscles": "Quads · Hamstrings · Core"
+  },
+  {
+    "sportId": "running",
+    "drillId": "fartlek",
+    "name": "Fartlek",
+    "alt": "Unstructured speed play",
+    "muscles": "Quads · Hamstrings · Calves"
+  },
+  {
+    "sportId": "running",
+    "drillId": "progression-run",
+    "name": "Progression run",
+    "alt": "Finish-faster continuous run",
+    "muscles": "Quads · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "running",
+    "drillId": "race-pace-intervals",
+    "name": "Race-pace intervals",
+    "alt": "Goal-pace rehearsal repeats",
+    "muscles": "Quads · Hamstrings · Core"
+  },
+  {
+    "sportId": "running",
+    "drillId": "kick-finish-surges",
+    "name": "Kick and surge work",
+    "alt": "Finishing-sprint repeats on tired legs",
+    "muscles": "Glutes · Hamstrings · Calves"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "pushing-stance",
+    "name": "Pushing & stance",
+    "alt": "Rolling comfortably and pushing with the back foot",
+    "muscles": "Hip flexors · Glutes · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "tic-tac-carving",
+    "name": "Tic-tacs & carving",
+    "alt": "Steering with lifts and leans",
+    "muscles": "Obliques · Hips · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "bailing-safely",
+    "name": "Bailing & falling safely",
+    "alt": "Running out and rolling out of falls",
+    "muscles": "Core · Shoulders · Neck"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "ollie",
+    "name": "Ollie",
+    "alt": "Jumping with the board",
+    "muscles": "Calves · Hip flexors · Core"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "pop-shove-it",
+    "name": "Pop shove-it",
+    "alt": "Spinning the board 180 under you",
+    "muscles": "Calves · Hips · Core"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "frontside-180",
+    "name": "Frontside 180",
+    "alt": "Ollie with a half body spin",
+    "muscles": "Obliques · Hips · Calves"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "kickflip",
+    "name": "Kickflip",
+    "alt": "Ollie with a flick that flips the board",
+    "muscles": "Calves · Hip flexors · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "heelflip",
+    "name": "Heelflip",
+    "alt": "Kickflip's mirror — flicking with the heel",
+    "muscles": "Calves · Ankles · Hip flexors"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "manual",
+    "name": "Manual",
+    "alt": "Rolling wheelie on the back wheels",
+    "muscles": "Core · Hip flexors · Calves"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "nose-manual",
+    "name": "Nose manual",
+    "alt": "Wheelie on the front wheels",
+    "muscles": "Core · Quads · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "pumping-transition",
+    "name": "Pumping transition",
+    "alt": "Generating speed in ramps without pushing",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "dropping-in",
+    "name": "Dropping in",
+    "alt": "Tipping in from the ramp's edge",
+    "muscles": "Quads · Core · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "rock-to-fakie",
+    "name": "Rock to fakie",
+    "alt": "Rocking the board over the coping and rolling back",
+    "muscles": "Hip flexors · Core · Quads"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "fifty-fifty-grind",
+    "name": "50-50 grind",
+    "alt": "Grinding on both trucks",
+    "muscles": "Core · Quads · Ankles"
+  },
+  {
+    "sportId": "skateboarding",
+    "drillId": "boardslide",
+    "name": "Boardslide",
+    "alt": "Sliding the middle of the board along a rail",
+    "muscles": "Obliques · Quads · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "athletic-stance",
+    "name": "Athletic stance",
+    "alt": "The basic skiing position",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "skating-flats",
+    "name": "Skating on flats",
+    "alt": "Pushing across flat terrain",
+    "muscles": "Glutes · Hip abductors · Calves"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "stance-endurance",
+    "name": "Full-run stance endurance",
+    "alt": "Legs that last to the last lift",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "snowplow",
+    "name": "Snowplow (wedge)",
+    "alt": "The pizza — first speed control and turns",
+    "muscles": "Hip adductors · Quads · Hip rotators"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "parallel-turns",
+    "name": "Parallel turns",
+    "alt": "Both skis turning together",
+    "muscles": "Quads · Glutes · Hip rotators"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "pole-planting",
+    "name": "Pole planting",
+    "alt": "Timing the turn with the pole touch",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "short-turns",
+    "name": "Short turns",
+    "alt": "Quick rhythmic turns in a narrow corridor",
+    "muscles": "Quads · Hip rotators · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "side-slipping",
+    "name": "Side slipping",
+    "alt": "Controlled sliding on the edges",
+    "muscles": "Ankles · Hip abductors · Quads"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "hockey-stop",
+    "name": "Hockey stop",
+    "alt": "Sharp sideways emergency stop",
+    "muscles": "Quads · Glutes · Obliques"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "carving",
+    "name": "Carving",
+    "alt": "Clean arcs on the edges, no skid",
+    "muscles": "Quads · Glutes · Obliques"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "dynamic-angulation",
+    "name": "Dynamic carving & angulation",
+    "alt": "High-edge-angle race turns",
+    "muscles": "Glutes · Obliques · Quads"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "mogul-absorption",
+    "name": "Mogul absorption",
+    "alt": "Swallowing bumps with the legs",
+    "muscles": "Quads · Hip flexors · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "jump-turns",
+    "name": "Jump turns on steeps",
+    "alt": "Hopping the skis around on steep pitches",
+    "muscles": "Quads · Calves · Core"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "powder-technique",
+    "name": "Powder technique",
+    "alt": "Floating turns in deep snow",
+    "muscles": "Quads · Core · Hip flexors"
+  },
+  {
+    "sportId": "skiing",
+    "drillId": "crud-variable-snow",
+    "name": "Crud & variable snow",
+    "alt": "Skiing chopped-up, inconsistent snow",
+    "muscles": "Quads · Core · Hip stabilizers"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "basic-stance",
+    "name": "Basic riding stance",
+    "alt": "Relaxed, centered position on the board",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "skating-one-foot",
+    "name": "Skating & one-foot riding",
+    "alt": "Moving with the back foot unstrapped",
+    "muscles": "Hip flexors · Quads · Ankles"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "falling-safely",
+    "name": "Falling safely",
+    "alt": "Protecting wrists, head, and tailbone",
+    "muscles": "Core · Forearms · Neck"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "heelside-turn",
+    "name": "Heelside turn",
+    "alt": "Turning on the heel edge",
+    "muscles": "Quads · Tibialis anterior · Glutes"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "toeside-turn",
+    "name": "Toeside turn",
+    "alt": "Turning on the toe edge",
+    "muscles": "Calves · Quads · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "linked-turns",
+    "name": "Linked turns & edge transitions",
+    "alt": "Flowing heelside to toeside without stopping",
+    "muscles": "Quads · Ankles · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "speed-control",
+    "name": "Speed checks & stopping",
+    "alt": "Skidding speed off and stopping hard",
+    "muscles": "Quads · Glutes · Obliques"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "carving-basics",
+    "name": "Carving basics",
+    "alt": "Clean edge-locked turns with no skid",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "euro-carve",
+    "name": "Euro carve",
+    "alt": "Laid-over full-commitment carve",
+    "muscles": "Glutes · Obliques · Quads"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "switch-riding",
+    "name": "Switch riding",
+    "alt": "Riding with your other foot forward",
+    "muscles": "Quads · Hip rotators · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "flat-ground-ollie",
+    "name": "Ollie",
+    "alt": "Popping the board off flat ground",
+    "muscles": "Calves · Hamstrings · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "butters",
+    "name": "Butters",
+    "alt": "Pressing and spinning on nose or tail",
+    "muscles": "Core · Hip flexors · Quads"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "straight-airs",
+    "name": "Straight airs off jumps",
+    "alt": "First park jumps, pop to landing",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "frontside-180",
+    "name": "Frontside 180",
+    "alt": "Half spin off a jump or ollie",
+    "muscles": "Obliques · Hips · Calves"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "boxes-boardslides",
+    "name": "Boxes & 50-50s",
+    "alt": "First rail-garden features",
+    "muscles": "Core · Quads · Ankles"
+  },
+  {
+    "sportId": "snowboarding",
+    "drillId": "powder-riding",
+    "name": "Powder riding",
+    "alt": "Surfing deep snow",
+    "muscles": "Quads · Core · Back leg hamstrings"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "first-touch",
+    "name": "First touch control",
+    "alt": "Killing the ball on arrival",
+    "muscles": "Hips · Quads · Core"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "juggling",
+    "name": "Juggling",
+    "alt": "Keep-ups with feet and thighs",
+    "muscles": "Quads · Calves · Core"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "close-control-dribbling",
+    "name": "Close-control dribbling",
+    "alt": "Keeping the ball glued to your feet",
+    "muscles": "Quads · Hip flexors · Calves"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "stepover",
+    "name": "Stepover",
+    "alt": "Circling a foot around the ball to fake",
+    "muscles": "Hips · Hip flexors · Calves"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "push-pass",
+    "name": "Inside-foot push pass",
+    "alt": "Short accurate side-foot pass",
+    "muscles": "Hips · Adductors · Glutes"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "driven-long-pass",
+    "name": "Driven long pass",
+    "alt": "Flat, fast pass over distance",
+    "muscles": "Hips · Quads · Core"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "crossing",
+    "name": "Crossing",
+    "alt": "Whipped delivery from the wing",
+    "muscles": "Hips · Core · Hamstrings"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "placed-finish",
+    "name": "Placed finish",
+    "alt": "Passing the ball into the corner",
+    "muscles": "Hips · Adductors · Core"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "instep-drive",
+    "name": "Instep drive",
+    "alt": "Laces power shot",
+    "muscles": "Quads · Hips · Glutes"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "volley",
+    "name": "Volley",
+    "alt": "Striking the ball out of the air",
+    "muscles": "Core · Hips · Quads"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "heading",
+    "name": "Heading",
+    "alt": "Attacking the ball with the forehead",
+    "muscles": "Neck · Core · Legs"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "jockeying",
+    "name": "Jockeying & defensive stance",
+    "alt": "Shepherding an attacker without diving in",
+    "muscles": "Quads · Glutes · Calves"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "block-tackle",
+    "name": "Block tackle",
+    "alt": "Winning the ball with a firm side-foot",
+    "muscles": "Quads · Adductors · Core"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "agility-ladder",
+    "name": "Agility ladder footwork",
+    "alt": "Fast-feet ladder patterns",
+    "muscles": "Calves · Hip flexors · Ankles"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "sprint-mechanics",
+    "name": "Sprint mechanics",
+    "alt": "Running form for top speed",
+    "muscles": "Glutes · Hamstrings · Hip flexors"
+  },
+  {
+    "sportId": "soccer",
+    "drillId": "change-of-direction",
+    "name": "Change of direction (cuts)",
+    "alt": "Planting and exploding a new way",
+    "muscles": "Glutes · Quads · Adductors"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "paddling-technique",
+    "name": "Paddling technique",
+    "alt": "Efficient prone paddling",
+    "muscles": "Lats · Shoulders · Lower back"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "sprint-paddle",
+    "name": "Sprint paddle",
+    "alt": "Burst paddling to catch the wave",
+    "muscles": "Lats · Shoulders · Triceps"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "wave-reading",
+    "name": "Wave reading & positioning",
+    "alt": "Sitting in the right spot",
+    "muscles": "Core · Hip flexors · Neck extensors"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "turtle-roll",
+    "name": "Turtle roll",
+    "alt": "Flipping the longboard under whitewater",
+    "muscles": "Shoulders · Grip · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "duck-dive",
+    "name": "Duck dive",
+    "alt": "Pushing the board under a wave",
+    "muscles": "Chest · Triceps · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "pop-up",
+    "name": "Pop-up",
+    "alt": "Prone to standing in one motion",
+    "muscles": "Chest · Core · Hip flexors"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "trimming",
+    "name": "Trimming",
+    "alt": "Riding the fast line across the wave",
+    "muscles": "Ankles · Calves · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "late-takeoff",
+    "name": "Late takeoff",
+    "alt": "Steep, last-second drops",
+    "muscles": "Quads · Core · Hip flexors"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "bottom-turn",
+    "name": "Bottom turn",
+    "alt": "The turn at the base of the wave",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "top-turn",
+    "name": "Top turn",
+    "alt": "Redirecting off the top of the wave",
+    "muscles": "Obliques · Hips · Quads"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "pumping",
+    "name": "Pumping down the line",
+    "alt": "Generating speed on the wave face",
+    "muscles": "Quads · Calves · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "cutback",
+    "name": "Cutback",
+    "alt": "Carving back to the power source",
+    "muscles": "Obliques · Hips · Quads"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "floater",
+    "name": "Floater",
+    "alt": "Riding over a breaking section",
+    "muscles": "Quads · Ankles · Core"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "barrel-riding",
+    "name": "Barrel riding",
+    "alt": "Tucking inside the tube",
+    "muscles": "Quads · Core · Hip adductors"
+  },
+  {
+    "sportId": "surfing",
+    "drillId": "wipeout-breath-control",
+    "name": "Wipeout & breath control",
+    "alt": "Falling safely and staying calm underwater",
+    "muscles": "Diaphragm · Core · Neck"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "streamline",
+    "name": "Streamline position",
+    "alt": "Tight glide off every wall",
+    "muscles": "Lats · Core · Shoulders"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "side-kick-rotation",
+    "name": "Side-kick and rotation drill",
+    "alt": "Kicking on your side to learn body roll",
+    "muscles": "Obliques · Core · Hip flexors"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "bilateral-breathing",
+    "name": "Bilateral breathing",
+    "alt": "Breathing to both sides every three strokes",
+    "muscles": "Neck rotators · Obliques · Diaphragm"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "breathing-pattern-sets",
+    "name": "Breathing pattern sets",
+    "alt": "Controlled breath-restriction lengths",
+    "muscles": "Diaphragm · Intercostals · Core"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "catch-up-drill",
+    "name": "Catch-up drill",
+    "alt": "One arm waits for the other",
+    "muscles": "Lats · Shoulders · Core"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "fingertip-drag",
+    "name": "Fingertip drag drill",
+    "alt": "High-elbow recovery drill",
+    "muscles": "Deltoids · Traps · Rotator cuff"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "freestyle-catch-evf",
+    "name": "Freestyle catch (early vertical forearm)",
+    "alt": "Getting the forearm vertical early to grip the water",
+    "muscles": "Lats · Forearms · Triceps"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "flutter-kick-sets",
+    "name": "Flutter kick sets",
+    "alt": "Kickboard lengths for leg conditioning",
+    "muscles": "Hip flexors · Quads · Ankles"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "pull-sets",
+    "name": "Pull sets with buoy and paddles",
+    "alt": "Arms-only strength lengths",
+    "muscles": "Lats · Triceps · Core"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "underwater-dolphin",
+    "name": "Underwater dolphin kick",
+    "alt": "Fifth-stroke kicking off the walls",
+    "muscles": "Core · Glutes · Hamstrings"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "backstroke-basics",
+    "name": "Backstroke basics",
+    "alt": "Body position and rhythm on your back",
+    "muscles": "Lats · Core · Hip flexors"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "breaststroke-timing",
+    "name": "Breaststroke pull-breathe-kick-glide",
+    "alt": "Sequencing the breaststroke cycle",
+    "muscles": "Adductors · Glutes · Chest"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "butterfly-basics",
+    "name": "Butterfly basics",
+    "alt": "Body undulation with two-kick timing",
+    "muscles": "Lats · Core · Chest"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "open-turns",
+    "name": "Open turns",
+    "alt": "Two-hand touch turns for fly and breast",
+    "muscles": "Core · Quads · Shoulders"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "flip-turns",
+    "name": "Flip turns",
+    "alt": "Freestyle tumble turn at the wall",
+    "muscles": "Core · Quads · Hip flexors"
+  },
+  {
+    "sportId": "swimming",
+    "drillId": "open-water-sighting",
+    "name": "Open-water sighting",
+    "alt": "Crocodile-eyes navigation stroke",
+    "muscles": "Neck extensors · Core · Lats"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "fighting-stance-bounce",
+    "name": "Gyorugi seogi rhythm",
+    "alt": "Fighting stance bounce",
+    "muscles": "Calves · Quads · Hip flexors"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "switch-step",
+    "name": "Baljjaggi switch step",
+    "alt": "Stance-switch footwork",
+    "muscles": "Calves · Hip flexors · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "ap-chagi",
+    "name": "Ap chagi",
+    "alt": "Front snap kick",
+    "muscles": "Hip flexors · Quads · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "dollyo-chagi",
+    "name": "Dollyo chagi",
+    "alt": "Roundhouse (turning) kick",
+    "muscles": "Hips · Glutes · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "yop-chagi",
+    "name": "Yop chagi",
+    "alt": "Side kick",
+    "muscles": "Glutes · Hips · Obliques"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "naeryo-chagi",
+    "name": "Naeryo chagi",
+    "alt": "Axe kick",
+    "muscles": "Hamstrings · Hip flexors · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "mireo-chagi",
+    "name": "Mireo chagi",
+    "alt": "Push kick",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "dwi-chagi",
+    "name": "Dwi chagi",
+    "alt": "Back kick",
+    "muscles": "Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "huryeo-chagi",
+    "name": "Huryeo chagi",
+    "alt": "Spinning hook kick",
+    "muscles": "Glutes · Hamstrings · Obliques"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "tornado-kick-360",
+    "name": "Dolgae chagi",
+    "alt": "Tornado (360) roundhouse kick",
+    "muscles": "Hips · Core · Calves"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "540-kick",
+    "name": "540 kick",
+    "alt": "Jumping 540 roundhouse",
+    "muscles": "Hips · Core · Calves"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "jireugi",
+    "name": "Momtong jireugi",
+    "alt": "Middle-section straight punch",
+    "muscles": "Shoulders · Core · Legs"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "sonnal-makki",
+    "name": "Sonnal makki",
+    "alt": "Knife-hand guarding block",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "taegeuk-il-jang",
+    "name": "Taegeuk Il Jang",
+    "alt": "First poomsae (form)",
+    "muscles": "Legs · Core · Full body"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "double-roundhouse-combo",
+    "name": "Narae chagi combination",
+    "alt": "Double roundhouse scoring combo",
+    "muscles": "Hip flexors · Hips · Core"
+  },
+  {
+    "sportId": "taekwondo",
+    "drillId": "step-back-counter",
+    "name": "Bada chagi",
+    "alt": "Step-back counter kick",
+    "muscles": "Calves · Hips · Core"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "split-step",
+    "name": "Split step",
+    "alt": "Ready hop before every shot",
+    "muscles": "Calves · Quads · Core"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "lateral-recovery",
+    "name": "Lateral shuffle & recovery",
+    "alt": "Side-stepping back to the middle",
+    "muscles": "Glutes · Adductors · Calves"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "crossover-first-step",
+    "name": "Crossover first step",
+    "alt": "Explosive first step to a wide ball",
+    "muscles": "Glutes · Hip flexors · Hamstrings"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "forehand-drive",
+    "name": "Topspin forehand",
+    "alt": "Basic forehand drive",
+    "muscles": "Hips · Obliques · Shoulders"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "two-handed-backhand",
+    "name": "Two-handed backhand",
+    "alt": "Double-handed backhand drive",
+    "muscles": "Core · Lats · Forearms"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "slice-backhand",
+    "name": "Slice backhand",
+    "alt": "Backspin defensive backhand",
+    "muscles": "Rear delts · Lats · Forearms"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "one-handed-backhand",
+    "name": "One-handed backhand",
+    "alt": "Single-arm backhand drive",
+    "muscles": "Rear delts · Lats · Core"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "flat-serve",
+    "name": "Flat serve",
+    "alt": "First-serve power delivery",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "return-of-serve",
+    "name": "Return of serve",
+    "alt": "Blocking back a fast serve",
+    "muscles": "Core · Quads · Forearms"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "slice-serve",
+    "name": "Slice serve",
+    "alt": "Sidespin serve that curves away",
+    "muscles": "Shoulders · Obliques · Forearms"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "kick-serve",
+    "name": "Kick serve",
+    "alt": "Topspin serve that bounces high",
+    "muscles": "Core · Shoulders · Spinal erectors"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "punch-volley",
+    "name": "Punch volley",
+    "alt": "Basic forehand and backhand volley",
+    "muscles": "Forearms · Shoulders · Quads"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "overhead-smash",
+    "name": "Overhead smash",
+    "alt": "Putting away a lob",
+    "muscles": "Shoulders · Lats · Calves"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "approach-shot",
+    "name": "Approach shot",
+    "alt": "Attacking a short ball and coming in",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "tennis",
+    "drillId": "half-volley",
+    "name": "Half-volley",
+    "alt": "Short-hop pickup at your feet",
+    "muscles": "Quads · Glutes · Forearms"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "high-elbow-catch",
+    "name": "High-elbow catch (EVF)",
+    "alt": "Grabbing the water with a bent, early-vertical forearm",
+    "muscles": "Lats · Shoulders · Forearms"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "bilateral-breathing",
+    "name": "Bilateral breathing",
+    "alt": "Breathing to both sides every three strokes",
+    "muscles": "Neck · Obliques · Shoulders"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "open-water-sighting",
+    "name": "Open-water sighting",
+    "alt": "Lifting the eyes to spot the buoy without breaking stroke",
+    "muscles": "Neck extensors · Core · Lower back"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "open-water-start",
+    "name": "Open-water race start",
+    "alt": "Sprinting the first 200 m through the washing machine",
+    "muscles": "Lats · Shoulders · Legs · Core"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "cadence-spin-ups",
+    "name": "High-cadence spin-ups",
+    "alt": "Smooth pedaling drills at 100+ rpm",
+    "muscles": "Quads · Hamstrings · Hip flexors · Calves"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "aero-position-endurance",
+    "name": "Aero position endurance",
+    "alt": "Holding the tuck on the tri bars without losing power",
+    "muscles": "Neck · Lower back · Core · Glutes"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "race-pace-intervals",
+    "name": "Race-pace bike intervals",
+    "alt": "Long steady efforts at goal watts",
+    "muscles": "Quads · Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "run-cadence-form",
+    "name": "Run cadence and form",
+    "alt": "Quick, light steps landing under the hips",
+    "muscles": "Calves · Glutes · Hip flexors · Core"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "run-off-the-bike",
+    "name": "Run off the bike",
+    "alt": "Finding running legs after hours of pedaling",
+    "muscles": "Quads · Calves · Hip flexors · Core"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "t1-transition",
+    "name": "T1: swim to bike",
+    "alt": "Wetsuit off, helmet on, out with the bike — fast",
+    "muscles": "Full body · Balance · Hip mobility"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "t2-transition",
+    "name": "T2: bike to run",
+    "alt": "Racking the bike and hitting the run in seconds",
+    "muscles": "Legs · Core · Balance"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "brick-workout",
+    "name": "Brick workout",
+    "alt": "Bike ride straight into a run, no rest",
+    "muscles": "Quads · Glutes · Calves · Core"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "race-pace-brick",
+    "name": "Race-pace brick",
+    "alt": "Full dress rehearsal at goal race intensity",
+    "muscles": "Full body · Aerobic system"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "fueling-practice",
+    "name": "Fueling practice",
+    "alt": "Training the gut to absorb carbs on the move",
+    "muscles": "Aerobic system · Gut tolerance"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "pacing-execution",
+    "name": "Negative-split pacing",
+    "alt": "Starting controlled to finish fast",
+    "muscles": "Aerobic system · Discipline"
+  },
+  {
+    "sportId": "triathlon",
+    "drillId": "race-simulation",
+    "name": "Full race simulation",
+    "alt": "Swim-bike-run rehearsal with transitions",
+    "muscles": "Full body · Aerobic system"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "defensive-position",
+    "name": "Defensive base position",
+    "alt": "Low ready stance for defence",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "forearm-pass",
+    "name": "Forearm pass",
+    "alt": "Bump pass on the platform",
+    "muscles": "Quads · Shoulders · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "serve-receive",
+    "name": "Serve receive",
+    "alt": "Passing a serve to the setter",
+    "muscles": "Quads · Adductors · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "dig",
+    "name": "Dig",
+    "alt": "Defending a hard-driven spike",
+    "muscles": "Quads · Glutes · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "pancake",
+    "name": "Pancake",
+    "alt": "Flat-hand floor save",
+    "muscles": "Core · Shoulders · Hip flexors"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "overhead-set",
+    "name": "Overhead set",
+    "alt": "Hand setting the ball",
+    "muscles": "Forearms · Triceps · Quads"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "jump-set",
+    "name": "Jump set",
+    "alt": "Setting while airborne",
+    "muscles": "Calves · Core · Forearms"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "spike-approach",
+    "name": "Spike approach",
+    "alt": "Three or four-step attack run-up",
+    "muscles": "Glutes · Quads · Calves"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "arm-swing",
+    "name": "Spike arm swing",
+    "alt": "Hitting mechanics at the top of the jump",
+    "muscles": "Shoulders · Lats · Obliques"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "roll-shot",
+    "name": "Roll shot & tip",
+    "alt": "Soft off-speed attack",
+    "muscles": "Shoulders · Forearms · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "back-row-attack",
+    "name": "Back-row attack",
+    "alt": "Spiking from behind the 3-meter line",
+    "muscles": "Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "block-footwork",
+    "name": "Block footwork & penetration",
+    "alt": "Moving along the net and sealing it",
+    "muscles": "Calves · Quads · Shoulders"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "swing-block",
+    "name": "Swing block",
+    "alt": "Running block with full arm swing",
+    "muscles": "Glutes · Calves · Lats"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "float-serve",
+    "name": "Standing float serve",
+    "alt": "Flat serve with no spin that wobbles",
+    "muscles": "Shoulders · Core · Forearms"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "jump-float",
+    "name": "Jump float serve",
+    "alt": "Float serve with an approach jump",
+    "muscles": "Calves · Core · Shoulders"
+  },
+  {
+    "sportId": "volleyball",
+    "drillId": "jump-serve",
+    "name": "Jump topspin serve",
+    "alt": "Full spike serve",
+    "muscles": "Shoulders · Lats · Glutes"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "stance-motion",
+    "name": "Stance & motion",
+    "alt": "Staggered stance with level and circle drills",
+    "muscles": "Quads · Glutes · Core · Calves"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "penetration-step",
+    "name": "Penetration step",
+    "alt": "Level change and drive step for shots",
+    "muscles": "Quads · Glutes · Hip flexors · Core"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "hand-fighting",
+    "name": "Hand fighting",
+    "alt": "Wrist, collar and inside-tie control",
+    "muscles": "Forearms · Grip · Shoulders · Traps"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "double-leg",
+    "name": "Double leg",
+    "alt": "Two-leg takedown",
+    "muscles": "Quads · Glutes · Back · Core"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "single-leg",
+    "name": "Single leg",
+    "alt": "One-leg takedown",
+    "muscles": "Legs · Grip · Core · Shoulders"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "ankle-pick",
+    "name": "Ankle pick",
+    "alt": "Collar-tie ankle attack",
+    "muscles": "Hamstrings · Back · Core · Grip"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "sprawl",
+    "name": "Sprawl",
+    "alt": "Hips-back shot defense",
+    "muscles": "Hips · Glutes · Core · Chest"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "whizzer",
+    "name": "Whizzer",
+    "alt": "Overhook counter to the single leg",
+    "muscles": "Lats · Shoulders · Obliques · Hips"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "snap-down",
+    "name": "Snap down",
+    "alt": "Collar-tie snap to the mat",
+    "muscles": "Lats · Triceps · Core · Hips"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "front-headlock",
+    "name": "Front headlock",
+    "alt": "Chin-and-elbow control after the snap",
+    "muscles": "Arms · Chest · Core · Hips"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "go-behind",
+    "name": "Go-behind",
+    "alt": "Shuck and spin to the back",
+    "muscles": "Core · Shoulders · Hips · Calves"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "duck-under",
+    "name": "Duck under",
+    "alt": "Level change under the tie to the back",
+    "muscles": "Legs · Core · Traps · Shoulders"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "hip-toss",
+    "name": "Hip toss",
+    "alt": "Headlock or underhook throw over the hip",
+    "muscles": "Hips · Glutes · Obliques · Back"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "bridging",
+    "name": "Bridging",
+    "alt": "Neck bridge for pin defense",
+    "muscles": "Neck · Traps · Glutes · Back"
+  },
+  {
+    "sportId": "wrestling",
+    "drillId": "stand-up-escape",
+    "name": "Stand-up escape",
+    "alt": "Escaping bottom referee's position",
+    "muscles": "Legs · Core · Grip · Back"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "ujjayi-breath",
+    "name": "Ujjayi pranayama",
+    "alt": "Ocean-sounding throat breath",
+    "muscles": "Diaphragm · Intercostals · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "downward-dog",
+    "name": "Adho Mukha Svanasana",
+    "alt": "Downward-facing dog",
+    "muscles": "Shoulders · Hamstrings · Calves"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "sun-salutation-a",
+    "name": "Surya Namaskar A",
+    "alt": "Sun salutation flow",
+    "muscles": "Full body · Shoulders · Hamstrings"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "chaturanga",
+    "name": "Chaturanga Dandasana",
+    "alt": "Low push-up hover",
+    "muscles": "Chest · Triceps · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "warrior-ii",
+    "name": "Virabhadrasana II",
+    "alt": "Warrior II lunge stance",
+    "muscles": "Quads · Glutes · Hips"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "tree-pose",
+    "name": "Vrksasana",
+    "alt": "Tree pose single-leg balance",
+    "muscles": "Ankles · Glutes · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "warrior-iii",
+    "name": "Virabhadrasana III",
+    "alt": "Warrior III standing T-balance",
+    "muscles": "Glutes · Hamstrings · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "half-moon",
+    "name": "Ardha Chandrasana",
+    "alt": "Half moon side balance",
+    "muscles": "Glutes · Obliques · Ankles"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "crow-pose",
+    "name": "Bakasana",
+    "alt": "Crow pose arm balance",
+    "muscles": "Wrists · Core · Hip flexors"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "headstand",
+    "name": "Sirsasana",
+    "alt": "Supported headstand",
+    "muscles": "Shoulders · Traps · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "forearm-stand",
+    "name": "Pincha Mayurasana",
+    "alt": "Forearm stand",
+    "muscles": "Shoulders · Lats · Core"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "bridge-pose",
+    "name": "Setu Bandha Sarvangasana",
+    "alt": "Bridge pose",
+    "muscles": "Glutes · Hamstrings · Spinal erectors"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "pigeon-pose",
+    "name": "Eka Pada Rajakapotasana (prep)",
+    "alt": "Pigeon pose hip opener",
+    "muscles": "Glutes · Hip rotators · Hip flexors"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "camel-pose",
+    "name": "Ustrasana",
+    "alt": "Kneeling camel backbend",
+    "muscles": "Quads · Hip flexors · Spinal erectors"
+  },
+  {
+    "sportId": "yoga",
+    "drillId": "wheel-pose",
+    "name": "Urdhva Dhanurasana",
+    "alt": "Full wheel backbend",
+    "muscles": "Shoulders · Spinal erectors · Glutes"
   }
 ]

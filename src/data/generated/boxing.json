@@ -6,6 +6,54 @@
   "category": "Striking arts",
   "drills": [
     {
+      "id": "jab",
+      "group": "Punches",
+      "name": "Jab",
+      "alt": "Lead straight punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Triceps · Calves",
+      "desc": "The lead-hand straight — boxing's range-finder and most-thrown punch. Snap comes from a small push-step off the rear foot and a relaxed arm that fires and returns on the same line. It measures distance, blinds the opponent and opens every combination.",
+      "exercises": [
+        {
+          "name": "Single-arm cable chest press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Med-ball chest pass",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Triceps overhead stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Telegraphing by dipping the shoulder or pulling the hand back first.",
+        "Leaving the jab extended instead of snapping it straight back to the guard.",
+        "Reaching with the arm alone — no step, no weight behind it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+jab+technique+tutorial"
+    },
+    {
       "id": "cross",
       "group": "Punches",
       "name": "Cross",
@@ -41,6 +89,270 @@
         "Dropping the lead hand while punching."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+cross+technique"
+    },
+    {
+      "id": "lead-hook",
+      "group": "Punches",
+      "name": "Lead hook",
+      "alt": "Left hook (orthodox)",
+      "level": "Intermediate",
+      "muscles": "Core · Hips · Shoulders",
+      "desc": "A short, horizontal punch thrown with the elbow up and the arm locked at roughly 90 degrees. Power comes from pivoting the lead foot and whipping the hips — the arm just carries what the body generates. Deadly at close range and the classic counter over a lazy jab.",
+      "exercises": [
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Lateral med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Thread the needle",
+        "Standing side bend",
+        "Doorway pec stretch",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Swinging wide like a haymaker instead of keeping the elbow bent and tight.",
+        "Lead foot doesn’t pivot — the punch becomes all arm.",
+        "Dropping the rear hand and eating the counter hook."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+lead+hook+technique"
+    },
+    {
+      "id": "rear-uppercut",
+      "group": "Punches",
+      "name": "Rear uppercut",
+      "alt": "Rising rear-hand punch",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Biceps",
+      "desc": "A vertical punch driven upward through the opponent's centre line, usually at close range. Dip the legs slightly, then extend hips and knees while rotating — the fist rides the leg drive, it doesn't scoop with the arm. Best thrown when the opponent leans forward or covers up.",
+      "exercises": [
+        {
+          "name": "Trap-bar deadlifts",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Low-to-high cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "Biceps wall stretch",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Winding up by dropping the fist to the hip — telegraphs the shot.",
+        "Punching with the arm instead of extending through the legs.",
+        "Throwing it at long range where it has no leverage."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+rear+uppercut+technique"
+    },
+    {
+      "id": "body-hook",
+      "group": "Punches",
+      "name": "Body hook",
+      "alt": "Liver shot",
+      "level": "Intermediate",
+      "muscles": "Legs · Obliques · Shoulders",
+      "desc": "A hook driven into the ribs or liver with the knuckles turned and the body bent to the same level as the target. Change levels with the legs, then rotate through — a clean liver shot ends fights that head punches can't. Get down to the body; never just drop the arm.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Low cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Rotational med-ball slams",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Side planks with reach-through",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Standing side bend",
+        "90/90 hip switch",
+        "Cat-cow",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Bending at the waist instead of the knees to change level.",
+        "Dropping the punching hand on the way in and exposing the chin.",
+        "Punching flat with a vertical fist — turn the knuckles into the ribs."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+body+hook+liver+shot+technique"
+    },
+    {
+      "id": "combinations",
+      "group": "Punches",
+      "name": "1-2-3 combinations",
+      "alt": "Jab–cross–hook chaining",
+      "level": "Advanced",
+      "muscles": "Full body · Core · Shoulders",
+      "desc": "Linking punches so each shot loads the next: the cross's rotation coils the lead hook, the hook re-coils the cross. Rhythm and weight transfer matter more than the speed of any single punch. Finish every combination back in stance behind the guard.",
+      "exercises": [
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Battle ropes alternating waves",
+          "scheme": "6 × 20s"
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Bent-over barbell rows",
+          "scheme": "3 × 10",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Plyo push-ups",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Lat stretch on rack",
+        "Thread the needle",
+        "Forearm stretch"
+      ],
+      "mistakes": [
+        "Throwing three separate punches instead of one connected sequence.",
+        "Squaring up mid-combination and losing the stance.",
+        "Holding the breath — exhale sharply on every shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+1+2+3+combination+tutorial"
+    },
+    {
+      "id": "high-guard",
+      "group": "Defense",
+      "name": "High guard & block",
+      "alt": "Shell block",
+      "level": "Beginner",
+      "muscles": "Shoulders · Upper back · Neck",
+      "desc": "The fundamental cover: gloves glued to the temples, elbows tucked over the ribs, chin down. Absorb shots on the gloves and forearms while the eyes stay open, looking for the counter. Endurance in the shoulders is what keeps the guard up in round three.",
+      "exercises": [
+        {
+          "name": "Dumbbell front raise isometric hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Dumbbell shrugs",
+          "scheme": "3 × 12",
+          "wgerId": 572,
+          "imageUrl": "https://wger.de/media/exercise-images/151/Dumbbell-shrugs-2.png"
+        },
+        {
+          "name": "Plate halo circles",
+          "scheme": "3 × 8 / direction"
+        },
+        {
+          "name": "Neck curls",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Upper-trap stretch",
+        "Neck side flexion",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Elbows flaring out and leaving the ribs open to body shots.",
+        "Closing the eyes or turning the head away under fire.",
+        "Hiding behind the guard passively instead of countering off the block."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+high+guard+blocking+tutorial"
+    },
+    {
+      "id": "parry",
+      "group": "Defense",
+      "name": "Parry & return",
+      "alt": "Catch-and-counter drill",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "Deflecting a straight punch with a small tap of the rear glove — inches of redirection, never a big swat. The parry keeps the hand close to the face and immediately opens the line for the counter jab or cross. Timing beats strength here.",
+      "exercises": [
+        {
+          "name": "Rear-delt cable flyes",
+          "scheme": "3 × 12",
+          "wgerId": 822,
+          "imageUrl": "https://wger.de/media/exercise-images/822/74affc0d-03b6-4f33-b5f4-a822a2615f68.png"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Reaction-ball catches",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Slapping wide at the punch and dragging the hand away from the face.",
+        "Parrying without answering — every parry should buy a counter.",
+        "Reaching for feints and getting pulled out of position."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+parry+counter+drill"
     },
     {
       "id": "slip-roll",
@@ -81,6 +393,311 @@
         "Taking eyes off the opponent during the roll."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+slip+and+roll+drill"
+    },
+    {
+      "id": "shoulder-roll",
+      "group": "Defense",
+      "name": "Shoulder roll",
+      "alt": "Philly shell defense",
+      "level": "Advanced",
+      "muscles": "Shoulders · Obliques · Legs",
+      "desc": "The lead shoulder rides high to deflect the right hand while the rear glove guards the chin — the style Mayweather made famous. Punches roll off a subtle turn of the torso, leaving the rear hand free to counter instantly. Demands sharp reading of the opponent and constant micro-adjustments from the legs.",
+      "exercises": [
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Single-arm dumbbell lateral raises",
+          "scheme": "3 × 12",
+          "wgerId": 1378,
+          "imageUrl": "https://wger.de/media/exercise-images/1378/7c1fcf34-fb7e-45e7-a0c1-51f296235315.jpg"
+        },
+        {
+          "name": "Pallof press with rotation",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Thread the needle",
+        "Standing side bend",
+        "Neck side flexion"
+      ],
+      "mistakes": [
+        "Rolling flat-footed — without the legs the shell gets walked down.",
+        "Letting the rear hand drift away from the chin.",
+        "Using the shell against volume punchers without adjusting — it leaks against flurries."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+shoulder+roll+philly+shell+tutorial"
+    },
+    {
+      "id": "stance-step",
+      "group": "Footwork",
+      "name": "Stance & step drill",
+      "alt": "Step-drag fundamentals",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Glutes",
+      "desc": "Moving in every direction while the stance never breaks: the foot nearest the direction of travel steps first, the other drags to restore width. Weight stays on the balls of the feet, knees soft, head over hips. Everything in boxing sits on top of this.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Standing quad stretch",
+        "Hip flexor lunge stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Crossing the feet — one trip or shove and you’re on the canvas.",
+        "Hopping with both feet leaving the floor at once.",
+        "Letting the feet come together and narrowing the base."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+footwork+step+drag+basics"
+    },
+    {
+      "id": "pivot",
+      "group": "Footwork",
+      "name": "Lead-foot pivot",
+      "alt": "Angle-changing pivot",
+      "level": "Intermediate",
+      "muscles": "Calves · Glutes · Core",
+      "desc": "Spinning on the ball of the lead foot to swing the rear leg through an arc, changing the angle without giving ground. A sharp pivot takes you off the line of attack and puts your power hand where the opponent isn't facing. Throw it behind the jab or lead hook to exit combinations safely.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Cable hip rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral box step-ups",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing calf stretch",
+        "Lying figure-4",
+        "Hip flexor lunge stretch"
+      ],
+      "mistakes": [
+        "Pivoting on a flat foot instead of the ball of the foot.",
+        "Standing tall out of stance during the turn.",
+        "Pivoting without a punch or feint to cover the movement."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+pivot+footwork+drill"
+    },
+    {
+      "id": "cutting-the-ring",
+      "group": "Footwork",
+      "name": "Cutting the ring",
+      "alt": "Lateral movement & ring control",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "Herding a mobile opponent toward the ropes by stepping laterally to close escape angles instead of chasing in straight lines. The pressure fighter's craft: small diagonal steps, feints to freeze, and position taken one half-step at a time. Requires legs that stay fresh late in the fight.",
+      "exercises": [
+        {
+          "name": "Lateral sled drags",
+          "scheme": "4 × 20m / side"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "4 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Agility ladder lateral shuffles",
+          "scheme": "4 × 30s"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Adductor rock-backs",
+        "Standing calf stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Following the opponent in a straight line instead of stepping to where they’re going.",
+        "Lunging with big steps and getting countered mid-stride.",
+        "Cutting the ring with the hands down as you close distance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+cutting+off+the+ring+drill"
+    },
+    {
+      "id": "shadowboxing",
+      "group": "Rhythm & timing",
+      "name": "Shadowboxing rounds",
+      "alt": "Solo technical rounds",
+      "level": "Beginner",
+      "muscles": "Full body · Shoulders · Legs",
+      "desc": "Timed rounds of imaginary sparring: moving, punching and defending against an opponent you visualise. It's where technique is rehearsed without impact — every session should have a theme, not random arm-waving. The mirror is the coach; watch the guard, the stance, the balance.",
+      "exercises": [
+        {
+          "name": "Light dumbbell shadowboxing",
+          "scheme": "3 × 2min"
+        },
+        {
+          "name": "Band-resisted punches",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Bodyweight squats",
+          "scheme": "3 × 20"
+        }
+      ],
+      "stretches": [
+        "Arm circles",
+        "Cross-body shoulder stretch",
+        "Standing quad stretch",
+        "Neck rolls"
+      ],
+      "mistakes": [
+        "Throwing arm punches with no footwork or head movement between them.",
+        "Working without a plan — pick one theme per round.",
+        "Never visualising return fire, so defense disappears."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=shadowboxing+routine+for+beginners"
+    },
+    {
+      "id": "double-end-bag",
+      "group": "Rhythm & timing",
+      "name": "Double-end bag",
+      "alt": "Reflex bag work",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Calves",
+      "desc": "A small ball strung between floor and ceiling that snaps back unpredictably after every punch. It punishes slow hands and lazy feet, forcing accurate straight punches, constant distance management, and head movement between shots. The closest a bag gets to a live opponent.",
+      "exercises": [
+        {
+          "name": "Reaction-ball catches",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Med-ball chest pass",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Band-resisted punches",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Loading up on power shots — the bag rewards speed and accuracy, not force.",
+        "Standing flat-footed in one spot instead of moving with the rebound.",
+        "Watching your own gloves instead of the bag."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=double+end+bag+drills+boxing"
+    },
+    {
+      "id": "jump-rope",
+      "group": "Conditioning",
+      "name": "Jump rope rounds",
+      "alt": "Skipping conditioning",
+      "level": "Beginner",
+      "muscles": "Calves · Shoulders · Core",
+      "desc": "The boxer's classic conditioning tool: timed rounds of skipping that build springy calves, wrist speed and rhythm on the balls of the feet. Progress from basic bounce to boxer skip, crossovers and double-unders. Ten minutes of rope teaches the light feet that hours of running can't.",
+      "exercises": [
+        {
+          "name": "Jump rope basic bounce",
+          "scheme": "6 × 2min",
+          "wgerId": 993
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Wall ankle dorsiflexion stretch",
+        "Wrist flexor stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Jumping too high — the rope needs only an inch of clearance.",
+        "Swinging from the shoulders instead of turning the wrists.",
+        "Landing on flat feet and pounding the heels."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=boxing+jump+rope+workout+tutorial"
     },
     {
       "id": "heavy-bag",

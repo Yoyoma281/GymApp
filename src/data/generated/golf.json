@@ -1,0 +1,649 @@
+{
+  "id": "golf",
+  "name": "Golf",
+  "emoji": "⛳",
+  "tag": "GF",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "setup-posture",
+      "group": "Swing fundamentals",
+      "name": "Setup and posture",
+      "alt": "Address position",
+      "level": "Beginner",
+      "muscles": "Core · Glutes · Hamstrings",
+      "desc": "Hinging from the hips into a stable, athletic address position with a neutral spine. Every good swing starts here — the hinge loads the hamstrings and glutes so the body can rotate around a fixed spine angle instead of standing up out of the shot.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Barbell good mornings",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Bird dogs",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1572,
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge stretch",
+        "Doorway chest stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Rounding the upper back instead of hinging from the hips.",
+        "Locking the knees — kills the athletic base.",
+        "Standing too far from the ball, forcing an over-the-top downswing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+setup+posture+tutorial"
+    },
+    {
+      "id": "swing-tempo",
+      "group": "Swing fundamentals",
+      "name": "Swing tempo",
+      "alt": "3:1 rhythm drill",
+      "level": "Beginner",
+      "muscles": "Core · Shoulders · Forearms",
+      "desc": "Training the classic 3:1 ratio — a backswing three times slower than the downswing. Tempo comes from a relaxed grip and a smooth transition, not from swinging softly; the club accelerates late, through the ball rather than at it.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers (slow eccentric)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Seated spinal twist",
+        "Forearm flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Snatching the club away fast from the ball — the takeaway sets the whole rhythm.",
+        "Rushing the transition at the top instead of letting the lower body start the downswing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+swing+tempo+drill"
+    },
+    {
+      "id": "backswing-coil",
+      "group": "Swing fundamentals",
+      "name": "Backswing coil",
+      "alt": "Loading the turn",
+      "level": "Intermediate",
+      "muscles": "Obliques · Lats · Glutes",
+      "desc": "Turning the shoulders roughly 90 degrees against a resisting lower body to store elastic energy. The X-factor — the gap between shoulder and hip turn — is the spring that powers the downswing. Coil into the trail hip without swaying off the ball.",
+      "exercises": [
+        {
+          "name": "Half-kneeling cable rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        }
+      ],
+      "stretches": [
+        "Thread the needle",
+        "Open book thoracic rotation",
+        "90/90 hip switch",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Swaying laterally off the ball instead of rotating into the trail hip.",
+        "Letting the hips turn as far as the shoulders — no coil, no stored power."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+backswing+coil+x+factor+drill"
+    },
+    {
+      "id": "iron-play",
+      "group": "Full swing",
+      "name": "Iron play",
+      "alt": "Ball-first contact",
+      "level": "Beginner",
+      "muscles": "Core · Forearms · Lats",
+      "desc": "Striking the ball first, then the turf, with hands ahead of the clubhead at impact. Compression comes from shaft lean and a downward strike — the divot starts after the ball. Weight favors the lead side through impact.",
+      "exercises": [
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        },
+        {
+          "name": "Split squats",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Forearm extensor stretch",
+        "Standing quad stretch",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Trying to lift the ball into the air instead of hitting down on it.",
+        "Hanging back on the trail foot at impact — leads to fat and thin strikes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=iron+play+ball+first+contact+drill"
+    },
+    {
+      "id": "driver-swing",
+      "group": "Full swing",
+      "name": "Driver swing",
+      "alt": "Tee shot",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Obliques",
+      "desc": "The longest, fastest swing in the bag, hit slightly on the upswing off a high tee. Speed comes from ground force — pushing into the lead leg and posting up so the hips fire the hands through. Wide arc, full turn, and a stable spine angle.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Medicine ball scoop tosses",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Cable woodchoppers (low to high)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "90/90 hip switch",
+        "Open book thoracic rotation",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Swinging down on the ball with driver — tee it high and hit up on it.",
+        "Sliding the hips toward the target instead of rotating them open.",
+        "Gripping harder to swing faster — tension kills clubhead speed."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=driver+swing+tutorial+golf"
+    },
+    {
+      "id": "hip-rotation-power",
+      "group": "Full swing",
+      "name": "Hip rotation power",
+      "alt": "Firing the lower body",
+      "level": "Advanced",
+      "muscles": "Hips · Glutes · Obliques",
+      "desc": "Initiating the downswing from the ground up — lead hip clears while the torso lags, then the kinetic chain whips through arms and club. Elite speed is a sequencing skill: hips, torso, arms, club, each segment accelerating and braking in turn.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Rotational medicine ball slams",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Cable hip rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        }
+      ],
+      "stretches": [
+        "Pigeon pose",
+        "Couch stretch",
+        "Seated straddle",
+        "Lying figure-4",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Starting the downswing with the arms instead of the lead hip.",
+        "Spinning the hips flat instead of rotating while staying in posture.",
+        "Early extension — thrusting the pelvis toward the ball and losing the spine angle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+hip+rotation+power+drill"
+    },
+    {
+      "id": "chipping",
+      "group": "Short game",
+      "name": "Chipping",
+      "alt": "Bump and run",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "A low, running shot from just off the green — minimal wrist action, weight on the lead side, and a putting-like rocking of the shoulders. Consistency comes from a quiet lower body and striking the ball with a slightly descending blow.",
+      "exercises": [
+        {
+          "name": "Dumbbell front raises",
+          "scheme": "3 × 12",
+          "wgerId": 256,
+          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Single-leg balance reach",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Cross-body shoulder stretch",
+        "Standing calf stretch",
+        "Neck side stretch"
+      ],
+      "mistakes": [
+        "Flipping the wrists at the ball to help it up — leads to chunks and skulls.",
+        "Weight drifting to the trail foot instead of staying stacked on the lead side."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=chipping+basics+golf+tutorial"
+    },
+    {
+      "id": "pitching",
+      "group": "Short game",
+      "name": "Pitching",
+      "alt": "Half-swing wedge shot",
+      "level": "Intermediate",
+      "muscles": "Core · Shoulders · Forearms",
+      "desc": "A higher, softer shot from 20–60 yards controlled by the length of the backswing, not by decelerating. Distance control comes from a clock-face system — matching arm swing length to carry yardage while the body keeps rotating through.",
+      "exercises": [
+        {
+          "name": "Half-kneeling cable rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        },
+        {
+          "name": "Tempo push-ups",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Seated spinal twist",
+        "Forearm extensor stretch",
+        "Doorway chest stretch"
+      ],
+      "mistakes": [
+        "Decelerating into the ball instead of shortening the backswing.",
+        "Stopping body rotation and flipping the hands through impact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pitching+distance+control+golf+drill"
+    },
+    {
+      "id": "bunker-shots",
+      "group": "Short game",
+      "name": "Bunker shots",
+      "alt": "Sand escape",
+      "level": "Intermediate",
+      "muscles": "Core · Shoulders · Forearms",
+      "desc": "Splashing the ball out on a cushion of sand — the club never touches the ball. Open the face, dig the feet in, and strike the sand an inch or two behind the ball with committed speed. The sand slows everything down, so a full aggressive swing produces a short soft shot.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers (high to low)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Wrist circles",
+        "Deep squat hold",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Decelerating into the sand — the ball stays in the bunker.",
+        "Hitting the ball first instead of the sand behind it.",
+        "Closing the clubface, which digs the leading edge in instead of bouncing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=greenside+bunker+shot+tutorial"
+    },
+    {
+      "id": "flop-shot",
+      "group": "Short game",
+      "name": "Flop shot",
+      "alt": "High soft lob",
+      "level": "Advanced",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "A near-vertical shot that stops fast, hit with a wide-open face sliding under the ball. It demands full commitment — a long, fast swing where the club exits left while the face stays skyward. Reserve it for good lies and situations a chip cannot solve.",
+      "exercises": [
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Medicine ball overhead throws",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        }
+      ],
+      "stretches": [
+        "Forearm extensor stretch",
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Trying it from a tight lie where there is no grass under the ball.",
+        "Quitting on the swing at impact — the face digs and the ball goes nowhere."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flop+shot+golf+tutorial"
+    },
+    {
+      "id": "putting-stroke",
+      "group": "Putting",
+      "name": "Putting stroke",
+      "alt": "Pendulum stroke",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Forearms",
+      "desc": "A pendulum motion driven by the shoulders while wrists and lower body stay quiet. The face angle at impact determines most of the start line, so square contact matters more than a perfect path. Eyes over the ball, light grip, and matching back and through lengths.",
+      "exercises": [
+        {
+          "name": "Dumbbell shrugs (slow tempo)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Plank with arm reach",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Neck side stretch",
+        "Cross-body shoulder stretch",
+        "Standing forward fold",
+        "Wrist circles"
+      ],
+      "mistakes": [
+        "Breaking the wrists through impact instead of rocking the shoulders.",
+        "Peeking at the hole before contact — moves the shoulders and opens the face."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=putting+stroke+fundamentals+tutorial"
+    },
+    {
+      "id": "lag-putting",
+      "group": "Putting",
+      "name": "Lag putting",
+      "alt": "Long-range distance control",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core",
+      "desc": "Rolling long putts to tap-in range by calibrating stroke length to distance. Speed control is the skill — read the green for pace first, line second, and let the length of the backstroke set the energy rather than hitting at the ball.",
+      "exercises": [
+        {
+          "name": "Tempo dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Stability ball stir-the-pot",
+          "scheme": "3 × 10 / direction"
+        },
+        {
+          "name": "Bird dogs",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1572,
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Seated spinal twist",
+        "Neck side stretch",
+        "Doorway chest stretch"
+      ],
+      "mistakes": [
+        "Same-length stroke for every distance, adjusting only with hit intensity.",
+        "Reading only the line and ignoring uphill or downhill pace."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=lag+putting+distance+control+drill"
+    },
+    {
+      "id": "lead-side-stability",
+      "group": "Power & mobility",
+      "name": "Lead-side stability",
+      "alt": "Posting into the lead leg",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Core",
+      "desc": "Bracing the lead leg at impact so rotation has something to turn against. The lead side acts as a brake that transfers ground force up the chain — a soft, collapsing lead knee leaks speed and balance. Post up, straighten, and rotate around it.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Step-ups with dumbbells",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Single-leg hops",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "Standing quad stretch",
+        "Adductor rock-back",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Lead knee collapsing inward through impact.",
+        "Never fully transferring weight — finishing flat-footed on the trail side."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+lead+leg+stability+post+up+drill"
+    },
+    {
+      "id": "thoracic-rotation",
+      "group": "Power & mobility",
+      "name": "Thoracic rotation",
+      "alt": "Upper-back turn mobility",
+      "level": "Intermediate",
+      "muscles": "Thoracic spine · Obliques · Lats",
+      "desc": "Building the mid-back rotation a full shoulder turn requires. When the thoracic spine is stiff, golfers compensate by swaying, lifting, or over-twisting the lumbar spine. More usable turn means a longer arc and more speed without strain.",
+      "exercises": [
+        {
+          "name": "Seated cable rotations",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Quadruped thoracic rotations",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1029
+        },
+        {
+          "name": "Foam roller thoracic extensions",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Single-arm dumbbell rows",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1637,
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+        }
+      ],
+      "stretches": [
+        "Open book thoracic rotation",
+        "Thread the needle",
+        "Lat stretch on rack",
+        "Child's pose with side reach"
+      ],
+      "mistakes": [
+        "Forcing extra turn from the lower back instead of the mid-back.",
+        "Only training rotation toward the backswing side — the follow-through needs it too."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=thoracic+rotation+exercises+for+golf"
+    },
+    {
+      "id": "ground-force-speed",
+      "group": "Power & mobility",
+      "name": "Ground force and swing speed",
+      "alt": "Using the ground for distance",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Calves · Core",
+      "desc": "Squatting slightly in transition and driving up through the lead leg — the vertical thrust long drivers use. Ground reaction force is the engine of elite clubhead speed; the arms merely deliver what the legs generate. Train it with jumps, heavy pulls, and overspeed work.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 12",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Deep squat hold",
+        "Standing calf stretch",
+        "90/90 hip switch",
+        "Hamstring stretch with strap"
+      ],
+      "mistakes": [
+        "Jumping so hard that contact and balance fall apart — speed only counts in the face.",
+        "Adding overspeed training on top of full practice days without managing fatigue."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=golf+ground+force+swing+speed+training"
+    }
+  ]
+}

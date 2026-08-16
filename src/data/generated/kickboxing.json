@@ -1,0 +1,712 @@
+{
+  "id": "kickboxing",
+  "name": "Kickboxing",
+  "emoji": "💥",
+  "tag": "KB",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "jab",
+      "group": "Punches",
+      "name": "Jab",
+      "alt": "Lead-hand straight punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Triceps · Calves",
+      "desc": "The lead-hand straight that measures range, scores, and opens every combination. It fires off a small push from the rear foot with the shoulder rolling up to cover the chin, and returns on the same line it went out. A kickboxer with a great jab controls when every exchange starts.",
+      "exercises": [
+        {
+          "name": "Plyometric push-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Cable single-arm chest press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 2 min",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Dropping the hand on the way back instead of returning along the same line.",
+        "Pawing with the arm only — even the jab starts from the rear foot.",
+        "Leaning forward with the punch and leaving the head on the center line."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+jab+technique+tutorial"
+    },
+    {
+      "id": "cross",
+      "group": "Punches",
+      "name": "Cross",
+      "alt": "Rear-hand straight punch",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "The rear straight — the power punch of the basic arsenal. The rear foot pivots as the hip fires through, sending force up the kinetic chain into a fully rotated fist. Thrown correctly it is a whole-body event; the arm just delivers what the legs and trunk produce.",
+      "exercises": [
+        {
+          "name": "Landmine rotational press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Medicine ball chest throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Thread the needle",
+        "Wrist flexor stretch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Rear heel glued to the floor, blocking the hip rotation.",
+        "Winding up before throwing — the telegraph costs more than the power gains.",
+        "Squaring up fully after the punch and eating the counter hook."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+cross+rear+straight+tutorial"
+    },
+    {
+      "id": "lead-hook",
+      "group": "Punches",
+      "name": "Lead hook",
+      "alt": "Front-hand hook to head or body",
+      "level": "Intermediate",
+      "muscles": "Obliques · Shoulders · Legs",
+      "desc": "A horizontal punch whipped around the side of the guard, elbow up and wrist locked. Power comes from the lead foot pivoting and the hips snapping the shoulders around — the arm stays a rigid frame that transmits the turn. The best hooks travel short and arrive unseen off the jab.",
+      "exercises": [
+        {
+          "name": "Cable horizontal woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Lying spinal twist",
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Swinging wide from the elbow like a slap instead of turning the whole body.",
+        "Dropping the elbow and wrist out of line, spraining the wrist on impact.",
+        "Loading up visibly by dipping the shoulder before it goes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+lead+hook+technique+tutorial"
+    },
+    {
+      "id": "rear-uppercut",
+      "group": "Punches",
+      "name": "Rear uppercut",
+      "alt": "Rising rear-hand punch",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Biceps",
+      "desc": "A rising punch driven from a slight leg dip up through the middle of the opponent's guard. The legs extend and the hips tilt as the fist travels a short vertical path — dropping the hand to wind up is what gets uppercuts countered. Deadly in close range after slipping or when the opponent ducks.",
+      "exercises": [
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 346
+        },
+        {
+          "name": "Cable low-to-high woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 272,
+          "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Doorway pec stretch",
+        "Kneeling hip flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Dropping the fist to the waist before throwing — a highway sign for the counter.",
+        "Punching up with the arm while the legs stay straight.",
+        "Throwing it at long range where it has no leverage."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+rear+uppercut+tutorial"
+    },
+    {
+      "id": "teep",
+      "group": "Kicks",
+      "name": "Teep",
+      "alt": "Front push kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Core",
+      "desc": "The long-range stop-hit of kickboxing: a straight push with the ball of the foot into the midsection or hip. It works like the jab of the legs — measuring, off-balancing, and killing forward pressure before it starts. The knee lifts first, then the hips drive the foot straight through the target.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Sled push",
+          "scheme": "4 × 20 m",
+          "wgerId": 1523
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1740
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch",
+        "Seated toe reach"
+      ],
+      "mistakes": [
+        "Pushing with a straight leg swing instead of lifting the knee first.",
+        "No hip drive behind it, so it pats instead of displaces.",
+        "Dropping both hands as the leg goes up."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+teep+push+kick+tutorial"
+    },
+    {
+      "id": "low-kick",
+      "group": "Kicks",
+      "name": "Low kick",
+      "alt": "Rear-leg kick to the thigh",
+      "level": "Beginner",
+      "muscles": "Hips · Glutes · Core",
+      "desc": "A rear-leg roundhouse chopped down into the opponent's thigh with the lower shin. The support foot pivots fully and the body weight drops slightly into impact, swinging the leg like a bat rather than snapping it. Accumulated low kicks decide fights by stealing the opponent's legs round by round.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Lying figure-4",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Hitting with the foot instead of the hard lower shin.",
+        "No downward angle — a flat kick bounces off instead of chopping in.",
+        "Throwing it naked at the same rhythm without a punch to hide behind."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+low+kick+technique+tutorial"
+    },
+    {
+      "id": "rear-body-kick",
+      "group": "Kicks",
+      "name": "Rear roundhouse kick",
+      "alt": "Mid-level body kick",
+      "level": "Intermediate",
+      "muscles": "Hips · Core · Glutes",
+      "desc": "The rear-leg round kick driven through the ribs or arms with the shin. Full support-foot pivot, hip turnover, and the arm swinging down for counter-rotation combine to send bodyweight through the target rather than at it. Thrown behind the cross, it is the heaviest weapon in most kickboxers' arsenals.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball rotational slams",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Standing quad stretch",
+        "Lying spinal twist",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Kicking at the target and stopping — aim to swing through to the far side.",
+        "Support foot under-pivoting so the hip never turns over.",
+        "Same-side hand hanging low while the kick is in the air."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+body+kick+roundhouse+tutorial"
+    },
+    {
+      "id": "switch-kick",
+      "group": "Kicks",
+      "name": "Switch kick",
+      "alt": "Lead-leg roundhouse off a stance switch",
+      "level": "Intermediate",
+      "muscles": "Hips · Calves · Core",
+      "desc": "A quick hop switches the feet, loading the lead leg to fire a full-power roundhouse to body or head. The switch must be small and flat — a rhythm change, not a jump — so the kick arrives before the opponent registers the stance swap. It brings rear-leg power to the closer leg.",
+      "exercises": [
+        {
+          "name": "Scissor jumps",
+          "scheme": "4 × 12"
+        },
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Jump rope double unders",
+          "scheme": "4 × 30s",
+          "wgerId": 993
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Standing calf stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "A big visible hop on the switch that announces the kick.",
+        "Kicking immediately at full range without closing distance during the switch.",
+        "Landing heavy after the kick instead of resetting to stance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=switch+kick+kickboxing+tutorial"
+    },
+    {
+      "id": "high-kick",
+      "group": "Kicks",
+      "name": "High kick",
+      "alt": "Head-level roundhouse",
+      "level": "Advanced",
+      "muscles": "Hips · Hip flexors · Core",
+      "desc": "The fight-ender: a roundhouse whipped to the neck or jaw with the shin. It needs everything the body kick needs plus open hips, a full pivot, and a support leg strong enough to stay tall through the arc. Set it up low first — the head kick lands when the opponent's eyes and guard live at the body.",
+      "exercises": [
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Slow motion kick raises to wall",
+          "scheme": "3 × 6 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Bending sideways at the waist to fake height instead of opening the hip.",
+        "Throwing it without a low-kick or punch setup to drag the guard down.",
+        "Falling through on the miss instead of letting the leg whip back to stance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+high+kick+head+kick+tutorial"
+    },
+    {
+      "id": "straight-knee",
+      "group": "Knees & clinch",
+      "name": "Straight knee",
+      "alt": "Front knee strike",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Glutes · Core",
+      "desc": "A spearing knee driven up and through the midsection, hips thrust forward as the upper body counter-leans. The strike is the hip extension — the knee is just the point of the spear. It punishes opponents who duck low or crash forward into mid-range.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Walking lunges with knee drive",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Standing quad stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Lifting the knee straight up instead of driving the hips through the target.",
+        "Standing square and tall with no counter-lean, exposing the chin.",
+        "Dropping both hands to swim for the clinch while the knee travels."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+straight+knee+strike+tutorial"
+    },
+    {
+      "id": "clinch-knees",
+      "group": "Knees & clinch",
+      "name": "Clinch knees",
+      "alt": "Knee strikes from the collar tie",
+      "level": "Advanced",
+      "muscles": "Core · Hip flexors · Upper back",
+      "desc": "Controlling the head or arms in the clinch and feeding alternating knees to the body. The pull and the knee arrive together — the arms drag the opponent onto the strike while the hips fire beneath. Posture wins the clinch: whoever keeps their spine tall and elbows inside controls where the knees land.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Landmine anti-rotation press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30 m"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Lat stretch on rack",
+        "Upper trap stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Pulling with bent, tired arms instead of hanging body weight on the opponent's posture.",
+        "Kneeing without pulling — the collision is what makes clinch knees hurt.",
+        "Letting the elbows flare outside, giving up inside control."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+clinch+knees+tutorial"
+    },
+    {
+      "id": "leg-check",
+      "group": "Defense",
+      "name": "Leg check",
+      "alt": "Shin block against low kicks",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Tibialis · Core",
+      "desc": "Lifting the lead knee so the incoming low kick lands shin-on-shin against your raised leg. The check must be fast, angled slightly outward, and balanced on a stable support leg — done well it hurts the kicker more than you. The read comes from the opponent's hips, not their leg.",
+      "exercises": [
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Single-leg balance on wobble board",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Kneeling shin stretch",
+        "Standing calf stretch",
+        "Ankle circles",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Checking with the foot planted and just turning the knee — the shin must lift.",
+        "Watching the kicking leg instead of reading the hips, reacting too late.",
+        "Hopping backward out of range instead of checking and countering."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+leg+check+low+kick+defense+tutorial"
+    },
+    {
+      "id": "slip-and-roll",
+      "group": "Defense",
+      "name": "Slip and roll",
+      "alt": "Head movement off straight punches and hooks",
+      "level": "Intermediate",
+      "muscles": "Obliques · Legs · Neck",
+      "desc": "Small lateral head movements take the skull just off the punch line, and a bend at the knees rolls under the hook that follows. The movement lives in the legs and trunk — the eyes stay on the opponent and the hands stay home. In kickboxing head movement is used in short bursts, since ducking low invites knees and kicks.",
+      "exercises": [
+        {
+          "name": "Cable horizontal woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Neck harness raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Slip rope rounds",
+          "scheme": "3 × 2 min"
+        }
+      ],
+      "stretches": [
+        "Lying spinal twist",
+        "Levator scapulae stretch",
+        "Standing side bend",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Bending at the waist with straight legs, ending face-down in knee range.",
+        "Closing the eyes or turning the face away during the slip.",
+        "Slipping without countering — movement that never punishes stops working."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kickboxing+slip+roll+head+movement+tutorial"
+    },
+    {
+      "id": "jab-cross-low-kick",
+      "group": "Combinations & pad work",
+      "name": "Jab–cross–low kick",
+      "alt": "The bread-and-butter three",
+      "level": "Beginner",
+      "muscles": "Full body · Core · Hips",
+      "desc": "The first combination every kickboxer drills: the jab blinds, the cross squares the opponent's weight onto the lead leg, and the low kick chops the loaded thigh. The cross's hip rotation flows directly into the kick's pivot, so the three strikes share one continuous turn. Rhythm should read as 1-2-pause-3, not 1-2-3.",
+      "exercises": [
+        {
+          "name": "Medicine ball chest throw into rotational throw",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Landmine rotational press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Battle rope intervals",
+          "scheme": "4 × 20s"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Resetting the feet after the cross instead of flowing its rotation into the kick.",
+        "Even robotic timing that lets the opponent check the kick every time.",
+        "Leaning in over the punches and getting clipped as the kick loads."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=jab+cross+low+kick+combination+tutorial"
+    },
+    {
+      "id": "dutch-drill",
+      "group": "Combinations & pad work",
+      "name": "Dutch drill",
+      "alt": "Partner combination trading rounds",
+      "level": "Intermediate",
+      "muscles": "Full body · Core · Shoulders",
+      "desc": "The classic Dutch-style format: partners alternate set combinations onto each other's gloves and guard — punches flow into kicks, then roles swap without a pause. It builds combination memory, blocking structure, and the composure to strike while being struck. Volume and rhythm matter more than single-shot power.",
+      "exercises": [
+        {
+          "name": "Push press",
+          "scheme": "4 × 6",
+          "wgerId": 478,
+          "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Rowing machine intervals",
+          "scheme": "5 × 250 m"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Lying spinal twist",
+        "90/90 hip switch",
+        "Child's pose",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Flinching and turning away on the partner's turn instead of blocking in structure.",
+        "Throwing at full power and wrecking the drill's rhythm and trust.",
+        "Guard drifting lower every exchange as the shoulders fatigue."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=dutch+kickboxing+partner+drill+tutorial"
+    },
+    {
+      "id": "pad-rounds",
+      "group": "Combinations & pad work",
+      "name": "Pad rounds",
+      "alt": "Full-intensity Thai pad rounds",
+      "level": "Advanced",
+      "muscles": "Full body · Core · Cardio",
+      "desc": "Three-to-five minute rounds on Thai pads at fight pace: called combinations, free flurries, and defensive reactions mixed by the holder. This is where technique meets conditioning — form is only real if it survives the last thirty seconds of the last round. Breathe out on every strike and walk forward between exchanges.",
+      "exercises": [
+        {
+          "name": "Assault bike intervals",
+          "scheme": "6 × 30s hard / 30s easy"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Burpees",
+          "scheme": "4 × 12",
+          "wgerId": 132
+        },
+        {
+          "name": "Battle rope intervals",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Child's pose",
+        "Standing quad stretch",
+        "Doorway pec stretch",
+        "90/90 hip switch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Holding the breath through flurries and gassing in one round.",
+        "Form collapsing under fatigue — sloppy reps on pads become sloppy habits in sparring.",
+        "Admiring the combination instead of returning to guard and moving off the line."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=thai+pad+rounds+kickboxing+combinations"
+    }
+  ]
+}

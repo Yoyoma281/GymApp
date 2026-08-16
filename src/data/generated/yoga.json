@@ -1,0 +1,666 @@
+{
+  "id": "yoga",
+  "name": "Yoga",
+  "emoji": "🧘",
+  "tag": "YG",
+  "category": "Strength & fitness",
+  "drills": [
+    {
+      "id": "ujjayi-breath",
+      "group": "Foundations & breath",
+      "name": "Ujjayi pranayama",
+      "alt": "Ocean-sounding throat breath",
+      "level": "Beginner",
+      "muscles": "Diaphragm · Intercostals · Core",
+      "desc": "A slow nasal breath with a gentle throat constriction that makes a soft ocean sound. It meters the breath so movement can ride on it, and keeps the nervous system calm under effort. The skill is a long, even exhale driven by the diaphragm, not a forced rasp.",
+      "exercises": [
+        {
+          "name": "Dead bug with exhale brace",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Weighted plank with slow breathing",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Farmer's carries (nasal breathing)",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Supported fish pose over foam roller",
+        "Seated side bend",
+        "Thread the needle",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Gripping the throat so hard the breath turns into a strain instead of a whisper.",
+        "Breathing into the chest and shoulders rather than the ribs and belly."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ujjayi+breath+tutorial"
+    },
+    {
+      "id": "downward-dog",
+      "group": "Foundations & breath",
+      "name": "Adho Mukha Svanasana",
+      "alt": "Downward-facing dog",
+      "level": "Beginner",
+      "muscles": "Shoulders · Hamstrings · Calves",
+      "desc": "An inverted V that is equal parts strength and stretch: hands press the floor away while the hips reach up and back. The pose lives in the shoulders — external rotation and a long spine matter far more than straight legs. It is the home base the whole vinyasa returns to.",
+      "exercises": [
+        {
+          "name": "Barbell overhead press",
+          "scheme": "3 × 8",
+          "wgerId": 1893,
+          "imageUrl": "https://wger.de/media/exercise-images/1893/7dbad19e-0616-41fd-9d7d-3e21649c0eea.png"
+        },
+        {
+          "name": "Pike push-ups",
+          "scheme": "3 × 8",
+          "wgerId": 454,
+          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Wall lat stretch",
+        "Downward dog with pedaling heels",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Rounding the spine to force heels down — bend the knees and keep the back long.",
+        "Dumping weight into the wrists instead of pressing through the whole hand.",
+        "Shoulders shrugged to the ears rather than wrapped outward and away."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=downward+dog+alignment+tutorial"
+    },
+    {
+      "id": "sun-salutation-a",
+      "group": "Foundations & breath",
+      "name": "Surya Namaskar A",
+      "alt": "Sun salutation flow",
+      "level": "Beginner",
+      "muscles": "Full body · Shoulders · Hamstrings",
+      "desc": "The linked sequence — fold, plank, chaturanga, upward dog, downward dog — that teaches breath-matched movement. One breath, one shape: inhales lengthen and lift, exhales fold and lower. Smoothness comes from owning each transition, especially the lower from plank.",
+      "exercises": [
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 10",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Barbell Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 1700
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Ab wheel rollouts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Burpee step-backs (slow tempo)",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Cobra stretch",
+        "Downward dog hold",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Rushing ahead of the breath so the flow becomes choreography without an anchor.",
+        "Skipping through chaturanga with sagging hips and flared elbows.",
+        "Locking the knees in the folds instead of softening to let the pelvis tip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sun+salutation+a+tutorial"
+    },
+    {
+      "id": "chaturanga",
+      "group": "Foundations & breath",
+      "name": "Chaturanga Dandasana",
+      "alt": "Low push-up hover",
+      "level": "Intermediate",
+      "muscles": "Chest · Triceps · Core",
+      "desc": "Lowering from plank to a hover with elbows at ninety degrees, pinned to the ribs, body one straight line. It is a moving plank, not a collapsed push-up — the serratus and core keep the shoulders from diving below the elbows. Done well, it protects the shoulders through thousands of vinyasas.",
+      "exercises": [
+        {
+          "name": "Close-grip push-ups (slow negatives)",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Dips (bench or bars)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Cable triceps pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        },
+        {
+          "name": "Plank to forearm plank transitions",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Dumbbell serratus punches",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Shoulders dip below the elbows, grinding the rotator cuff.",
+        "Elbows wing outward instead of brushing the ribs.",
+        "Hips pike up or sag down — the plank line must survive the lower."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=chaturanga+dandasana+tutorial"
+    },
+    {
+      "id": "warrior-ii",
+      "group": "Standing & warrior",
+      "name": "Virabhadrasana II",
+      "alt": "Warrior II lunge stance",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Hips",
+      "desc": "A wide stance with the front knee bent over the ankle, back leg straight and strong, arms reaching in opposite directions. The pose is an isometric wall-sit in disguise — the front thigh burns while the hips resist collapsing inward. Power radiates outward from a stacked, tall torso.",
+      "exercises": [
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Low lunge hold",
+        "Butterfly stretch",
+        "Standing quad stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Front knee caves inward past the big toe instead of tracking over the ankle.",
+        "Torso leans out over the front leg rather than stacking above the hips.",
+        "Back foot's outer edge lifts, unloading the rear leg entirely."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=warrior+2+pose+alignment+tutorial"
+    },
+    {
+      "id": "tree-pose",
+      "group": "Standing & warrior",
+      "name": "Vrksasana",
+      "alt": "Tree pose single-leg balance",
+      "level": "Beginner",
+      "muscles": "Ankles · Glutes · Core",
+      "desc": "Standing on one leg with the other foot pressed to the inner thigh, hands at heart or overhead. Balance is a conversation between the foot's grip on the floor and the standing-side glute holding the pelvis level. Sway is normal; the practice is correcting it quietly instead of hopping.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Bosu single-leg stands",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "Butterfly stretch",
+        "Standing quad stretch",
+        "Ankle circles & calf stretch"
+      ],
+      "mistakes": [
+        "Pressing the foot against the knee joint instead of above or below it.",
+        "Standing hip juts out sideways rather than staying stacked over the ankle.",
+        "Eyes wander — fix a drishti (gaze point) or the sway wins."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tree+pose+vrksasana+tutorial"
+    },
+    {
+      "id": "warrior-iii",
+      "group": "Standing & warrior",
+      "name": "Virabhadrasana III",
+      "alt": "Warrior III standing T-balance",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hamstrings · Core",
+      "desc": "The body tips into a horizontal T on one leg — chest, hips and lifted heel in a single line. It is a moving single-leg deadlift held still, and the lifted-side glute must fire hard to keep the hips square to the floor. Length in both directions beats height of the back leg.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "4 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Back extensions (45° bench)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable glute kickbacks",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Kneeling hip flexor stretch",
+        "Downward dog hold"
+      ],
+      "mistakes": [
+        "Lifted hip rolls open toward the ceiling instead of staying square down.",
+        "Standing knee locks back hard rather than keeping a soft micro-bend.",
+        "Chest drops below the hips, turning the T into a hangdog fold."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=warrior+3+pose+tutorial"
+    },
+    {
+      "id": "half-moon",
+      "group": "Standing & warrior",
+      "name": "Ardha Chandrasana",
+      "alt": "Half moon side balance",
+      "level": "Intermediate",
+      "muscles": "Glutes · Obliques · Ankles",
+      "desc": "Balancing on one leg and one fingertip-light hand while the body opens sideways, top leg reaching parallel to the floor. The hard work is in the standing-leg glute medius and the obliques stacking the hips open. The bottom hand is a kickstand, not a crutch.",
+      "exercises": [
+        {
+          "name": "Side plank with top-leg raise",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "Seated straddle fold",
+        "Standing side bend",
+        "Butterfly stretch"
+      ],
+      "mistakes": [
+        "Dumping full body weight into the bottom hand instead of the standing leg.",
+        "Top hip rolls forward and closes, collapsing the open line of the pose."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=half+moon+pose+ardha+chandrasana+tutorial"
+    },
+    {
+      "id": "crow-pose",
+      "group": "Arm balances & inversions",
+      "name": "Bakasana",
+      "alt": "Crow pose arm balance",
+      "level": "Intermediate",
+      "muscles": "Wrists · Core · Hip flexors",
+      "desc": "Knees perch on the upper arms while the whole body balances over the hands. The lift comes from rounding the upper back and compressing knees to armpits — pushing the floor away like a cat arching, not from jumping. The gaze stays slightly forward; look back at the feet and you follow them down.",
+      "exercises": [
+        {
+          "name": "Crow lift-off practice from yoga block",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Push-ups on fingertip-spread hands",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Wrist curls & reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        }
+      ],
+      "stretches": [
+        "Wrist flexor & extensor stretch",
+        "Child's pose",
+        "Garland squat (malasana)",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Gaze drops straight down or back, tipping the head-heavy balance forward.",
+        "Arms held wide and straight instead of bent shelves for the knees.",
+        "Hips too low — the higher the hips, the lighter the feet."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=crow+pose+bakasana+tutorial"
+    },
+    {
+      "id": "headstand",
+      "group": "Arm balances & inversions",
+      "name": "Sirsasana",
+      "alt": "Supported headstand",
+      "level": "Advanced",
+      "muscles": "Shoulders · Traps · Core",
+      "desc": "Balancing upside down on the forearm tripod, with the neck protected because the shoulders — not the head — carry most of the weight. The body stacks slowly: hips over shoulders first, then legs unfold together. Entry with control matters more than time upside down.",
+      "exercises": [
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "4 × 8",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Forearm plank with shoulder protraction",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Dolphin push-ups",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        }
+      ],
+      "stretches": [
+        "Thread the needle",
+        "Doorway pec stretch",
+        "Neck side-flexion stretch",
+        "Child's pose",
+        "Kneeling lat stretch"
+      ],
+      "mistakes": [
+        "Kicking up with momentum instead of lifting the legs with compression.",
+        "Weight sinking into the crown of the head because the forearms stop pressing.",
+        "Practicing mid-room before the wall version is boringly consistent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=headstand+sirsasana+tutorial+beginners"
+    },
+    {
+      "id": "forearm-stand",
+      "group": "Arm balances & inversions",
+      "name": "Pincha Mayurasana",
+      "alt": "Forearm stand",
+      "level": "Advanced",
+      "muscles": "Shoulders · Lats · Core",
+      "desc": "A handstand on the forearms, demanding the most open shoulders in the inversion family. Without full overhead range the back must arch to compensate, so shoulder flexibility is the real prerequisite. Balance is steered by pressing the forearms and fingertips into the mat while the ribs stay knitted in.",
+      "exercises": [
+        {
+          "name": "Dolphin push-ups",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Forearm wall holds",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 8",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Puppy pose",
+        "Kneeling lat stretch on bench",
+        "Doorway pec stretch",
+        "Thoracic extension over foam roller"
+      ],
+      "mistakes": [
+        "Elbows slide wider than the shoulders, collapsing the base.",
+        "Banana-arching the back to fake overhead range the shoulders don't have.",
+        "Head hangs heavy instead of hovering with the gaze between the thumbs."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pincha+mayurasana+forearm+stand+tutorial"
+    },
+    {
+      "id": "bridge-pose",
+      "group": "Backbends & hips",
+      "name": "Setu Bandha Sarvangasana",
+      "alt": "Bridge pose",
+      "level": "Beginner",
+      "muscles": "Glutes · Hamstrings · Spinal erectors",
+      "desc": "Lying on the back, the hips press to the ceiling while shoulders and feet root down. It is the entry-level backbend that wakes up the glutes and opens the chest and hip flexors — the exact pattern desk life shuts down. Drive through the heels and squeeze the glutes; the lower back should work, not ache.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Glute bridges (paused)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hamstring curl machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Back extensions (45° bench)",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Knees-to-chest rock",
+        "Supine twist",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Knees splay outward as the hips rise instead of tracking over the heels.",
+        "Pushing through the toes and cramping the calves rather than driving the heels."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bridge+pose+setu+bandha+tutorial"
+    },
+    {
+      "id": "pigeon-pose",
+      "group": "Backbends & hips",
+      "name": "Eka Pada Rajakapotasana (prep)",
+      "alt": "Pigeon pose hip opener",
+      "level": "Beginner",
+      "muscles": "Glutes · Hip rotators · Hip flexors",
+      "desc": "The front shin folds across the mat while the back leg extends long — a deep external-rotation stretch for the glute and piriformis of the front hip and the hip flexor of the back one. The stretch should sit in the meat of the glute, never in the front knee. Square hips and props beat depth every time.",
+      "exercises": [
+        {
+          "name": "Cable hip external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "90/90 hip transitions (loaded)",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Seated hip abduction machine",
+          "scheme": "3 × 12",
+          "wgerId": 1672
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "90/90 hip switch",
+        "Kneeling hip flexor stretch",
+        "Frog stretch"
+      ],
+      "mistakes": [
+        "Hips tilt and dump onto the front-leg side instead of staying square with support.",
+        "Front knee takes torque because the shin angle is forced flat too soon."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pigeon+pose+tutorial+hip+opener"
+    },
+    {
+      "id": "camel-pose",
+      "group": "Backbends & hips",
+      "name": "Ustrasana",
+      "alt": "Kneeling camel backbend",
+      "level": "Intermediate",
+      "muscles": "Quads · Hip flexors · Spinal erectors",
+      "desc": "Kneeling upright, the hips press forward as the spine arcs back toward the heels. The bend should distribute along the whole spine with the hips staying over the knees — quads and glutes work hard so the lower back doesn't hinge at one point. Lead with the sternum lifting, not the head dropping.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Reverse Nordic curls",
+          "scheme": "3 × 8",
+          "wgerId": 909,
+          "imageUrl": "https://wger.de/media/exercise-images/909/159222d9-c1e4-46ae-89ee-6a2dfaab978d.png"
+        },
+        {
+          "name": "Back extensions (45° bench)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dumbbell pullovers on bench",
+          "scheme": "3 × 10",
+          "wgerId": 161,
+          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Thoracic extension over foam roller",
+        "Child's pose",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Hips drift back over the heels, stealing the whole point of the pose.",
+        "Throwing the head back first and crunching the neck and lumbar."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=camel+pose+ustrasana+tutorial"
+    },
+    {
+      "id": "wheel-pose",
+      "group": "Backbends & hips",
+      "name": "Urdhva Dhanurasana",
+      "alt": "Full wheel backbend",
+      "level": "Advanced",
+      "muscles": "Shoulders · Spinal erectors · Glutes",
+      "desc": "Pressing from the floor into a full backbend on hands and feet — the deepest expression of spinal extension in most practices. The pose is really a shoulder pose: without open shoulders the arms stay bent and the lower back pays the bill. Push the chest toward the wall behind you rather than the belly to the ceiling.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Dumbbell pullovers on bench",
+          "scheme": "3 × 10",
+          "wgerId": 161,
+          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png"
+        },
+        {
+          "name": "Barbell overhead press",
+          "scheme": "3 × 8",
+          "wgerId": 1893,
+          "imageUrl": "https://wger.de/media/exercise-images/1893/7dbad19e-0616-41fd-9d7d-3e21649c0eea.png"
+        },
+        {
+          "name": "Glute bridges with march",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Wall-facing shoulder flexion slides",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Thoracic extension over foam roller",
+        "Doorway pec stretch",
+        "Couch stretch",
+        "Puppy pose",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Elbows bow outward on the press-up because the shoulders lack flexion range.",
+        "Feet turn out and knees splay, pinching the sacrum instead of sharing the bend.",
+        "Forcing reps while fatigued — deep backbends need a fresh, warm spine."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wheel+pose+urdhva+dhanurasana+tutorial"
+    }
+  ]
+}

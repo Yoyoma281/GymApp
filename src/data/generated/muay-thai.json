@@ -85,6 +85,631 @@
         "Stopping rotation at contact instead of swinging through."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+low+kick+tutorial"
+    },
+    {
+      "id": "switch-kick",
+      "group": "Kicks",
+      "name": "Switch kick",
+      "alt": "Rear-leg roundhouse off a stance switch",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hips · Calves · Core",
+      "desc": "A small hop swaps the feet so the lead leg becomes the power leg, then the shin whips through the target. The switch itself must be fast and low — it loads the hip like a coiled spring rather than announcing the kick. Speed of the swap and full pivot on the support foot decide everything.",
+      "exercises": [
+        {
+          "name": "Dumbbell jump squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Pigeon pose",
+        "Standing quad stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Switching too high or too slow — the hop should be a shuffle, not a jump.",
+        "Kicking immediately from the switch without re-setting the hips, which robs the kick of rotation.",
+        "Dropping the same-side hand as the leg fires."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+switch+kick+tutorial"
+    },
+    {
+      "id": "high-kick",
+      "group": "Kicks",
+      "name": "High kick",
+      "alt": "Head-height roundhouse",
+      "level": "Advanced",
+      "muscles": "Hips · Glutes · Hamstrings · Core",
+      "desc": "The same swinging roundhouse mechanics aimed at the neck or jaw. Height comes from hip mobility and a deep support-foot pivot that lets the pelvis tilt over — not from lifting the leg with the quad. The support heel turns almost fully away from the target at contact.",
+      "exercises": [
+        {
+          "name": "Barbell Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 1700
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Standing side splits progression",
+        "Lying figure-4",
+        "Couch stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Trying to gain height by leaning back instead of pivoting and tilting the pelvis.",
+        "Incomplete support-foot pivot — strains the knee and caps the kick at rib height.",
+        "Slow retraction, leaving the leg out to be caught."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+high+kick+tutorial"
+    },
+    {
+      "id": "khao-trong",
+      "group": "Knees",
+      "name": "Khao trong",
+      "alt": "Straight knee",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Glutes · Core",
+      "desc": "The spearing knee driven straight through the midsection. Power comes from thrusting the hips forward and extending the back leg while the arms frame or pull the target down onto the point of the knee. The body leans back slightly as the hip fires forward.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Standing quad stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Lifting the knee up instead of driving it forward through the target.",
+        "Staying flat-footed on the support leg — rise onto the ball of the foot to extend the hips.",
+        "Dropping both hands to pull without keeping the chin protected."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+straight+knee+khao+trong+tutorial"
+    },
+    {
+      "id": "khao-loi",
+      "group": "Knees",
+      "name": "Khao loi",
+      "alt": "Flying knee",
+      "level": "Advanced",
+      "muscles": "Hip flexors · Quads · Calves · Core",
+      "desc": "A leaping knee that covers distance and clears the opponent's guard. The rear leg jumps, the knee switches mid-air, and body weight lands through the point of the knee. It lives or dies on explosive triple extension and committing the hips fully forward at impact.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Dumbbell step-ups",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Calf wall stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Jumping up instead of forward — the knee should travel through the target, not above it.",
+        "Telegraphing with a deep crouch before takeoff.",
+        "Landing square and off-balance instead of returning to stance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+flying+knee+khao+loi+tutorial"
+    },
+    {
+      "id": "sok-tad",
+      "group": "Elbows",
+      "name": "Sok tad",
+      "alt": "Horizontal elbow",
+      "level": "Beginner",
+      "muscles": "Shoulders · Chest · Core · Obliques",
+      "desc": "A short slashing elbow travelling parallel to the floor, landing with the tip. It is thrown like a tight hook with the forearm folded — the power is pure trunk rotation and shoulder whip over a planted base. Devastating at clinch range where punches have no room.",
+      "exercises": [
+        {
+          "name": "Cable chest flys",
+          "scheme": "3 × 12",
+          "wgerId": 1689
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch",
+        "Triceps overhead stretch",
+        "Thoracic rotation stretch"
+      ],
+      "mistakes": [
+        "Swinging from the arm instead of rotating the hips and trunk.",
+        "Landing with the forearm rather than the point of the elbow.",
+        "Winding up and telegraphing at close range."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+horizontal+elbow+sok+tad+tutorial"
+    },
+    {
+      "id": "sok-ngat",
+      "group": "Elbows",
+      "name": "Sok ngat",
+      "alt": "Uppercut elbow",
+      "level": "Intermediate",
+      "muscles": "Legs · Shoulders · Core",
+      "desc": "A rising elbow that splits the guard from below, driving the tip up through the chin. The legs load and extend to launch the elbow vertically while the shoulder stays tight to the body. Think of standing up explosively into the strike rather than lifting the arm.",
+      "exercises": [
+        {
+          "name": "Dumbbell push press",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Medicine ball vertical throws",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Triceps overhead stretch",
+        "Doorway pec stretch",
+        "Lat side-bend stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Powering the strike with the arm instead of driving up from the legs.",
+        "Letting the elbow drift away from the body on the way up.",
+        "Dropping the opposite hand while striking."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+uppercut+elbow+sok+ngat+tutorial"
+    },
+    {
+      "id": "sok-klap",
+      "group": "Elbows",
+      "name": "Sok klap",
+      "alt": "Spinning back elbow",
+      "level": "Advanced",
+      "muscles": "Core · Obliques · Shoulders · Calves",
+      "desc": "A full-body spin that whips the rear elbow backward into the target, usually off a missed strike or a step-across entry. The head turns first to spot the target, then hips and shoulders release the elbow like the end of a whip. Timing and balance through the spin matter more than raw strength.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Thoracic rotation stretch",
+        "Cross-body shoulder stretch",
+        "Standing spinal twist",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Spinning blind — the eyes must find the target before the elbow arrives.",
+        "Stepping across too shallow, leaving the elbow short of the target.",
+        "Finishing the spin off-balance with the back exposed."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+spinning+elbow+sok+klap+tutorial"
+    },
+    {
+      "id": "clinch-entry",
+      "group": "Clinch",
+      "name": "Clinch entry & posture",
+      "alt": "Closing distance into the plum",
+      "level": "Beginner",
+      "muscles": "Neck · Traps · Forearms · Core",
+      "desc": "Stepping inside punching range to establish inside hand position on the head and collar. Good clinch starts with posture — hips in, back straight, elbows tight — so the opponent carries your weight while you stay balanced. Whoever owns the inside position owns the exchange.",
+      "exercises": [
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 12",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Neck harness extensions",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        }
+      ],
+      "stretches": [
+        "Upper trap stretch",
+        "Levator scapulae stretch",
+        "Wrist flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Reaching for the head with straight arms and eating an elbow on the way in.",
+        "Bending at the waist, which surrenders posture and balance.",
+        "Fighting for outside position instead of pummelling for the inside."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+clinch+entry+basics+tutorial"
+    },
+    {
+      "id": "clinch-swimming",
+      "group": "Clinch",
+      "name": "Swimming for inside control",
+      "alt": "Pummelling the arms to the inside",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Biceps · Forearms · Core",
+      "desc": "The continuous battle of snaking the hands inside the opponent's grip to retake head control. Each swim is a tight spear of the hand up the centreline, elbow following, while the hips stay square and heavy. It is won with relentless grip endurance and posture, not one big movement.",
+      "exercises": [
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 10",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Upper trap stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Swimming wide around the arms instead of spearing tight up the middle.",
+        "Pausing after one swim — inside control is retaken continuously.",
+        "Letting the elbows flare, which gives the opponent the frame back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+clinch+pummeling+swim+tutorial"
+    },
+    {
+      "id": "clinch-knees",
+      "group": "Clinch",
+      "name": "Knees from the plum",
+      "alt": "Curve knees with head control",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Glutes · Core · Lats",
+      "desc": "Pulling the opponent's head down with both collar ties while the knee rises to meet it. The pull and the knee are one motion — lats drag the head onto the strike as the hips punch through. Skipping knees in rhythm also breaks the opponent's balance between strikes.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Lat side-bend stretch",
+        "Standing quad stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Kneeing without pulling — the strike lands soft if the head isn't dragged into it.",
+        "Losing posture and leaning over the opponent while kneeing.",
+        "Planting flat between knees instead of staying light on the support foot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+clinch+knees+plum+tutorial"
+    },
+    {
+      "id": "leg-check",
+      "group": "Defense & counters",
+      "name": "Check",
+      "alt": "Shin block against low kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Tibialis · Calves · Core",
+      "desc": "Lifting the shin to meet an incoming kick with the hardest part of your leg. The knee turns out and rises to 45 degrees while the base leg stays slightly bent and balanced. A good check punishes the kicker — the reaction speed comes from staying light on the lead leg.",
+      "exercises": [
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Single-leg balance on BOSU",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling shin stretch",
+        "Calf wall stretch",
+        "90/90 hip switch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Lifting the knee straight up instead of turning it out to meet the kick.",
+        "Checking with the foot or ankle instead of the upper shin.",
+        "Standing heavy on the lead leg so the check arrives late."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+check+low+kick+tutorial"
+    },
+    {
+      "id": "teep-catch-sweep",
+      "group": "Defense & counters",
+      "name": "Catch and sweep",
+      "alt": "Kick catch to leg sweep",
+      "level": "Advanced",
+      "muscles": "Core · Obliques · Glutes · Grip",
+      "desc": "Catching a body kick under the arm, then sweeping the support leg or turning the opponent over. Once the leg is trapped, a step and sharp hip rotation dump the opponent while they stand on one foot. The catch is timing; the sweep is angle and rotation, not strength.",
+      "exercises": [
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        }
+      ],
+      "stretches": [
+        "Standing spinal twist",
+        "Pigeon pose",
+        "Lying figure-4",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Catching with the hands instead of trapping the leg against the ribs with the arm.",
+        "Sweeping straight backward instead of stepping to an angle first.",
+        "Holding the leg too long and eating punches while admiring the catch."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+kick+catch+sweep+tutorial"
+    },
+    {
+      "id": "clinch-dump",
+      "group": "Defense & counters",
+      "name": "Clinch turn and dump",
+      "alt": "Off-balancing throw from the clinch",
+      "level": "Advanced",
+      "muscles": "Core · Lats · Glutes · Forearms",
+      "desc": "Snapping the opponent past you with a sharp turn of the collar tie as they knee or push in. Their own forward pressure does the work — you redirect it with a step off-line, a pull on the head, and a block of the near leg. Legal sweeps score heavily and drain the opponent's spirit.",
+      "exercises": [
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        }
+      ],
+      "stretches": [
+        "Standing spinal twist",
+        "Upper trap stretch",
+        "Lat side-bend stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Pulling straight down instead of turning the opponent around your hip.",
+        "Timing the dump when the opponent is planted rather than mid-step.",
+        "Losing your own posture and being dragged down with them."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+clinch+sweep+dump+tutorial"
+    },
+    {
+      "id": "pad-rounds",
+      "group": "Pad work & conditioning",
+      "name": "Thai pad rounds",
+      "alt": "5 × 3-minute pad rounds",
+      "level": "Intermediate",
+      "muscles": "Full body · Shoulders · Hips · Cardio",
+      "desc": "Full rounds on Thai pads combining combinations, kicks, knees and defensive reactions at fight pace. Pads are where technique is forged under fatigue — the last minute of each round teaches you to strike with structure when the arms and lungs are gone. Breathe out sharply on every strike and reset to stance between combinations.",
+      "exercises": [
+        {
+          "name": "Assault bike intervals",
+          "scheme": "8 × 20s / 40s rest"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "4 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Cross-body shoulder stretch",
+        "Calf wall stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Chasing speed and losing form as fatigue sets in — sloppy reps train sloppy habits.",
+        "Holding the breath through combinations instead of exhaling on each strike.",
+        "Admiring the combination instead of returning hands to guard immediately."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+pad+work+rounds+tutorial"
     }
   ]
 }

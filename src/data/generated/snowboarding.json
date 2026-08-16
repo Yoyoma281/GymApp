@@ -1,0 +1,718 @@
+{
+  "id": "snowboarding",
+  "name": "Snowboarding",
+  "emoji": "🏂",
+  "tag": "SN",
+  "category": "Outdoor & adventure",
+  "drills": [
+    {
+      "id": "basic-stance",
+      "group": "Balance & stance",
+      "name": "Basic riding stance",
+      "alt": "Relaxed, centered position on the board",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Knees and ankles flexed, hips centered between the bindings, shoulders in line with the board, and eyes up where you are going. Stability comes from stacking weight evenly over both feet so small edge adjustments happen from the ankles, not the torso. Every fix a snowboard instructor gives eventually traces back to this shape.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Standing quad stretch",
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Straight, locked knees that turn every bump into a fall.",
+        "Twisting the shoulders open toward the valley instead of staying aligned with the board.",
+        "Staring at the snow directly in front of the nose instead of down the run."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+basic+stance+beginner+tutorial"
+    },
+    {
+      "id": "skating-one-foot",
+      "group": "Balance & stance",
+      "name": "Skating & one-foot riding",
+      "alt": "Moving with the back foot unstrapped",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Ankles",
+      "desc": "Pushing along flats with the back foot and gliding with it rested against the back binding, as you must at every lift line and unload ramp. Balance comes from keeping weight over the strapped front foot while the free leg pushes like a skateboard stride. Confidence here removes the most falls-per-metre part of any beginner day.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Single-leg balance holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing calf stretch",
+        "Ankle circles",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Pushing from the toe side and heel side inconsistently — pick one side and groove it.",
+        "Weight drifting onto the free back foot, which shoots the board out ahead."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+skating+one+foot+riding+tutorial"
+    },
+    {
+      "id": "falling-safely",
+      "group": "Balance & stance",
+      "name": "Falling safely",
+      "alt": "Protecting wrists, head, and tailbone",
+      "level": "Beginner",
+      "muscles": "Core · Forearms · Neck",
+      "desc": "Falling onto forearms and knees when pitched toeside, and onto a rounded back with chin tucked when thrown heelside — never onto straight arms. The protection comes from reflexively making fists, bending the elbows, and letting the big muscles take the hit instead of the wrists. Wrist fractures are snowboarding's signature injury and almost all are this one mistake.",
+      "exercises": [
+        {
+          "name": "Forearm plank",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Neck flexion holds",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Medicine ball forward rolls",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Neck half-circles",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Reaching back with a straight arm on heelside falls — the classic broken wrist.",
+        "Fighting the fall and landing rigid instead of tucking and rolling with it.",
+        "Not tucking the chin, letting the head whip back onto the snow."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+fall+safely+snowboarding"
+    },
+    {
+      "id": "heelside-turn",
+      "group": "Turning & edge control",
+      "name": "Heelside turn",
+      "alt": "Turning on the heel edge",
+      "level": "Beginner",
+      "muscles": "Quads · Tibialis anterior · Glutes",
+      "desc": "Rotating the board across the fall line onto the heel edge by lifting the toes, sitting slightly into an invisible chair, and leading with the front shoulder. Grip comes from constant tibialis and quad tension holding the edge angle while the hips stay over the board. It is usually the first controlled turn a rider owns.",
+      "exercises": [
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Downward dog calf pedal",
+        "Seated hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Sitting so far back that the edge washes out and you slide on your seat.",
+        "Turning by throwing the shoulders instead of steering with the front foot.",
+        "Flat-footed toes that let the edge angle collapse mid-turn."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=heelside+turn+snowboard+beginner+tutorial"
+    },
+    {
+      "id": "toeside-turn",
+      "group": "Turning & edge control",
+      "name": "Toeside turn",
+      "alt": "Turning on the toe edge",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Core",
+      "desc": "Rolling onto the toe edge by pressing the shins into the boot tongues and driving the knees toward the slope, with hips pushed forward over the edge. Hold comes from calf strength and a tall, hip-open posture — bending at the waist kills the grip. Riders fear it because the hill is behind them, which is exactly why the hips must commit forward.",
+      "exercises": [
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Breaking at the waist and sticking the hips out over the heel edge — instant slide-out.",
+        "Looking down the hill over the back shoulder instead of across the turn.",
+        "Not enough shin pressure, so the edge never fully engages."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=toeside+turn+snowboard+beginner+tutorial"
+    },
+    {
+      "id": "linked-turns",
+      "group": "Turning & edge control",
+      "name": "Linked turns & edge transitions",
+      "alt": "Flowing heelside to toeside without stopping",
+      "level": "Intermediate",
+      "muscles": "Quads · Ankles · Core",
+      "desc": "Joining heelside and toeside arcs with a smooth rise-and-roll through the flat base, steering with the front foot while the body crosses over the board. The transition is the vulnerable moment — speed and a committed weight shift carry you through it before the board can catch. Rhythm turns two separate skills into actual snowboarding.",
+      "exercises": [
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing calf stretch",
+        "Lying figure-4",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Rushing the edge change while weight is still back — the classic downhill-edge catch.",
+        "Traversing forever between turns instead of committing into the fall line.",
+        "Staying low and static; without rising to unweight, the board resists the transition."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=linking+turns+snowboard+tutorial"
+    },
+    {
+      "id": "speed-control",
+      "group": "Turning & edge control",
+      "name": "Speed checks & stopping",
+      "alt": "Skidding speed off and stopping hard",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Obliques",
+      "desc": "Pivoting the board across the fall line and feathering the uphill edge to shave speed, or setting it hard for a full spray stop. Control comes from how progressively the edge is applied — grab it all at once and it chatters or hooks. Confident stopping is the license to ride faster everywhere else.",
+      "exercises": [
+        {
+          "name": "Lateral skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Goblet squat pulses",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "Standing quad stretch",
+        "Seated spinal twist",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Slamming the edge in one bite so the board judders and breaks loose.",
+        "Leaning uphill during the stop, sliding out onto a hip.",
+        "Checking speed with the shoulders open, which spins the board past sideways."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+speed+control+stopping+tutorial"
+    },
+    {
+      "id": "carving-basics",
+      "group": "Carving",
+      "name": "Carving basics",
+      "alt": "Clean edge-locked turns with no skid",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "Tilting the board high on edge early in the turn and letting the sidecut cut a single clean line, leaving a pencil trench instead of a skidded smear. The edge is held by strong, progressively loaded legs while the body inclines inside the arc. G-forces build through the belly of the turn, so leg strength is the ceiling on how hard you can carve.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Lateral box step-ups",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 25s"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing IT band stretch",
+        "90/90 hip switch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Pivoting the board at the top of the turn — the carve becomes a skid instantly.",
+        "Not enough edge angle, leaving a wide smeared arc instead of a trench.",
+        "Rigid legs that get bucked when the g-forces load up mid-turn."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=carving+snowboard+technique+tutorial"
+    },
+    {
+      "id": "euro-carve",
+      "group": "Carving",
+      "name": "Euro carve",
+      "alt": "Laid-over full-commitment carve",
+      "level": "Advanced",
+      "muscles": "Glutes · Obliques · Quads",
+      "desc": "An extreme toeside or heelside carve where the body lays out over the snow, sometimes brushing it with a hand or hip, while the edge stays fully locked. It demands maximum edge angle, high entry speed, and lateral core strength to hold the body rigid against the arc. The recovery — extending back up over the board — is as strength-hungry as the layout.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Side plank with hip dips",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 6 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Frog stretch",
+        "Standing IT band stretch",
+        "Cobra stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Laying down before the edge is loaded — the board slides out from under you.",
+        "Entering without enough speed, so the arc collapses at its lowest point.",
+        "Reaching for the snow with the hand instead of letting body angle bring it there."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=euro+carve+snowboard+tutorial"
+    },
+    {
+      "id": "switch-riding",
+      "group": "Freestyle",
+      "name": "Switch riding",
+      "alt": "Riding with your other foot forward",
+      "level": "Intermediate",
+      "muscles": "Quads · Hip rotators · Core",
+      "desc": "Riding and linking turns with your unnatural foot leading, rebuilding stance, steering, and edge feel in mirror image. It exposes every asymmetry in hip mobility and single-leg strength that regular riding hides. Solid switch is the prerequisite for spins, butters, and almost all park progression.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Cable hip rotations",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Pigeon pose",
+        "Standing quad stretch",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Only practicing switch on green runs at crawling speed — it never transfers.",
+        "Twisting the head and shoulders back toward your regular stance mid-turn.",
+        "Weight hanging on the (new) back foot out of fear, making every turn a skid."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=switch+riding+snowboard+tutorial"
+    },
+    {
+      "id": "flat-ground-ollie",
+      "group": "Freestyle",
+      "name": "Ollie",
+      "alt": "Popping the board off flat ground",
+      "level": "Intermediate",
+      "muscles": "Calves · Hamstrings · Core",
+      "desc": "Shifting weight to the tail, loading it like a spring, and popping upward as the front knee lifts so the board snaps level beneath you. Height comes from the tail's rebound plus an aggressive knee tuck — not from jumping alone. It is the pop mechanic behind every jump, side hit, and jib in snowboarding.",
+      "exercises": [
+        {
+          "name": "Broad jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 6",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Seated hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Jumping off both feet at once — no tail load, no pop.",
+        "Leaving the front leg straight so the nose hangs low in the air.",
+        "Popping while leaning back and landing tail-heavy in the backseat."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+ollie+tutorial"
+    },
+    {
+      "id": "butters",
+      "group": "Freestyle",
+      "name": "Butters",
+      "alt": "Pressing and spinning on nose or tail",
+      "level": "Intermediate",
+      "muscles": "Core · Hip flexors · Quads",
+      "desc": "Flexing the board into a nose or tail press and pivoting on it while the other end floats, blending presses, and spins into flowing flat-ground tricks. The press is held by leaning the whole body past the contact point while the core keeps the balance from tipping over the end. Butters build the board control that makes park features feel easy.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Russian twists",
+          "scheme": "3 × 20",
+          "wgerId": 1193,
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Seated spinal twist",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Bending at the waist to press instead of shifting the hips over the nose or tail.",
+        "A timid press that leaves the base flat — the board must visibly flex.",
+        "Spinning with the shoulders alone and letting the board lag then whip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+butter+tricks+tutorial"
+    },
+    {
+      "id": "straight-airs",
+      "group": "Freestyle",
+      "name": "Straight airs off jumps",
+      "alt": "First park jumps, pop to landing",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Riding a jump with a flat base, popping evenly off the lip, holding a compact stacked shape in the air, and extending to absorb the landing on the downslope. Stability comes from matching speed to the jump and keeping shoulders level over the board from takeoff to touchdown. Absorbing with deep knees while staying centered is what makes landings quiet.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Tuck jumps",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Standing calf stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Speed-checking on the takeoff ramp and coming up short onto the knuckle.",
+        "Leaning back off the lip, which sends the board out front in the air.",
+        "Landing with stiff legs instead of folding into the downslope."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=first+snowboard+jumps+straight+air+tutorial"
+    },
+    {
+      "id": "frontside-180",
+      "group": "Freestyle",
+      "name": "Frontside 180",
+      "alt": "Half spin off a jump or ollie",
+      "level": "Advanced",
+      "muscles": "Obliques · Hips · Calves",
+      "desc": "A half rotation initiated by winding the shoulders against the board before takeoff, then releasing the coil through the hips as you pop. The spin comes almost entirely from that pre-wind and a decisive head turn — muscling it mid-air is too late. It lands you riding switch, which is why switch competence comes first.",
+      "exercises": [
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Jump squats with 180 turn",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "No pre-wind, then flailing the arms mid-air to force the rotation.",
+        "Spinning off the heel edge with the weight back and catching on landing.",
+        "Stopping the head halfway instead of turning it through to the new direction."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=frontside+180+snowboard+tutorial"
+    },
+    {
+      "id": "boxes-boardslides",
+      "group": "Freestyle",
+      "name": "Boxes & 50-50s",
+      "alt": "First rail-garden features",
+      "level": "Advanced",
+      "muscles": "Core · Quads · Ankles",
+      "desc": "Riding onto a box dead-straight with a flat base, hips centered, and eyes on the end of the feature, then popping or riding off the far side. Balance comes from a quiet core and soft knees — any edge angle on the slick surface slips the board out instantly. The 50-50 is the gateway to boardslides and all jibbing.",
+      "exercises": [
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Lateral hops over line",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 16",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Ankle circles",
+        "Lying figure-4",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Getting on the box with the board slightly on edge — it shoots sideways immediately.",
+        "Looking down at the feature under your feet instead of at the ride-off.",
+        "Leaning back as the box appears, sliding out onto the back hip."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=snowboard+box+50-50+beginner+park+tutorial"
+    },
+    {
+      "id": "powder-riding",
+      "group": "Powder & terrain",
+      "name": "Powder riding",
+      "alt": "Surfing deep snow",
+      "level": "Advanced",
+      "muscles": "Quads · Core · Back leg hamstrings",
+      "desc": "Riding deep snow with weight shifted slightly toward the tail, steering with the rear foot and a rhythmic bounce that lets the nose rise and fall through the snowpack. Flow comes from bigger, surf-style arcs and patience between turns rather than hard edge sets. The back leg works overtime, which is why powder days finish rear-thigh first.",
+      "exercises": [
+        {
+          "name": "Rear-foot-elevated split squats",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 12",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 60s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Hamstring curl machine",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Seated hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Hard, short edge sets like on groomers — the board stalls and buries.",
+        "Sitting so far back that the rear leg burns out by the third run.",
+        "Stopping in flat, deep sections where restarting means digging."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=powder+snowboarding+technique+tutorial"
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "id": "powerlifting",
+  "name": "Powerlifting",
+  "emoji": "🏋️",
+  "tag": "PL",
+  "category": "Strength & fitness",
+  "drills": [
+    {
+      "id": "breathing-and-bracing",
+      "group": "Bracing & setup",
+      "name": "360° breathing and bracing",
+      "alt": "Filling the belly and locking the core before a heavy lift",
+      "level": "Beginner",
+      "muscles": "Diaphragm · Obliques · Transverse abdominis",
+      "desc": "Bracing turns the torso into a rigid pressurized cylinder: a big diaphragmatic breath into the belly and sides, then squeezing the abs down onto it like preparing for a punch. Intra-abdominal pressure protects the spine and transfers leg drive into the bar without leaks. Every heavy attempt starts with this breath, belt or no belt.",
+      "exercises": [
+        {
+          "name": "Dead bug with band press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Weighted front plank",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Heavy suitcase carries",
+          "scheme": "3 × 30 m / side"
+        },
+        {
+          "name": "Ab wheel rollouts",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Child's pose breathing",
+        "Thoracic foam-roller extension",
+        "Supine 90/90 breathing"
+      ],
+      "mistakes": [
+        "Shrugging a chest breath instead of expanding the belly and sides 360 degrees.",
+        "Wearing the belt loose as decoration instead of breathing into it.",
+        "Losing the brace mid-rep by exhaling at the sticking point."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=360%C2%B0%20breathing%20and%20bracing%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "unrack-and-walkout",
+      "group": "Bracing & setup",
+      "name": "Unrack and walkout",
+      "alt": "Taking the bar out of the rack with minimal steps",
+      "level": "Beginner",
+      "muscles": "Upper back · Core · Glutes",
+      "desc": "A heavy squat can be lost before the first rep by a sloppy walkout. The bar is wedged into a tight upper back, unracked with both hips under it, and settled in exactly three steps — one back, one out, one adjust. Practicing walkouts with supra-maximal holds builds the confidence and stiffness that make openers feel light.",
+      "exercises": [
+        {
+          "name": "Heavy barbell walkouts",
+          "scheme": "3 × 10s hold"
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 60s",
+          "wgerId": 1307
+        },
+        {
+          "name": "Goblet squat holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Thoracic foam-roller extension",
+        "Lat stretch on rack",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Unracking with staggered feet and one hip taking the whole load.",
+        "Taking five or six wandering steps and wasting the brace before the rep starts.",
+        "Rushing the descent before the bar has stopped swinging."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=unrack%20and%20walkout%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "high-bar-squat",
+      "group": "Squat",
+      "name": "High-bar back squat",
+      "alt": "Upright squat with the bar on the traps",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "The high-bar squat sits the bar on the upper traps and keeps the torso upright, loading the quads through a deep knee bend. It is the foundational pattern for learning depth, knee tracking, and bracing before specializing. Drive the floor apart, keep the whole foot planted, and stand up through the mid-foot.",
+      "exercises": [
+        {
+          "name": "Barbell high-bar squats",
+          "scheme": "5 × 5"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Ankle dorsiflexion wall stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Knees caving inward out of the hole instead of tracking over the toes.",
+        "Cutting depth as the weight gets heavy — below parallel or it doesn't count.",
+        "Rising hips-first and turning the squat into a good morning."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=high-bar%20back%20squat%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "low-bar-squat",
+      "group": "Squat",
+      "name": "Low-bar competition squat",
+      "alt": "Hip-dominant squat with the bar on the rear delts",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hamstrings · Lower back · Quads",
+      "desc": "The low-bar squat shelves the bar across the rear delts, shortening the lever to the hips and recruiting more posterior chain — which is why most lifters squat more this way. It demands shoulder mobility to hold the shelf and a forward torso angle held rigid by the erectors. Sit back and down, hit depth, and drive the hips up and forward together.",
+      "exercises": [
+        {
+          "name": "Barbell low-bar squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Belt squat",
+          "scheme": "3 × 10",
+          "wgerId": 1935
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Lat stretch on rack",
+        "Couch stretch",
+        "Seated hamstring stretch",
+        "Banded shoulder dislocates"
+      ],
+      "mistakes": [
+        "Placing the bar too low and turning every set into elbow and bicep pain.",
+        "Letting the chest drop faster than the hips out of the hole.",
+        "Losing mid-foot balance forward onto the toes at heavy weights."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=low-bar%20competition%20squat%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "pause-squat",
+      "group": "Squat",
+      "name": "Pause squat",
+      "alt": "Squat with a dead stop in the bottom",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Pausing two to three seconds at depth deletes the stretch reflex, forcing raw strength and a perfect brace to escape the hole. It builds bottom-position confidence, teaches exact competition depth, and exposes any softness in the trunk. The pause is dead still — no sinking, no bouncing — then a violent drive up.",
+      "exercises": [
+        {
+          "name": "Barbell pause squats",
+          "scheme": "4 × 3, 3s pause"
+        },
+        {
+          "name": "Goblet squat with pause",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Leg press with pause",
+          "scheme": "3 × 10",
+          "wgerId": 1515
+        },
+        {
+          "name": "Ab wheel rollouts",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Pigeon pose",
+        "Ankle dorsiflexion wall stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Relaxing during the pause and getting folded on the way up.",
+        "Pausing above depth, practicing exactly the wrong position.",
+        "Loading it like a regular squat — cut the weight 15-20 percent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pause%20squat%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "pin-squat-sticking-point",
+      "group": "Squat",
+      "name": "Pin squat",
+      "alt": "Squatting from a dead stop on safety pins at the sticking point",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Erectors",
+      "desc": "Pin squats set the bar on safety pins at your personal sticking point — usually just above parallel — and demand a full-tension start from a dead stop. With no elastic rebound, only concentric strength and a re-set brace move the bar. It is brutally specific medicine for the exact height where your squats die.",
+      "exercises": [
+        {
+          "name": "Pin squats at sticking point",
+          "scheme": "5 × 2"
+        },
+        {
+          "name": "Barbell box squats",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Deep squat hold",
+        "Seated hamstring stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Crashing the bar onto the pins instead of lowering under control.",
+        "Setting the pins at a random height rather than your actual sticking point.",
+        "Letting the hips shoot up first off the pins, dumping the load onto the back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pin%20squat%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "bench-setup-arch",
+      "group": "Bench press",
+      "name": "Bench setup and arch",
+      "alt": "Building a tight platform of upper back and arch",
+      "level": "Beginner",
+      "muscles": "Upper back · Lats · Glutes",
+      "desc": "A big bench starts before the bar moves: shoulder blades pinched down and back, upper back drilled into the pad, a thoracic arch, and feet rooted for leg drive. The setup shortens the bar path and turns the body into a stable pressing platform instead of a wobbling one. Grip width and eye position under the bar should be identical every rep.",
+      "exercises": [
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Scapular retraction holds on bench",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Glute bridge",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Thoracic foam-roller extension",
+        "Couch stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Losing the shoulder-blade pinch during the handoff and pressing from loose shoulders.",
+        "Feet dancing mid-set instead of staying screwed into the floor.",
+        "Butt lifting off the bench when the leg drive kicks in — an automatic red light."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bench%20setup%20and%20arch%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "competition-pause-bench",
+      "group": "Bench press",
+      "name": "Competition pause bench",
+      "alt": "Bench press with a motionless pause on the chest",
+      "level": "Intermediate",
+      "muscles": "Chest · Front delts · Triceps · Lats",
+      "desc": "In competition the bar must sit motionless on the chest until the press command, so training the pause is non-negotiable. The bar stays 'alive' during the pause — lats loaded, full-body tension held — then explodes off the chest in a slight arc back over the shoulders. Touch position on the lower sternum should be the same centimeter every rep.",
+      "exercises": [
+        {
+          "name": "Paused barbell bench press",
+          "scheme": "4 × 4, 1-2s pause",
+          "wgerId": 185,
+          "imageUrl": "https://wger.de/media/exercise-images/100/Decline-bench-press-1.png"
+        },
+        {
+          "name": "Dumbbell bench press",
+          "scheme": "3 × 10",
+          "wgerId": 186
+        },
+        {
+          "name": "Weighted dips",
+          "scheme": "3 × 8",
+          "wgerId": 194,
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+        },
+        {
+          "name": "Barbell rows",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Overhead triceps extensions",
+          "scheme": "3 × 12",
+          "wgerId": 1519,
+          "imageUrl": "https://wger.de/media/exercise-images/1519/fab7f641-27d4-40b5-8edd-1a0a137bfd94.gif"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Triceps overhead stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Sinking the bar into a relaxed chest and losing all stored tension.",
+        "Heaving the chest up to meet the bar, shortening the pause illegally.",
+        "Only training touch-and-go, then finding paused singles feel 10 kg heavier."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=competition%20pause%20bench%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "close-grip-lockout",
+      "group": "Bench press",
+      "name": "Close-grip bench for lockout",
+      "alt": "Narrow-grip pressing to fix a weak finish",
+      "level": "Intermediate",
+      "muscles": "Triceps · Chest · Front delts",
+      "desc": "If your bench dies in the top half, the triceps are the usual suspect, and the close-grip bench is the fix. Hands come in to just inside shoulder width, elbows track closer to the ribs, and the triceps do the heavy lifting through lockout. It carries over directly while sparing the shoulders.",
+      "exercises": [
+        {
+          "name": "Close-grip bench press",
+          "scheme": "4 × 6",
+          "wgerId": 76,
+          "imageUrl": "https://wger.de/media/exercise-images/88/Narrow-grip-bench-press-1.png"
+        },
+        {
+          "name": "Board press or Spoto press",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Cable triceps pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        },
+        {
+          "name": "JM press",
+          "scheme": "3 × 8",
+          "wgerId": 1302
+        },
+        {
+          "name": "Diamond push-ups",
+          "scheme": "3 × 12",
+          "wgerId": 386
+        }
+      ],
+      "stretches": [
+        "Triceps overhead stretch",
+        "Wrist flexor stretch",
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Gripping so narrow the wrists cave — just inside shoulder width is enough.",
+        "Flaring the elbows early and turning it into a wide bench with a narrow grip.",
+        "Bouncing reps off the chest, skipping the range the triceps needed to train."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=close-grip%20bench%20for%20lockout%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "bench-leg-drive",
+      "group": "Bench press",
+      "name": "Leg drive",
+      "alt": "Pushing through the floor to power the press",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Upper back",
+      "desc": "Leg drive pushes the floor away horizontally, wedging the lifter tighter into the arch and adding whole-body force to the press without the hips leaving the bench. Timed at the press command, it converts the bench from an arm lift into a full-body lift. The cue is 'push yourself away from your knees, up the bench, into your traps'.",
+      "exercises": [
+        {
+          "name": "Barbell bench press with leg-drive focus",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Glute bridge with pause",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Feet-up bench press (contrast work)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Thoracic foam-roller extension",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Driving upward instead of horizontally, lifting the glutes off the pad.",
+        "Firing the legs before the press command instead of with it.",
+        "Setting the feet so far back the position can't be held for a full pause."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=leg%20drive%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "conventional-deadlift-setup",
+      "group": "Deadlift",
+      "name": "Conventional deadlift and wedge",
+      "alt": "Pulling from the floor with hips wedged behind the bar",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Glutes · Erectors · Lats · Grip",
+      "desc": "The conventional deadlift is a push-then-pull: wedge the hips down against a bar pinned to the body by the lats, take the slack out until the plates click, then push the floor away. Power comes from the hips and legs with the spine held rigid as a lever — never from yanking with the back. The bar drags up the shins the entire way.",
+      "exercises": [
+        {
+          "name": "Conventional barbell deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Barbell rows",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Seated forward fold",
+        "Hip flexor stretch",
+        "Lat stretch on rack",
+        "Glute figure-4 stretch"
+      ],
+      "mistakes": [
+        "Jerking the slack out of the bar and rounding at liftoff.",
+        "Letting the bar drift forward away from the shins, doubling the lever arm.",
+        "Squatting the hips too low and turning the pull into a stalled leg press."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=conventional%20deadlift%20and%20wedge%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "sumo-deadlift",
+      "group": "Deadlift",
+      "name": "Sumo deadlift",
+      "alt": "Wide-stance pull with an upright torso",
+      "level": "Intermediate",
+      "muscles": "Glutes · Adductors · Quads · Erectors",
+      "desc": "The sumo deadlift takes a wide stance with toes out and hands inside the knees, shortening the range and keeping the torso more vertical. Its power comes from spreading the floor with the adductors and glutes, and its make-or-break moment is patience off the floor — the bar breaks slowly, then flies. Hip structure decides who thrives on it, so test it honestly against conventional.",
+      "exercises": [
+        {
+          "name": "Sumo barbell deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Sumo-stance goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Machine adductions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Frog stretch",
+        "Butterfly stretch",
+        "90/90 hip switch",
+        "Standing straddle fold",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Ripping at the bar before the knees are pushed out over the toes.",
+        "Letting the hips shoot up and turning it into a stiff-leg pull from a wide stance.",
+        "Soft lockout — hips must come through with glutes finishing, no hitching."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sumo%20deadlift%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "deficit-deadlift",
+      "group": "Deadlift",
+      "name": "Deficit deadlift",
+      "alt": "Pulling while standing on a low platform",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Quads · Erectors",
+      "desc": "Standing on a 2-5 cm platform lengthens the pull and makes the weakest inch — the break off the floor — even harder. Deficits build leg drive and positional strength at the bottom, so the normal start height feels shallow by comparison. Mobility must be earned first: the flat-back setup gets harder as the deficit grows.",
+      "exercises": [
+        {
+          "name": "Deficit deadlifts on 25 kg plate",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Snatch-grip deadlifts",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Seated forward fold",
+        "Standing hamstring stretch",
+        "Deep squat hold",
+        "Glute figure-4 stretch"
+      ],
+      "mistakes": [
+        "Using a deficit so tall the lower back rounds just to reach the bar.",
+        "Loading it like a full deadlift instead of dropping 10-15 percent.",
+        "Losing lat tension at the longer start and letting the bar swing forward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=deficit%20deadlift%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "block-pull-lockout",
+      "group": "Deadlift",
+      "name": "Block pulls",
+      "alt": "Pulling from raised blocks to overload the lockout",
+      "level": "Intermediate",
+      "muscles": "Glutes · Erectors · Traps · Grip",
+      "desc": "Elevating the bar to just below the knee isolates the lockout: the hips-through, glutes-squeezed finish where deadlifts get grinded or hitched. Blocks allow supra-maximal loads that toughen the grip, traps, and back while rehearsing the final wedge. Pair them with full pulls, not instead of them.",
+      "exercises": [
+        {
+          "name": "Block pulls below the knee",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Heavy barbell shrugs",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Timed barbell holds",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor stretch",
+        "Upper trap stretch",
+        "Forearm flexor stretch"
+      ],
+      "mistakes": [
+        "Hitching the bar up the thighs — practice a clean, continuous lockout.",
+        "Leaning back so far at the top the knees soften and the lift gets red-lighted.",
+        "Living on blocks until strength off the floor quietly disappears."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=block%20pulls%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "competition-commands",
+      "group": "Competition skills",
+      "name": "Competition commands",
+      "alt": "Lifting to the referee's start, press, and rack calls",
+      "level": "Intermediate",
+      "muscles": "Full body · Focus",
+      "desc": "Meets are lifted on command: 'squat' and 'rack' for the squat, 'start', 'press', and 'rack' on bench, 'down' for the deadlift. Jumping a command turns a good lift into three red lights, so the last training weeks should rehearse every heavy set with a partner calling them. The skill is holding position, tight and patient, for as long as the referee wants.",
+      "exercises": [
+        {
+          "name": "Paused bench press with partner commands",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Squat with 2s stand-up hold",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Deadlift with 3s lockout hold",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Weighted front plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Full-body foam rolling",
+        "Doorway pec stretch",
+        "Deep squat hold",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Racking the bench bar the instant the elbows lock instead of waiting for 'rack'.",
+        "Dropping the deadlift from the top before the 'down' command.",
+        "Never training the wait, so heavy holds at the meet feel twice as long."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=competition%20commands%20powerlifting%20technique%20tutorial"
+    },
+    {
+      "id": "attempt-selection-peaking",
+      "group": "Competition skills",
+      "name": "Attempt selection and openers",
+      "alt": "Choosing nine attempts that build a total",
+      "level": "Advanced",
+      "muscles": "Full body · Strategy",
+      "desc": "A meet is nine attempts, and the total is built by making them: openers at a weight you can triple on your worst day, seconds near a training PR, thirds decided by how the day is going. Practice openers in the final weeks until they move like warm-ups, and script the plan with your handler before the platform. Bombing out on ego openers is powerlifting's oldest self-inflicted wound.",
+      "exercises": [
+        {
+          "name": "Opener singles at RPE 7",
+          "scheme": "3 × 1"
+        },
+        {
+          "name": "Competition-command squat singles",
+          "scheme": "2 × 1"
+        },
+        {
+          "name": "Paused bench singles",
+          "scheme": "2 × 1"
+        },
+        {
+          "name": "Deadlift singles at 90%",
+          "scheme": "2 × 1"
+        }
+      ],
+      "stretches": [
+        "Full-body foam rolling",
+        "Cat-cow",
+        "Couch stretch",
+        "Child's pose breathing"
+      ],
+      "mistakes": [
+        "Opening too heavy and chasing the meet instead of building it.",
+        "Making big jumps after a grinder second attempt.",
+        "Changing equipment, grip, or stance on the platform that was never used in training."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=attempt%20selection%20and%20openers%20powerlifting%20technique%20tutorial"
+    }
+  ]
+}

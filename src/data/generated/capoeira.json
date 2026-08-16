@@ -1,0 +1,720 @@
+{
+  "id": "capoeira",
+  "name": "Capoeira",
+  "emoji": "🕺",
+  "tag": "CP",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "ginga",
+      "group": "Movimentação",
+      "name": "Ginga",
+      "alt": "The fundamental sway",
+      "level": "Beginner",
+      "muscles": "Legs · Hips · Core",
+      "desc": "Capoeira's constant base movement: a triangular back-and-forth step that keeps the body swinging, never static, with the arms guarding the face in rhythm. Every attack, escape and floreio launches from somewhere inside the ginga. It is disguise and engine at once — the game's heartbeat.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Bodyweight squats",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Standing quad stretch",
+        "Standing calf stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Stepping mechanically to a count instead of flowing with the rhythm of the berimbau.",
+        "Dropping the guard arm away from the face during the sway.",
+        "Staying tall and stiff — the ginga lives in bent knees and loose hips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+ginga+tutorial+basics"
+    },
+    {
+      "id": "negativa",
+      "group": "Movimentação",
+      "name": "Negativa",
+      "alt": "Low denial position",
+      "level": "Beginner",
+      "muscles": "Quads · Core · Wrists",
+      "desc": "Dropping low onto one bent leg with the other extended, torso close to the floor and one hand posted — denying the opponent a target while staying mobile. From negativa the capoeirista sweeps, escapes or rolls away. It teaches the floor as home, not as danger.",
+      "exercises": [
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Deep squat hold",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Push-up hold at bottom",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Wrist rocks on all fours",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Wrist flexor stretch",
+        "Hamstring stretch seated",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Sitting the weight fully on the floor instead of staying loaded and ready to move.",
+        "Letting the extended leg go limp rather than active for a sweep.",
+        "Head down watching the floor instead of the opponent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+negativa+tutorial"
+    },
+    {
+      "id": "role",
+      "group": "Movimentação",
+      "name": "Rolê",
+      "alt": "Ground rotation escape",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "A low rotating transition that carries the body around its own axis on hands and feet, usually out of negativa or an esquiva, always facing the opponent. It's how capoeiristas travel across the roda without standing up into an attack. Smooth weight transfer between hands and feet is the whole skill.",
+      "exercises": [
+        {
+          "name": "Bear crawls",
+          "scheme": "3 × 15m"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 12",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cat-cow",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Turning the back to the opponent mid-rotation.",
+        "Standing up out of the movement instead of staying low and connected.",
+        "Collapsing through soft wrists — the arms must be structural."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+role+movement+tutorial"
+    },
+    {
+      "id": "cocorinha",
+      "group": "Esquivas",
+      "name": "Cocorinha",
+      "alt": "Squatting escape",
+      "level": "Beginner",
+      "muscles": "Quads · Ankles · Core",
+      "desc": "Dropping into a full deep squat on the heels, one arm shielding the head, to let a high kick pass overhead. The simplest esquiva — but it demands the ankle and hip mobility to sit at the very bottom of a squat, balanced and relaxed. Recover into ginga or answer with a sweep.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Deep squat hold",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Ankle dorsiflexion wall rocks",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1804,
+          "imageUrl": "https://wger.de/media/exercise-images/1804/691c69b8-c3db-4177-8435-dd3a97d88542.webp"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Ankle dorsiflexion wall stretch",
+        "Standing calf stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Rising onto the toes with heels off the floor — no balance, no base.",
+        "Ducking the head forward instead of dropping the hips straight down.",
+        "Forgetting the guarding arm above the head."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+cocorinha+esquiva+tutorial"
+    },
+    {
+      "id": "esquiva-lateral",
+      "group": "Esquivas",
+      "name": "Esquiva lateral",
+      "alt": "Side escape",
+      "level": "Beginner",
+      "muscles": "Legs · Obliques · Core",
+      "desc": "Folding the torso sideways and down over a bent front leg as a kick sweeps through where the head was, one hand posted or guarding. Esquivas are capoeira's answer instead of blocking: yield, vanish, reappear with an attack. The eyes never leave the opponent through the whole dip.",
+      "exercises": [
+        {
+          "name": "Side lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Side planks",
+          "scheme": "3 × 40s",
+          "wgerId": 580
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        }
+      ],
+      "stretches": [
+        "Standing side bend",
+        "Adductor rock-backs",
+        "Seated straddle",
+        "Hip flexor lunge stretch"
+      ],
+      "mistakes": [
+        "Bending only at the waist while the legs stay straight and rooted.",
+        "Looking at the floor mid-esquiva and losing the opponent.",
+        "Escaping without a plan to counter — an esquiva should load the reply."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+esquiva+lateral+tutorial"
+    },
+    {
+      "id": "esquiva-baixa",
+      "group": "Esquivas",
+      "name": "Esquiva baixa",
+      "alt": "Low diagonal escape",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "A deep diagonal escape: one leg lunges long while the torso folds low over the bent leg, hand posted, sliding the body entirely under a spinning kick. It's the esquiva that pairs with meia lua de compasso in the endless question-and-answer of the game. Strong hips make it an ambush position, not a retreat.",
+      "exercises": [
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Deep squat hold",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Couch stretch",
+        "Hamstring stretch seated"
+      ],
+      "mistakes": [
+        "Staying too high so the kick still clips the head or shoulder.",
+        "Collapsing onto the posted hand instead of loading the legs.",
+        "Freezing at the bottom rather than flowing into rolê or a counter."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+esquiva+baixa+tutorial"
+    },
+    {
+      "id": "meia-lua-de-frente",
+      "group": "Golpes",
+      "name": "Meia lua de frente",
+      "alt": "Front half-moon kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Core · Hamstrings",
+      "desc": "An inside-to-outside crescent kick sweeping across the opponent's face with a straight leg. The leg swings like a pendulum from the hip while the torso counterbalances — it probes distance and forces esquivas without huge commitment. Capoeira's first kick, and its politest question.",
+      "exercises": [
+        {
+          "name": "Cable hip flexor kicks",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Standing straight-leg raises",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 378
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        }
+      ],
+      "stretches": [
+        "Hamstring stretch on rack",
+        "Seated straddle",
+        "Standing quad stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Bending the kicking leg and turning the crescent into a weak flick.",
+        "Kicking so hard you spin off balance out of the ginga.",
+        "Dropping both arms while the leg is in the air."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+meia+lua+de+frente+tutorial"
+    },
+    {
+      "id": "bencao",
+      "group": "Golpes",
+      "name": "Benção",
+      "alt": "Blessing — front push kick",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "A straight push kick driving the flat of the foot into the opponent's chest or hips — the 'blessing' delivered with the sole. Chamber the knee high, then extend hips and leg together, pushing through the target rather than tapping it. Often thrown as the answer when an opponent crowds the ginga.",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Cable knee drives",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Step-ups with knee drive",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge stretch",
+        "Hamstring stretch on rack",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Slapping with the toes instead of pushing through the sole of the foot.",
+        "Skipping the knee chamber and telegraphing a slow rising kick.",
+        "Leaning so far back the kick has no forward drive."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+bencao+kick+tutorial"
+    },
+    {
+      "id": "queixada",
+      "group": "Golpes",
+      "name": "Queixada",
+      "alt": "Outside crescent to the jaw",
+      "level": "Intermediate",
+      "muscles": "Hips · Obliques · Hamstrings",
+      "desc": "An outside-to-inside crescent aimed at the chin ('queixo'), launched after a step-across that coils the hips. The torso twists first and the straight leg follows, whipping across the target line. Its beauty is the disguise — the preparatory step looks like simple ginga until the leg is already airborne.",
+      "exercises": [
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Lateral med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "90/90 hip switch",
+        "Hamstring stretch on rack",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Kicking from a square stance without the crossing step that loads the hips.",
+        "Bending the leg mid-arc and losing the whip.",
+        "Landing heavy and stuck instead of flowing back into ginga."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+queixada+kick+tutorial"
+    },
+    {
+      "id": "armada",
+      "group": "Golpes",
+      "name": "Armada",
+      "alt": "Spinning outside crescent kick",
+      "level": "Intermediate",
+      "muscles": "Core · Hips · Calves",
+      "desc": "A full spinning crescent: the body rotates over the support leg, the head whips around to re-spot the target, and the straight leg arrives with all the momentum of the turn. Power comes from the coiled spin, not the leg — the kick is simply where the rotation exits. The signature kick of the roda.",
+      "exercises": [
+        {
+          "name": "Cable rotational chops",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Standing quad stretch",
+        "Lying spinal twist",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Spinning without spotting — the head must turn first to find the target.",
+        "Leaning the torso away and dumping the kick’s height.",
+        "Kicking with a bent leg so the crescent loses reach and snap."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+armada+kick+tutorial"
+    },
+    {
+      "id": "martelo",
+      "group": "Golpes",
+      "name": "Martelo",
+      "alt": "Hammer roundhouse kick",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Core",
+      "desc": "Capoeira's roundhouse: knee chambers across, support foot pivots, and the instep snaps into ribs or head like a hammer blow. Unlike the crescents it strikes with committed hip rotation — this is the kick capoeiristas bring to crosstraining. Retract as fast as it fires to stay inside the game's flow.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Lying figure-4",
+        "Standing quad stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Support foot doesn’t pivot, choking the hip rotation.",
+        "Striking with the toes instead of the instep.",
+        "Leaving the leg extended after impact instead of snapping it back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+martelo+kick+tutorial"
+    },
+    {
+      "id": "meia-lua-de-compasso",
+      "group": "Golpes",
+      "name": "Meia lua de compasso",
+      "alt": "Compass half-moon — spinning heel kick",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Core",
+      "desc": "Capoeira's most iconic strike: hands drop to the floor between the legs, the head ducks through, and the body spins like a compass while the heel scythes at head height. The grounded hands make it stable, deceptive and brutally powerful. It flows straight out of esquiva baixa, attack hidden inside defense.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "4 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cable hip extensions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Push-up to downward dog",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Seated straddle",
+        "Hamstring stretch on rack",
+        "90/90 hip switch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Looking at the floor instead of sighting the target between the legs.",
+        "Bending the kicking leg — the heel must travel on a long, straight arc.",
+        "Placing the hands too far from the feet, stalling the spin."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+meia+lua+de+compasso+tutorial"
+    },
+    {
+      "id": "au",
+      "group": "Floreios",
+      "name": "Aú",
+      "alt": "Capoeira cartwheel",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Wrists",
+      "desc": "The cartwheel of the roda — slower and lower than a gymnast's, elbows soft, head turned to watch the opponent throughout. The aú travels, escapes and baits, and in the game it's often thrown with bent legs ready to kick from upside down. Shoulder stability and confident wrists are its foundation.",
+      "exercises": [
+        {
+          "name": "Pike handstand hold on box",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Side planks with hip lift",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Wrist push-up rocks",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Shoulder wall slides",
+        "Seated straddle",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Throwing the legs over fast and blind instead of controlled and watching the game.",
+        "Bending at the hips so the aú becomes a low hop, not an inversion.",
+        "Fingers pointed inward, straining the wrists on landing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+au+cartwheel+tutorial"
+    },
+    {
+      "id": "queda-de-rins",
+      "group": "Floreios",
+      "name": "Queda de rins",
+      "alt": "Fall onto the kidneys — elbow balance",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Triceps",
+      "desc": "A sideways balance where the body folds onto one elbow tucked into the waist, head and hand posted, legs floating free. It's both an escape under kicks and a gateway to inverted transitions. The elbow shelf takes the weight — arm strength matters less than knowing where to stack the hips.",
+      "exercises": [
+        {
+          "name": "Crow pose holds",
+          "scheme": "3 × 15s"
+        },
+        {
+          "name": "Dips on bench",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Side planks",
+          "scheme": "3 × 40s",
+          "wgerId": 580
+        },
+        {
+          "name": "Hollow-body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Wrist push-up rocks",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Triceps overhead stretch",
+        "Child’s pose",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Elbow floating away from the hip instead of digging into the waist as a shelf.",
+        "Holding the breath and going rigid — the balance needs relaxed adjustment.",
+        "Dropping the head instead of posting it as the third point of support."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+queda+de+rins+tutorial"
+    },
+    {
+      "id": "bananeira",
+      "group": "Floreios",
+      "name": "Bananeira",
+      "alt": "Capoeira handstand",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Forearms",
+      "desc": "The capoeira handstand: held with the head up and eyes on the opponent, legs often bent or split, ready to descend into a kick or aú. Unlike gymnastics the line matters less than the awareness — it's a lookout post, not a pose. Builds the inverted confidence every floreio depends on.",
+      "exercises": [
+        {
+          "name": "Wall handstand holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Pike push-ups",
+          "scheme": "3 × 8",
+          "wgerId": 454,
+          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png"
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Shoulder wall slides",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Tucking the chin to the chest and losing sight of the game.",
+        "Banana-backing with flared ribs instead of bracing the core.",
+        "Fingers passive — grip the floor and steer the balance with the fingertips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+bananeira+handstand+tutorial"
+    },
+    {
+      "id": "macaco",
+      "group": "Floreios",
+      "name": "Macaco",
+      "alt": "Monkey flip — back walkover from squat",
+      "level": "Advanced",
+      "muscles": "Shoulders · Back · Legs",
+      "desc": "From a low squat, one hand reaches back to the floor and the legs explode overhead in a whipping backward rotation — part back-walkover, part flip. The macaco demands explosive hips, a mobile thoracic spine and total trust in one posting arm. Land it soft and it flows straight back into ginga.",
+      "exercises": [
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Bridge push-ups",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Single-arm overhead dumbbell press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1968,
+          "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png"
+        },
+        {
+          "name": "Hollow-body rocks",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Thoracic extension over foam roller",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Hip flexor lunge stretch"
+      ],
+      "mistakes": [
+        "Reaching back timidly with no leg drive — hesitation stalls the rotation mid-air.",
+        "Throwing the head back first instead of leading with the hips.",
+        "Landing stiff-legged and jarring the knees instead of flowing out."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=capoeira+macaco+tutorial"
+    }
+  ]
+}

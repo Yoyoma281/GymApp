@@ -6,6 +6,173 @@
   "category": "Striking arts",
   "drills": [
     {
+      "id": "kiba-dachi",
+      "group": "Stances & footwork",
+      "name": "Kiba-dachi hold",
+      "alt": "Horse stance endurance",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Adductors",
+      "desc": "A static wide stance held with thighs near parallel. Builds the leg endurance and rooted posture every karate technique sits on.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 20",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Butterfly stretch",
+        "Frog stretch"
+      ],
+      "mistakes": [
+        "Knees caving inward under fatigue.",
+        "Leaning the torso forward instead of sitting down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kiba+dachi+horse+stance"
+    },
+    {
+      "id": "zenkutsu-dachi-stepping",
+      "group": "Stances & footwork",
+      "name": "Zenkutsu-dachi stepping",
+      "alt": "Front stance advancing drill",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Hip flexors",
+      "desc": "Stepping forward and back through the long front stance while keeping the head level and hips square. The drive comes from the rear leg pushing the hips forward; the front knee stays stacked over the toes. This stepping pattern is the chassis under every basic punch and block.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Rear-foot elevated hip flexor march",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1960
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Sled push",
+          "scheme": "4 × 20 m",
+          "wgerId": 1523
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Standing calf stretch",
+        "Seated glute stretch"
+      ],
+      "mistakes": [
+        "Bobbing up and down between steps instead of gliding at one height.",
+        "Front knee drifting past or inside the toes.",
+        "Rear heel lifting, which disconnects the drive from the floor."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=zenkutsu+dachi+stepping+tutorial"
+    },
+    {
+      "id": "tai-sabaki",
+      "group": "Stances & footwork",
+      "name": "Tai-sabaki",
+      "alt": "Body shifting / evasive footwork",
+      "level": "Intermediate",
+      "muscles": "Calves · Glutes · Core",
+      "desc": "Angular body shifting — sliding off the attack line while staying in range to counter. The skill is repositioning the whole body as one unit with short, flat steps rather than hopping. Good tai-sabaki turns defense and offense into the same motion.",
+      "exercises": [
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Pallof press with lateral step",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "3 × 2 min",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "90/90 hip switch",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Crossing the feet mid-shift and losing base.",
+        "Moving straight backward instead of off the line at an angle.",
+        "Rising tall during the shift, which telegraphs and slows the counter."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tai+sabaki+karate+footwork+tutorial"
+    },
+    {
+      "id": "mae-geri",
+      "group": "Kicks",
+      "name": "Mae-geri",
+      "alt": "Front snap kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads",
+      "desc": "A linear snap kick driven by a fast knee lift and extension, striking with the ball of the foot. Speed of the chamber decides the power.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Ankle dorsiflexion raises",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Leaning back excessively instead of driving hips forward.",
+        "Slow retraction — leaves the leg exposed to catches."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mae+geri+tutorial"
+    },
+    {
       "id": "mawashi-geri",
       "group": "Kicks",
       "name": "Mawashi-geri",
@@ -53,45 +220,141 @@
       "videoUrl": "https://www.youtube.com/results?search_query=mawashi+geri+tutorial"
     },
     {
-      "id": "mae-geri",
+      "id": "yoko-geri-kekomi",
       "group": "Kicks",
-      "name": "Mae-geri",
-      "alt": "Front snap kick",
-      "level": "Beginner",
-      "muscles": "Hip flexors · Quads",
-      "desc": "A linear snap kick driven by a fast knee lift and extension, striking with the ball of the foot. Speed of the chamber decides the power.",
+      "name": "Yoko-geri kekomi",
+      "alt": "Side thrust kick",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hips · Obliques",
+      "desc": "A piercing side kick driven with the heel and blade of the foot, hips stacked over the support leg. Power comes from chambering the knee across the body and thrusting the hip through the target in a straight line. The torso counterbalances but the eyes stay on the target.",
       "exercises": [
         {
-          "name": "Hanging knee raises",
-          "scheme": "3 × 12"
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
         },
         {
-          "name": "Walking lunges",
+          "name": "Side-lying leg raises",
+          "scheme": "3 × 15 / side",
+          "wgerId": 377,
+          "imageUrl": "https://wger.de/media/exercise-images/125/Leg-raises-2.png"
+        },
+        {
+          "name": "Single-leg leg press",
           "scheme": "3 × 10 / leg",
-          "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "wgerId": 1515
         },
         {
-          "name": "Leg extensions",
-          "scheme": "3 × 12",
-          "wgerId": 369,
-          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+          "name": "Side plank with top-leg raise",
+          "scheme": "3 × 30s / side"
         },
         {
-          "name": "Ankle dorsiflexion raises",
-          "scheme": "3 × 15"
+          "name": "Banded lateral walks",
+          "scheme": "3 × 12 / direction"
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Calf wall stretch"
+        "Seated straddle",
+        "Standing side split slide",
+        "Lying figure-4",
+        "Cossack squat hold"
       ],
       "mistakes": [
-        "Leaning back excessively instead of driving hips forward.",
-        "Slow retraction — leaves the leg exposed to catches."
+        "Kicking with the flat of the foot or toes instead of heel and blade.",
+        "Hips left behind the kick, turning the thrust into a weak push.",
+        "No pivot of the support foot, which blocks hip turnover and torques the knee."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=mae+geri+tutorial"
+      "videoUrl": "https://www.youtube.com/results?search_query=yoko+geri+kekomi+tutorial"
+    },
+    {
+      "id": "ushiro-geri",
+      "group": "Kicks",
+      "name": "Ushiro-geri",
+      "alt": "Back kick",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Core",
+      "desc": "A straight thrusting kick delivered backward with the heel, usually after a half-turn. The strongest kick in karate because it recruits the entire posterior chain in a straight line, but it demands looking over the shoulder before firing. Turn, spot, thrust, recover — never spin blind.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Cable glute kickbacks",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Reverse sled drag",
+          "scheme": "4 × 20 m"
+        },
+        {
+          "name": "Bird dog with band",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Lying spinal twist",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Spinning without spotting the target over the shoulder first.",
+        "Kicking in an arc like a turning kick instead of thrusting straight back.",
+        "Over-rotating after impact and giving up the back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ushiro+geri+back+kick+tutorial"
+    },
+    {
+      "id": "mawashi-geri-jodan",
+      "group": "Kicks",
+      "name": "Jodan mawashi-geri",
+      "alt": "Head-height roundhouse kick",
+      "level": "Advanced",
+      "muscles": "Hips · Hip flexors · Core",
+      "desc": "The roundhouse kick taken to head height, where flexibility and hip turnover matter as much as strength. The support foot pivots fully past 90 degrees so the hip can roll over the top of the kick. Height is bought with mobility and a tall support leg, never by leaning away and losing balance.",
+      "exercises": [
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Slow motion kick raises to wall",
+          "scheme": "3 × 6 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Collapsing the torso sideways to fake height instead of opening the hip.",
+        "Chambering low and swinging up, which telegraphs and drains power.",
+        "Support heel stuck to the floor, stopping the pivot at the top."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=jodan+mawashi+geri+high+roundhouse+tutorial"
     },
     {
       "id": "gyaku-zuki",
@@ -135,43 +398,391 @@
       "videoUrl": "https://www.youtube.com/results?search_query=gyaku+zuki+tutorial"
     },
     {
-      "id": "kiba-dachi",
-      "group": "Stances & footwork",
-      "name": "Kiba-dachi hold",
-      "alt": "Horse stance endurance",
+      "id": "oi-zuki",
+      "group": "Punches",
+      "name": "Oi-zuki",
+      "alt": "Lunge punch (stepping punch)",
       "level": "Beginner",
-      "muscles": "Quads · Glutes · Adductors",
-      "desc": "A static wide stance held with thighs near parallel. Builds the leg endurance and rooted posture every karate technique sits on.",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "A straight punch delivered with the same-side hand as the stepping foot, landing exactly as the step completes. The whole body mass travels behind the fist, so the timing of foot and hand arriving together is the entire technique. It teaches the connection between stepping and striking that karate is built on.",
       "exercises": [
         {
-          "name": "Goblet squats",
+          "name": "Sled push",
+          "scheme": "4 × 15 m",
+          "wgerId": 1523
+        },
+        {
+          "name": "Medicine ball step-and-throw",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Dumbbell push press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Punch lands after the foot instead of with it — body weight never reaches the fist.",
+        "Rising up during the step and breaking the stance line.",
+        "Shoulder hunching up at impact instead of staying packed down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=oi+zuki+lunge+punch+tutorial"
+    },
+    {
+      "id": "kizami-zuki",
+      "group": "Punches",
+      "name": "Kizami-zuki",
+      "alt": "Lead-hand jab",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Triceps · Calves",
+      "desc": "A snapping lead-hand punch fired off a short forward burst of the front foot. It scores and sets up the reverse punch; its currency is speed and distance-stealing, not raw power. The rear leg drives, the lead shoulder extends, the hand returns before the opponent reads it.",
+      "exercises": [
+        {
+          "name": "Plyometric push-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Cable single-arm chest press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Band-resisted punches",
+          "scheme": "3 × 15 / side"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "4 × 5"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Wrist extensor stretch",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Reaching with the arm before the front foot moves, killing the range steal.",
+        "Leaning the head forward over the front knee into counter range.",
+        "Dropping the rear guard while the lead hand is out."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kizami+zuki+karate+jab+tutorial"
+    },
+    {
+      "id": "uraken-uchi",
+      "group": "Punches",
+      "name": "Uraken-uchi",
+      "alt": "Backfist strike",
+      "level": "Intermediate",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "A whipping strike with the back of the first two knuckles, snapped out from a bent elbow like cracking a towel. Power comes from elbow extension plus a sharp forearm rotation at the last instant, then instant recoil. It is a speed weapon — usually thrown from a spin or as a lead-hand surprise.",
+      "exercises": [
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Dumbbell lateral raises",
           "scheme": "3 × 12"
         },
         {
-          "name": "Wall sit",
-          "scheme": "3 × 45s",
-          "wgerId": 1408
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
         },
         {
-          "name": "Adductor machine",
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Medicine ball rotational slams",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Swinging from the shoulder like a hook instead of snapping from the elbow.",
+        "Leaving the arm extended after impact instead of recoiling.",
+        "Striking with a loose wrist and folding it on contact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=uraken+uchi+backfist+tutorial"
+    },
+    {
+      "id": "shuto-uchi",
+      "group": "Punches",
+      "name": "Shuto-uchi",
+      "alt": "Knife-hand strike",
+      "level": "Intermediate",
+      "muscles": "Lats · Shoulders · Core",
+      "desc": "A cutting strike with the blade of the open hand, swung inward or outward in a tight arc to the neck or temple line. The lat and body rotation drive the arm while the hand stays tensed only at impact. It teaches whole-body connection through a relaxed limb — the core principle behind karate's snap.",
+      "exercises": [
+        {
+          "name": "Cable single-arm pulldowns",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1972
+        },
+        {
+          "name": "Cable horizontal woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell pullovers",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30 m"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Thread the needle",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Tensing the whole arm through the swing, which slows the strike.",
+        "Hitting with the palm or fingers instead of the muscle pad on the hand's edge.",
+        "Arm swinging alone without hip and shoulder rotation behind it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=shuto+uchi+knife+hand+strike+tutorial"
+    },
+    {
+      "id": "age-uke",
+      "group": "Blocks",
+      "name": "Age-uke",
+      "alt": "Rising block",
+      "level": "Beginner",
+      "muscles": "Shoulders · Forearms · Core",
+      "desc": "An upward deflection that sweeps attacks to the head up and off the center line with the outer forearm. The blocking arm rises across the body while rotating at the last moment, and the pulling hand (hikite) supplies half the power. Structure comes from the stance underneath, not the arm alone.",
+      "exercises": [
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 346
+        },
+        {
+          "name": "Cable face pulls",
           "scheme": "3 × 12"
         },
         {
-          "name": "Tibialis raises",
+          "name": "Reverse-grip wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1290,
+          "imageUrl": "https://wger.de/media/exercise-images/1290/c05818bf-1c81-46df-9f24-42e354265388.png"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Overhead triceps stretch",
+        "Wrist flexor stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Blocking flat-on and absorbing the hit instead of deflecting at an angle.",
+        "Forearm finishing too far above the forehead, leaving the face open beneath it.",
+        "No forearm rotation at contact, losing the jarring snap."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=age+uke+rising+block+tutorial"
+    },
+    {
+      "id": "gedan-barai",
+      "group": "Blocks",
+      "name": "Gedan-barai",
+      "alt": "Downward sweep block",
+      "level": "Beginner",
+      "muscles": "Lats · Forearms · Core",
+      "desc": "A sweeping low block that clears kicks and low punches off the line with the bottom of the forearm. The arm chambers at the opposite shoulder and cuts diagonally down, powered by hip rotation and the pulling hand. It is also the standard ready position that opens most kata.",
+      "exercises": [
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Cable high-to-low woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 272,
+          "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30 m / side"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Wrist extensor stretch",
+        "Lying spinal twist",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Chopping straight down instead of sweeping across and off the line.",
+        "Bending at the waist to reach the block instead of sinking the stance.",
+        "Blocking bone-on-bone at 90 degrees rather than deflecting at an angle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=gedan+barai+low+block+tutorial"
+    },
+    {
+      "id": "soto-uke",
+      "group": "Blocks",
+      "name": "Soto-uke",
+      "alt": "Outside-to-inside forearm block",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Chest · Core",
+      "desc": "A forearm block swung from outside the body in toward the center line, jamming mid-level punches sideways. The elbow stays bent near 90 degrees so the whole torso rotation — not the arm — delivers the deflection. Done sharply it doubles as a strike to the attacking limb.",
+      "exercises": [
+        {
+          "name": "Cable crossovers",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Pallof press with rotation",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell hammer curls",
+          "scheme": "3 × 12",
+          "wgerId": 1567,
+          "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Thread the needle"
+      ],
+      "mistakes": [
+        "Straightening the elbow and turning the block into a slow swat.",
+        "Blocking with the arm while the hips stay frozen.",
+        "Sweeping past the center line and dragging the guard wide open."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=soto+uke+outside+block+tutorial"
+    },
+    {
+      "id": "heian-shodan",
+      "group": "Kata & combinations",
+      "name": "Heian Shodan",
+      "alt": "First kata — peaceful mind, level one",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Full body",
+      "desc": "The first Shotokan kata: 21 movements of blocks, punches and turns performed along an I-shaped floor pattern. It drills stance transitions, turning without losing height, and pairing every block with a decisive counter. Performed slowly for structure, then at speed for kime — the sharp full-body contraction at each finish.",
+      "exercises": [
+        {
+          "name": "Goblet squat with pause",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Walking lunges with rotation",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Plank shoulder taps",
           "scheme": "3 × 20",
-          "wgerId": 1200
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Kettlebell halos",
+          "scheme": "3 × 8 / direction"
         }
       ],
       "stretches": [
         "Deep squat hold",
-        "Butterfly stretch",
-        "Frog stretch"
+        "Kneeling hip flexor stretch",
+        "Lying spinal twist",
+        "Doorway pec stretch"
       ],
       "mistakes": [
-        "Knees caving inward under fatigue.",
-        "Leaning the torso forward instead of sitting down."
+        "Rushing the turns and arriving in a shallow, unset stance.",
+        "Constant tension throughout instead of relaxing between techniques and snapping at kime.",
+        "Eyes dropping to the floor on direction changes instead of looking before turning."
       ],
-      "videoUrl": "https://www.youtube.com/results?search_query=kiba+dachi+horse+stance"
+      "videoUrl": "https://www.youtube.com/results?search_query=heian+shodan+kata+tutorial"
+    },
+    {
+      "id": "sanbon-renzuku-combo",
+      "group": "Kata & combinations",
+      "name": "Sanbon renzuku-waza",
+      "alt": "Three-technique attack combination",
+      "level": "Advanced",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "A classic kumite combination — kizami-zuki, gyaku-zuki, then mawashi-geri — thrown as one continuous burst. Each technique covers the recovery of the last, so the drill trains rhythm changes and hip resets at full speed. The scoring blow is usually the last one, landing while the opponent is still reacting to the first.",
+      "exercises": [
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Assault bike sprints",
+          "scheme": "6 × 15s hard / 45s easy"
+        },
+        {
+          "name": "Medicine ball chest throw into sprint",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Bulgarian split squat jumps",
+          "scheme": "3 × 6 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Battle rope intervals",
+          "scheme": "4 × 20s"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Doorway pec stretch",
+        "Seated straddle",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Even, predictable rhythm — the broken beat is what makes the last strike land.",
+        "Hips never reset between techniques, so each strike gets weaker.",
+        "Overcommitting to the first punch and falling into the opponent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=karate+kumite+combination+kizami+gyaku+mawashi+tutorial"
     }
   ]
 }

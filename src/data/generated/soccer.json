@@ -1,0 +1,702 @@
+{
+  "id": "soccer",
+  "name": "Soccer",
+  "emoji": "⚽",
+  "tag": "SC",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "first-touch",
+      "group": "Ball mastery",
+      "name": "First touch control",
+      "alt": "Killing the ball on arrival",
+      "level": "Beginner",
+      "muscles": "Hips · Quads · Core",
+      "desc": "Cushioning an incoming pass so the ball dies exactly where your next action needs it. The receiving surface — inside of the foot, thigh or chest — relaxes on contact and steers the ball into space in one motion. A good first touch buys the half-second everything else is built on.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cable hip adductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Bosu single-leg stands",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Butterfly stretch",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Stiff ankle on contact — the ball bounces a yard away instead of dying.",
+        "Taking the touch dead under your feet rather than into the space you want to attack.",
+        "Watching the ball arrive instead of scanning before it gets there."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=soccer+first+touch+drills+tutorial"
+    },
+    {
+      "id": "juggling",
+      "group": "Ball mastery",
+      "name": "Juggling",
+      "alt": "Keep-ups with feet and thighs",
+      "level": "Beginner",
+      "muscles": "Quads · Calves · Core",
+      "desc": "Keeping the ball airborne with alternating feet, thighs and head. It calibrates the fine motor control of every striking surface and builds thousands of reps of clean, centered contact. The ankle stays locked and the toes lift slightly so the ball spins gently back toward you.",
+      "exercises": [
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Leg extension machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg balance with ball toss",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "3 × 60s",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Calf stretch on step",
+        "Seated hamstring stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Kicking with a floppy ankle so every touch sprays at a new angle.",
+        "Reaching for the ball with the leg instead of moving the body under it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=soccer+juggling+tutorial+beginners"
+    },
+    {
+      "id": "close-control-dribbling",
+      "group": "Ball mastery",
+      "name": "Close-control dribbling",
+      "alt": "Keeping the ball glued to your feet",
+      "level": "Beginner",
+      "muscles": "Quads · Hip flexors · Calves",
+      "desc": "Moving at speed with a touch every stride, using laces, inside and outside of both feet. The ball stays within a step so a defender never gets a clean window to tackle. It is built on short, bent-knee strides and eyes that flick up between touches.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Agility ladder in-in-out drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Standing cable hip flexor raises",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Calf stretch on step",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Head down the whole time — you beat the cone but miss the pass.",
+        "Touches too heavy at speed, turning dribbling into chasing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=close+control+dribbling+drills+soccer"
+    },
+    {
+      "id": "stepover",
+      "group": "Ball mastery",
+      "name": "Stepover",
+      "alt": "Circling a foot around the ball to fake",
+      "level": "Intermediate",
+      "muscles": "Hips · Hip flexors · Calves",
+      "desc": "A foot whips around the front of the ball to sell a change of direction, then the other foot pushes away the opposite way. The move only works if the whole body lies — a drop of the shoulder and a fake plant of the stepping foot. The exit touch, taken explosively with the outside of the far foot, is what actually beats the defender.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Agility ladder lateral shuffles",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Butterfly stretch",
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Circling the foot without shifting body weight — nobody buys the fake.",
+        "Doing the move too far from the defender, giving them time to reset.",
+        "Slow exit touch after a fast stepover wastes the deception."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=stepover+skill+tutorial+soccer"
+    },
+    {
+      "id": "push-pass",
+      "group": "Passing & crossing",
+      "name": "Inside-foot push pass",
+      "alt": "Short accurate side-foot pass",
+      "level": "Beginner",
+      "muscles": "Hips · Adductors · Glutes",
+      "desc": "The bread-and-butter pass: ankle locked, inside of the foot square to the target, follow-through low and straight. Accuracy comes from the plant foot pointing at the target and the hip opening like a gate. Weight of pass — firm to feet, softer into space — is the real craft.",
+      "exercises": [
+        {
+          "name": "Cable hip adductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        },
+        {
+          "name": "Lateral lunges with dumbbell",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Butterfly stretch",
+        "Frog stretch",
+        "Standing hamstring stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Plant foot points away from the target, dragging the pass wide.",
+        "Stabbing at the ball with no follow-through, killing pace and accuracy."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=inside+foot+push+pass+technique+soccer"
+    },
+    {
+      "id": "driven-long-pass",
+      "group": "Passing & crossing",
+      "name": "Driven long pass",
+      "alt": "Flat, fast pass over distance",
+      "level": "Intermediate",
+      "muscles": "Hips · Quads · Core",
+      "desc": "Striking through the ball's midline with the instep to send a flat, fast pass thirty-plus yards. Power comes from a long last stride, a cocked knee, and the hip snapping through — the same whip as shooting, aimed lower. Lean slightly over the ball to keep the flight down.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Standing cable hip flexor raises",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Leaning back at contact and ballooning the pass into the air.",
+        "Striking across the ball instead of through its center, adding unwanted curl.",
+        "Short, choked backswing — distance needs a full knee cock."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=driven+long+pass+technique+soccer"
+    },
+    {
+      "id": "crossing",
+      "group": "Passing & crossing",
+      "name": "Crossing",
+      "alt": "Whipped delivery from the wing",
+      "level": "Intermediate",
+      "muscles": "Hips · Core · Hamstrings",
+      "desc": "Delivering the ball from wide areas into the box with pace and curve, usually aimed between keeper and defense. The wrap of the instep around the ball's outside creates the whip; the plant foot points where the cross should land, not down the line. A good cross arrives before the defense can set.",
+      " exercises": [
+        {
+          "name": "Cable hip adductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Back extensions (45° bench)",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Seated spinal twist",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Crossing flat into the first defender instead of clipping over them with whip.",
+        "No target picked before the delivery — crossing to an area beats crossing to hope."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=crossing+technique+tutorial+soccer",
+      "exercises": [
+        {
+          "name": "Cable hip adductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s"
+        }
+      ]
+    },
+    {
+      "id": "placed-finish",
+      "group": "Shooting & finishing",
+      "name": "Placed finish",
+      "alt": "Passing the ball into the corner",
+      "level": "Beginner",
+      "muscles": "Hips · Adductors · Core",
+      "desc": "An inside-foot shot that trades power for certainty, guided into the corner away from the keeper. It is a push pass with conviction — head steady, plant foot beside the ball, contact through the middle so the shot stays low. Most one-on-ones are won by placement, not violence.",
+      "exercises": [
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Butterfly stretch",
+        "Standing hamstring stretch",
+        "90/90 hip switch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Looking up at the keeper during contact and dragging the shot at them.",
+        "Leaning back and lifting an easy save over the bar from eight yards."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=placed+finish+shooting+technique+soccer"
+    },
+    {
+      "id": "instep-drive",
+      "group": "Shooting & finishing",
+      "name": "Instep drive",
+      "alt": "Laces power shot",
+      "level": "Intermediate",
+      "muscles": "Quads · Hips · Glutes",
+      "desc": "The power shot: laces through the ball's center, toes pointed down, knee over the ball at contact. Force is a chain — plant-foot stride, hip snap, knee whip — released through a rock-solid locked ankle. The follow-through lands on the shooting foot, carrying the body through the strike.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Standing cable hip flexor raises",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Leg extension machine",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Toe-poking with a loose ankle instead of striking with locked laces.",
+        "Plant foot too far from the ball, forcing a reach that slices the shot.",
+        "Leaning back at contact — knee over the ball keeps it under the bar."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=instep+drive+laces+shot+technique+soccer"
+    },
+    {
+      "id": "volley",
+      "group": "Shooting & finishing",
+      "name": "Volley",
+      "alt": "Striking the ball out of the air",
+      "level": "Advanced",
+      "muscles": "Core · Hips · Quads",
+      "desc": "Meeting a dropping or crossed ball with the laces before it bounces. Timing beats power: the body shapes early, sideways to the ball, and the strike happens as the ball reaches knee height. Getting over the ball with a compact swing is the difference between top corner and row Z.",
+      "exercises": [
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg balance with ball toss",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Lying figure-4",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Swinging at full power at a dropping ball instead of a compact, timed punch.",
+        "Letting the ball drop too low and scooping it over the bar.",
+        "Square hips at contact — turn sideways so the swing travels flat."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volley+technique+tutorial+soccer"
+    },
+    {
+      "id": "heading",
+      "group": "Shooting & finishing",
+      "name": "Heading",
+      "alt": "Attacking the ball with the forehead",
+      "level": "Intermediate",
+      "muscles": "Neck · Core · Legs",
+      "desc": "Meeting the ball with the flat of the forehead, eyes open, neck braced — attacking the ball rather than letting it hit you. Power comes from arching the trunk back and snapping through, with the jump timed to meet the ball at its highest reachable point. Downward headers score; floaty ones get caught.",
+      "exercises": [
+        {
+          "name": "Neck curls with plate",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Back extensions (45° bench)",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Neck side-flexion stretch",
+        "Chin tucks against wall",
+        "Doorway pec stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Closing the eyes and letting the ball choose the contact point.",
+        "Heading with the top of the skull instead of the forehead's flat plate.",
+        "No trunk snap — a neck-only header has no power and no direction."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=heading+technique+tutorial+soccer"
+    },
+    {
+      "id": "jockeying",
+      "group": "Defending",
+      "name": "Jockeying & defensive stance",
+      "alt": "Shepherding an attacker without diving in",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "Low, side-on stance that delays the attacker: knees bent, weight on the balls of the feet, one shoulder showing them the safe side. The defender's job is to stay a lunge-length away and steer the dribbler where cover waits. Patience is the technique — the tackle is only the last resort.",
+      "exercises": [
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Goblet squats (paused)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Lateral lunges with dumbbell",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Lying figure-4",
+        "Standing quad stretch",
+        "Butterfly stretch",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Standing square-on so one touch either side beats you.",
+        "Diving into a tackle the moment the attacker invites it with a fake.",
+        "Standing tall between movements — the stance is a constant, not a pose."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=jockeying+defensive+stance+soccer+tutorial"
+    },
+    {
+      "id": "block-tackle",
+      "group": "Defending",
+      "name": "Block tackle",
+      "alt": "Winning the ball with a firm side-foot",
+      "level": "Intermediate",
+      "muscles": "Quads · Adductors · Core",
+      "desc": "A strong inside-of-the-foot challenge made the instant the attacker's touch gets heavy. The whole body weight commits through a locked ankle, knee slightly bent, timed to meet the ball — not the player. Winning the ball cleanly means arriving low and balanced, never lunging off one leg from distance.",
+      "exercises": [
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Split squat isometric holds",
+          "scheme": "3 × 20s / leg"
+        }
+      ],
+      "stretches": [
+        "Butterfly stretch",
+        "Frog stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Tackling with a soft ankle and losing the 50/50 collision.",
+        "Lunging from too far out, arriving off balance with studs showing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=block+tackle+technique+soccer"
+    },
+    {
+      "id": "agility-ladder",
+      "group": "Speed & agility",
+      "name": "Agility ladder footwork",
+      "alt": "Fast-feet ladder patterns",
+      "level": "Beginner",
+      "muscles": "Calves · Hip flexors · Ankles",
+      "desc": "Rhythmic patterns — one-in, two-in, lateral in-in-out — run through a flat ladder to sharpen foot speed and coordination. The value is ground-contact quality: short, springy touches off the balls of the feet with arms driving in rhythm. It greases the footwork that dribbling and defending draw on.",
+      "exercises": [
+        {
+          "name": "Jump rope (double unders)",
+          "scheme": "4 × 45s",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Ankling drills",
+          "scheme": "4 × 20m"
+        }
+      ],
+      "stretches": [
+        "Calf stretch on step",
+        "Ankle circles",
+        "Standing quad stretch",
+        "Toe walks & heel walks"
+      ],
+      "mistakes": [
+        "Staring at the ladder — eyes belong up, feet learn by feel.",
+        "Flat-footed stomping instead of light contacts off the forefoot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=agility+ladder+drills+soccer"
+    },
+    {
+      "id": "sprint-mechanics",
+      "group": "Speed & agility",
+      "name": "Sprint mechanics",
+      "alt": "Running form for top speed",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hamstrings · Hip flexors",
+      "desc": "The A-skips, wickets and acceleration work that turn raw effort into speed: tall posture, knees punching forward, foot striking under the hips. Acceleration is won in the first five steps with a forward lean and violent arm drive. Every yard of pace shows up in every phase of the game.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Hill sprints",
+          "scheme": "6 × 20m"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Standing cable hip flexor raises",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Lying figure-4",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Overstriding so the foot lands ahead of the hips and brakes every step.",
+        "Popping upright out of the acceleration lean after two steps.",
+        "Arms swinging across the body instead of hip-to-cheek straight lines."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sprint+mechanics+acceleration+drills+soccer"
+    },
+    {
+      "id": "change-of-direction",
+      "group": "Speed & agility",
+      "name": "Change of direction (cuts)",
+      "alt": "Planting and exploding a new way",
+      "level": "Advanced",
+      "muscles": "Glutes · Quads · Adductors",
+      "desc": "Decelerating in two or three choppy steps, planting the outside foot, and exploding out at a new angle. The cut is really a controlled fall: hips drop, shin angles toward the new direction, and the plant leg's glute absorbs then redirects the force. Eccentric leg strength is the injury insurance and the speed source.",
+      "exercises": [
+        {
+          "name": "Lateral bounds (stick the landing)",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Barbell back squats (slow eccentric)",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 25s / side"
+        },
+        {
+          "name": "5-10-5 pro agility shuttles",
+          "scheme": "5 × 1"
+        },
+        {
+          "name": "Single-leg drop landings from box",
+          "scheme": "3 × 5 / leg"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Frog stretch",
+        "Couch stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Cutting off a tall body with no hip drop — slow out, and dangerous for the knee.",
+        "Plant foot too close to the body's midline, killing the push-off angle.",
+        "Rounding the turn instead of planting sharply — defenders read the arc."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=change+of+direction+cutting+drills+soccer"
+    }
+  ]
+}

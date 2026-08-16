@@ -1,0 +1,703 @@
+{
+  "id": "taekwondo",
+  "name": "Taekwondo",
+  "emoji": "🦶",
+  "tag": "TK",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "fighting-stance-bounce",
+      "group": "Stances & footwork",
+      "name": "Gyorugi seogi rhythm",
+      "alt": "Fighting stance bounce",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Hip flexors",
+      "desc": "The narrow, bladed sparring stance held with a constant light bounce on the balls of the feet. The bounce is not decoration — every kick launches off it, so the rhythm hides your timing and pre-loads the calves like springs. Weight stays 50/50 so either leg can fire without a tell.",
+      "exercises": [
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 2 min",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "4 × 20"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Single-leg balance on wobble board",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Kneeling hip flexor stretch",
+        "Toe walks"
+      ],
+      "mistakes": [
+        "Bouncing high off the floor instead of a low, connected rhythm.",
+        "Weight sinking onto the heels, adding a beat of delay to every kick.",
+        "Freezing the bounce right before kicking — a clear tell for the opponent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=taekwondo+fighting+stance+footwork+bounce+tutorial"
+    },
+    {
+      "id": "switch-step",
+      "group": "Stances & footwork",
+      "name": "Baljjaggi switch step",
+      "alt": "Stance-switch footwork",
+      "level": "Beginner",
+      "muscles": "Calves · Hip flexors · Core",
+      "desc": "A fast scissor of the feet that swaps lead legs in the air, loading the rear hip for an immediate kick. The switch happens under the body — the head must not rise or drift, or the opponent reads it. It is the engine behind the switch roundhouse and most counter-kicking.",
+      "exercises": [
+        {
+          "name": "Scissor jumps",
+          "scheme": "4 × 12"
+        },
+        {
+          "name": "Jump rope double unders",
+          "scheme": "4 × 30s",
+          "wgerId": 993
+        },
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Agility ladder in-and-outs",
+          "scheme": "4 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Jumping upward during the switch instead of switching flat and quiet.",
+        "Feet landing square to the opponent, losing the bladed stance.",
+        "Switching without purpose — every switch should load a kick or steal an angle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=taekwondo+switch+step+footwork+tutorial"
+    },
+    {
+      "id": "ap-chagi",
+      "group": "Fundamental kicks",
+      "name": "Ap chagi",
+      "alt": "Front snap kick",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Core",
+      "desc": "The first kick every student learns: knee chambers high and the lower leg snaps out to strike with the ball of the foot. The knee lift is the power source — the faster and higher the chamber, the sharper the snap. Retraction is as fast as extension so the leg cannot be caught.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Ankle dorsiflexion raises",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch",
+        "Seated toe reach"
+      ],
+      "mistakes": [
+        "Swinging the whole straight leg upward instead of chambering the knee first.",
+        "Toes not pulled back, risking a jammed foot on impact.",
+        "Dropping the kicking leg forward after impact instead of re-chambering."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ap+chagi+front+kick+tutorial"
+    },
+    {
+      "id": "dollyo-chagi",
+      "group": "Fundamental kicks",
+      "name": "Dollyo chagi",
+      "alt": "Roundhouse (turning) kick",
+      "level": "Beginner",
+      "muscles": "Hips · Glutes · Core",
+      "desc": "Taekwondo's signature scoring kick, whipping the instep into the target on a horizontal arc. The support foot pivots past 90 degrees while the hip rolls over the chambered knee — the leg itself is just the end of the whip. Modern sport style throws it straight off the floor from the bounce for speed.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Standing quad stretch",
+        "Lying figure-4",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Support foot doesn't pivot, blocking the hip and torquing the knee.",
+        "Chambering wide like a swing instead of tight and straight up.",
+        "Landing forward off balance instead of re-chambering to kick again."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=dollyo+chagi+taekwondo+roundhouse+tutorial"
+    },
+    {
+      "id": "yop-chagi",
+      "group": "Fundamental kicks",
+      "name": "Yop chagi",
+      "alt": "Side kick",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hips · Obliques",
+      "desc": "A linear piercing kick driven through the target with the heel and blade of the foot. The knee chambers across the chest, the hips stack sideways over the support leg, and the leg extends on one straight line — chamber, thrust, re-chamber. Its skill is keeping the hip, knee and heel on the same rail.",
+      "exercises": [
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Single-leg leg press",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1515
+        },
+        {
+          "name": "Side plank with top-leg raise",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Banded lateral walks",
+          "scheme": "3 × 12 / direction"
+        },
+        {
+          "name": "Slow motion side kick holds",
+          "scheme": "3 × 5 × 5s / leg"
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Cossack squat hold",
+        "Lying figure-4",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Kicking with the sole flat instead of the heel and outside edge.",
+        "Torso collapsing toward the floor to buy height, losing all thrust.",
+        "Chamber opening early so the kick arcs like a roundhouse instead of piercing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=yop+chagi+side+kick+taekwondo+tutorial"
+    },
+    {
+      "id": "naeryo-chagi",
+      "group": "Fundamental kicks",
+      "name": "Naeryo chagi",
+      "alt": "Axe kick",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Hip flexors · Core",
+      "desc": "The leg swings straight up past head height and drops like an axe, striking down with the heel or flat of the foot. Height comes from hamstring flexibility; power comes from actively pulling the leg down with the glutes and core rather than letting gravity do it. A favorite head-scoring weapon in close exchanges.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Cable straight-leg kickbacks",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Hanging straight-leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Glute ham raises",
+          "scheme": "3 × 8",
+          "wgerId": 2478
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Standing hamstring stretch",
+        "Seated toe reach",
+        "Lying hamstring stretch with strap",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Bending the knee to fake height instead of building the flexibility for a straight leg.",
+        "Letting the leg fall passively instead of driving it down for impact.",
+        "Leaning so far back on the way up that recovery to stance is lost."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=naeryo+chagi+axe+kick+tutorial"
+    },
+    {
+      "id": "mireo-chagi",
+      "group": "Fundamental kicks",
+      "name": "Mireo chagi",
+      "alt": "Push kick",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "A shoving linear kick with the whole sole of the foot that breaks the opponent's rhythm and drives them out of range. Unlike ap chagi it pushes through rather than snaps — hips drive forward behind a stiff frame. In sport sparring it is the main tool for jamming an incoming kicker.",
+      "exercises": [
+        {
+          "name": "Sled push",
+          "scheme": "4 × 20 m",
+          "wgerId": 1523
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1740
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing calf stretch",
+        "Standing hamstring stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Snapping it like a front kick instead of driving the hips through.",
+        "Kicking at the opponent's chest when the timing target is their hip as they step in.",
+        "Leaning back so far the push has no body weight behind it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mireo+chagi+push+kick+taekwondo+tutorial"
+    },
+    {
+      "id": "dwi-chagi",
+      "group": "Spinning & jumping kicks",
+      "name": "Dwi chagi",
+      "alt": "Back kick",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hamstrings · Core",
+      "desc": "A half-turn thrusting kick straight back with the heel, famous as the hardest-hitting counter in taekwondo. Fired the instant the opponent commits forward, the turn and the kick are one motion: look over the shoulder, chamber tight, thrust down the center line. Everything posterior-chain drives it.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Cable glute kickbacks",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Reverse sled drag",
+          "scheme": "4 × 20 m"
+        }
+      ],
+      "stretches": [
+        "Pigeon pose",
+        "Standing hamstring stretch",
+        "Lying spinal twist",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Kicking blind — the eyes must find the target over the shoulder before the leg fires.",
+        "Letting the kick swing out in an arc, turning it into a weak spinning hook.",
+        "Over-rotating past the target and exposing the back on a miss."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=dwi+chagi+back+kick+taekwondo+tutorial"
+    },
+    {
+      "id": "huryeo-chagi",
+      "group": "Spinning & jumping kicks",
+      "name": "Huryeo chagi",
+      "alt": "Spinning hook kick",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Obliques",
+      "desc": "A full-turn kick that whips the heel through the target in a hooking arc at head height. The spin generates the speed, but the score comes from the final hamstring snap that hooks the heel through the last 30 degrees. Balance lives in a tall spine and a tight, spotting head turn.",
+      "exercises": [
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Lying leg curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Single-leg balance with head turns",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "Lying hamstring stretch with strap",
+        "Standing quad stretch",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Head lagging behind the spin instead of whipping around first to spot.",
+        "Straight-leg swinging the whole way with no hooking snap at the end.",
+        "Dropping the torso toward the floor mid-spin and stumbling on the landing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=huryeo+chagi+spinning+hook+kick+tutorial"
+    },
+    {
+      "id": "tornado-kick-360",
+      "group": "Spinning & jumping kicks",
+      "name": "Dolgae chagi",
+      "alt": "Tornado (360) roundhouse kick",
+      "level": "Advanced",
+      "muscles": "Hips · Core · Calves",
+      "desc": "A jumping 360-degree roundhouse: step across, spin, and fire the rear-leg round kick mid-air as the body completes the turn. The cross-step converts forward momentum into rotation, and the knees drive up together so the kick launches from the air, not the floor. Timing of the jump inside the spin is the whole trick.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Medicine ball rotational slams",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Hanging knee raises with twist",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg bounding",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Standing quad stretch",
+        "Ankle circles",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Spinning flat on the ground and only hopping at the end instead of kicking mid-air.",
+        "Head not leading the rotation, so the spin stalls halfway.",
+        "Landing square and tall in front of the opponent with no guard."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tornado+kick+360+roundhouse+taekwondo+tutorial"
+    },
+    {
+      "id": "540-kick",
+      "group": "Spinning & jumping kicks",
+      "name": "540 kick",
+      "alt": "Jumping 540 roundhouse",
+      "level": "Advanced",
+      "muscles": "Hips · Core · Calves",
+      "desc": "A demo-team showpiece: one and a half aerial rotations, kicking with the same leg you land on. It demands maximal jump height, a hard head-led spin, and a tight tuck of the non-kicking leg to speed rotation. Train the vertical jump and the spin separately before joining them over a soft surface.",
+      "exercises": [
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Hanging toes-to-bar",
+          "scheme": "3 × 8",
+          "wgerId": 1529
+        },
+        {
+          "name": "Weighted broad jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        }
+      ],
+      "stretches": [
+        "Front split progression",
+        "Seated straddle",
+        "Standing quad stretch",
+        "Calf wall stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Chasing rotation before owning a high two-foot vertical jump — height buys time to spin.",
+        "Opening the tuck early, which kills rotation speed mid-air.",
+        "Practicing full attempts on hard floors before the landing mechanics are safe."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=540+kick+taekwondo+tutorial"
+    },
+    {
+      "id": "jireugi",
+      "group": "Hand techniques",
+      "name": "Momtong jireugi",
+      "alt": "Middle-section straight punch",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "The basic corkscrew punch to the trunk, thrown from the hip with a full forearm rotation at extension. The pulling hand snaps back to the hip as hard as the punch goes out, and the hips square into the target. It is the backbone of poomsae and line drills, teaching whole-body timing.",
+      "exercises": [
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 346
+        },
+        {
+          "name": "Medicine ball chest throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Thread the needle"
+      ],
+      "mistakes": [
+        "Punching from the shoulder with no hip rotation behind it.",
+        "Lazy pulling hand — half the punch's power is the opposite arm's snap back.",
+        "Wrist bending on impact instead of a straight line through the first two knuckles."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=momtong+jireugi+taekwondo+punch+tutorial"
+    },
+    {
+      "id": "sonnal-makki",
+      "group": "Hand techniques",
+      "name": "Sonnal makki",
+      "alt": "Knife-hand guarding block",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Lats · Core",
+      "desc": "A double-arm knife-hand block performed in back stance: the lead hand cuts outward while the rear hand guards the solar plexus. Both arms move as one connected frame timed with the stance settling. It appears throughout the Taegeuk poomsae and trains coordination between block, guard and stance.",
+      "exercises": [
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Single-arm dumbbell rows",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1637,
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+        },
+        {
+          "name": "Goblet squat with pause",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Wrist extensor stretch",
+        "Doorway pec stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Arms finishing at different times instead of locking in together with the stance.",
+        "Blocking hand swinging wide past the shoulder line.",
+        "Weight drifting onto the front leg, breaking the back stance under the block."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sonnal+makki+knife+hand+block+tutorial"
+    },
+    {
+      "id": "taegeuk-il-jang",
+      "group": "Poomsae & combinations",
+      "name": "Taegeuk Il Jang",
+      "alt": "First poomsae (form)",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Full body",
+      "desc": "The first WT poomsae: 18 movements of walking-stance blocks, punches and front kicks along a trigram floor pattern. It grades stance accuracy, chamber discipline and the pause-snap rhythm that separates poomsae from dance. Every technique finishes completely before the next begins.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Goblet squat with pause",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Kettlebell halos",
+          "scheme": "3 × 8 / direction"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Deep squat hold",
+        "Doorway pec stretch",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Blurring techniques together instead of finishing each with a distinct snap.",
+        "Stances shortening as fatigue builds through the pattern.",
+        "Turning before looking — the head leads every direction change."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=taegeuk+il+jang+poomsae+tutorial"
+    },
+    {
+      "id": "double-roundhouse-combo",
+      "group": "Poomsae & combinations",
+      "name": "Narae chagi combination",
+      "alt": "Double roundhouse scoring combo",
+      "level": "Advanced",
+      "muscles": "Hip flexors · Hips · Core",
+      "desc": "Two roundhouse kicks off alternating legs in one jump rhythm — the first draws the guard, the second scores. The legs scissor in the air so the second kick fires before the first foot lands. It is the highest-volume scoring pattern in modern sport taekwondo and pure hip-flexor speed-endurance.",
+      "exercises": [
+        {
+          "name": "Hanging knee raise sprints",
+          "scheme": "4 × 15s"
+        },
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Standing cable hip flexions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Assault bike sprints",
+          "scheme": "6 × 15s hard / 45s easy"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Kneeling hip flexor stretch",
+        "Seated straddle",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Fully planting between kicks instead of scissoring them in one rhythm.",
+        "Both kicks thrown at the same height, making the second easy to block.",
+        "Arms flailing wide for balance instead of staying in guard."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=narae+chagi+double+roundhouse+taekwondo+tutorial"
+    },
+    {
+      "id": "step-back-counter",
+      "group": "Poomsae & combinations",
+      "name": "Bada chagi",
+      "alt": "Step-back counter kick",
+      "level": "Advanced",
+      "muscles": "Calves · Hips · Core",
+      "desc": "The counter-kicking pattern: a small slide back takes the head just out of range, then the same motion loads a roundhouse or back kick into the opponent's recovery. Distance control is measured in centimeters — retreat too far and the counter cannot reach. It turns defense into the primary scoring weapon.",
+      "exercises": [
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "4 × 20"
+        },
+        {
+          "name": "Reactive ball drops with partner",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "90/90 hip switch",
+        "Standing hamstring stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Retreating in a straight line every time, letting the opponent chase with combinations.",
+        "Stepping back on the heels, unable to rebound into the counter.",
+        "Watching the opponent's feet instead of the chest, reacting to fakes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bada+chagi+counter+kick+taekwondo+tutorial"
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "id": "badminton",
+  "name": "Badminton",
+  "emoji": "🏸",
+  "tag": "BD",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "split-step",
+      "group": "Footwork",
+      "name": "Split step",
+      "alt": "Ready hop",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Core",
+      "desc": "A small two-footed hop timed to land exactly as the opponent strikes the shuttle. Landing on loaded legs pre-tensions the muscles so the first push-off is explosive in any direction. Every movement on court starts from this hop.",
+      "exercises": [
+        {
+          "name": "Jump rope",
+          "scheme": "3 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch",
+        "Ankle circles",
+        "Standing quad stretch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Hopping too early or too late — the timing is the whole drill.",
+        "Landing flat-footed with straight knees instead of on the balls of the feet."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+split+step+tutorial"
+    },
+    {
+      "id": "lunge-patterns",
+      "group": "Footwork",
+      "name": "Lunge patterns",
+      "alt": "Deep lunge to the corners",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Adductors",
+      "desc": "The long, controlled lunge used to reach shots at the net and in the rear corners. The lead knee tracks over the toes while the trunk stays tall, so the same leg can brake the body and push it straight back to base. Reach with the racket leg, recover with the same leg.",
+      "exercises": [
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Adductor rock-back",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Lead knee collapsing inward at full stretch.",
+        "Leaning the chest over the front knee, which slows the push back to base."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+lunge+footwork+tutorial"
+    },
+    {
+      "id": "four-corner-footwork",
+      "group": "Footwork",
+      "name": "Four-corner footwork",
+      "alt": "Shadow movement drill",
+      "level": "Intermediate",
+      "muscles": "Quads · Calves · Glutes · Core",
+      "desc": "Shadowing full movement patterns to all four corners from the base position — split step, chassé or crossover, lunge or jump, recover. Efficiency comes from taking the fewest steps possible and always returning through base before the next shot.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Front squats",
+          "scheme": "3 × 8",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing calf stretch",
+        "Pigeon pose",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Running to corners with big strides instead of chassé steps.",
+        "Watching the feet instead of keeping eyes on the imaginary shuttle.",
+        "Skipping the split step between corners once fatigue sets in."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+four+corner+shadow+footwork+drill"
+    },
+    {
+      "id": "scissor-jump",
+      "group": "Footwork",
+      "name": "Scissor jump",
+      "alt": "Rear-court jump switch",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Core",
+      "desc": "A jump in the rear court that switches the legs mid-air, letting you hit overhead while moving backward and land already facing the net. The scissor action rotates the hips through the shot and converts backward momentum into a fast recovery forward.",
+      "exercises": [
+        {
+          "name": "Split squat jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "90/90 hip switch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Landing with both feet square, leaving no drive back toward the net.",
+        "Jumping backward off balance instead of getting behind the shuttle first."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+scissor+kick+jump+footwork+tutorial"
+    },
+    {
+      "id": "short-backhand-serve",
+      "group": "Serves",
+      "name": "Short backhand serve",
+      "alt": "Low doubles serve",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "A gentle backhand push that skims the net tape and dies just past the service line. Control comes from a stable stance and a short, repeatable thumb-led push — not a swing. The best short serves are boring: identical, low, and unattackable.",
+      "exercises": [
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Dumbbell external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1715
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Forearm extensor stretch",
+        "Forearm flexor stretch",
+        "Wrist circles",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Serving with a wristy flick so height and depth vary every time.",
+        "Watching the receiver instead of the tape — aim at a spot, not a person."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=backhand+low+serve+badminton+tutorial"
+    },
+    {
+      "id": "high-serve",
+      "group": "Serves",
+      "name": "High serve",
+      "alt": "Deep singles serve",
+      "level": "Beginner",
+      "muscles": "Shoulders · Forearms · Core",
+      "desc": "A forehand underarm serve driven high and deep so the shuttle drops vertically at the back line. Depth comes from a full relaxed swing with body rotation and weight transfer, finishing high. A shuttle falling straight down is far harder to attack.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers (low to high)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Medicine ball scoop tosses",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Doorway chest stretch",
+        "Forearm flexor stretch",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Serving deep but flat, handing the opponent an easy smash.",
+        "Dropping the shuttle too close to the body and cramping the swing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=high+serve+badminton+tutorial"
+    },
+    {
+      "id": "flick-serve",
+      "group": "Serves",
+      "name": "Flick serve",
+      "alt": "Surprise deep serve",
+      "level": "Intermediate",
+      "muscles": "Forearms · Wrists · Shoulders",
+      "desc": "A serve disguised as a short serve until the last instant, when a sudden wrist and thumb flick sends the shuttle flat over the receiver's racket. It only works if the preparation is identical to the low serve — the deception is the weapon, the flick is just the delivery.",
+      "exercises": [
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Grip crushers",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Forearm extensor stretch",
+        "Wrist circles",
+        "Prayer stretch"
+      ],
+      "mistakes": [
+        "Telegraphing with a longer backswing or a changed grip.",
+        "Flicking too low so the receiver intercepts it mid-court."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flick+serve+badminton+tutorial"
+    },
+    {
+      "id": "clear",
+      "group": "Overhead strokes",
+      "name": "Clear",
+      "alt": "Deep overhead shot",
+      "level": "Beginner",
+      "muscles": "Shoulders · Lats · Core",
+      "desc": "The foundational overhead stroke, driving the shuttle high to the opponent's back line. Power comes from turning side-on, rotating the trunk, and pronating the forearm at contact above the racket shoulder — the same throwing action every other overhead is built on.",
+      "exercises": [
+        {
+          "name": "Overhead medicine ball throws",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Cross-body shoulder stretch",
+        "Doorway chest stretch",
+        "Triceps overhead stretch"
+      ],
+      "mistakes": [
+        "Hitting square-on to the net instead of turning the shoulders sideways first.",
+        "Contacting the shuttle late and low, turning a clear into a weak flat shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+clear+technique+tutorial"
+    },
+    {
+      "id": "drop-shot",
+      "group": "Overhead strokes",
+      "name": "Drop shot",
+      "alt": "Slow shot to the front court",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Forearms · Core",
+      "desc": "An overhead stroke with the same preparation as a clear or smash, but the racket decelerates or slices at contact so the shuttle falls just over the net. Its value is deception — if the opponent can read it from your swing, it becomes a free net kill for them.",
+      "exercises": [
+        {
+          "name": "Tempo dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Forearm pronation with dumbbell",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Forearm flexor stretch",
+        "Lat stretch on rack",
+        "Neck side stretch"
+      ],
+      "mistakes": [
+        "Slowing the swing early, telegraphing the drop.",
+        "Hitting it too high over the net, giving time for an easy lunge and kill."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+drop+shot+deception+tutorial"
+    },
+    {
+      "id": "smash",
+      "group": "Overhead strokes",
+      "name": "Smash",
+      "alt": "Steep attacking shot",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Lats · Core · Forearms",
+      "desc": "The primary attacking weapon — a steep, fast overhead hit down into the opponent's court. Speed comes from a full kinetic chain: legs drive, hips and trunk rotate, shoulder whips, and forearm pronation snaps the racket head through last. Steepness beats raw pace.",
+      "exercises": [
+        {
+          "name": "Medicine ball slams",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Pull-ups",
+          "scheme": "3 × 8",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Cable woodchoppers (high to low)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Dumbbell pullovers",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Forearm pronation with dumbbell",
+          "scheme": "3 × 12 / side"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Doorway chest stretch",
+        "Triceps overhead stretch",
+        "Forearm flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Arming the shot without trunk rotation — pace comes from the body, not the elbow.",
+        "Smashing from too far behind the shuttle so it flies flat instead of steep.",
+        "Squeezing the grip through the whole swing instead of only at contact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+smash+technique+tutorial"
+    },
+    {
+      "id": "jump-smash",
+      "group": "Overhead strokes",
+      "name": "Jump smash",
+      "alt": "Airborne smash",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Core · Shoulders",
+      "desc": "A smash launched from a two-footed jump to buy a higher contact point and a steeper angle. The legs load and explode upward while the trunk coils in the air; the scissor of the legs balances the violent upper-body rotation. Contact happens at the top of the jump, not on the way down.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Medicine ball rotational slams",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "Lat stretch on rack",
+        "90/90 hip switch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Jumping forward under the shuttle instead of getting behind it first.",
+        "Hitting on the way down, which flattens the angle and rushes the recovery.",
+        "Using it on every shot and draining the legs by mid-game."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=jump+smash+badminton+tutorial"
+    },
+    {
+      "id": "net-shot",
+      "group": "Net play",
+      "name": "Net shot",
+      "alt": "Tumbling net drop",
+      "level": "Intermediate",
+      "muscles": "Forearms · Quads · Core",
+      "desc": "A delicate shot played from near the tape that tumbles tight over the net. It is a lunge-and-touch skill: the legs carry a stable platform to the shuttle and relaxed fingers do the rest. Take the shuttle as early and as high as possible — every centimeter of drop costs options.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Wrist circles with light dumbbell",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg balance reach",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Wrist circles"
+      ],
+      "mistakes": [
+        "Playing the shot from a wobbly lunge — the hand can only be as still as the base.",
+        "Letting the shuttle drop low before contact, forcing a lift instead of a tight spin."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+net+shot+spinning+tutorial"
+    },
+    {
+      "id": "net-kill",
+      "group": "Net play",
+      "name": "Net kill",
+      "alt": "Fast finish at the tape",
+      "level": "Intermediate",
+      "muscles": "Forearms · Shoulders · Calves",
+      "desc": "A short, sharp downward tap that punishes any loose shot above tape height. The stroke is all fingers and forearm from a high racket carriage — a big swing hits the net or the shuttle out. Pounce forward off the split step and snap down through a tiny arc.",
+      "exercises": [
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Grip crushers",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Dumbbell front raises",
+          "scheme": "3 × 12",
+          "wgerId": 256,
+          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png"
+        }
+      ],
+      "stretches": [
+        "Forearm extensor stretch",
+        "Wrist circles",
+        "Standing calf stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Swinging from the shoulder and clipping the net for a fault.",
+        "Holding the racket low at the net so the kill chance is gone before the backswing ends."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+net+kill+tutorial"
+    },
+    {
+      "id": "defensive-lift",
+      "group": "Defense",
+      "name": "Defensive lift",
+      "alt": "Underarm clear from defense",
+      "level": "Beginner",
+      "muscles": "Forearms · Legs · Core",
+      "desc": "An underarm stroke that sends a smash or tight net shot high and deep, buying time to recover to base. Height is the defense: a high, deep lift resets the rally, while a flat or short one invites the next smash. Play it from a low, wide stance with a quick wrist acceleration.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Cable low-to-high lifts",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Forearm flexor stretch",
+        "Standing hamstring stretch",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Lifting flat and mid-court — the worst place to put a shuttle.",
+        "Standing tall in defense so every lift starts from a rushed, cramped swing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+defensive+lift+tutorial"
+    },
+    {
+      "id": "block-defense",
+      "group": "Defense",
+      "name": "Smash block",
+      "alt": "Soft return of a smash",
+      "level": "Intermediate",
+      "muscles": "Forearms · Core · Legs",
+      "desc": "Absorbing a smash with a relaxed grip and redirecting it softly to the front court. The shuttle's own pace does the work — the racket face angles and cushions rather than swings. A good block turns the attacker's best shot into their next problem: a tight net shot.",
+      "exercises": [
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Forearm extensor stretch",
+        "Forearm flexor stretch",
+        "Deep squat hold",
+        "Neck side stretch"
+      ],
+      "mistakes": [
+        "Gripping tight on contact so the shuttle rebounds high and mid-court.",
+        "Swinging at the smash instead of letting the racket face absorb it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+block+defense+smash+tutorial"
+    },
+    {
+      "id": "wrist-snap-power",
+      "group": "Wrist & power",
+      "name": "Wrist snap and pronation",
+      "alt": "Racket-head speed drill",
+      "level": "Intermediate",
+      "muscles": "Forearms · Wrists · Fingers",
+      "desc": "Isolating the final link of the kinetic chain — forearm pronation and finger tightening that whip the racket head through contact. Most 'wrist power' is really rotation of the forearm; training it with light resistance and fast intent adds pace to every stroke without a bigger swing.",
+      "exercises": [
+        {
+          "name": "Forearm pronation with dumbbell",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        },
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Forearm extensor stretch",
+        "Prayer stretch",
+        "Wrist circles"
+      ],
+      "mistakes": [
+        "Forcing pure wrist flexion instead of rotating the forearm — a strain waiting to happen.",
+        "Training with a racket too heavy to move fast; speed is the goal, not load."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=badminton+forearm+pronation+power+tutorial"
+    }
+  ]
+}

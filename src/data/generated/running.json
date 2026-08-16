@@ -6,6 +6,222 @@
   "category": "Endurance",
   "drills": [
     {
+      "id": "high-knees",
+      "group": "Form drills",
+      "name": "High knees",
+      "alt": "Knee-drive running drill",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Core · Calves",
+      "desc": "A running drill exaggerating knee lift while staying tall and cycling the feet fast under the hips. Trains hip-flexor power and a quick ground contact — the drive comes from the hip, not from reaching with the foot.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Box step-ups",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Standing quad stretch",
+        "Calf wall stretch",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Leaning back to lift the knees higher — the torso should stay tall and slightly forward.",
+        "Slow, stompy contacts instead of quick light taps under the hips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=high+knees+running+drill+tutorial"
+    },
+    {
+      "id": "butt-kicks",
+      "group": "Form drills",
+      "name": "Butt kicks",
+      "alt": "Heel-recovery drill",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Calves · Hip flexors",
+      "desc": "Fast, light steps pulling the heel straight up under the glute. Teaches quick hamstring recovery of the leg after toe-off, shortening the lever so the leg swings through faster with less effort.",
+      "exercises": [
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Kicking the heel backward instead of pulling it up under the hip.",
+        "Slowing the cadence to make the range bigger — turnover stays fast."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=butt+kicks+running+drill+tutorial"
+    },
+    {
+      "id": "a-skips",
+      "group": "Form drills",
+      "name": "A-skips",
+      "alt": "Skipping knee-drive drill",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Glutes · Calves",
+      "desc": "A rhythmic skip driving one knee up while the support leg pops off the ground. Builds the punch-down phase of the stride: knee up, foot dorsiflexed, then a crisp strike under the hips. The rhythm comes from stiff ankles, not big jumps.",
+      "exercises": [
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Box step-ups",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Calf wall stretch",
+        "Standing hamstring stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Letting the foot dangle loose instead of keeping the toe pulled up.",
+        "Turning it into a high jump — the skip should stay low and rhythmic.",
+        "Arms flailing across the body instead of driving straight front-to-back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=a+skip+running+drill+tutorial"
+    },
+    {
+      "id": "b-skips",
+      "group": "Form drills",
+      "name": "B-skips",
+      "alt": "Knee-drive plus leg extension drill",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Hip flexors · Glutes",
+      "desc": "An A-skip with the lower leg extended at the top, then actively pawed back down under the hips. Trains the hamstrings to sweep the foot backward before contact, the key to landing under the body at speed instead of braking out front.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Cable straight-leg pull-downs",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Hip flexor lunge",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Kicking the leg out and letting it fall instead of actively pulling it back down.",
+        "Rushing the sequence — knee drive, extension, and paw-back are three distinct beats.",
+        "Losing tall posture as the leg extends."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=b+skip+running+drill+tutorial"
+    },
+    {
+      "id": "cadence-work",
+      "group": "Form drills",
+      "name": "Cadence work",
+      "alt": "Step-rate training with a metronome",
+      "level": "Beginner",
+      "muscles": "Calves · Hip flexors · Core",
+      "desc": "Short segments run to a metronome set 5% above your natural step rate, usually toward 170-180 steps per minute. A quicker cadence shortens the stride, lands the foot closer to the hips, and cuts braking and impact forces without changing pace.",
+      "exercises": [
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 25"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Calf wall stretch",
+        "Hip flexor lunge",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Chasing the beat by speeding up the pace instead of shortening the stride.",
+        "Jumping cadence 15+ steps per minute at once — increase in small steps.",
+        "Tensing the shoulders and arms while trying to move the feet faster."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=running+cadence+180+drill+metronome"
+    },
+    {
       "id": "stride-outs",
       "group": "Speed work",
       "name": "Stride-outs",
@@ -42,6 +258,100 @@
         "Straining at 100% instead of staying relaxed at 90%."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=running+strides+workout"
+    },
+    {
+      "id": "interval-400s",
+      "group": "Speed work",
+      "name": "400m intervals",
+      "alt": "Track repeats with jog recovery",
+      "level": "Intermediate",
+      "muscles": "Quads · Hamstrings · Calves",
+      "desc": "Repeats of one lap at roughly 5K effort with equal-time jog recovery. Develops VO2max and the ability to hold form while breathing hard — the skill is running the last repeat at the same split as the first.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch",
+        "Hip flexor lunge"
+      ],
+      "mistakes": [
+        "Running the first repeat 10 seconds too fast and fading through the set.",
+        "Standing still during recovery instead of jogging to clear the legs.",
+        "Letting the shoulders hunch and stride shorten in the last 100m."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=400m+interval+workout+running"
+    },
+    {
+      "id": "flying-30s",
+      "group": "Speed work",
+      "name": "Flying 30s",
+      "alt": "Max-velocity sprints with a rolling start",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Calves",
+      "desc": "A 30m build into a 30m stretch at true top speed, timed through the fly zone. The only drill that trains maximal velocity mechanics — upright posture, stiff ankle contacts, and hamstrings pulling the ground backward. Full recovery between reps is non-negotiable.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 8",
+          "wgerId": 294
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Lying figure-4",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Straining and grimacing at top speed — maximal velocity requires a relaxed face and shoulders.",
+        "Cutting recovery short; under 3 minutes rest turns it into a conditioning session.",
+        "Overstriding in the fly zone instead of striking under the hips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flying+30s+sprint+workout"
     },
     {
       "id": "hill-repeats",
@@ -82,6 +392,345 @@
         "Sprinting the first rep and dying on the rest."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=hill+repeats+running"
+    },
+    {
+      "id": "downhill-running",
+      "group": "Strength",
+      "name": "Downhill running",
+      "alt": "Controlled descents for eccentric strength",
+      "level": "Advanced",
+      "muscles": "Quads · Calves · Core",
+      "desc": "Relaxed running down a gentle 3-5% grade, letting cadence rise while the quads absorb each landing eccentrically. Builds the braking strength that protects the legs late in hilly races — control comes from a slight forward lean and quick feet, not from leaning back.",
+      "exercises": [
+        {
+          "name": "Slow-eccentric leg press",
+          "scheme": "3 × 8",
+          "wgerId": 1515
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Eccentric single-leg calf raises",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Couch stretch",
+        "Calf wall stretch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Leaning back and braking with heel strikes — this hammers the quads and knees.",
+        "Overstriding down the slope instead of letting cadence rise.",
+        "Starting on steep grades before the legs have adapted to gentle ones."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=downhill+running+technique+tutorial"
+    },
+    {
+      "id": "easy-long-run",
+      "group": "Endurance",
+      "name": "Long run",
+      "alt": "Weekly extended easy run",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "The weekly cornerstone: 90 minutes or more at a fully conversational pace. Builds capillary density, fat metabolism, and tendon durability — adaptations that only come from time on feet, not from pace. Grow it by no more than 10% per week.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 20",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Calf wall stretch",
+        "Seated forward fold",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Running it a minute per mile too fast and stealing from the week's quality sessions.",
+        "Skipping fueling on runs over 75 minutes.",
+        "Adding distance in big jumps instead of gradual weekly increments."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=long+run+training+tips+running"
+    },
+    {
+      "id": "tempo-run",
+      "group": "Endurance",
+      "name": "Tempo run",
+      "alt": "Comfortably-hard sustained effort",
+      "level": "Intermediate",
+      "muscles": "Quads · Hamstrings · Core",
+      "desc": "20-40 minutes at threshold — the fastest pace you could hold for about an hour, roughly 'comfortably hard'. Raises the lactate threshold so race pace feels easier. The discipline is holding one steady effort, not surging and recovering.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Running it at 5K effort — if you couldn't speak a short sentence, it's too fast.",
+        "Treating it as a race and needing three days to recover.",
+        "Starting the tempo portion without a proper easy warm-up mile."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tempo+run+threshold+workout"
+    },
+    {
+      "id": "fartlek",
+      "group": "Endurance",
+      "name": "Fartlek",
+      "alt": "Unstructured speed play",
+      "level": "Intermediate",
+      "muscles": "Quads · Hamstrings · Calves",
+      "desc": "A continuous run mixing surges of varied length — to a lamppost, up a rise, for two minutes — with easy running between. Trains gear changes and mid-run recovery on tired legs, the exact skill needed to respond to moves in a race.",
+      "exercises": [
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 30s",
+          "wgerId": 996
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Standing quad stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Jogging so slowly between surges that it becomes plain intervals with rest.",
+        "Making every surge an all-out sprint instead of varying the gears.",
+        "Skipping it because there's no structure — the play is the point."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fartlek+run+workout+explained"
+    },
+    {
+      "id": "progression-run",
+      "group": "Endurance",
+      "name": "Progression run",
+      "alt": "Finish-faster continuous run",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Hamstrings",
+      "desc": "A continuous run that starts easy and ends near threshold, dropping the pace in thirds. Teaches negative splitting and running fast on pre-fatigued legs. The art is patience — the first third should feel almost too slow.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "3 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Calf wall stretch",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Dropping to the fast pace in the first mile and hanging on instead of building.",
+        "Finishing at an all-out sprint rather than a strong controlled threshold effort."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=progression+run+workout+running"
+    },
+    {
+      "id": "race-pace-intervals",
+      "group": "Racing",
+      "name": "Race-pace intervals",
+      "alt": "Goal-pace rehearsal repeats",
+      "level": "Advanced",
+      "muscles": "Quads · Hamstrings · Core",
+      "desc": "Long repeats — such as 3 × 2 miles at marathon pace or 5 × 1K at 10K pace — with short recoveries. Locks in the exact rhythm, fueling, and effort of goal pace so race day feels rehearsed. Pace discipline matters more here than fitness.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 6",
+          "wgerId": 507
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "4 × 12",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Hip flexor lunge",
+        "Standing quad stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Running repeats 10 seconds per mile fast and calling it fitness — it rehearses the wrong race.",
+        "Skipping race-day fueling and gear during the rehearsal.",
+        "Doing these workouts fresh only; some should land on tired legs."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=race+pace+interval+workout+running"
+    },
+    {
+      "id": "kick-finish-surges",
+      "group": "Racing",
+      "name": "Kick and surge work",
+      "alt": "Finishing-sprint repeats on tired legs",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Calves",
+      "desc": "Fast 200-400m repeats tacked onto the end of a tempo or long run, shifting from race rhythm to a sprint. Trains the neuromuscular shift to a finishing kick when glycogen is low and form wants to fall apart. The kick starts from the arms — the legs follow.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 8",
+          "wgerId": 294
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Calf wall stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Kicking with a long overstride instead of raising cadence first.",
+        "Practicing sprints only on fresh legs — the race kick happens on empty ones.",
+        "Tensing the shoulders and jaw, which shortens the stride exactly when it should open."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=finishing+kick+running+workout"
     }
   ]
 }

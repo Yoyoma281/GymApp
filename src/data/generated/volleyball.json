@@ -1,0 +1,745 @@
+{
+  "id": "volleyball",
+  "name": "Volleyball",
+  "emoji": "🏐",
+  "tag": "VB",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "defensive-position",
+      "group": "Ball control",
+      "name": "Defensive base position",
+      "alt": "Low ready stance for defence",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "The low, wide stance every dig starts from — feet outside the shoulders, weight on the balls of the feet, hands in front and off the knees. Quickness comes from staying loaded in the legs so the first move is a push, not a stand-up. You should be able to hold it comfortably for a full rally.",
+      "exercises": [
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Goblet squats (pause at bottom)",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Mini-band lateral walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Standing calf stretch on step"
+      ],
+      "mistakes": [
+        "Resting hands on the knees, which locks the arms out of the play.",
+        "Standing up between contacts and having to re-load for every ball.",
+        "Weight on the heels — the first step comes late every time."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+defensive+ready+position+tutorial"
+    },
+    {
+      "id": "forearm-pass",
+      "group": "Ball control",
+      "name": "Forearm pass",
+      "alt": "Bump pass on the platform",
+      "level": "Beginner",
+      "muscles": "Quads · Shoulders · Core",
+      "desc": "The foundation contact of the sport: a flat platform made by joining the forearms, angled to redirect the ball to the target. Control comes from the legs and the platform angle — the arms never swing. Get behind the ball early, freeze the platform, and let the legs do the lifting.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Front plank shoulder taps",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Dumbbell front raises",
+          "scheme": "3 × 12",
+          "wgerId": 256,
+          "imageUrl": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 40s",
+          "wgerId": 1408
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Deep squat hold",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Swinging the arms at the ball instead of angling a still platform.",
+        "Bending at the waist rather than the knees to reach a low ball.",
+        "Platform breaks apart on contact because the hands join too late."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+forearm+pass+bump+technique+tutorial"
+    },
+    {
+      "id": "serve-receive",
+      "group": "Ball control",
+      "name": "Serve receive",
+      "alt": "Passing a serve to the setter",
+      "level": "Intermediate",
+      "muscles": "Quads · Adductors · Core",
+      "desc": "Forearm passing under pressure: reading the server, moving early, and delivering a hittable ball to the setter's zone. Accuracy comes from beating the ball to its landing spot so contact happens on a balanced, midline platform. Angle the platform to target and cushion floats instead of stabbing at them.",
+      "exercises": [
+        {
+          "name": "Lateral sled drags",
+          "scheme": "4 × 15m / side"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Reactive shuttle shuffles",
+          "scheme": "6 × 10s"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Reaching sideways with the arms instead of moving the feet behind the ball.",
+        "Deciding late on floats and stabbing, which sprays the pass off the platform.",
+        "Passing flat and fast at the setter instead of high with shape."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+serve+receive+passing+technique"
+    },
+    {
+      "id": "dig",
+      "group": "Ball control",
+      "name": "Dig",
+      "alt": "Defending a hard-driven spike",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "An emergency platform contact that absorbs a spiked ball and pops it up playable. There is no time to swing — the dig is a pre-set platform, soft knees, and a slight cushion backward on contact. Positioning off the blocker's seam matters more than reflexes.",
+      "exercises": [
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 6",
+          "wgerId": 614
+        },
+        {
+          "name": "Lateral bounds with stick landing",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball drop catches",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "90/90 hip switch",
+        "Lying figure-4",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Standing tall when the hitter contacts — a hard ball is past you before you bend.",
+        "Swinging the platform at the ball, sending the dig over the net or out.",
+        "Watching the ball instead of reading the hitter's shoulder and approach."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+dig+defense+technique+tutorial"
+    },
+    {
+      "id": "pancake",
+      "group": "Ball control",
+      "name": "Pancake",
+      "alt": "Flat-hand floor save",
+      "level": "Advanced",
+      "muscles": "Core · Shoulders · Hip flexors",
+      "desc": "A last-resort save where the player extends into a slide and flattens the hand on the floor so the ball rebounds off the back of it. It is a controlled dive: chest low first, hand shooting out along the floor, ball bouncing off a rigid flat palm. Commitment and safe landing mechanics make it work.",
+      "exercises": [
+        {
+          "name": "Push-up to shoulder tap",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 20",
+          "wgerId": 996
+        },
+        {
+          "name": "Slider body saws",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Burpees",
+          "scheme": "3 × 8",
+          "wgerId": 132
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Child's pose",
+        "Wrist extensor stretch",
+        "Kneeling hip flexor stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Diving from standing height instead of getting low first — that is how ribs get bruised.",
+        "Cupping the hand, which kills the clean rebound off a flat palm.",
+        "Hesitating; a half-committed pancake reaches the ball a hand short."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+pancake+dig+technique+tutorial"
+    },
+    {
+      "id": "overhead-set",
+      "group": "Setting",
+      "name": "Overhead set",
+      "alt": "Hand setting the ball",
+      "level": "Beginner",
+      "muscles": "Forearms · Triceps · Quads",
+      "desc": "Shaping the ball above the forehead with both hands and extending through it to deliver a hittable arc. Power and touch come from the legs and full-body extension — the wrists spring, they don't slap. Hands make a ball-shaped window; contact is silent and simultaneous.",
+      "exercises": [
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Overhead medicine ball throws",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Close-grip dumbbell press",
+          "scheme": "3 × 10",
+          "wgerId": 1228
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Finger-tip push-up holds",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Overhead triceps stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Taking the ball in front of the face instead of above the hairline.",
+        "Slapping with the palms — contact should be on the finger pads, both hands together.",
+        "Setting with arms only; legs not bending means no distance control."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+setting+technique+beginner+tutorial"
+    },
+    {
+      "id": "jump-set",
+      "group": "Setting",
+      "name": "Jump set",
+      "alt": "Setting while airborne",
+      "level": "Advanced",
+      "muscles": "Calves · Core · Forearms",
+      "desc": "Setting the ball at the top of a jump to speed up the offence and disguise a dump. Consistency comes from a stable core in the air — the body cannot re-balance once airborne, so the jump must be vertical and the hands quiet. It shortens the opponent's read time by a full tempo.",
+      "exercises": [
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch on step",
+        "Wrist flexor stretch",
+        "Overhead triceps stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Drifting forward in the air, which telegraphs the set and breaks the rhythm.",
+        "Jumping late so the ball is taken on the way down with falling hands.",
+        "Different hand shape when dumping versus setting — blockers read it instantly."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+jump+set+setter+technique"
+    },
+    {
+      "id": "spike-approach",
+      "group": "Attacking",
+      "name": "Spike approach",
+      "alt": "Three or four-step attack run-up",
+      "level": "Beginner",
+      "muscles": "Glutes · Quads · Calves",
+      "desc": "The accelerating left-right-left (for right-handers) run-up that converts horizontal speed into vertical jump. The last two steps are a long penultimate step and a quick plant, with both arms swinging back then punching up. Most spiking power is decided before the player ever leaves the ground.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Standing calf stretch on step",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Even-paced steps instead of slow-to-fast acceleration into the plant.",
+        "No arm swing — the arms punching upward add inches to the jump.",
+        "Broad-jumping into the net instead of converting speed upward."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+spike+approach+footwork+tutorial"
+    },
+    {
+      "id": "arm-swing",
+      "group": "Attacking",
+      "name": "Spike arm swing",
+      "alt": "Hitting mechanics at the top of the jump",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Lats · Obliques",
+      "desc": "The bow-and-arrow hitting motion: elbow drawn high and back, chest opens, then the arm whips over a fast trunk snap to contact the ball at full reach. Power comes from hip-shoulder separation and trunk flexion, with the hand snapping over the top for topspin. Contact happens in front of the hitting shoulder.",
+      "exercises": [
+        {
+          "name": "Medicine ball overhead slams",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Single-arm cable pulldown throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Doorway pec stretch",
+        "Standing lat stretch on rack",
+        "Thoracic spine rotation on wall"
+      ],
+      "mistakes": [
+        "Dropping the elbow below the shoulder, turning the spike into a push.",
+        "Contacting the ball behind the head and sailing it long.",
+        "Stiff wrist at contact — no snap means no topspin to bring the ball down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+spike+arm+swing+mechanics"
+    },
+    {
+      "id": "roll-shot",
+      "group": "Attacking",
+      "name": "Roll shot & tip",
+      "alt": "Soft off-speed attack",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Forearms · Core",
+      "desc": "An off-speed attack using a full approach and full arm lift, but slowing the hand at the last instant to roll or tip the ball over the block. Deception is the whole skill — everything must look like a power swing until contact. The wrist rolls over the ball to drop it into open floor.",
+      "exercises": [
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Cable internal rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1728
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 up-downs"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Sleeper stretch"
+      ],
+      "mistakes": [
+        "Slowing the approach, which tells the defence the soft shot is coming.",
+        "Pushing the ball with a stiff hand instead of rolling the wrist over it.",
+        "Tipping to the same spot every time instead of reading the open floor."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+roll+shot+tip+technique"
+    },
+    {
+      "id": "back-row-attack",
+      "group": "Attacking",
+      "name": "Back-row attack",
+      "alt": "Spiking from behind the 3-meter line",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Core",
+      "desc": "A full spike launched from behind the attack line, jumping off one or two feet with a long broad-jump trajectory. The hitter takes off behind the line and contacts the ball deep in the court's airspace, so the swing must be flatter and driven by a powerful trunk snap. Timing the set while covering distance is the advanced part.",
+      "exercises": [
+        {
+          "name": "Barbell Romanian deadlifts",
+          "scheme": "4 × 6",
+          "wgerId": 1700
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Single-leg bounds",
+          "scheme": "3 × 5 / leg"
+        },
+        {
+          "name": "Medicine ball overhead slams",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Cobra stretch",
+        "Sleeper stretch"
+      ],
+      "mistakes": [
+        "Taking off in front of the line — an illegal attack from the back row.",
+        "Jumping straight up instead of through, losing the drifting contact point.",
+        "Swinging steeply down from deep court, netting a ball that needed a flat swing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+back+row+attack+pipe+technique"
+    },
+    {
+      "id": "block-footwork",
+      "group": "Blocking",
+      "name": "Block footwork & penetration",
+      "alt": "Moving along the net and sealing it",
+      "level": "Intermediate",
+      "muscles": "Calves · Quads · Shoulders",
+      "desc": "Shuffle and crossover steps along the net into a vertical jump, pressing the hands over and across the plane of the net. A good block penetrates — forearms angled down into the opponent's court so the ball deflects downward. Hands stay high between moves; the eyes read setter, then ball, then hitter.",
+      "exercises": [
+        {
+          "name": "Standing calf raises",
+          "scheme": "4 × 12",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Dumbbell overhead carries",
+          "scheme": "3 × 20m"
+        },
+        {
+          "name": "Wall shoulder taps in plank",
+          "scheme": "3 × 12 / side"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch on step",
+        "Overhead triceps stretch",
+        "Cross-body shoulder stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Reaching sideways while airborne instead of moving the feet first.",
+        "Hands apart on the press, leaving a seam the hitter can shoot through.",
+        "Jumping with the hitter's fake instead of the real attack tempo."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+blocking+footwork+technique+tutorial"
+    },
+    {
+      "id": "swing-block",
+      "group": "Blocking",
+      "name": "Swing block",
+      "alt": "Running block with full arm swing",
+      "level": "Advanced",
+      "muscles": "Glutes · Calves · Lats",
+      "desc": "A dynamic block using a spike-like approach and full double-arm swing to maximize jump height and press. The blocker runs the route, plants like an attacker, and swings both arms up to convert momentum into reach over the net. It trades timing difficulty for a much higher, more penetrating block.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Approach jumps with reach",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "Standing lat stretch on rack",
+        "Couch stretch",
+        "Standing calf stretch on step",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Drifting along the net in the air and colliding with a teammate's lane.",
+        "Arriving late so the swing happens on the way down, below the tape.",
+        "Turning the shoulders mid-air, opening a crosscourt hole in the block."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+swing+block+technique"
+    },
+    {
+      "id": "float-serve",
+      "group": "Serving",
+      "name": "Standing float serve",
+      "alt": "Flat serve with no spin that wobbles",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Forearms",
+      "desc": "A serve struck dead-centre with a firm, flat hand and no follow-through wrist snap, so the ball flies without spin and wobbles unpredictably. The float comes from a short punching contact that stops on the ball — any spin kills the effect. A low, consistent toss barely above reach is the secret.",
+      "exercises": [
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Medicine ball chest pass throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Snapping the wrist through contact, which adds spin and kills the float.",
+        "Tossing too high, making clean centre contact a lottery.",
+        "Long follow-through pushing the ball deep and out."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+float+serve+technique+tutorial"
+    },
+    {
+      "id": "jump-float",
+      "group": "Serving",
+      "name": "Jump float serve",
+      "alt": "Float serve with an approach jump",
+      "level": "Intermediate",
+      "muscles": "Calves · Core · Shoulders",
+      "desc": "A float serve hit from a short approach and jump, adding a flatter, faster trajectory while keeping the spinless wobble. The toss is low and slightly in front, and contact is still a firm punch that stops on the ball. The jump steepens the angle over the net and shortens the receiver's reaction window.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Medicine ball chest pass throws",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch on step",
+        "Sleeper stretch",
+        "Kneeling hip flexor stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Tossing with spin, which makes clean flat contact nearly impossible.",
+        "Over-jumping a high toss and hitting the ball on the way down.",
+        "Adding a wrist snap under pressure and serving a readable spin ball."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+jump+float+serve+technique"
+    },
+    {
+      "id": "jump-serve",
+      "group": "Serving",
+      "name": "Jump topspin serve",
+      "alt": "Full spike serve",
+      "level": "Advanced",
+      "muscles": "Shoulders · Lats · Glutes",
+      "desc": "A spike executed on your own toss: a high spinning toss in front, a full three-step approach, and a maximum-reach swing with an aggressive wrist snap. Power comes from the same kinetic chain as attacking — approach speed, trunk snap, then arm whip. High risk, but it turns the serve into a first attack.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Medicine ball overhead slams",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Single-arm cable pulldown throws",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Standing lat stretch on rack",
+        "Couch stretch",
+        "Cobra stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Inconsistent toss placement — the entire approach is built off the toss.",
+        "Contacting the ball behind the body, sending it long with no topspin.",
+        "Swinging at 100% with no margin instead of using spin to keep the ball in."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=volleyball+jump+serve+topspin+technique"
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "id": "triathlon",
+  "name": "Triathlon",
+  "emoji": "🏅",
+  "tag": "TR",
+  "category": "Endurance",
+  "drills": [
+    {
+      "id": "high-elbow-catch",
+      "group": "Swim",
+      "name": "High-elbow catch (EVF)",
+      "alt": "Grabbing the water with a bent, early-vertical forearm",
+      "level": "Beginner",
+      "muscles": "Lats · Shoulders · Forearms",
+      "desc": "The catch anchors the hand and forearm as a paddle while the body slides past it. Power comes from an early vertical forearm driven by lat engagement, not from pressing down with a straight arm. Practice with sculling and single-arm freestyle to feel the hold on the water.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Dumbbell pullovers",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Child's pose with side reach",
+        "Cross-body shoulder stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Dropping the elbow and pressing down on the water instead of back.",
+        "Rushing the catch and slipping water rather than holding it.",
+        "Crossing the hand over the centerline at entry."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=high-elbow%20catch%20(evf)%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "bilateral-breathing",
+      "group": "Swim",
+      "name": "Bilateral breathing",
+      "alt": "Breathing to both sides every three strokes",
+      "level": "Beginner",
+      "muscles": "Neck · Obliques · Shoulders",
+      "desc": "Breathing every three strokes keeps the stroke symmetrical and lets you breathe away from chop or a rival in open water. The skill is rotating just enough for one goggle to clear the surface while the head stays low on the bow wave. It builds CO2 tolerance and evens out body rotation.",
+      "exercises": [
+        {
+          "name": "Side plank with rotation",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable torso rotations",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Levator scapulae stretch",
+        "Upper trap stretch",
+        "Thread the needle",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Lifting the whole head to breathe, sinking the hips.",
+        "Holding the breath instead of exhaling continuously underwater.",
+        "Only practicing the strong side in training, then panicking when forced to the weak side on race day."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bilateral%20breathing%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "open-water-sighting",
+      "group": "Swim",
+      "name": "Open-water sighting",
+      "alt": "Lifting the eyes to spot the buoy without breaking stroke",
+      "level": "Intermediate",
+      "muscles": "Neck extensors · Core · Lower back",
+      "desc": "Sighting lifts only the eyes above the surface — 'crocodile eyes' — timed just before a normal breath so the stroke rhythm survives. The lift is driven by a brief press of the lead arm and core tension, not by craning the neck. Swimming straight saves more time than swimming fast.",
+      "exercises": [
+        {
+          "name": "Prone Y-T-W raises",
+          "scheme": "3 × 8 each"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        },
+        {
+          "name": "Kettlebell suitcase carry",
+          "scheme": "3 × 30 m / side"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Neck flexor stretch",
+        "Cat-cow",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Sighting too often and stalling the hips every lift.",
+        "Lifting the whole head and chest, which drops the legs and doubles drag.",
+        "Sighting and breathing in the same motion, swallowing chop."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=open-water%20sighting%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "open-water-start",
+      "group": "Swim",
+      "name": "Open-water race start",
+      "alt": "Sprinting the first 200 m through the washing machine",
+      "level": "Advanced",
+      "muscles": "Lats · Shoulders · Legs · Core",
+      "desc": "The start is a 60-90 second surge — beach run-in with dolphin dives or a deep-water sprint — to find clear water and feet to draft. Power comes from a high stroke rate held under contact and adrenaline, then a controlled settle to race pace. Rehearse the surge-and-settle so the spike doesn't blow up the whole swim.",
+      "exercises": [
+        {
+          "name": "Medicine ball slams",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Pull-ups",
+          "scheme": "4 × 6",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Battle ropes",
+          "scheme": "6 × 20s hard / 40s easy",
+          "wgerId": 1524
+        },
+        {
+          "name": "Burpee broad jumps",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Sled push sprints",
+          "scheme": "4 × 15 m"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Standing quad stretch",
+        "Ankle plantar-flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Starting at all-out sprint with no settle plan and going anaerobic for the whole swim.",
+        "Seeding too far forward and getting swum over, or too far back and fighting traffic.",
+        "Standing up too early on the beach exit instead of dolphin-diving until knee depth."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=open-water%20race%20start%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "cadence-spin-ups",
+      "group": "Bike",
+      "name": "High-cadence spin-ups",
+      "alt": "Smooth pedaling drills at 100+ rpm",
+      "level": "Beginner",
+      "muscles": "Quads · Hamstrings · Hip flexors · Calves",
+      "desc": "Spin-ups build a round, efficient pedal stroke by holding 100-110 rpm without bouncing in the saddle. Smoothness comes from hip flexors and hamstrings unweighting the rising pedal, so the quads never fight dead weight. A supple stroke saves the legs for the run.",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "scheme": "3 × 12",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        },
+        {
+          "name": "Single-leg glute bridge",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Standing quad stretch",
+        "Downward dog calf pedal"
+      ],
+      "mistakes": [
+        "Bouncing in the saddle — cadence has outrun core control.",
+        "Mashing squares: stomping down and letting the dead leg ride up as ballast.",
+        "Grinding big gears at low cadence and cooking the quads before T2."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=high-cadence%20spin-ups%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "aero-position-endurance",
+      "group": "Bike",
+      "name": "Aero position endurance",
+      "alt": "Holding the tuck on the tri bars without losing power",
+      "level": "Intermediate",
+      "muscles": "Neck · Lower back · Core · Glutes",
+      "desc": "Free speed on the bike comes from staying low and still on the aerobars for hours. The position is held by trained neck extensors, a braced core, and hip flexibility that lets you rotate the pelvis forward without power fading. Build time-in-position progressively, exactly like any other training load.",
+      "exercises": [
+        {
+          "name": "Front plank on forearms",
+          "scheme": "4 × 60s"
+        },
+        {
+          "name": "Bird dog",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1572,
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Prone neck extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Pigeon pose",
+        "Thoracic foam-roller extension",
+        "Upper trap stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Sitting up on every small rise and throwing away the aero savings.",
+        "Riding a position so aggressive that power drops more than the drag saved.",
+        "Never training long rides in the bars, then getting neck and back pain mid-race."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aero%20position%20endurance%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "race-pace-intervals",
+      "group": "Bike",
+      "name": "Race-pace bike intervals",
+      "alt": "Long steady efforts at goal watts",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Hamstrings · Core",
+      "desc": "Intervals of 10-30 minutes at goal race power teach the body — and the brain — what the target effort feels like when fatigued. Discipline is the skill: holding steady watts on climbs, descents, and into wind instead of surging. Even pacing on the bike is what makes the run possible.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 12",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Pigeon pose",
+        "Standing quad stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Surging over every rise and paying with matches you need for the run.",
+        "Riding above goal power early because it feels easy on fresh legs.",
+        "Judging effort by speed instead of power or heart rate."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=race-pace%20bike%20intervals%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "run-cadence-form",
+      "group": "Run",
+      "name": "Run cadence and form",
+      "alt": "Quick, light steps landing under the hips",
+      "level": "Beginner",
+      "muscles": "Calves · Glutes · Hip flexors · Core",
+      "desc": "A cadence around 170-180 steps per minute shortens ground contact and lands the foot under the hips instead of braking out front. Elasticity comes from stiff ankles and loaded calves acting as springs, with the glutes driving hip extension. Drills like high knees, A-skips, and strides groove the pattern.",
+      "exercises": [
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "A-skips",
+          "scheme": "4 × 20 m"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Single-leg hops",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Glute bridge",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Downward dog calf pedal",
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Seated figure-4"
+      ],
+      "mistakes": [
+        "Overstriding — reaching the foot out front and heel-striking into a brake.",
+        "Chasing cadence by shuffling with no hip extension behind the body.",
+        "Looking down at the feet, which collapses posture."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=run%20cadence%20and%20form%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "run-off-the-bike",
+      "group": "Run",
+      "name": "Run off the bike",
+      "alt": "Finding running legs after hours of pedaling",
+      "level": "Intermediate",
+      "muscles": "Quads · Calves · Hip flexors · Core",
+      "desc": "The first kilometer off the bike feels like running on stilts: hip flexors are shortened and the quads are pre-fatigued in a fixed range. The skill is starting at high cadence with short steps, tall posture, and deliberately relaxed effort until the legs recalibrate. Frequent short bike-to-run sessions make the sensation normal.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Step-ups on box",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Sprinting out of T2 on adrenaline and blowing up by kilometer three.",
+        "Letting the bike position carry over — running bent at the hips with a low gaze.",
+        "Never practicing the transition, so race day is the first time the legs feel it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=run%20off%20the%20bike%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "t1-transition",
+      "group": "Transitions & bricks",
+      "name": "T1: swim to bike",
+      "alt": "Wetsuit off, helmet on, out with the bike — fast",
+      "level": "Intermediate",
+      "muscles": "Full body · Balance · Hip mobility",
+      "desc": "T1 is a rehearsed sequence: goggles and cap off on the run in, wetsuit to the waist, then stripped over the timing chip at the rack, helmet clipped before touching the bike. Speed comes from choreography practiced until it needs no thought — every fumbled zipper is free time given away. A flying mount with shoes clipped to the pedals is the finishing touch.",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "scheme": "3 × 12",
+          "wgerId": 132
+        },
+        {
+          "name": "Single-leg balance reach",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Bodyweight squat to stand",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing forward fold",
+        "Ankle circles",
+        "Hip circles",
+        "Shoulder rolls"
+      ],
+      "mistakes": [
+        "Not walking the transition layout beforehand and losing the rack row.",
+        "Trying to strip the wetsuit standing still instead of on the move.",
+        "Touching the bike before the helmet is buckled — a penalty in most races."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=t1%3A%20swim%20to%20bike%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "t2-transition",
+      "group": "Transitions & bricks",
+      "name": "T2: bike to run",
+      "alt": "Racking the bike and hitting the run in seconds",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Balance",
+      "desc": "T2 rewards preparation: feet out of the bike shoes in the final kilometer, a clean dismount before the line, bike racked, then elastic laces and a grab-and-go visor and belt. The whole stop should take under a minute. Practicing the dismount at speed is the difference between flowing and fumbling.",
+      "exercises": [
+        {
+          "name": "Box step-downs",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Toe yoga / foot doming",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Jump rope",
+          "scheme": "3 × 60s",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Calf wall stretch",
+        "Hip flexor stretch",
+        "Toe touch hang"
+      ],
+      "mistakes": [
+        "Leaving shoes clipped in with no elastic laces, then wrestling knots on wobbly legs.",
+        "Dismounting after the line and taking a penalty.",
+        "Sprinting out of transition instead of settling into goal cadence."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=t2%3A%20bike%20to%20run%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "brick-workout",
+      "group": "Transitions & bricks",
+      "name": "Brick workout",
+      "alt": "Bike ride straight into a run, no rest",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Calves · Core",
+      "desc": "The brick — bike immediately followed by run — is triathlon's signature session, training the neuromuscular switch and the gut under sustained effort. Adaptation comes from repetition: even a 10-minute run off every long ride teaches the legs to change gait quickly. Start with short runs off easy rides and build toward race-intensity bricks.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 60s",
+          "wgerId": 1307
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Pigeon pose",
+        "Downward dog calf pedal",
+        "Standing hamstring stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Running the brick too fast and turning an adaptation session into a smash-fest.",
+        "Doing bricks only in the final weeks instead of all season.",
+        "Skipping fueling on the bike leg and running on empty."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=brick%20workout%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "race-pace-brick",
+      "group": "Transitions & bricks",
+      "name": "Race-pace brick",
+      "alt": "Full dress rehearsal at goal race intensity",
+      "level": "Advanced",
+      "muscles": "Full body · Aerobic system",
+      "desc": "A race-pace brick rides a long block at goal watts and runs off it at goal pace, in race kit, with race nutrition. It validates pacing, fueling, and equipment choices under honest fatigue — the closest thing to race day without a bib. Schedule it two to four weeks out and treat the data as your race plan's final edit.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Weighted step-ups",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 722
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Pigeon pose",
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Thoracic foam-roller extension"
+      ],
+      "mistakes": [
+        "Turning the rehearsal into a race and needing two weeks to recover.",
+        "Testing new gear or gels for the first time on race day instead of here.",
+        "Ignoring the data when it says the goal pace is too ambitious."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=race-pace%20brick%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "fueling-practice",
+      "group": "Fueling & race craft",
+      "name": "Fueling practice",
+      "alt": "Training the gut to absorb carbs on the move",
+      "level": "Beginner",
+      "muscles": "Aerobic system · Gut tolerance",
+      "desc": "Racing beyond 90 minutes demands 60-90 g of carbohydrate per hour, and the gut must be trained to absorb it like any muscle. Practice the exact gels, drink mix, and schedule in training, taking small doses early and often rather than heroic amounts when already depleted. Bottle grabs at speed and eating in the aero position are skills too.",
+      "exercises": [
+        {
+          "name": "Zone 2 bike with hourly fueling",
+          "scheme": "1 × 2h"
+        },
+        {
+          "name": "Long run with gel practice",
+          "scheme": "1 × 75 min"
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Supine spinal twist",
+        "Child's pose",
+        "Standing side bend"
+      ],
+      "mistakes": [
+        "Waiting until hungry or bonking — by then it's 30 minutes too late.",
+        "Racing with a nutrition plan never tested at race intensity.",
+        "Overdrinking plain water and flushing out electrolytes on hot days."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fueling%20practice%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "pacing-execution",
+      "group": "Fueling & race craft",
+      "name": "Negative-split pacing",
+      "alt": "Starting controlled to finish fast",
+      "level": "Intermediate",
+      "muscles": "Aerobic system · Discipline",
+      "desc": "Almost every triathlon PR is built on restraint: swim smooth, ride the first half slightly under goal power, and run the second half of the run faster than the first. The physiology is simple — every minute above threshold early costs several at the end. Train it by finishing key sessions faster than you start them, every time.",
+      "exercises": [
+        {
+          "name": "Progression runs",
+          "scheme": "1 × 40 min, last 10 min at race pace"
+        },
+        {
+          "name": "Negative-split bike intervals",
+          "scheme": "2 × 20 min"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Calf wall stretch",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Banking time early — the debt is repaid with heavy interest on the run.",
+        "Racing other athletes' surges instead of your own numbers.",
+        "Ignoring heat and wind and holding pace targets set for perfect conditions."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=negative-split%20pacing%20triathlon%20technique%20tutorial"
+    },
+    {
+      "id": "race-simulation",
+      "group": "Fueling & race craft",
+      "name": "Full race simulation",
+      "alt": "Swim-bike-run rehearsal with transitions",
+      "level": "Advanced",
+      "muscles": "Full body · Aerobic system",
+      "desc": "A scaled race simulation chains open-water swim, bike, and run with full transitions, race kit, and nutrition at controlled intensity. It surfaces every weak link — foggy goggles, a loose race belt, a pacing plan that unravels — while there is still time to fix it. Run one four to six weeks before the key race at roughly 70 percent of race distance.",
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "scheme": "3 × 8",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40 m"
+        }
+      ],
+      "stretches": [
+        "Full-body foam rolling",
+        "Pigeon pose",
+        "Doorway pec stretch",
+        "Couch stretch",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Running the simulation at full race effort and arriving at the start line flat.",
+        "Skipping the transitions — the part most athletes actually fumble.",
+        "Not writing down what failed while it's still fresh."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=full%20race%20simulation%20triathlon%20technique%20tutorial"
+    }
+  ]
+}

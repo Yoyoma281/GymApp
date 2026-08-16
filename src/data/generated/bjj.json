@@ -44,6 +44,683 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+shrimping+drill"
     },
     {
+      "id": "bridging-upa",
+      "group": "Movement fundamentals",
+      "name": "Upa",
+      "alt": "Bridge & roll escape",
+      "level": "Beginner",
+      "muscles": "Glutes · Lower back · Neck",
+      "desc": "An explosive hip bridge onto one shoulder that throws a mounted opponent over the top. Power comes from driving both feet into the mat and punching the hips straight up — trap the arm and leg first or the opponent simply posts out.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Neck bridges (wall-assisted)",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Cobra pose",
+        "Kneeling hip flexor stretch",
+        "Neck circles"
+      ],
+      "mistakes": [
+        "Bridging straight up instead of over the shoulder — the opponent just rides it.",
+        "Forgetting to trap the arm and foot on the same side before rolling.",
+        "Feet too far from the hips, which kills bridge height."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+upa+bridge+roll+mount+escape"
+    },
+    {
+      "id": "technical-stand-up",
+      "group": "Movement fundamentals",
+      "name": "Technical stand-up",
+      "alt": "Getting up in base",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "Standing up from the ground with one hand posted and a leg swung back underneath, keeping the free hand and knee between you and the opponent. It is a single-arm, single-leg push off the floor — strength here is literally a get-up.",
+      "exercises": [
+        {
+          "name": "Turkish get-ups",
+          "scheme": "3 × 3 / side",
+          "wgerId": 675
+        },
+        {
+          "name": "Reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 999,
+          "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif"
+        },
+        {
+          "name": "Single-arm dumbbell overhead press",
+          "scheme": "3 × 8 / arm",
+          "wgerId": 1968,
+          "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png"
+        },
+        {
+          "name": "Bear crawls",
+          "scheme": "3 × 15m"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Wrist flexor stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Swinging the leg back between the posted hand and the opponent instead of behind it.",
+        "Standing square and tall instead of rising into a staggered stance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+technical+stand+up+tutorial"
+    },
+    {
+      "id": "granby-roll",
+      "group": "Movement fundamentals",
+      "name": "Granby roll",
+      "alt": "Shoulder roll for guard recovery",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Neck",
+      "desc": "A sideways roll across the shoulders — never the head — used to invert and re-face an opponent passing your legs. Fluid granbys come from thoracic mobility and a core strong enough to keep the legs live mid-roll.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Wall walks",
+          "scheme": "3 × 3"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Plate halos",
+          "scheme": "3 × 10 / direction"
+        }
+      ],
+      "stretches": [
+        "Plow pose",
+        "Thread the needle",
+        "Cat-cow",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Rolling over the top of the head instead of across the shoulders — dangerous for the neck.",
+        "Going flat and losing the legs as a barrier mid-roll.",
+        "Inverting without a grip or frame, so the pass continues anyway."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+granby+roll+drill"
+    },
+    {
+      "id": "guard-retention",
+      "group": "Guard",
+      "name": "Guard retention frames",
+      "alt": "Keeping the legs between you and the passer",
+      "level": "Beginner",
+      "muscles": "Hips · Core · Hamstrings",
+      "desc": "The cycle of shin frames, foot posts and hip escapes that keeps your legs facing the passer. Retention is hip endurance: the athlete who can keep re-squaring for five minutes wins the guard battle.",
+      "exercises": [
+        {
+          "name": "Lying leg raises",
+          "scheme": "3 × 15",
+          "wgerId": 377,
+          "imageUrl": "https://wger.de/media/exercise-images/125/Leg-raises-2.png"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Seated leg press (single leg)",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1393
+        },
+        {
+          "name": "Bicycle crunches",
+          "scheme": "3 × 20",
+          "wgerId": 1412
+        }
+      ],
+      "stretches": [
+        "Happy baby",
+        "90/90 hip switch",
+        "Lying figure-4",
+        "Butterfly stretch"
+      ],
+      "mistakes": [
+        "Framing with straight, locked knees so the passer folds the legs aside.",
+        "Chasing grips with the hands while the hips stay flat and square."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+guard+retention+drills"
+    },
+    {
+      "id": "scissor-sweep",
+      "group": "Guard",
+      "name": "Tesoura",
+      "alt": "Scissor sweep",
+      "level": "Beginner",
+      "muscles": "Obliques · Hips · Lats",
+      "desc": "From closed guard, one shin cuts across the belly while the other leg chops the opponent's knee — a scissoring action timed with a hard collar-and-sleeve pull. The sweep works when you first break their posture and load their weight onto you.",
+      "exercises": [
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Side plank with leg lift",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1410
+        },
+        {
+          "name": "Lying hip adduction machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Spinal twist",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Sweeping a postured, upright opponent — pull them forward first.",
+        "The bottom leg chops at the ankle instead of blocking the knee."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+scissor+sweep+closed+guard"
+    },
+    {
+      "id": "hip-bump-sweep",
+      "group": "Guard",
+      "name": "Hip bump sweep",
+      "alt": "Sit-up sweep from closed guard",
+      "level": "Intermediate",
+      "muscles": "Core · Hips · Triceps",
+      "desc": "You sit up explosively into a posting opponent, trap their arm and drive your hips over the top to land in mount. It is one continuous sit-up-to-bridge — hesitate halfway and you get stuffed back down.",
+      "exercises": [
+        {
+          "name": "Weighted sit-ups",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Dips",
+          "scheme": "3 × 8",
+          "wgerId": 194,
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+        },
+        {
+          "name": "Medicine ball sit-up throws",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Cobra pose",
+        "Kneeling hip flexor stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Sitting up slowly and telegraphing — the opponent simply re-postures.",
+        "Bumping with the arm instead of the hip riding up and over.",
+        "Failing to trap the posting arm, leaving them a base to fall onto."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+hip+bump+sweep+tutorial"
+    },
+    {
+      "id": "butterfly-sweep",
+      "group": "Guard",
+      "name": "Butterfly sweep",
+      "alt": "Hook sweep from seated guard",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Hamstrings · Back",
+      "desc": "From seated butterfly guard, an underhook and a hooking shin elevate the opponent as you fall to your shoulder and kick them over. The lift is a hip-flexor and hamstring action synced with pulling their weight onto the hook — not a leg press.",
+      "exercises": [
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "One-arm dumbbell rows",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1186,
+          "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg"
+        },
+        {
+          "name": "Cable hip flexions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Rowing machine sprints",
+          "scheme": "4 × 250m"
+        }
+      ],
+      "stretches": [
+        "Butterfly stretch",
+        "Seated forward fold",
+        "Lat stretch on rack",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Falling straight backward instead of to the shoulder at 45 degrees.",
+        "Lifting with the hook before the opponent's weight is loaded onto it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+butterfly+sweep+tutorial"
+    },
+    {
+      "id": "knee-cut-pass",
+      "group": "Passing",
+      "name": "Knee cut pass",
+      "alt": "Knee slice through the guard",
+      "level": "Intermediate",
+      "muscles": "Quads · Adductors · Core",
+      "desc": "Slicing one knee diagonally across the opponent's thigh while pinning their legs and winning the underhook. Pressure comes from driving off the trailing leg with heavy hips — the passer's whole weight rides down the cutting shin.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 20m"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Cable adductions",
+          "scheme": "3 × 12 / leg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Cossack squat hold",
+        "Pigeon pose"
+      ],
+      "mistakes": [
+        "Cutting the knee without controlling the far hip or underhook — you land straight in a triangle or sweep.",
+        "Staying tall on the cut instead of dropping chest-to-chest pressure."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+knee+cut+pass+details"
+    },
+    {
+      "id": "torreando-pass",
+      "group": "Passing",
+      "name": "Torreando",
+      "alt": "Bullfighter pass",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Lats · Calves",
+      "desc": "Pinning both pant legs or shins and steering them aside like a matador while the feet sprint around the guard. It is a speed pass: stiff-arm control from the lats plus fast lateral footwork beat the hips re-squaring.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Agility ladder drills",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Standing calf stretch",
+        "Wrist flexor stretch",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Pushing the legs down instead of steering them offline — they spring straight back.",
+        "Passing with the arms while the feet stay planted."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+toreando+pass+tutorial"
+    },
+    {
+      "id": "over-under-pass",
+      "group": "Passing",
+      "name": "Over-under pass",
+      "alt": "Pressure pass with one arm over, one under",
+      "level": "Advanced",
+      "muscles": "Chest · Hips · Lower back",
+      "desc": "A smothering pressure pass: one arm over the leg, one under, head pinned low on the hip while the legs drive forward like a scrum. It rewards relentless hip drive and isometric upper-body strength rather than speed.",
+      "exercises": [
+        {
+          "name": "Barbell floor press",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Heavy sled drags",
+          "scheme": "4 × 20m"
+        },
+        {
+          "name": "Zercher squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Cobra pose",
+        "Doorway pec stretch",
+        "Kneeling hip flexor stretch",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Head floating high, giving space for frames and the underhook leg to escape.",
+        "Driving straight forward without circling toward the trapped leg's side."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+over+under+pressure+pass"
+    },
+    {
+      "id": "arm-drag-back-take",
+      "group": "Back control",
+      "name": "Arm drag to back take",
+      "alt": "Dragging the arm across to reach the back",
+      "level": "Intermediate",
+      "muscles": "Lats · Biceps · Core",
+      "desc": "Pulling the opponent's arm across their body by the triceps to expose the back, then climbing the hips behind them. The drag is a short, violent pulling motion — the finish is fast hip movement to arrive chest-to-back before they re-square.",
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "scheme": "4 × 6",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Gorilla rows",
+          "scheme": "3 × 8 / arm"
+        },
+        {
+          "name": "Rope climbs",
+          "scheme": "3 × 1"
+        },
+        {
+          "name": "Russian twists",
+          "scheme": "3 × 20",
+          "wgerId": 1193,
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Cross-body shoulder stretch",
+        "Spinal twist"
+      ],
+      "mistakes": [
+        "Dragging the wrist only — grip the triceps to move the whole arm across.",
+        "Pulling the arm but leaving your hips in place, so they face you again instantly."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+arm+drag+back+take"
+    },
+    {
+      "id": "back-control-hooks",
+      "group": "Back control",
+      "name": "Back control & seat belt",
+      "alt": "Keeping the back with hooks and chest pressure",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Forearms · Core",
+      "desc": "Riding the opponent's back with a seat-belt grip and both hooks in, following their rolls like a backpack. Retention is grip endurance plus leg dexterity — the hooks steer the hips while the chest stays glued between the shoulder blades.",
+      "exercises": [
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 20"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Finger extensor stretch",
+        "Happy baby",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Crossing the ankles in front — a straight-ankle lock waiting to happen.",
+        "Squeezing with the hooks so hard the hips can't follow the opponent's turns.",
+        "Letting the chest peel off the back, creating space to slip out."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+back+control+retention+drills"
+    },
+    {
+      "id": "armbar-from-guard",
+      "group": "Submissions",
+      "name": "Juji-gatame",
+      "alt": "Armbar from closed guard",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Hamstrings · Core",
+      "desc": "Isolating an arm from guard, swinging the hips out and clamping the legs over the head and chest to hyperextend the elbow. The finish is a hip bridge with the knees squeezed tight — the arms only hold, the hips break.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Lying hip adduction machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        },
+        {
+          "name": "Reverse crunches",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Seated straddle",
+        "Happy baby",
+        "Lying hamstring stretch with band"
+      ],
+      "mistakes": [
+        "Knees drifting apart at the finish — all the breaking pressure leaks out.",
+        "Staying square instead of cutting the angle before throwing the leg over the head.",
+        "Pulling with the arms before the hips are under the shoulder."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+armbar+from+closed+guard+tutorial"
+    },
+    {
+      "id": "triangle-choke",
+      "group": "Submissions",
+      "name": "Sankaku-jime",
+      "alt": "Triangle choke",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Adductors · Hips",
+      "desc": "Trapping the head and one arm inside a figure-four of the legs, strangling with the thigh against the neck. Finishing is angle plus squeeze: cut perpendicular, pull the head down and drive the knees together with the hamstrings and adductors.",
+      "exercises": [
+        {
+          "name": "Lying leg curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Lying hip adduction machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Lying hamstring stretch with band",
+        "Pigeon pose",
+        "Seated straddle",
+        "Butterfly stretch"
+      ],
+      "mistakes": [
+        "Staying square to the opponent instead of cutting an angle toward the trapped arm.",
+        "Locking the figure-four over the toes instead of the shin behind the knee."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+triangle+choke+setup+tutorial"
+    },
+    {
+      "id": "rear-naked-choke",
+      "group": "Submissions",
+      "name": "Mata leão",
+      "alt": "Rear naked choke",
+      "level": "Intermediate",
+      "muscles": "Biceps · Forearms · Chest",
+      "desc": "The blood choke from back control: one arm slides under the chin, the hand locks on the opposite biceps, and the squeeze comes from drawing the elbows together with the chest. It is finished by expansion of the whole upper body, not by sawing the forearm.",
+      "exercises": [
+        {
+          "name": "Hammer curls",
+          "scheme": "3 × 10",
+          "wgerId": 272,
+          "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png"
+        },
+        {
+          "name": "Cable chest flyes",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Towel dead hangs",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Squeezing on the jaw instead of getting under the chin first.",
+        "Rushing the second hand behind the head where it gets stripped — hide it early."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rear+naked+choke+details+bjj"
+    },
+    {
+      "id": "grip-fighting",
+      "group": "Takedowns",
+      "name": "Grip fighting",
+      "alt": "Winning the tie-up before the shot",
+      "level": "Beginner",
+      "muscles": "Forearms · Traps · Shoulders",
+      "desc": "The hand-fighting battle for collar, sleeve or wrist control that decides who can attack. Strong grips and endurance in the forearms let you dictate posture and angle before any takedown or pull happens.",
+      "exercises": [
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 12",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Finger extensor stretch",
+        "Cross-body shoulder stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Reaching for grips with straight arms and a broken posture.",
+        "Holding dead grips that control nothing instead of gripping with purpose."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bjj+grip+fighting+fundamentals"
+    },
+    {
       "id": "takedown-entries",
       "group": "Takedowns",
       "name": "Takedown entries",
@@ -80,6 +757,48 @@
         "Short penetration step — head ends up too far away."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=wrestling+takedown+entries"
+    },
+    {
+      "id": "double-leg-finish",
+      "group": "Takedowns",
+      "name": "Double leg finish",
+      "alt": "Driving through after the shot",
+      "level": "Advanced",
+      "muscles": "Legs · Glutes · Back",
+      "desc": "After the penetration step: head tight on the hip, hands locked behind the knees, then a corner-turning drive that runs the opponent to the mat. The finish is a loaded sprint from a deep lunge — posture and leg drive, never a pull with the arms.",
+      "exercises": [
+        {
+          "name": "Back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Heavy sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Power cleans",
+          "scheme": "4 × 3",
+          "wgerId": 683
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Driving straight through the middle instead of cutting the corner.",
+        "Head dropping to the outside or floating off the body, eating guillotines.",
+        "Stalling on both knees instead of running the feet on impact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=double+leg+takedown+finish+wrestling"
     }
   ]
 }

@@ -1,0 +1,747 @@
+{
+  "id": "rugby",
+  "name": "Rugby",
+  "emoji": "🏉",
+  "tag": "RG",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "hit-up-carry",
+      "group": "Running & evasion",
+      "name": "Hit-up ball carry",
+      "alt": "Running hard into contact with the ball secure",
+      "level": "Beginner",
+      "muscles": "Glutes · Quads · Core",
+      "desc": "Carrying the ball into contact with a low body height, short powerful steps, and the ball clamped in two hands or under the far arm. Go-forward comes from leg drive continuing through and beyond the tackle, not from the initial collision. Win the ground after contact, then present the ball cleanly.",
+      "exercises": [
+        {
+          "name": "Forward sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Front plank",
+          "scheme": "3 × 45s",
+          "wgerId": 1307
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "90/90 hip switch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Running upright into contact and getting driven backward.",
+        "Carrying the ball loosely in one hand where the defender can strip it.",
+        "Stopping the legs at the moment of contact instead of driving through it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+ball+carry+into+contact+technique"
+    },
+    {
+      "id": "sidestep",
+      "group": "Running & evasion",
+      "name": "Sidestep",
+      "alt": "Sharp cut to beat a defender",
+      "level": "Intermediate",
+      "muscles": "Glutes · Adductors · Calves",
+      "desc": "A hard plant off the outside foot that throws the body onto a new line while the defender's weight is committed. The cut comes from a short, stabbing plant step and an immediate re-acceleration — the change of direction is only as good as the sprint out of it. Sell the fake with the hips and eyes, not just the feet.",
+      "exercises": [
+        {
+          "name": "Skater jumps (stick landing)",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 25s / side"
+        },
+        {
+          "name": "5-10-5 shuttle sprints",
+          "scheme": "5 × 1"
+        }
+      ],
+      "stretches": [
+        "Standing adductor rock",
+        "90/90 hip switch",
+        "Standing calf stretch on step",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Rounding the cut into a curve instead of a sharp angle off the plant foot.",
+        "Slowing down long before the step, telegraphing it to the defender.",
+        "Planting with the whole body leaning so far the re-acceleration stalls."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+sidestep+technique+evasion+tutorial"
+    },
+    {
+      "id": "fend-hand-off",
+      "group": "Running & evasion",
+      "name": "Fend / hand-off",
+      "alt": "Straight-arm push to break a tackle",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Chest · Core",
+      "desc": "A locked or punching straight arm into the tackler's shoulder or chest that breaks their line to the ball carrier's body. Power comes from timing the punch as the tackler dips, with the carrier's own leg drive continuing underneath it. The ball switches to the far arm before the fend arm ever extends.",
+      "exercises": [
+        {
+          "name": "Single-arm dumbbell bench press",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1968,
+          "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png"
+        },
+        {
+          "name": "Standing single-arm cable press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball punch throws",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Child's pose with side reach"
+      ],
+      "mistakes": [
+        "Pushing at the tackler's head — a penalty and a poor lever.",
+        "Fending with a bent, soft arm that collapses on contact.",
+        "Stopping the legs to deliver the fend instead of fending on the run."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+fend+hand+off+technique+tutorial"
+    },
+    {
+      "id": "repeat-sprint-fitness",
+      "group": "Running & evasion",
+      "name": "Contact fitness / repeat efforts",
+      "alt": "Getting up and going again, all game",
+      "level": "Advanced",
+      "muscles": "Full body · Quads · Lungs",
+      "desc": "Rugby fitness is repeat efforts: sprint, hit, floor, up, and sprint again with incomplete rest. Training pairs a grappling or ground element with an immediate sprint so the body learns to run under fatigue and rise fast off the deck. The best players lose the least speed on effort ten.",
+      "exercises": [
+        {
+          "name": "Sled push-to-sprint repeats",
+          "scheme": "6 × 20m"
+        },
+        {
+          "name": "Burpee broad jumps",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Battle rope slams",
+          "scheme": "6 × 20s"
+        },
+        {
+          "name": "Get-up sprints (from chest)",
+          "scheme": "6 × 15m"
+        },
+        {
+          "name": "Assault bike intervals",
+          "scheme": "8 × 20s on / 40s off"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Child's pose",
+        "Downward dog calf pedal",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Training only steady-state running, which never mimics collision fatigue.",
+        "Full rest between reps — the game never gives it to you.",
+        "Letting technique rot in the final reps, which is exactly when matches are decided."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+conditioning+repeat+sprint+training"
+    },
+    {
+      "id": "pop-pass",
+      "group": "Ball handling",
+      "name": "Pop pass",
+      "alt": "Short soft pass to a runner",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "A short, soft two-handed pass floated into the space in front of a supporting runner. Touch comes from the wrists and fingers lifting the ball gently — the runner's pace supplies the power. The passer's job is to hold the defender's interest until the last usable moment.",
+      "exercises": [
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Medicine ball underhand toss",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Cable front raises",
+          "scheme": "3 × 12",
+          "wgerId": 1731
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Firing the pop too hard at close range so the runner can't gather it.",
+        "Popping the ball behind the runner instead of into the space ahead.",
+        "Looking at the receiver early and telling the defence exactly what's coming."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+pop+pass+technique+tutorial"
+    },
+    {
+      "id": "spin-pass",
+      "group": "Ball handling",
+      "name": "Spin pass",
+      "alt": "Long spiral pass off either hand",
+      "level": "Intermediate",
+      "muscles": "Core · Lats · Forearms",
+      "desc": "A long, flat pass spun off the outside hand, rotating the ball for distance and stability in the wind. Power comes from stepping toward the target and rotating the trunk through, with the wrists rolling over the ball at release. Both sides must be equal — a one-sided passer halves the pitch.",
+      "exercises": [
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Single-arm cable rows",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1621,
+          "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg"
+        },
+        {
+          "name": "Dumbbell wrist pronation/supination",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Thoracic spine rotation on wall",
+        "Wrist flexor stretch",
+        "Standing lat stretch on rack",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "All arms, no trunk rotation — the pass dies short and floats.",
+        "Practising only the dominant side and hiding from the weak-hand spin.",
+        "Winding the ball back low and slow, giving defenders time to shoot the gap."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+spin+pass+technique+both+hands"
+    },
+    {
+      "id": "offload",
+      "group": "Ball handling",
+      "name": "Offload in the tackle",
+      "alt": "Keeping the ball alive through contact",
+      "level": "Advanced",
+      "muscles": "Core · Shoulders · Forearms",
+      "desc": "Freeing the ball to a support runner while being tackled — fighting to keep the arms free, turning in the grip, and flicking the ball away one-handed or out the back door. It demands strength through contact and a scan for support before the collision. The offload beats defenders the ruck never will.",
+      "exercises": [
+        {
+          "name": "Single-arm dumbbell press (offset stance)",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Landmine rotational press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Farmer's carries (single arm)",
+          "scheme": "3 × 20m / side"
+        },
+        {
+          "name": "Medicine ball one-arm push throws",
+          "scheme": "3 × 5 / side"
+        },
+        {
+          "name": "Turkish get-ups",
+          "scheme": "3 × 3 / side",
+          "wgerId": 675
+        }
+      ],
+      "stretches": [
+        "Thoracic spine rotation on wall",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Child's pose with side reach"
+      ],
+      "mistakes": [
+        "Forcing an offload with no support runner — a gifted turnover.",
+        "Letting both arms get wrapped because the carry was too low and tight.",
+        "Flicking blind instead of turning to see the receiver first."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+offload+in+tackle+technique"
+    },
+    {
+      "id": "tackle-technique",
+      "group": "Contact & breakdown",
+      "name": "Front-on tackle",
+      "alt": "Safe, dominant tackle technique",
+      "level": "Beginner",
+      "muscles": "Legs · Shoulders · Neck",
+      "desc": "The foundation tackle: eyes up, spine straight, cheek to cheek — head placed behind or beside the carrier, never in front. Dominance comes from a low body height, a same-shoulder hit with the near shoulder, a tight ring of the arms, and leg drive through the contact. Footwork gets you close; the shoulder does the rest.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Sled drives (low position)",
+          "scheme": "4 × 10m"
+        },
+        {
+          "name": "Dumbbell shrugs",
+          "scheme": "3 × 12",
+          "wgerId": 572,
+          "imageUrl": "https://wger.de/media/exercise-images/151/Dumbbell-shrugs-2.png"
+        },
+        {
+          "name": "Neck harness raises (4-way)",
+          "scheme": "3 × 10 each"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Neck side flexion stretch",
+        "Levator scapulae stretch",
+        "Doorway pec stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Head on the wrong side of the carrier — the number one injury error.",
+        "Tackling tall and getting bumped off by the carrier's leg drive.",
+        "Arms slapping instead of wrapping, letting the carrier offload or bounce free."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+tackle+technique+safe+tackling+tutorial"
+    },
+    {
+      "id": "ruck-cleanout",
+      "group": "Contact & breakdown",
+      "name": "Ruck cleanout",
+      "alt": "Clearing defenders off the breakdown",
+      "level": "Intermediate",
+      "muscles": "Legs · Glutes · Trunk",
+      "desc": "Arriving low through the gate and driving a threatening defender up and away from the ball. Effective cleanouts come from a flat back, a target under the opponent's chest, and leg drive that lifts them off their anchor points. Arrive first and low — the height battle is decided before contact.",
+      "exercises": [
+        {
+          "name": "Low sled pushes",
+          "scheme": "4 × 10m"
+        },
+        {
+          "name": "Barbell front squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Incline barbell bench press",
+          "scheme": "3 × 8",
+          "wgerId": 538,
+          "imageUrl": "https://wger.de/media/exercise-images/41/Incline-bench-press-1.png"
+        },
+        {
+          "name": "Glute-ham raises",
+          "scheme": "3 × 8",
+          "wgerId": 2478
+        },
+        {
+          "name": "Bear crawls",
+          "scheme": "3 × 15m"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Cobra stretch",
+        "Doorway pec stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Arriving high and adding weight to the pile instead of moving anyone.",
+        "Diving off the feet into the ruck — a penalty and useless as a clean.",
+        "Entering from the side rather than through the gate behind the ball."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+ruck+cleanout+technique+breakdown"
+    },
+    {
+      "id": "jackal",
+      "group": "Contact & breakdown",
+      "name": "Jackal / breakdown steal",
+      "alt": "Winning turnover ball over the tackle",
+      "level": "Advanced",
+      "muscles": "Glutes · Back · Grip",
+      "desc": "Attacking the ball the instant a tackle is completed: wide base, weight supported over the ball, hands ripping upward before the cleanout arrives. The steal is won by staying on the feet under a car crash of body weight — hip strength and an iron grip decide it. Timing beats bravery; a half-second early is a penalty, a half-second late is a bruise.",
+      "exercises": [
+        {
+          "name": "Barbell Romanian deadlifts",
+          "scheme": "4 × 6",
+          "wgerId": 1700
+        },
+        {
+          "name": "Bent-over barbell rows",
+          "scheme": "4 × 8",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Isometric squat hold (low)",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Towel pull-up holds",
+          "scheme": "3 × 20s",
+          "wgerId": 1537
+        },
+        {
+          "name": "Heavy kettlebell rack holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Deep squat hold",
+        "Wrist flexor stretch",
+        "Child's pose",
+        "Neck side flexion stretch"
+      ],
+      "mistakes": [
+        "Hands on the ball before the tackle is complete — penalty every time.",
+        "Base too narrow, so the first cleanout knocks you off the ball.",
+        "Putting knees or elbows on the ground and losing the right to play the ball."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+jackal+turnover+breakdown+technique"
+    },
+    {
+      "id": "scrummage-body-position",
+      "group": "Set piece",
+      "name": "Scrummaging body position",
+      "alt": "Flat-back pushing shape in the scrum",
+      "level": "Intermediate",
+      "muscles": "Legs · Spinal erectors · Neck",
+      "desc": "The load-bearing shape of the scrum: flat back, hips below shoulders, chin off the chest, and shins driving at a low angle like a leg press into the ground. Pushing power is transmitted only through a rigid spine — any curve leaks force and invites injury. The hit and the eight-man shove both live or die on this position.",
+      "exercises": [
+        {
+          "name": "Barbell back squats (pause)",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Heavy sled pushes (low handles)",
+          "scheme": "5 × 10m"
+        },
+        {
+          "name": "Barbell good mornings",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Neck harness raises (4-way)",
+          "scheme": "3 × 10 each"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "4 × 8",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Child's pose",
+        "Neck side flexion stretch",
+        "Couch stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Rounding the back under load, collapsing the drive and risking the neck.",
+        "Hips higher than shoulders, pushing force down into the ground instead of forward.",
+        "Overextending the step so the shins lose their drive angle."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+scrummaging+body+position+technique"
+    },
+    {
+      "id": "lineout-lifting",
+      "group": "Set piece",
+      "name": "Lineout lifting",
+      "alt": "Launching and holding the jumper",
+      "level": "Intermediate",
+      "muscles": "Legs · Shoulders · Traps",
+      "desc": "Two lifters exploding a jumper into the air: dip, drive through the legs, and punch the arms to full lockout at the jumper's thighs and shorts. The lift is a synchronized front-and-back squat-to-press — the jumper is light if the timing is right and impossibly heavy if it isn't. Control the descent as carefully as the launch.",
+      "exercises": [
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Barbell front squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Dumbbell overhead carries",
+          "scheme": "3 × 20m"
+        },
+        {
+          "name": "Landmine squat-to-press",
+          "scheme": "3 × 8",
+          "wgerId": 1829
+        },
+        {
+          "name": "Barbell shrugs",
+          "scheme": "3 × 10",
+          "wgerId": 571,
+          "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png"
+        }
+      ],
+      "stretches": [
+        "Overhead triceps stretch",
+        "Lat stretch on rack",
+        "Doorway pec stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Lifting with the arms and back instead of driving from a leg dip.",
+        "Front and back lifter firing at different times, tilting the jumper mid-air.",
+        "Dropping the jumper from the top instead of lowering under control."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+lineout+lifting+technique+tutorial"
+    },
+    {
+      "id": "lineout-jumping",
+      "group": "Set piece",
+      "name": "Lineout jumping",
+      "alt": "Timing the jump and winning the catch",
+      "level": "Advanced",
+      "muscles": "Calves · Core · Shoulders",
+      "desc": "The jumper's craft: a deceptive move off the ground, a vertical leap with a rigid core so the lifters can extend, and a two-handed catch at the top. Height comes from the jumper and lifters summing their force in the same instant — the jumper must jump, not sit in the lift. Rigid body, soft hands.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "4 × 12",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Overhead medicine ball catches",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing calf stretch on step",
+        "Overhead triceps stretch",
+        "Child's pose",
+        "Thoracic extension over foam roller"
+      ],
+      "mistakes": [
+        "Relaxing the core mid-lift so the lifters are pressing a wet sack.",
+        "Jumping forward or drifting across the line instead of straight up.",
+        "Catching one-handed when two hands were available — turnovers live there."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+lineout+jumper+technique+timing"
+    },
+    {
+      "id": "punt-box-kick",
+      "group": "Kicking",
+      "name": "Punt & box kick",
+      "alt": "Kicking for territory out of hand",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Quads · Core",
+      "desc": "Dropping the ball onto the foot for distance and hang time — the spiral or end-over-end punt for territory, and the high box kick over the shoulder from the base of a ruck. Distance comes from hip flexor whip and a locked ankle striking the ball's sweet spot, with the plant leg braced tall. Hang time lets chasers arrive with the ball.",
+      "exercises": [
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Band-resisted leg swings",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Tossing the ball up instead of dropping it flat onto the foot.",
+        "Floppy ankle at contact, spraying the kick off the side of the boot.",
+        "Kicking long and flat with no hang time, gifting the counter-attack."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+punt+box+kick+technique+tutorial"
+    },
+    {
+      "id": "goal-kicking",
+      "group": "Kicking",
+      "name": "Place kicking",
+      "alt": "Kicking for goal off the tee",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Glutes · Core",
+      "desc": "The routine-driven strike off the tee: consistent steps back and across, a stable plant foot beside the ball, and the instep sweeping through a fixed contact point toward the posts. Accuracy is a repeatable routine and a still head — power is the hips swinging through a braced plant side. The kick is decided before the run-up starts.",
+      "exercises": [
+        {
+          "name": "Cable hip flexor kicks",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Single-leg glute bridges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1740
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 25s / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Standing adductor rock",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Lifting the head early to watch the result and pulling the strike.",
+        "Plant foot too far from the ball, forcing a reach that hooks the kick.",
+        "Changing the routine under pressure — the routine is the technique."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+place+kicking+goal+kicking+technique"
+    },
+    {
+      "id": "grubber-kick",
+      "group": "Kicking",
+      "name": "Grubber kick",
+      "alt": "Low stabbing kick along the ground",
+      "level": "Advanced",
+      "muscles": "Quads · Hip flexors · Core",
+      "desc": "A short, stabbing kick that drives the ball point-first into the ground so it tumbles low behind a rushing defensive line. The strike is down through the top half of the ball with a short punchy swing, weighted for the chaser to regather in stride. It is an attacking pass with the foot, played at full running speed.",
+      "exercises": [
+        {
+          "name": "Split squats (short range, fast)",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Downward dog calf pedal",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Kicking the bottom of the ball so it pops up into a defender's arms.",
+        "Over-hitting it dead instead of weighting it for the chase.",
+        "Breaking stride to kick, which tells the defence to drop and cover."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=rugby+grubber+kick+technique+tutorial"
+    }
+  ]
+}

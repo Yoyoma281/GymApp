@@ -1,0 +1,695 @@
+{
+  "id": "tennis",
+  "name": "Tennis",
+  "emoji": "🎾",
+  "tag": "TN",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "split-step",
+      "group": "Footwork & movement",
+      "name": "Split step",
+      "alt": "Ready hop before every shot",
+      "level": "Beginner",
+      "muscles": "Calves · Quads · Core",
+      "desc": "A small two-footed hop timed to land exactly as the opponent strikes the ball, loading both legs like springs. Reaction speed comes from the elastic rebound out of the landing, not from conscious decision-making. Land wide, low, and on the balls of the feet.",
+      "exercises": [
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Barbell jump squats",
+          "scheme": "4 × 5 (light)"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Downward dog calf pedal",
+        "Standing calf stretch on step",
+        "Ankle circles",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Hopping too early and landing flat-footed before the opponent hits.",
+        "Landing with straight knees, which kills the elastic rebound.",
+        "Feet too narrow on landing — no base to push sideways from."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+split+step+tutorial"
+    },
+    {
+      "id": "lateral-recovery",
+      "group": "Footwork & movement",
+      "name": "Lateral shuffle & recovery",
+      "alt": "Side-stepping back to the middle",
+      "level": "Beginner",
+      "muscles": "Glutes · Adductors · Calves",
+      "desc": "Low side shuffles used to return to the centre of the baseline after each shot without crossing the feet. Speed comes from pushing hard off the outside leg while the hips stay low and level. The last step out to the ball is always the biggest.",
+      "exercises": [
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Lateral sled drags",
+          "scheme": "4 × 15m / side"
+        },
+        {
+          "name": "Mini-band lateral walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Standing adductor rock",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Standing tall between shuffles instead of staying in an athletic crouch.",
+        "Crossing the feet, which leaves you stuck if the ball comes back behind you.",
+        "Watching your own feet instead of the opponent's racquet."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+lateral+shuffle+recovery+footwork+drill"
+    },
+    {
+      "id": "crossover-first-step",
+      "group": "Footwork & movement",
+      "name": "Crossover first step",
+      "alt": "Explosive first step to a wide ball",
+      "level": "Intermediate",
+      "muscles": "Glutes · Hip flexors · Hamstrings",
+      "desc": "Turning the hips and driving the outside knee across the body to sprint for a wide or short ball. The first step is powered by a violent push from the far leg while the torso stays forward. It converts the split-step landing directly into a sprint.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Sled sprints",
+          "scheme": "6 × 15m"
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "World's greatest stretch"
+      ],
+      "mistakes": [
+        "Taking a small stutter step first instead of one decisive crossover.",
+        "Rising up out of the split-step before pushing off, wasting the stored spring.",
+        "Leaning back while sprinting, which slows the first two steps."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+crossover+step+wide+ball+footwork"
+    },
+    {
+      "id": "forehand-drive",
+      "group": "Groundstrokes",
+      "name": "Topspin forehand",
+      "alt": "Basic forehand drive",
+      "level": "Beginner",
+      "muscles": "Hips · Obliques · Shoulders",
+      "desc": "The primary attacking groundstroke, brushing up the back of the ball with a semi-western grip. Power is generated from the ground up — legs load, hips fire, torso uncoils, and the arm is the last link in the chain. The racquet finishes over the opposite shoulder.",
+      "exercises": [
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Thoracic spine rotation on wall",
+        "Cross-body shoulder stretch",
+        "90/90 hip switch",
+        "Standing chest opener"
+      ],
+      "mistakes": [
+        "Swinging with the arm only while the hips stay square to the net.",
+        "Contacting the ball late, beside the body instead of out in front.",
+        "A short jabby follow-through that cuts off the topspin brush."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+topspin+forehand+technique+tutorial"
+    },
+    {
+      "id": "two-handed-backhand",
+      "group": "Groundstrokes",
+      "name": "Two-handed backhand",
+      "alt": "Double-handed backhand drive",
+      "level": "Beginner",
+      "muscles": "Core · Lats · Forearms",
+      "desc": "A compact, stable groundstroke driven by both arms working as one unit, with the non-dominant arm doing most of the pushing through contact. Power comes from shoulder turn and leg drive rather than a big backswing. It handles high balls and pace better than the one-hander.",
+      "exercises": [
+        {
+          "name": "Cable low-to-high chops",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Medicine ball shot-put toss (non-dominant)",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Dumbbell reverse lunges",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Thoracic spine rotation on wall"
+      ],
+      "mistakes": [
+        "Dominant arm takes over and muscles the ball, pulling it wide.",
+        "No shoulder turn on preparation — the swing becomes all arms.",
+        "Contact too close to the body, cramping both elbows."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=two+handed+backhand+tennis+technique"
+    },
+    {
+      "id": "slice-backhand",
+      "group": "Groundstrokes",
+      "name": "Slice backhand",
+      "alt": "Backspin defensive backhand",
+      "level": "Intermediate",
+      "muscles": "Rear delts · Lats · Forearms",
+      "desc": "A high-to-low carving stroke that puts backspin on the ball, keeping it low and skidding. Control comes from a firm wrist and a long, level finish rather than chopping down steeply. It buys time on defence and drags opponents forward off the baseline.",
+      "exercises": [
+        {
+          "name": "Cable high-to-low chops",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Reverse dumbbell flyes",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-arm lat pulldowns",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1972
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Wrist extensor stretch",
+        "Child's pose with side reach",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Chopping steeply downward so the ball floats and sits up.",
+        "Loose wrist at contact, spraying the ball off line.",
+        "Opening the shoulders early instead of staying sideways through the hit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+slice+backhand+technique+tutorial"
+    },
+    {
+      "id": "one-handed-backhand",
+      "group": "Groundstrokes",
+      "name": "One-handed backhand",
+      "alt": "Single-arm backhand drive",
+      "level": "Advanced",
+      "muscles": "Rear delts · Lats · Core",
+      "desc": "A long, flowing drive hit with one arm, demanding early preparation and perfect contact out in front. Power comes from a full shoulder coil and the back staying sideways while both arms spread apart through the finish. Timing, not strength, is the hard part.",
+      "exercises": [
+        {
+          "name": "Single-arm cable reverse flyes",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Dumbbell split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1366
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 20",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Thoracic spine rotation on wall",
+        "Wrist extensor stretch",
+        "Standing lat stretch on rack"
+      ],
+      "mistakes": [
+        "Late contact — the one-hander forgives nothing behind the front hip.",
+        "Opening the chest to the net too soon, spraying the ball crosscourt.",
+        "Gripping too tight, which locks the smooth acceleration of the swing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=one+handed+backhand+tennis+technique"
+    },
+    {
+      "id": "flat-serve",
+      "group": "Serve & return",
+      "name": "Flat serve",
+      "alt": "First-serve power delivery",
+      "level": "Beginner",
+      "muscles": "Shoulders · Lats · Core",
+      "desc": "The basic power serve, struck near full stretch with minimal spin. Power flows from leg drive into trunk rotation and finally shoulder internal rotation — the same chain as throwing. A consistent ball toss slightly in front of the body is the foundation everything else sits on.",
+      "exercises": [
+        {
+          "name": "Overhead medicine ball slams",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Barbell Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 1700
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Doorway pec stretch",
+        "Standing lat stretch on rack",
+        "Thoracic extension over foam roller"
+      ],
+      "mistakes": [
+        "Inconsistent toss — every other flaw starts here.",
+        "No leg drive; serving with the arm alone caps power and strains the shoulder.",
+        "Dropping the tossing arm early, which collapses the trunk before contact."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+flat+serve+technique+tutorial"
+    },
+    {
+      "id": "return-of-serve",
+      "group": "Serve & return",
+      "name": "Return of serve",
+      "alt": "Blocking back a fast serve",
+      "level": "Intermediate",
+      "muscles": "Core · Quads · Forearms",
+      "desc": "A shortened, compact swing that redirects the server's pace rather than generating its own. Everything starts from an aggressive split step and a fast shoulder turn — there is no time for a full backswing. Firm wrist, short punch, ball back deep.",
+      "exercises": [
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 6",
+          "wgerId": 614
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Reactive lateral bounds",
+          "scheme": "3 × 6 / side"
+        }
+      ],
+      "stretches": [
+        "Thoracic spine rotation on wall",
+        "Wrist flexor stretch",
+        "90/90 hip switch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Taking a full groundstroke backswing against a fast serve.",
+        "Standing flat-footed instead of split-stepping as the server tosses.",
+        "Trying to out-hit the serve instead of using its pace."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+return+of+serve+technique"
+    },
+    {
+      "id": "slice-serve",
+      "group": "Serve & return",
+      "name": "Slice serve",
+      "alt": "Sidespin serve that curves away",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Obliques · Forearms",
+      "desc": "A serve brushed around the outside of the ball, curving it away from the returner and skidding low. The racquet moves from 7 to 2 on the ball face while the toss drifts slightly right of the flat-serve position. Spin comes from racquet-head speed across the ball, not from slowing down.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers (high to low)",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Half-kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Dumbbell wrist pronation/supination",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Medicine ball overhead throws",
+          "scheme": "3 × 6"
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch",
+        "Standing lat stretch on rack"
+      ],
+      "mistakes": [
+        "Slowing the swing to steer the spin — brush faster, not slower.",
+        "Tossing in the flat-serve spot, making the slice impossible to disguise or hit.",
+        "Hitting the back of the ball instead of around its outside edge."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+slice+serve+technique+tutorial"
+    },
+    {
+      "id": "kick-serve",
+      "group": "Serve & return",
+      "name": "Kick serve",
+      "alt": "Topspin serve that bounces high",
+      "level": "Advanced",
+      "muscles": "Core · Shoulders · Spinal erectors",
+      "desc": "A heavy topspin second serve, brushed from 7 to 1 up the back of the ball with the toss behind the head. The high, jumping bounce comes from an aggressive upward brush powered by deep leg bend and back-arch extension. It is the safest serve in tennis when struck with full racquet speed.",
+      "exercises": [
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Overhead medicine ball throws (backward)",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Thoracic extension over foam roller",
+        "Sleeper stretch",
+        "Kneeling hip flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Tossing too far in front, which turns the kick into a weak flat serve.",
+        "Decelerating the racquet for safety — the kick needs maximum brush speed.",
+        "Arching only the lower back instead of loading the legs and mid-back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+kick+serve+technique+tutorial"
+    },
+    {
+      "id": "punch-volley",
+      "group": "Net play",
+      "name": "Punch volley",
+      "alt": "Basic forehand and backhand volley",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Quads",
+      "desc": "A short blocking punch hit before the ball bounces, using the opponent's pace with almost no backswing. Crispness comes from a firm wrist, a step forward with the opposite foot, and the racquet head staying above the hand. Think catch, not swing.",
+      "exercises": [
+        {
+          "name": "Cable chest press (standing)",
+          "scheme": "3 × 10",
+          "wgerId": 1656
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 20",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Taking a backswing — the volley is a punch, not a stroke.",
+        "Letting the racquet head drop below the wrist on low balls.",
+        "Standing still at contact instead of stepping through the volley."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+volley+technique+beginner+tutorial"
+    },
+    {
+      "id": "overhead-smash",
+      "group": "Net play",
+      "name": "Overhead smash",
+      "alt": "Putting away a lob",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Lats · Calves",
+      "desc": "A serve-like putaway hit against a lob, with footwork doing most of the work. The key is turning sideways immediately and skipping backward under the ball so contact happens in front, at full stretch. The non-hitting hand tracks the ball like a gunsight.",
+      "exercises": [
+        {
+          "name": "Overhead medicine ball slams",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Dumbbell push press",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Backpedal-to-sprint drills",
+          "scheme": "6 × 10m"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Cable external rotations",
+          "scheme": "3 × 12 / side",
+          "wgerId": 142
+        }
+      ],
+      "stretches": [
+        "Sleeper stretch",
+        "Standing lat stretch on rack",
+        "Doorway pec stretch",
+        "Standing calf stretch on step"
+      ],
+      "mistakes": [
+        "Backpedaling square-on instead of turning sideways first.",
+        "Letting the ball drift behind the head, forcing a weak arm-only swing.",
+        "Dropping the free arm early, which tilts the shoulders and nets the smash."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+overhead+smash+technique+tutorial"
+    },
+    {
+      "id": "approach-shot",
+      "group": "Net play",
+      "name": "Approach shot",
+      "alt": "Attacking a short ball and coming in",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "A drive or slice hit off a short ball while moving forward, followed immediately by closing to the net. The stroke is hit through the ball with a compact swing because the legs are still travelling. Depth and placement matter more than pace — the volley finishes the point.",
+      "exercises": [
+        {
+          "name": "Forward sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Walking lunges with rotation",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Split-stance Pallof press",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "90/90 hip switch",
+        "Thoracic spine rotation on wall"
+      ],
+      "mistakes": [
+        "Stopping to hit, then restarting — momentum should carry through the shot.",
+        "Over-hitting the approach instead of placing it deep and covering the net.",
+        "Failing to split-step as the opponent hits the passing shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+approach+shot+technique+tutorial"
+    },
+    {
+      "id": "half-volley",
+      "group": "Net play",
+      "name": "Half-volley",
+      "alt": "Short-hop pickup at your feet",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Forearms",
+      "desc": "A ball taken immediately after the bounce, almost off the shoe tops, with a short blocking stroke. Everything depends on getting low early — bend from the knees until the eyes are near ball height and let the racquet angle do the lifting. There is no swing, only touch and a stable wrist.",
+      "exercises": [
+        {
+          "name": "Goblet squats (deep pause)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Standing quad stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Bending from the waist instead of the knees, so the racquet face tilts down.",
+        "Swinging at the ball — the half-volley is a controlled block.",
+        "Standing in no-man's land by choice; the half-volley is an escape, not a target shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tennis+half+volley+technique+tutorial"
+    }
+  ]
+}

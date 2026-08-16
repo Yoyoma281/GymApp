@@ -1,0 +1,658 @@
+{
+  "id": "basketball",
+  "name": "Basketball",
+  "emoji": "🏀",
+  "tag": "BB",
+  "category": "Ball & team sports",
+  "drills": [
+    {
+      "id": "form-shooting",
+      "group": "Shooting",
+      "name": "Form shooting",
+      "alt": "Close-range one-hand shooting reps",
+      "level": "Beginner",
+      "muscles": "Shoulders · Triceps · Wrists",
+      "desc": "Slow, close-range makes that groove the shot's skeleton: feet set, ball on the fingertips, elbow under the ball, one-hand release with a full follow-through. Power comes up from the legs through one connected motion — the arm just steers. Perfect reps from three feet beat lazy reps from the arc.",
+      "exercises": [
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Cable triceps pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        },
+        {
+          "name": "Wrist curls with dumbbell",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Wrist flexor & extensor stretch",
+        "Overhead triceps stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Ball resting in the palm instead of on the finger pads.",
+        "Elbow flared out so the ball starts and finishes off line.",
+        "Snapping the wrist without legs — the shot becomes all arm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=form+shooting+basketball+tutorial"
+    },
+    {
+      "id": "catch-and-shoot",
+      "group": "Shooting",
+      "name": "Catch and shoot",
+      "alt": "Shooting instantly off the pass",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "Feet ready before the ball arrives — hopping or stepping into the catch so the shot releases in one rhythm. The pass's energy flows straight into the lift; any pause to gather is time a closeout uses. Hands present a target early and the eyes find the rim before the catch.",
+      "exercises": [
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Medicine ball chest passes",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Calf stretch on step",
+        "Cross-body shoulder stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Catching flat-footed, then starting the shot from zero.",
+        "Drifting sideways on the hop instead of loading straight up.",
+        "Eyes on the ball through the catch rather than already on the rim."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=catch+and+shoot+basketball+drills"
+    },
+    {
+      "id": "pull-up-jumper",
+      "group": "Shooting",
+      "name": "Pull-up jumper",
+      "alt": "Stopping off the dribble to shoot",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Sprinting into a two-step stop and rising straight up for the shot before the defender can react. The skill is deceleration: the last dribble is snatched up as the feet chop into a balanced one-two stop, hips sinking to absorb the momentum. A vertical rise, not a drift, keeps the shooting pocket identical every time.",
+      "exercises": [
+        {
+          "name": "Barbell back squats (slow eccentric)",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Single-leg drop landings from box",
+          "scheme": "3 × 5 / leg"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Floating forward on the release so every shot has a different depth.",
+        "Stopping tall with straight legs — no balance, no lift, sore knees.",
+        "Telegraphing the pull-up by slowing the dribble two beats early."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pull+up+jumper+basketball+tutorial"
+    },
+    {
+      "id": "layup-package",
+      "group": "Finishing",
+      "name": "Layups (both hands)",
+      "alt": "Basic finishing off the glass",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "The right-hand and left-hand layup off the correct footwork — outside foot, inside foot, up — using the backboard's square as the target. The knee on the shooting side drives up to convert run into rise, and the ball stays high and protected. Weak-hand competence doubles your angles at the rim.",
+      "exercises": [
+        {
+          "name": "Walking lunges with dumbbells",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Box jumps (single-leg takeoff)",
+          "scheme": "3 × 5 / leg"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Dumbbell step-ups",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Kneeling hip flexor stretch",
+        "Calf stretch on step",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Taking off from the wrong foot so the body drifts under the rim.",
+        "Laying the ball flat at the rim instead of high off the square.",
+        "Slowing down on the gather because the footwork isn't automatic yet."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=layup+footwork+tutorial+basketball"
+    },
+    {
+      "id": "floater",
+      "group": "Finishing",
+      "name": "Floater",
+      "alt": "Soft high runner over the big man",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Wrists",
+      "desc": "A one-handed touch shot lofted off the run before the shot-blocker can reach it. It launches off either foot from just inside the free-throw line, with a stiff wrist pushing the ball high and dead — spin and arc do the work, not power. Balance through the gather is what makes the touch repeatable.",
+      "exercises": [
+        {
+          "name": "Single-leg bounds",
+          "scheme": "3 × 6 / leg"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Wrist curls with dumbbell",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Single-leg balance with ball toss",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Wrist flexor & extensor stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Shooting it flat like a jumper — the floater lives on high arc.",
+        "Leaning into the defender's body instead of rising off a balanced plant.",
+        "Only practicing off the dominant foot and hand."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=floater+basketball+tutorial"
+    },
+    {
+      "id": "euro-step",
+      "group": "Finishing",
+      "name": "Euro step",
+      "alt": "Two-step sidestep around the defender",
+      "level": "Advanced",
+      "muscles": "Glutes · Adductors · Core",
+      "desc": "After the gather, the first step attacks one side of the defender and the second steps long past their opposite hip. It weaponizes the two legal steps as a full change of direction, and the ball swings low and away from the swipe. Each step is a genuine lateral push — long, low and committed.",
+      "exercises": [
+        {
+          "name": "Lateral bounds (stick the landing)",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Lateral lunges with dumbbell",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Frog stretch",
+        "Butterfly stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Two short choppy steps in the same line — no defender is moved.",
+        "Carrying the ball high through the gap where hands are waiting.",
+        "Gathering too early and running out of steps before the rim."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=euro+step+tutorial+basketball"
+    },
+    {
+      "id": "pound-dribble",
+      "group": "Ball handling",
+      "name": "Stationary pound dribbling",
+      "alt": "Hard two-ball and one-ball dribble reps",
+      "level": "Beginner",
+      "muscles": "Forearms · Shoulders · Core",
+      "desc": "Dribbling as hard as the floor allows — waist-high pounds, low pounds, crossovers in place, with one ball then two. Hard dribbles return the ball faster, which is where handle speed actually comes from. The stance stays athletic: knees bent, chest up, eyes anywhere but the ball.",
+      "exercises": [
+        {
+          "name": "Wrist curls & reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor & extensor stretch",
+        "Forearm pronation-supination stretch",
+        "Cross-body shoulder stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Soft, polite dribbles that give defenders a full second per bounce.",
+        "Standing tall and watching the ball instead of dribbling by feel."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pound+dribbling+drills+basketball"
+    },
+    {
+      "id": "crossover",
+      "group": "Ball handling",
+      "name": "Crossover",
+      "alt": "Snapping the ball across to change direction",
+      "level": "Intermediate",
+      "muscles": "Forearms · Hips · Adductors",
+      "desc": "A hard, low dribble across the body paired with a shoulder-and-foot fake that sends the defender the wrong way. The ball travels below the knees on a sharp V, and the outside foot pushes off explosively into the new lane. The sell — head, eyes and a real weight shift — matters more than the dribble itself.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Wrist curls & reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        },
+        {
+          "name": "5-10-5 pro agility shuttles",
+          "scheme": "4 × 1"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Butterfly stretch",
+        "Wrist flexor & extensor stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Crossing high and slow through the steal zone at the defender's hands.",
+        "No weight shift on the fake — the dribble changes sides but nobody moves.",
+        "Standing upright through the move instead of staying in the hips."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=crossover+move+tutorial+basketball"
+    },
+    {
+      "id": "combo-dribbling",
+      "group": "Ball handling",
+      "name": "Combo moves (behind-back, between-legs)",
+      "alt": "Chaining dribble moves at game speed",
+      "level": "Advanced",
+      "muscles": "Forearms · Hips · Core",
+      "desc": "Linking crossover, between-the-legs and behind-the-back into two- and three-move chains that answer a live defender. Each move must flow out of the previous one's footwork with no reset dribble between. The chain is only as good as the burst that exits it — every combo ends with an attack, not another move.",
+      "exercises": [
+        {
+          "name": "Dead-ball acceleration sprints",
+          "scheme": "5 × 10m"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Farmer's carries (heavy)",
+          "scheme": "3 × 30m"
+        },
+        {
+          "name": "Lateral bounds",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Jump rope (crossovers)",
+          "scheme": "3 × 45s",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Wrist flexor & extensor stretch",
+        "90/90 hip switch",
+        "Couch stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Dribbling combos for their own sake with no exit burst attached.",
+        "Moves rehearsed only at cone speed collapse against real hands.",
+        "Behind-the-back thrown wide, forcing a chase-down of your own dribble."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=combo+dribble+moves+tutorial+basketball"
+    },
+    {
+      "id": "defensive-slide",
+      "group": "Defense & rebounding",
+      "name": "Defensive slides",
+      "alt": "Lateral shuffle in a low stance",
+      "level": "Beginner",
+      "muscles": "Glutes · Quads · Adductors",
+      "desc": "The lateral shuffle that keeps a defender's chest in front of the ball: wide base, hips below the ball-handler's, steps that push off the trail leg without the feet ever clicking together. Endurance in this stance is a strength quality — the first player to stand up loses the possession.",
+      "exercises": [
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Goblet squat (paused)",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Sled lateral drags",
+          "scheme": "3 × 15m / side"
+        }
+      ],
+      "stretches": [
+        "Frog stretch",
+        "Lying figure-4",
+        "Butterfly stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Clicking the heels together mid-slide, surrendering the base.",
+        "Crossing the feet to recover instead of opening the hips and running.",
+        "Reaching with the hands while the feet stop moving."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=defensive+slides+drills+basketball"
+    },
+    {
+      "id": "closeout",
+      "group": "Defense & rebounding",
+      "name": "Closeouts",
+      "alt": "Sprinting to a shooter under control",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "Sprinting at a catching shooter, then chopping the feet into short stutter steps to arrive balanced — high hand at the shot, hips ready for the drive. The art is trading the last two sprint steps for control so a pump fake doesn't send you flying. Angle the approach to take away the shooter's strong side.",
+      "exercises": [
+        {
+          "name": "Sprint-to-stop drills",
+          "scheme": "5 × 10m"
+        },
+        {
+          "name": "Barbell back squats (slow eccentric)",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Pogo jumps",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        }
+      ],
+      "stretches": [
+        "Calf stretch on step",
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Sprinting all the way in and flying past the pump fake.",
+        "Closing out flat-footed and upright, beaten by the first dribble either way.",
+        "Both hands down, conceding an uncontested rhythm three."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=closeout+defense+drills+basketball"
+    },
+    {
+      "id": "box-out",
+      "group": "Defense & rebounding",
+      "name": "Box-outs",
+      "alt": "Sealing your man off the boards",
+      "level": "Intermediate",
+      "muscles": "Glutes · Core · Legs",
+      "desc": "At the shot, find a body first: hit, pivot into their path, sit into a wide low seal with forearms up, then go get the ball. The contact is a leg-driven hip press — a standing squat against a moving opponent. Rebounds are won on the floor before anyone jumps.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Goblet squat (paused)",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Lying figure-4",
+        "Cat-cow",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Watching the ball's flight instead of hitting a body first.",
+        "Boxing out tall and narrow — easy to spin off or push under the rim.",
+        "Holding the seal forever and never releasing to attack the ball."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=box+out+rebounding+drills+basketball"
+    },
+    {
+      "id": "lateral-quickness",
+      "group": "Athleticism",
+      "name": "Lateral quickness work",
+      "alt": "Side-to-side speed and reaction drills",
+      "level": "Beginner",
+      "muscles": "Glutes · Adductors · Calves",
+      "desc": "Short lateral shuffles, mirror drills and reactive cone touches that build side-to-side speed on command. Quickness here is hip strength plus short ground contacts — the glute medius and adductors fire like pistons while the feet stay under the hips. It underwrites every defensive possession.",
+      "exercises": [
+        {
+          "name": "Lateral bounds",
+          "scheme": "4 × 5 / side"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Jump rope (side-to-side)",
+          "scheme": "3 × 45s",
+          "wgerId": 993
+        }
+      ],
+      "stretches": [
+        "Frog stretch",
+        "Butterfly stretch",
+        "90/90 hip switch",
+        "Calf stretch on step"
+      ],
+      "mistakes": [
+        "Long, bounding side steps that leave the base wide open mid-air.",
+        "Rising out of the athletic stance as fatigue sets in."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=lateral+quickness+drills+basketball"
+    },
+    {
+      "id": "first-step",
+      "group": "Athleticism",
+      "name": "First-step explosiveness",
+      "alt": "Winning the first yard off the dribble",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Calves",
+      "desc": "The blow-by step: a violent 45-degree push off the back leg, chest low over the lead knee, ball and foot arriving together. It is a sprinter's block start disguised as a basketball move — horizontal force wins the first yard, and the first yard wins the drive. Train it loaded, then rehearse it with the ball.",
+      "exercises": [
+        {
+          "name": "Sled pushes (heavy)",
+          "scheme": "4 × 10m"
+        },
+        {
+          "name": "Trap bar jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Bulgarian split squats (explosive up)",
+          "scheme": "3 × 6 / leg"
+        },
+        {
+          "name": "Standing broad jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Hill sprints",
+          "scheme": "5 × 15m"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Kneeling hip flexor stretch",
+        "Calf stretch on step",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "First step lands under the body instead of out past the defender's foot.",
+        "Standing tall at launch — the chest must project over the lead knee.",
+        "Ball pushed out lazily behind the step, begging for a poke-away."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=first+step+explosiveness+drills+basketball"
+    },
+    {
+      "id": "vertical-jump",
+      "group": "Athleticism",
+      "name": "Vertical jump training",
+      "alt": "Jumping higher off one and two feet",
+      "level": "Advanced",
+      "muscles": "Glutes · Quads · Calves",
+      "desc": "Building the two-foot bounce and the one-foot running jump behind blocks, boards and finishing at the rim. Height comes from force into the floor: heavy triple-extension strength plus fast plyometric contacts that teach the tendons to return it. The arm swing alone is worth inches when it is timed with the hips.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Standing calf raises (heavy)",
+          "scheme": "4 × 10",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing quad stretch",
+        "Calf stretch on step",
+        "Lying figure-4",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Only jumping — without a strength base, plyos have nothing to return.",
+        "Cutting the countermovement short instead of sinking into the hips.",
+        "Landing stiff-legged rep after rep and donating the gains to the knees."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=vertical+jump+training+basketball"
+    }
+  ]
+}

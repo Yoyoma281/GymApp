@@ -6,43 +6,6 @@
   "category": "Outdoor & adventure",
   "drills": [
     {
-      "id": "hangboard-repeaters",
-      "group": "Finger strength",
-      "name": "Hangboard repeaters",
-      "alt": "7:3 protocol",
-      "level": "Intermediate",
-      "muscles": "Forearms · Fingers",
-      "desc": "Seven seconds hanging, three seconds rest, repeated. The standard protocol for finger strength — done fresh, never after a full session.",
-      "exercises": [
-        {
-          "name": "Weighted pull-ups",
-          "scheme": "3 × 5"
-        },
-        {
-          "name": "Farmer carries",
-          "scheme": "3 × 40m"
-        },
-        {
-          "name": "Wrist curls",
-          "scheme": "3 × 15"
-        },
-        {
-          "name": "Scapular pulls",
-          "scheme": "3 × 8"
-        }
-      ],
-      "stretches": [
-        "Forearm flexor stretch",
-        "Finger extensor stretch",
-        "Lat stretch on rack"
-      ],
-      "mistakes": [
-        "Full crimping on the board — use half crimp or open hand.",
-        "Shrugged, disengaged shoulders while hanging."
-      ],
-      "videoUrl": "https://www.youtube.com/results?search_query=hangboard+repeaters+7+3"
-    },
-    {
       "id": "silent-feet",
       "group": "Footwork",
       "name": "Silent feet",
@@ -82,6 +45,647 @@
         "Stabbing at footholds instead of placing them."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=silent+feet+climbing+drill"
+    },
+    {
+      "id": "heel-hooks",
+      "group": "Footwork",
+      "name": "Heel hooks",
+      "alt": "Pulling with the heel",
+      "level": "Intermediate",
+      "muscles": "Hamstrings · Glutes · Calves",
+      "desc": "Placing the heel on a hold and pulling with the hamstring, turning a leg into a third arm. A good heel hook takes weight off the hands on steep terrain and around aretes. The pull comes from actively dragging the heel toward the hip, not just resting it.",
+      "exercises": [
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Lying leg curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Glute ham raises",
+          "scheme": "3 × 8",
+          "wgerId": 2478
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Seated straddle",
+        "Calf stretch on wall"
+      ],
+      "mistakes": [
+        "Placing the heel and forgetting it — a passive heel pops off under load.",
+        "Hooking with a straight, locked knee, which loads the hamstring attachment dangerously.",
+        "Pointing the toes down instead of dorsiflexing to lock the heel in."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=heel+hook+technique+climbing+tutorial"
+    },
+    {
+      "id": "toe-hooks",
+      "group": "Footwork",
+      "name": "Toe hooks",
+      "alt": "Pulling with the top of the foot",
+      "level": "Intermediate",
+      "muscles": "Shins · Hip flexors · Core",
+      "desc": "Hooking the top of the foot behind a feature and pulling with the shin to control swing on roofs and aretes. The tibialis anterior does the work — a strong toe hook keeps the body glued to steep terrain where feet would otherwise cut loose.",
+      "exercises": [
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Kneeling shin stretch",
+        "Ankle circles",
+        "Couch stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Only laying the foot on the hold instead of actively pulling with the shin.",
+        "Losing body tension elsewhere, so the hook holds but the hips sag away from the wall."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=toe+hook+technique+climbing+tutorial"
+    },
+    {
+      "id": "flagging",
+      "group": "Body position",
+      "name": "Flagging",
+      "alt": "Counterbalance leg",
+      "level": "Beginner",
+      "muscles": "Core · Glutes · Hips",
+      "desc": "Extending a free leg against or across the wall to counterbalance a reach instead of taking an extra foothold. Flagging keeps the hips over the loaded foot and stops the dreaded barn-door swing. It turns off-balance moves into static, controlled ones.",
+      "exercises": [
+        {
+          "name": "Side plank with leg raise",
+          "scheme": "3 × 20s / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Pigeon pose",
+        "Seated straddle",
+        "Lying spinal twist"
+      ],
+      "mistakes": [
+        "Searching for a foothold when a flag would be faster and more stable.",
+        "Flagging with a limp leg — the counterweight only works if the leg presses with intent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flagging+technique+climbing+tutorial"
+    },
+    {
+      "id": "drop-knees",
+      "group": "Body position",
+      "name": "Drop knees",
+      "alt": "Egyptian",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Adductors",
+      "desc": "Rotating one knee down and inward on a high foothold to pull the hip into the wall on overhangs. The twist shortens the reach, turns pulling muscles toward the next hold, and rests the arms by shifting load to the legs. Hip mobility makes or breaks it.",
+      "exercises": [
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Adductor machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hip airplanes",
+          "scheme": "3 × 6 / side",
+          "wgerId": 2447
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Frog stretch",
+        "Butterfly stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Forcing a deep drop knee on a torqued, fully-loaded knee — ease into the rotation.",
+        "Dropping the knee but leaving the hip away from the wall, losing the whole benefit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=drop+knee+technique+climbing+tutorial"
+    },
+    {
+      "id": "mantling",
+      "group": "Body position",
+      "name": "Mantling",
+      "alt": "Pressing over a ledge",
+      "level": "Intermediate",
+      "muscles": "Triceps · Shoulders · Chest · Core",
+      "desc": "Converting a pull into a press to get on top of a ledge or boulder — palm down, elbow over wrist, hips over hands. The crux is the transition through the bottom-of-a-dip position, where triceps and shoulder stability carry everything. Finish by walking a foot up beside the hand.",
+      "exercises": [
+        {
+          "name": "Dips",
+          "scheme": "3 × 8",
+          "wgerId": 194,
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+        },
+        {
+          "name": "Bench dips (deep)",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Pike push-ups",
+          "scheme": "3 × 8",
+          "wgerId": 454,
+          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png"
+        },
+        {
+          "name": "Dumbbell overhead press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Box step-ups",
+          "scheme": "3 × 8 / leg"
+        }
+      ],
+      "stretches": [
+        "Doorway chest stretch",
+        "Triceps overhead stretch",
+        "Wrist flexor stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Trying to pull higher instead of turning the hand and pressing down.",
+        "Kicking and thrashing instead of bringing a foot up to share the load."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mantle+technique+climbing+tutorial"
+    },
+    {
+      "id": "crack-technique",
+      "group": "Body position",
+      "name": "Crack technique",
+      "alt": "Jamming",
+      "level": "Intermediate",
+      "muscles": "Forearms · Hands · Core · Feet",
+      "desc": "Wedging hands, fingers, and feet inside a crack — camming the hand by cupping and expanding it until it locks. A good jam is secure with almost no grip strength; the skill is placing it once, precisely, and trusting it. Tape and technique replace pain tolerance.",
+      "exercises": [
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Grip crushers",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Wrist circles",
+        "Prayer stretch"
+      ],
+      "mistakes": [
+        "Gripping the edges of the crack like face holds instead of jamming inside it.",
+        "Sliding jams around once placed — every readjustment costs skin and security."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hand+jam+crack+climbing+technique+tutorial"
+    },
+    {
+      "id": "lock-offs",
+      "group": "Body position",
+      "name": "Lock-offs",
+      "alt": "Holding a bent-arm position",
+      "level": "Advanced",
+      "muscles": "Lats · Biceps · Shoulders · Core",
+      "desc": "Pulling to a bent-arm position and holding it statically while the other hand travels to the next hold. Lock-off strength is what makes long reaches static and controlled instead of desperate. It lives in the lats and biceps, anchored by a tight, depressed shoulder blade.",
+      "exercises": [
+        {
+          "name": "Isometric pull-up holds (90°)",
+          "scheme": "3 × 10s",
+          "wgerId": 1537
+        },
+        {
+          "name": "Archer pull-ups",
+          "scheme": "3 × 4 / side",
+          "wgerId": 1545
+        },
+        {
+          "name": "Weighted pull-ups",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Single-arm dumbbell rows",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1637,
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+        },
+        {
+          "name": "Biceps curls",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "Biceps wall stretch",
+        "Cross-body shoulder stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Locking off with a shrugged shoulder instead of a packed, depressed scapula.",
+        "Training lock-offs to failure — the elbows pay for it weeks later."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=lock+off+strength+climbing+training"
+    },
+    {
+      "id": "hangboard-repeaters",
+      "group": "Finger strength",
+      "name": "Hangboard repeaters",
+      "alt": "7:3 protocol",
+      "level": "Intermediate",
+      "muscles": "Forearms · Fingers",
+      "desc": "Seven seconds hanging, three seconds rest, repeated. The standard protocol for finger strength — done fresh, never after a full session.",
+      "exercises": [
+        {
+          "name": "Weighted pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Wrist curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Scapular pulls",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Full crimping on the board — use half crimp or open hand.",
+        "Shrugged, disengaged shoulders while hanging."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=hangboard+repeaters+7+3"
+    },
+    {
+      "id": "max-hangs",
+      "group": "Finger strength",
+      "name": "Max hangs",
+      "alt": "Heavy 10-second hangs",
+      "level": "Advanced",
+      "muscles": "Fingers · Forearms · Shoulders",
+      "desc": "Short maximal hangs on an edge — around ten seconds with added weight, followed by full rest. This is the strength end of finger training: high intensity, low volume, done completely fresh. Years of consistent, boring max hangs build tendons as well as muscle.",
+      "exercises": [
+        {
+          "name": "Weighted pull-ups",
+          "scheme": "4 × 3"
+        },
+        {
+          "name": "Dead hangs on bar",
+          "scheme": "4 × 20s"
+        },
+        {
+          "name": "Barbell finger rolls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Scapular pulls",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Reverse wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 48
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Prayer stretch",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Adding load before a base of strict half-crimp technique is in place.",
+        "Cutting rests short — max hangs are a strength stimulus, not a pump session.",
+        "Hanging through finger pain and calling it training."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=max+hangs+finger+strength+protocol"
+    },
+    {
+      "id": "campus-board",
+      "group": "Finger strength",
+      "name": "Campus board",
+      "alt": "Feet-off ladder training",
+      "level": "Advanced",
+      "muscles": "Fingers · Forearms · Lats · Shoulders",
+      "desc": "Moving between wooden rungs with no feet to train contact strength and explosive pulling. The value is in latching hard on small edges at speed — recruitment the wall rarely forces. Strictly a tool for experienced climbers with healthy fingers, used fresh and sparingly.",
+      "exercises": [
+        {
+          "name": "Weighted pull-ups",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Explosive pull-ups",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Dead hangs on bar",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Lat stretch on rack",
+        "Doorway chest stretch"
+      ],
+      "mistakes": [
+        "Campusing with tired fingers at the end of a session — this is how pulleys rupture.",
+        "Dropping onto rungs with straight arms instead of catching with engaged shoulders.",
+        "Chasing bigger moves before controlled small ones are consistent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=campus+board+training+beginner+guide"
+    },
+    {
+      "id": "deadpoints",
+      "group": "Dynamic moves",
+      "name": "Deadpoints",
+      "alt": "Catching at the top of the arc",
+      "level": "Intermediate",
+      "muscles": "Lats · Core · Hips",
+      "desc": "A controlled dynamic move where the hand latches the hold at the momentary weightless peak of the body's arc. The hips generate the surge and the hand arrives exactly as motion stops. Deadpointing bridges static climbing and full dynos — precision first, amplitude later.",
+      "exercises": [
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 12",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Explosive ring rows",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Medicine ball chest passes",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Lat stretch on rack",
+        "90/90 hip switch",
+        "Child's pose",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Pulling with the arms instead of initiating the surge from the hips.",
+        "Grabbing early or late — the catch belongs at the exact top of the arc."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=deadpoint+technique+climbing+tutorial"
+    },
+    {
+      "id": "dynos",
+      "group": "Dynamic moves",
+      "name": "Dynos",
+      "alt": "Jumping between holds",
+      "level": "Advanced",
+      "muscles": "Legs · Glutes · Lats · Core",
+      "desc": "A full jump where both hands (and often feet) leave the wall to reach a distant hold. Power comes from the legs — sink low, spot the target, and drive up like a vertical jump while the arms guide the arc. The catch demands strong shoulders and committed contact strength.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "4 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Explosive pull-ups",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Lat stretch on rack",
+        "Downward dog",
+        "Wrist circles"
+      ],
+      "mistakes": [
+        "Jumping from high, bent-arm positions instead of sinking low to load the legs first.",
+        "Staring at your hands mid-flight instead of keeping eyes locked on the target hold.",
+        "Catching with disengaged shoulders and swinging off."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=dyno+technique+climbing+tutorial"
+    },
+    {
+      "id": "route-reading",
+      "group": "Endurance & tactics",
+      "name": "Route reading",
+      "alt": "Previewing sequences from the ground",
+      "level": "Beginner",
+      "muscles": "Core · Forearms",
+      "desc": "Studying a route from the ground and rehearsing the sequence — which hand takes which hold, where feet go, where to rest — before pulling on. Good reading saves the strength that trial-and-error burns. Miming the moves with your hands cements the plan.",
+      "exercises": [
+        {
+          "name": "Dead hangs on bar",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Neck side stretch",
+        "Standing forward fold",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Reading only the handholds and ignoring feet, which decide most sequences.",
+        "Abandoning the plan at the first unexpected hold instead of adapting from it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=route+reading+climbing+tutorial"
+    },
+    {
+      "id": "resting-positions",
+      "group": "Endurance & tactics",
+      "name": "Resting positions",
+      "alt": "Shaking out on the wall",
+      "level": "Intermediate",
+      "muscles": "Forearms · Calves · Core",
+      "desc": "Finding stances — straight arms, heel hooks, knee bars, stems — where one or both arms can dangle and recover mid-route. Skeleton holds weight; muscle recovers. The climbers who look tireless are simply better at finding and using rests than at ignoring the pump.",
+      "exercises": [
+        {
+          "name": "Dead hangs on bar (single-arm assisted)",
+          "scheme": "3 × 15s / arm"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Suitcase carries",
+          "scheme": "3 × 30m / side"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Finger extensor stretch",
+        "Standing calf stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Resting with bent arms, which burns energy faster than climbing on.",
+        "Overstaying a poor rest — if the shake-out stops helping, move."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=resting+positions+shake+out+climbing+tutorial"
+    },
+    {
+      "id": "four-by-fours",
+      "group": "Endurance & tactics",
+      "name": "4x4s",
+      "alt": "Boulder circuits for power endurance",
+      "level": "Advanced",
+      "muscles": "Forearms · Lats · Core · Legs",
+      "desc": "Climbing four boulder problems back-to-back, resting, and repeating for four rounds. The classic power-endurance protocol — it teaches the body to keep pulling hard through a deep pump and the mind to keep technique together under fatigue. Pick problems you can barely finish by round four.",
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "scheme": "4 × 8",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "4 × 12",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        },
+        {
+          "name": "Dead hangs on bar",
+          "scheme": "4 × 30s"
+        },
+        {
+          "name": "Rowing machine intervals",
+          "scheme": "4 × 250m"
+        }
+      ],
+      "stretches": [
+        "Forearm flexor stretch",
+        "Lat stretch on rack",
+        "Child's pose",
+        "Standing quad stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Choosing problems so hard that form collapses into thrashing by round two.",
+        "Doing 4x4s in the same session as max-strength finger work."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=4x4+bouldering+power+endurance+workout"
     }
   ]
 }

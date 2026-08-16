@@ -1,0 +1,724 @@
+{
+  "id": "mma",
+  "name": "MMA",
+  "emoji": "🤜",
+  "tag": "MM",
+  "category": "Striking arts",
+  "drills": [
+    {
+      "id": "mma-stance",
+      "group": "Striking",
+      "name": "MMA stance & strikes",
+      "alt": "Hybrid stance fundamentals",
+      "level": "Beginner",
+      "muscles": "Legs · Core · Shoulders",
+      "desc": "A squarer, more upright stance than boxing — hips available to sprawl, hands ready to strike or frame. Punches and kicks launch from a base that can defend a takedown mid-combination. Every technique in MMA is a compromise between striking power and wrestling readiness.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Landmine punch press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Standing quad stretch",
+        "Cross-body shoulder stretch",
+        "Deep squat hold"
+      ],
+      "mistakes": [
+        "Bladed boxing stance — the lead leg becomes a free target for kicks and shots.",
+        "Standing too tall with hips locked, unable to sprawl in time.",
+        "Squaring up so much that punches lose all rotation."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+stance+basics+tutorial"
+    },
+    {
+      "id": "low-kick",
+      "group": "Striking",
+      "name": "Low kick",
+      "alt": "Leg kick",
+      "level": "Intermediate",
+      "muscles": "Hips · Glutes · Core",
+      "desc": "A chopping roundhouse into the opponent's thigh or calf, landing with the shin. Power comes from stepping out at an angle, pivoting the support foot and swinging the hip through like an axe. Accumulated leg kicks steal an opponent's movement and takedown defense.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Standing cable woodchoppers",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1021
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Lying figure-4",
+        "Couch stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Kicking with the foot instead of driving the shin through the target.",
+        "No set-up — a naked low kick gets countered or caught.",
+        "Support foot doesn’t pivot, robbing the kick of rotation."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+low+kick+technique+tutorial"
+    },
+    {
+      "id": "strikes-to-takedown",
+      "group": "Striking",
+      "name": "Strikes to shot entry",
+      "alt": "Striking-to-grappling transition",
+      "level": "Advanced",
+      "muscles": "Legs · Hips · Core",
+      "desc": "Blending combinations into a level change so the takedown hides inside the punches — jab-cross, then drop and shoot as the opponent covers. The strikes raise the guard and the eyes; the shot attacks what's left behind. Seamlessness, not speed, is what makes it work.",
+      "exercises": [
+        {
+          "name": "Barbell push press",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Med-ball slam to sprint",
+          "scheme": "5 × 1"
+        },
+        {
+          "name": "Trap-bar deadlifts",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Split-stance jump lunges",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Rotational med-ball throws",
+          "scheme": "4 × 5 / side"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "90/90 hip switch",
+        "Hamstring stretch on rack",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Pausing between the last punch and the shot — the seam is where it fails.",
+        "Shooting from too far out with no strikes to close distance.",
+        "Dropping the hands early and telegraphing the level change."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+punches+into+takedown+entry+drill"
+    },
+    {
+      "id": "level-change",
+      "group": "Wrestling",
+      "name": "Level change",
+      "alt": "Wrestling stance drop",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "Dropping the hips straight down by bending the knees — never the waist — to slip under punches or begin a shot. The chest stays up, the head stays forward of the hips, and the legs load like springs. It is the doorway to every takedown in MMA.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Hip flexor lunge stretch",
+        "Standing quad stretch",
+        "Ankle dorsiflexion wall stretch"
+      ],
+      "mistakes": [
+        "Bending at the waist and offering the head to a guillotine.",
+        "Dropping the eyes to the floor instead of watching the opponent.",
+        "Changing level slowly and telegraphing the shot."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=wrestling+level+change+drill+mma"
+    },
+    {
+      "id": "sprawl",
+      "group": "Wrestling",
+      "name": "Sprawl",
+      "alt": "Takedown defense",
+      "level": "Beginner",
+      "muscles": "Hips · Hamstrings · Core",
+      "desc": "Throwing the legs back and driving the hips into the mat the instant an opponent shoots. Hips must beat the opponent's hands to your legs — it's a race measured in tenths of a second. Chest heavy on their back, legs sprawled wide, then circle behind or disengage.",
+      "exercises": [
+        {
+          "name": "Burpee sprawls",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 30s",
+          "wgerId": 996
+        },
+        {
+          "name": "Plank hip drops",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Hip flexor lunge stretch",
+        "Child’s pose",
+        "Hamstring stretch on rack"
+      ],
+      "mistakes": [
+        "Sprawling with the hips high — the opponent finishes through the gap.",
+        "Kicking the legs back but leaving the chest light on their shoulders.",
+        "Staying flat after the sprawl instead of circling to the back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sprawl+takedown+defense+drill+mma"
+    },
+    {
+      "id": "double-leg",
+      "group": "Wrestling",
+      "name": "Double-leg takedown",
+      "alt": "Two-leg shot",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Back",
+      "desc": "The highest-percentage takedown in MMA: change level, penetration-step between the opponent's feet, head tight to the outside of their hip, and drive through both legs. The finish comes from running the feet and turning the corner, not from pulling with the arms. Posture through the shot decides everything.",
+      "exercises": [
+        {
+          "name": "Trap-bar deadlifts",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "5 × 15m"
+        },
+        {
+          "name": "Barbell reverse lunges",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1830,
+          "imageUrl": "https://wger.de/media/exercise-images/1830/3b6c547c-ab3d-4472-93cf-561710279eab.jpg"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Broad jumps",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Couch stretch",
+        "Hamstring stretch on rack",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Head down and centred — a knee or guillotine is waiting.",
+        "Stopping the feet on contact instead of driving through.",
+        "Reaching with the arms before the level change."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=double+leg+takedown+technique+mma"
+    },
+    {
+      "id": "cage-wrestling",
+      "group": "Wrestling",
+      "name": "Cage wrestling",
+      "alt": "Wall wrestling & pressure",
+      "level": "Advanced",
+      "muscles": "Legs · Back · Core",
+      "desc": "Pinning an opponent against the fence with head position, underhooks and hip pressure, then finishing trips and lifts the open mat doesn't allow. The cage is a third opponent — use it to trap hips and kill space. Grinding isometric strength wins these exchanges more than explosiveness.",
+      "exercises": [
+        {
+          "name": "Sled pushes",
+          "scheme": "5 × 15m"
+        },
+        {
+          "name": "Zercher squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Isometric bear-hug plate holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Thread the needle",
+        "Cat-cow",
+        "Hip flexor lunge stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Losing head position — whoever’s head is inside controls the exchange.",
+        "Pushing with the arms instead of driving from the legs and hips.",
+        "Resting against the fence and giving the referee a reason to break."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+cage+wrestling+fence+drills"
+    },
+    {
+      "id": "clinch-pummeling",
+      "group": "Clinch",
+      "name": "Pummeling",
+      "alt": "Underhook swimming drill",
+      "level": "Beginner",
+      "muscles": "Shoulders · Back · Core",
+      "desc": "Swimming the arms inside for underhooks in a continuous flow with a partner. Whoever owns the underhooks owns the clinch: takedowns, trips and cage pressure all start there. The drill builds the hand-fighting reflexes that never switch off in a fight.",
+      "exercises": [
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dumbbell Arnold press",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Lat stretch on rack",
+        "Doorway pec stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Swimming wide and slow instead of tight to the partner’s body.",
+        "Standing square with locked hips — no angle, no offense.",
+        "Forgetting to fight for head position while pummeling."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=pummeling+drill+underhooks+mma"
+    },
+    {
+      "id": "clinch-knees",
+      "group": "Clinch",
+      "name": "Clinch knees",
+      "alt": "Knees from the collar tie",
+      "level": "Intermediate",
+      "muscles": "Hips · Core · Hamstrings",
+      "desc": "Driving the knee upward through the opponent's body or head while controlling the collar tie or double collar (Thai plum). Power comes from snapping the hips forward and pulling the opponent down onto the strike. Posture is the battle — whoever stands taller in the clinch knees hardest.",
+      "exercises": [
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Cable knee drives",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Couch stretch",
+        "Hamstring stretch on rack",
+        "Lat stretch on rack"
+      ],
+      "mistakes": [
+        "Kneeing with the leg alone instead of driving the hips through.",
+        "Losing posture and getting broken down before the knee lands.",
+        "Leaning back to lift the knee and giving up balance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=muay+thai+clinch+knees+mma+tutorial"
+    },
+    {
+      "id": "clinch-trips",
+      "group": "Clinch",
+      "name": "Trips from the clinch",
+      "alt": "Inside & outside trips",
+      "level": "Advanced",
+      "muscles": "Legs · Hips · Back",
+      "desc": "Finishing the clinch battle by blocking the opponent's leg and driving their weight over it — inside trip, outside trip, or a foot-sweep timed to their step. The upper body sets the angle; the trip only works when their weight is already loaded onto the attacked leg. Feel beats force.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Cable hip adductions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Balance-board single-leg stands",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Adductor rock-backs",
+        "90/90 hip switch",
+        "Standing calf stretch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Attacking the trip before off-balancing the opponent’s upper body.",
+        "Reaching the leg in without underhook or head control and losing position.",
+        "Muscling the throw instead of timing the opponent’s step."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=clinch+trips+takedowns+mma+tutorial"
+    },
+    {
+      "id": "shrimp-escape",
+      "group": "Ground",
+      "name": "Hip escape",
+      "alt": "Shrimping",
+      "level": "Beginner",
+      "muscles": "Core · Hips · Shoulders",
+      "desc": "The fundamental bottom-game movement: frame against the opponent, bridge, and shoot the hips away to recover guard or create space to stand. Every escape from a bad position is built from this hip motion. Drill it solo until it happens without thought.",
+      "exercises": [
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Hollow-body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Side planks",
+          "scheme": "3 × 40s",
+          "wgerId": 580
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Child’s pose",
+        "Lying spinal twist",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Pushing with the arms alone instead of bridging and moving the hips.",
+        "Shrimping flat on the back rather than turning onto the shoulder.",
+        "Escaping without frames, so the opponent follows and re-pins."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=shrimp+hip+escape+drill+bjj+mma"
+    },
+    {
+      "id": "ground-and-pound",
+      "group": "Ground",
+      "name": "Ground and pound",
+      "alt": "Striking from top position",
+      "level": "Intermediate",
+      "muscles": "Core · Shoulders · Hips",
+      "desc": "Striking from inside the guard, half guard or mount while keeping enough base to avoid sweeps and submissions. Power comes from posturing up and dropping bodyweight through the punch, not from arm speed. Every strike must be balanced against the position it might cost.",
+      "exercises": [
+        {
+          "name": "Med-ball slams",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Kneeling landmine press",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Weighted planks",
+          "scheme": "3 × 40s"
+        },
+        {
+          "name": "Cable pallof press",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge stretch",
+        "Cobra stretch",
+        "Cross-body shoulder stretch",
+        "Child’s pose"
+      ],
+      "mistakes": [
+        "Overcommitting to punches and getting swept or armbarred.",
+        "Striking with a rounded back and no posture — no power, no base.",
+        "Ignoring position: landing shots while your hips drift into escape range."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ground+and+pound+technique+drills+mma"
+    },
+    {
+      "id": "wall-walk",
+      "group": "Ground",
+      "name": "Wall walk-up",
+      "alt": "Standing up against the cage",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Back",
+      "desc": "Getting back to the feet using the fence: shoulders walk up the cage, hips stay heavy, hands fight the opponent's grips the whole way. The technical stand-up that decides whether bottom position lasts ten seconds or ten minutes. Never turn away from the opponent during the climb.",
+      "exercises": [
+        {
+          "name": "Wall sit",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Single-leg box step-ups",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Isometric wall push",
+          "scheme": "3 × 20s"
+        },
+        {
+          "name": "Reverse sled drags",
+          "scheme": "4 × 15m"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Hip flexor lunge stretch",
+        "Cat-cow",
+        "Standing calf stretch"
+      ],
+      "mistakes": [
+        "Giving up the back by turning into the fence to stand.",
+        "Standing straight up without hand control and eating a slam.",
+        "Walking up with light hips, letting the opponent drag you back down."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+wall+walk+get+up+cage+drill"
+    },
+    {
+      "id": "scramble-transitions",
+      "group": "Ground",
+      "name": "Scramble transitions",
+      "alt": "Position-to-position flow",
+      "level": "Advanced",
+      "muscles": "Full body · Core · Hips",
+      "desc": "Chaining positions at speed — sprawl to front headlock, spin to the back, re-shot to top. Scrambles are won by whoever recognises the next position half a second sooner and never stops moving their hips. Flow drilling at increasing intensity builds the map.",
+      "exercises": [
+        {
+          "name": "Turkish get-ups",
+          "scheme": "3 × 3 / side",
+          "wgerId": 675
+        },
+        {
+          "name": "Bear crawls",
+          "scheme": "3 × 15m"
+        },
+        {
+          "name": "Kettlebell snatches",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Burpee sprawls",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Hollow-body rocks",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Thread the needle",
+        "Child’s pose",
+        "Lying spinal twist",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Freezing to think mid-scramble — hesitation loses the exchange.",
+        "Scrambling with a flat back and no base, giving up the position you just won.",
+        "Chasing submissions in transition instead of securing position first."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+scramble+drills+transitions"
+    },
+    {
+      "id": "fight-conditioning",
+      "group": "Conditioning",
+      "name": "Fight-pace intervals",
+      "alt": "Round-based conditioning circuit",
+      "level": "Intermediate",
+      "muscles": "Full body",
+      "desc": "Five-minute rounds mixing explosive bursts with grinding work — bag flurries, sprawls, sled pushes, carries — separated by one-minute rests, mimicking a fight's energy demands. MMA cardio is repeated explosion under fatigue, not steady-state jogging. Train the pace you intend to fight at.",
+      "exercises": [
+        {
+          "name": "Assault bike intervals",
+          "scheme": "8 × 20s"
+        },
+        {
+          "name": "Battle ropes",
+          "scheme": "6 × 30s",
+          "wgerId": 1524
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "4 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "5 × 15m"
+        },
+        {
+          "name": "Burpee sprawls",
+          "scheme": "4 × 10"
+        }
+      ],
+      "stretches": [
+        "Child’s pose",
+        "Deep squat hold",
+        "Doorway pec stretch",
+        "Hamstring stretch on rack"
+      ],
+      "mistakes": [
+        "Pacing evenly through the round instead of training burst-and-recover.",
+        "Letting technique collapse when tired — sloppy reps program sloppy habits.",
+        "Holding the breath during explosive efforts."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=mma+conditioning+circuit+5+minute+rounds"
+    },
+    {
+      "id": "grip-neck-conditioning",
+      "group": "Conditioning",
+      "name": "Grip & neck work",
+      "alt": "Fight-specific armor",
+      "level": "Beginner",
+      "muscles": "Forearms · Neck · Traps",
+      "desc": "Dedicated sets for the tissues MMA taxes hardest: the grip that wins hand-fights and holds submissions, and the neck that resists chokes, guillotine pressure and strikes. Small muscles, huge return — five focused minutes at the end of every lift.",
+      "exercises": [
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Farmer carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Neck curls",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Neck harness extensions",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Neck side flexion",
+        "Upper-trap stretch",
+        "Chin tucks"
+      ],
+      "mistakes": [
+        "Loading the neck heavy before building volume tolerance with light reps.",
+        "Training grip only with crushing work and ignoring open-hand and pinch strength.",
+        "Skipping it entirely until an injury forces the issue."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=neck+and+grip+training+for+mma"
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "id": "swimming",
+  "name": "Swimming",
+  "emoji": "🏊",
+  "tag": "SW",
+  "category": "Endurance",
+  "drills": [
+    {
+      "id": "streamline",
+      "group": "Fundamentals",
+      "name": "Streamline position",
+      "alt": "Tight glide off every wall",
+      "level": "Beginner",
+      "muscles": "Lats · Core · Shoulders",
+      "desc": "Hands stacked, arms squeezed behind the ears, body long and rigid off every push-off. Streamline is the fastest you will ever move in the water, so every meter of glide is free speed. The position is held by the lats and core, not by the hands alone.",
+      "exercises": [
+        {
+          "name": "Overhead barbell shrugs",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Wall slides",
+          "scheme": "3 × 10",
+          "wgerId": 716
+        },
+        {
+          "name": "Hanging from pull-up bar",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Overhead lat stretch on wall",
+        "Child's pose with side reach",
+        "Doorway pec stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Arms wide of the head instead of squeezed behind the ears.",
+        "Arching the lower back, which drags the hips and legs down.",
+        "Breaking streamline early instead of gliding to race speed before kicking."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=swimming+streamline+position+tutorial"
+    },
+    {
+      "id": "side-kick-rotation",
+      "group": "Fundamentals",
+      "name": "Side-kick and rotation drill",
+      "alt": "Kicking on your side to learn body roll",
+      "level": "Beginner",
+      "muscles": "Obliques · Core · Hip flexors",
+      "desc": "Kicking on one side with the bottom arm extended, then rotating to the other side every six kicks. Freestyle power comes from the body rolling as one unit around its long axis — this drill teaches the hips and shoulders to rotate together while the head stays still.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Side plank with reach-through",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Russian twists",
+          "scheme": "3 × 16",
+          "wgerId": 1193,
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+        },
+        {
+          "name": "Bird dog",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1572,
+          "imageUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Supine spinal twist",
+        "Cobra stretch",
+        "90/90 hip switch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Rotating the shoulders while the hips stay flat — they must roll together.",
+        "Lifting the head to breathe instead of rolling with the body.",
+        "Bending at the waist so the body snakes instead of rotating on one axis."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=freestyle+side+kick+rotation+drill"
+    },
+    {
+      "id": "bilateral-breathing",
+      "group": "Fundamentals",
+      "name": "Bilateral breathing",
+      "alt": "Breathing to both sides every three strokes",
+      "level": "Beginner",
+      "muscles": "Neck rotators · Obliques · Diaphragm",
+      "desc": "Breathing on alternate sides every three strokes, exhaling steadily underwater so the inhale is a quick sip in the bow-wave trough. Balances the stroke, evens out body roll, and removes the panic-breath — the exhale underwater is the real skill.",
+      "exercises": [
+        {
+          "name": "Dead bug with exhale focus",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 12",
+          "wgerId": 222
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Neck rotation stretch",
+        "Upper trap stretch",
+        "Supine spinal twist",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Holding the breath underwater then trying to exhale and inhale in one turn.",
+        "Lifting the head forward to breathe, which sinks the hips.",
+        "Over-rotating to the sky on the breathing side."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bilateral+breathing+freestyle+tutorial"
+    },
+    {
+      "id": "breathing-pattern-sets",
+      "group": "Fundamentals",
+      "name": "Breathing pattern sets",
+      "alt": "Controlled breath-restriction lengths",
+      "level": "Intermediate",
+      "muscles": "Diaphragm · Intercostals · Core",
+      "desc": "Repeats swum on fixed patterns — breathe every 3, 5, then 7 strokes by 25s — teaching CO2 tolerance and a calm, full exhale. Racing demands fewer breaths off turns and into finishes; this builds that comfort without breath-holding heroics. Never done to failure and never alone.",
+      "exercises": [
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40m"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 40s"
+        },
+        {
+          "name": "Rowing machine intervals",
+          "scheme": "4 × 250m"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Thoracic extension over foam roller",
+        "Doorway pec stretch",
+        "Child's pose",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Holding air in instead of trickling a steady exhale between breaths.",
+        "Letting stroke technique collapse just to hit the pattern.",
+        "Turning it into hypoxic max-breath-hold games — that's dangerous, not training."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=swimming+breathing+pattern+3+5+7+set"
+    },
+    {
+      "id": "catch-up-drill",
+      "group": "Freestyle technique",
+      "name": "Catch-up drill",
+      "alt": "One arm waits for the other",
+      "level": "Beginner",
+      "muscles": "Lats · Shoulders · Core",
+      "desc": "Full freestyle where each hand waits extended out front until the other completes its stroke and touches it. Exaggerates front-quadrant timing and a long bodyline, forcing patience in the glide and one clean stroke at a time.",
+      "exercises": [
+        {
+          "name": "Single-arm lat pulldowns",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1972
+        },
+        {
+          "name": "Single-arm dumbbell rows",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1637,
+          "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 12",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Hollow body hold",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Overhead lat stretch on wall",
+        "Cross-body shoulder stretch",
+        "Child's pose",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Pausing dead in the water instead of keeping a light kick going.",
+        "Letting the waiting hand sink below the surface.",
+        "Rushing the touch and losing the drill's whole point — patience out front."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=catch+up+drill+freestyle+tutorial"
+    },
+    {
+      "id": "fingertip-drag",
+      "group": "Freestyle technique",
+      "name": "Fingertip drag drill",
+      "alt": "High-elbow recovery drill",
+      "level": "Beginner",
+      "muscles": "Deltoids · Traps · Rotator cuff",
+      "desc": "Freestyle with the fingertips dragging along the surface during each recovery, forcing the elbow to lead high and the arm to stay relaxed. A high, loose recovery keeps the stroke compact and protects the shoulder over thousands of repetitions.",
+      "exercises": [
+        {
+          "name": "Dumbbell lateral raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Dumbbell external rotations",
+          "scheme": "3 × 12 / arm",
+          "wgerId": 1715
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Doorway pec stretch",
+        "Upper trap stretch",
+        "Sleeper stretch"
+      ],
+      "mistakes": [
+        "Swinging a straight arm wide over the water instead of leading with the elbow.",
+        "Gripping tension in the hand — the fingertips should barely tickle the surface.",
+        "Letting body rotation die because attention is on the arm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=fingertip+drag+drill+freestyle"
+    },
+    {
+      "id": "freestyle-catch-evf",
+      "group": "Freestyle technique",
+      "name": "Freestyle catch (early vertical forearm)",
+      "alt": "Getting the forearm vertical early to grip the water",
+      "level": "Intermediate",
+      "muscles": "Lats · Forearms · Triceps",
+      "desc": "Tipping the fingertips down and popping the elbow high right after entry, so forearm and hand form one big paddle pressing water backward. This early vertical forearm is the single biggest propulsion upgrade in freestyle — the pull comes from the lats, with the elbow staying above the hand until the finish.",
+      "exercises": [
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Bent-over cable pullovers",
+          "scheme": "3 × 10",
+          "wgerId": 1469
+        },
+        {
+          "name": "Pull-ups",
+          "scheme": "3 × 8",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Dumbbell triceps kickbacks",
+          "scheme": "3 × 12",
+          "wgerId": 655
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Overhead lat stretch on wall",
+        "Wrist flexor stretch",
+        "Child's pose with side reach",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Dropping the elbow and pulling through with a straight arm — pushes water down, not back.",
+        "Crossing the midline at entry, which snakes the bodyline.",
+        "Starting the pull before the fingertips have tipped down and caught."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=early+vertical+forearm+freestyle+catch+tutorial"
+    },
+    {
+      "id": "flutter-kick-sets",
+      "group": "Kick and pull sets",
+      "name": "Flutter kick sets",
+      "alt": "Kickboard lengths for leg conditioning",
+      "level": "Beginner",
+      "muscles": "Hip flexors · Quads · Ankles",
+      "desc": "Repeated lengths with a kickboard or in streamline, kicking from the hips with long, loose ankles and a narrow amplitude. The kick's job in distance freestyle is balance and body position more than thrust — it comes from the hip, with the knee soft and the ankle floppy.",
+      "exercises": [
+        {
+          "name": "Leg raises",
+          "scheme": "3 × 12",
+          "wgerId": 376
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Seated ankle dorsiflexion with band",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Flutter kicks on bench",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Kneeling ankle plantar flexion stretch",
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Kicking from the knees like riding a bicycle instead of from the hips.",
+        "Stiff, dorsiflexed ankles that push water forward and brake the body.",
+        "A huge splashy amplitude — the kick should stay inside the body's shadow."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flutter+kick+technique+swimming+tutorial"
+    },
+    {
+      "id": "pull-sets",
+      "group": "Kick and pull sets",
+      "name": "Pull sets with buoy and paddles",
+      "alt": "Arms-only strength lengths",
+      "level": "Intermediate",
+      "muscles": "Lats · Triceps · Core",
+      "desc": "Freestyle with a pull buoy between the thighs, often with paddles, isolating the upper body. The buoy lifts the hips so all attention goes to catch, pull path, and connecting each stroke to core rotation. Paddles add load — earn them with clean technique first.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 10",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Overhead triceps extensions",
+          "scheme": "3 × 12",
+          "wgerId": 1519,
+          "imageUrl": "https://wger.de/media/exercise-images/1519/fab7f641-27d4-40b5-8edd-1a0a137bfd94.gif"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Overhead lat stretch on wall",
+        "Doorway pec stretch",
+        "Triceps overhead stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Using paddles so big the elbow drops and the shoulder takes the strain.",
+        "Letting the legs snake behind the buoy instead of holding a quiet core.",
+        "Pulling wide of the bodyline instead of pressing water straight back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=swim+pull+set+buoy+paddles+technique"
+    },
+    {
+      "id": "underwater-dolphin",
+      "group": "Kick and pull sets",
+      "name": "Underwater dolphin kick",
+      "alt": "Fifth-stroke kicking off the walls",
+      "level": "Advanced",
+      "muscles": "Core · Glutes · Hamstrings",
+      "desc": "Streamlined dolphin kicks off each wall, driving the wave from the chest through the hips to the toes in both directions — down-kick and up-kick. Called the fifth stroke because elite racers carry wall speed further underwater than anyone can swim on the surface.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Kneeling ankle plantar flexion stretch",
+        "Child's pose",
+        "Standing quad stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Kicking only from the knees with a rigid torso — the wave must start at the chest.",
+        "A strong down-kick but a dead up-kick; both directions propel.",
+        "Staying under past 15 meters or beyond what breath control safely allows."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=underwater+dolphin+kick+tutorial+swimming"
+    },
+    {
+      "id": "backstroke-basics",
+      "group": "Strokes",
+      "name": "Backstroke basics",
+      "alt": "Body position and rhythm on your back",
+      "level": "Beginner",
+      "muscles": "Lats · Core · Hip flexors",
+      "desc": "Flat head, hips high, and a steady flutter kick while the arms alternate — pinky-first entry, deep catch, and a strong push past the hip. Like freestyle, the power comes from shoulder-and-hip roll around a still head; the face stays dry and the body stays long.",
+      "exercises": [
+        {
+          "name": "Reverse flyes",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Lat pulldowns behind neutral grip",
+          "scheme": "3 × 10",
+          "wgerId": 1510
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Leg raises",
+          "scheme": "3 × 12",
+          "wgerId": 376
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Overhead lat stretch on wall",
+        "Hip flexor lunge",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Sitting in the water with dropped hips instead of lying flat.",
+        "Lifting the head to look at the feet, which sinks everything.",
+        "Thumb-first hand entry that torques the shoulder."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=backstroke+technique+beginner+tutorial"
+    },
+    {
+      "id": "breaststroke-timing",
+      "group": "Strokes",
+      "name": "Breaststroke pull-breathe-kick-glide",
+      "alt": "Sequencing the breaststroke cycle",
+      "level": "Intermediate",
+      "muscles": "Adductors · Glutes · Chest",
+      "desc": "The stroke lives or dies on sequence: insweep and breathe, then drive the whip kick as the arms shoot forward, then hold a full glide. Propulsion comes from the kick snapping the feet back and together while the body is at its longest — kick into the glide, never into the pull.",
+      "exercises": [
+        {
+          "name": "Sumo squats",
+          "scheme": "3 × 10",
+          "wgerId": 632
+        },
+        {
+          "name": "Hip adduction machine",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable chest flyes",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s / side"
+        }
+      ],
+      "stretches": [
+        "Butterfly groin stretch",
+        "Frog stretch",
+        "90/90 hip switch",
+        "Kneeling ankle stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Pulling and kicking at the same time so they cancel each other out.",
+        "A screw kick with one foot turned in — asymmetry that strains the knee.",
+        "Skipping the glide and rushing into the next stroke."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=breaststroke+timing+pull+kick+glide+tutorial"
+    },
+    {
+      "id": "butterfly-basics",
+      "group": "Strokes",
+      "name": "Butterfly basics",
+      "alt": "Body undulation with two-kick timing",
+      "level": "Advanced",
+      "muscles": "Lats · Core · Chest",
+      "desc": "Both arms recover over the water while the body undulates through two dolphin kicks per cycle — one as the hands enter, one as they exit. Fly is rhythm, not muscle: press the chest down, let the hips rise, and let the kick finish what the bodyline starts. Fighting the water flat is what makes it exhausting.",
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "scheme": "4 × 6",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Dumbbell pullovers",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Child's pose with side reach",
+        "Doorway pec stretch",
+        "Thoracic extension over foam roller",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Muscling the arms over a flat body instead of letting undulation lead.",
+        "Lifting the whole chest skyward to breathe rather than sliding the chin forward.",
+        "Missing the second kick, which leaves the hips sinking at the finish of the pull."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=butterfly+stroke+technique+beginner+tutorial"
+    },
+    {
+      "id": "open-turns",
+      "group": "Turns and racing",
+      "name": "Open turns",
+      "alt": "Two-hand touch turns for fly and breast",
+      "level": "Beginner",
+      "muscles": "Core · Quads · Shoulders",
+      "desc": "A two-hand wall touch, then knees drive to the chest as one arm slices back and the body spins to plant the feet. The turn is won by a compact tuck and an explosive leg drive into a deep streamline — touch, spin, plant, push.",
+      "exercises": [
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 8 / side"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "90/90 hip switch",
+        "Overhead lat stretch on wall",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Gliding into the wall and touching with bent, dead arms.",
+        "Spinning flat on the surface instead of tucking small and low.",
+        "Pushing off on the surface instead of leaving the wall in streamline underwater."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=open+turn+swimming+technique+tutorial"
+    },
+    {
+      "id": "flip-turns",
+      "group": "Turns and racing",
+      "name": "Flip turns",
+      "alt": "Freestyle tumble turn at the wall",
+      "level": "Intermediate",
+      "muscles": "Core · Quads · Hip flexors",
+      "desc": "A forward somersault initiated one stroke from the wall, feet planted shoulder-width, then an explosive push-off on the back twisting into streamline. Speed comes from carrying momentum into the tumble — chin tucks, hips snap over, and the wall is hit with bent legs loaded to fire.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Cable crunches",
+          "scheme": "3 × 12",
+          "wgerId": 173
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        }
+      ],
+      "stretches": [
+        "Neck flexion stretch",
+        "Standing quad stretch",
+        "Supine spinal twist",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Gliding into the wall and flipping from a dead stop.",
+        "Flipping too far away and pushing off with straight legs — no power.",
+        "Lifting the head to sight the wall on the last stroke instead of using the T on the bottom."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=flip+turn+freestyle+tutorial"
+    },
+    {
+      "id": "open-water-sighting",
+      "group": "Turns and racing",
+      "name": "Open-water sighting",
+      "alt": "Crocodile-eyes navigation stroke",
+      "level": "Intermediate",
+      "muscles": "Neck extensors · Core · Lats",
+      "desc": "Lifting just the eyes above the surface at the top of a stroke — crocodile eyes — then rolling into a normal side breath. Sighting is timed with a stronger kick beat so the hips stay high; lift small, look fast, and swim straight between looks. Crooked swimming costs more time than slow swimming.",
+      "exercises": [
+        {
+          "name": "Prone Y-T-W raises",
+          "scheme": "3 × 8 each"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Plank with alternating arm reach",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Neck extension stretch",
+        "Upper trap stretch",
+        "Cobra stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Lifting the whole head and shoulders, which drops the hips like an anchor.",
+        "Sighting and breathing in the same forward lift instead of separating them.",
+        "Sighting every two strokes out of anxiety — trust the line, look every 6-10."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=open+water+swimming+sighting+technique"
+    }
+  ]
+}

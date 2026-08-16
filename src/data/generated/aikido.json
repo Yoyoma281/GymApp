@@ -1,0 +1,652 @@
+{
+  "id": "aikido",
+  "name": "Aikido",
+  "emoji": "☯️",
+  "tag": "AK",
+  "category": "Grappling arts",
+  "drills": [
+    {
+      "id": "tenkan",
+      "group": "Tai sabaki & movement",
+      "name": "Tenkan",
+      "alt": "Pivoting turn",
+      "level": "Beginner",
+      "muscles": "Hips · Calves · Core",
+      "desc": "The signature 180-degree pivot: the front foot stays planted while the rear leg sweeps behind, turning you off the line of attack to face the same direction as the attacker. Balance rides on one leg through the whole turn with the hips level and the spine tall. Every blending technique in aikido is built on this pivot.",
+      "exercises": [
+        {
+          "name": "Single-leg balance on BOSU",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Single-leg calf raises",
+          "scheme": "3 × 15 / leg",
+          "wgerId": 1021
+        },
+        {
+          "name": "Lateral band walks",
+          "scheme": "3 × 12 / side"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Calf wall stretch",
+        "Standing quad stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Bobbing up and down through the turn instead of keeping the hips level.",
+        "Swinging the rear leg wide and slow rather than sweeping it tight behind the pivot foot.",
+        "Turning the feet but leaving the hips and gaze behind."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+tenkan+pivot+tutorial"
+    },
+    {
+      "id": "irimi",
+      "group": "Tai sabaki & movement",
+      "name": "Irimi",
+      "alt": "Entering step",
+      "level": "Beginner",
+      "muscles": "Legs · Hips · Core",
+      "desc": "The direct entry: a deep sliding step that moves your whole body off the line and behind the attack in one beat. The step travels from the center — hips lead, feet glide, posture never breaks. Irimi is the courage half of aikido; tenkan is the yielding half.",
+      "exercises": [
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing hamstring stretch",
+        "Calf wall stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Stepping straight into the attack instead of entering beside and behind it.",
+        "Leaning the upper body forward ahead of the hips.",
+        "Small, hesitant steps — irimi must cover the full distance in one committed glide."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+irimi+entering+step+tutorial"
+    },
+    {
+      "id": "shikko",
+      "group": "Tai sabaki & movement",
+      "name": "Shikko",
+      "alt": "Knee walking",
+      "level": "Intermediate",
+      "muscles": "Hips · Quads · Adductors · Core",
+      "desc": "Moving across the mat on the knees with the toes live and the hips swinging each step — the mobility base for all seated (suwari-waza) techniques. Each step pivots on one knee while the hips, not the shoulders, drive the direction change. It forges the hip freedom and upright center that standing techniques quietly depend on.",
+      "exercises": [
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        },
+        {
+          "name": "Cable hip abductions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        }
+      ],
+      "stretches": [
+        "Kneeling shin stretch",
+        "Couch stretch",
+        "90/90 hip switch",
+        "Seated straddle"
+      ],
+      "mistakes": [
+        "Dragging dead toes instead of keeping them curled under and live.",
+        "Wobbling side to side from the shoulders rather than swinging from the hips.",
+        "Sitting the weight back on the heels, which kills forward drive."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+shikko+knee+walking+tutorial"
+    },
+    {
+      "id": "mae-ukemi",
+      "group": "Ukemi",
+      "name": "Mae ukemi",
+      "alt": "Forward roll",
+      "level": "Beginner",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "The forward roll along the arm's rounded frame — contact runs from the little-finger edge of the hand, along the forearm, across the back to the opposite hip, and up to standing. The arm never collapses; it is a wheel rim the body rolls around. Soft, silent rolls are the passport to training throws at full speed.",
+      "exercises": [
+        {
+          "name": "Shoulder taps in plank",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Pike push-ups",
+          "scheme": "3 × 8",
+          "wgerId": 454,
+          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Thread the needle",
+        "Cross-body shoulder stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Rolling over the head and spine instead of diagonally across the back.",
+        "Collapsing the arm so the point of the shoulder digs into the mat.",
+        "Holding the breath and stiffening — tension makes every roll louder and harder."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+mae+ukemi+forward+roll+tutorial"
+    },
+    {
+      "id": "ushiro-ukemi-aikido",
+      "group": "Ukemi",
+      "name": "Ushiro ukemi",
+      "alt": "Backward roll",
+      "level": "Beginner",
+      "muscles": "Core · Neck · Abs",
+      "desc": "Sitting back over one folded leg, rounding the spine and rolling over the shoulder — never the head — back up to standing. The chin stays tucked and the eyes follow the belt line to steer the roll off the neck. It converts the alarming experience of being thrown backward into a smooth return to your feet.",
+      "exercises": [
+        {
+          "name": "Crunches",
+          "scheme": "3 × 15",
+          "wgerId": 167,
+          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Neck harness flexions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Chin-to-chest neck stretch",
+        "Cat-cow",
+        "Supine spinal twist",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Rolling straight over the crown of the head instead of past one shoulder.",
+        "Throwing the head back on descent instead of tucking the chin.",
+        "Posting a straight arm behind to break the fall."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+ushiro+ukemi+backward+roll+tutorial"
+    },
+    {
+      "id": "tobu-ukemi",
+      "group": "Ukemi",
+      "name": "Tobu ukemi",
+      "alt": "Breakfall (high fall)",
+      "level": "Advanced",
+      "muscles": "Core · Shoulders · Neck · Hips",
+      "desc": "The flying breakfall taken from throws like shiho nage and kote gaeshi where rolling out is impossible — the body flips over the trapped arm and lands flat on its side with a full-arm slap. Mid-air the core organizes the landing: chin tucked, legs split, slap timed a heartbeat before impact. It is earned through progressions, never leaped into.",
+      "exercises": [
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Side planks",
+          "scheme": "3 × 45s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Neck harness flexions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 5",
+          "wgerId": 1373
+        }
+      ],
+      "stretches": [
+        "Supine spinal twist",
+        "Chin-to-chest neck stretch",
+        "Lat side-bend stretch",
+        "Wrist flexor stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Landing flat on the back instead of on the side with the slap absorbing impact.",
+        "Slapping late or with a bent wrist, sending the shock into the elbow.",
+        "Fighting the throw halfway over — committing to the fall is what makes it safe."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+breakfall+tobu+ukemi+tutorial"
+    },
+    {
+      "id": "ikkyo",
+      "group": "Osae waza (pins)",
+      "name": "Ikkyo",
+      "alt": "First control — arm pin",
+      "level": "Beginner",
+      "muscles": "Shoulders · Lats · Core · Legs",
+      "desc": "The first principle: controlling the attacker's elbow and wrist in a large arc that turns their arm over and takes them face-down to the mat. Power comes from moving your whole center behind the cut, as if swinging a sword down through their elbow. Done from irimi or tenkan, it is the template all other controls modify.",
+      "exercises": [
+        {
+          "name": "Cable straight-arm pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Landmine press",
+          "scheme": "3 × 8 / arm",
+          "wgerId": 346
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Wrist flexor stretch",
+        "Doorway pec stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Pushing the arm down with the hands while the hips stay behind.",
+        "Controlling the wrist but ignoring the elbow — the elbow steers the whole body.",
+        "Finishing the pin with a bent, hunched posture instead of settling the weight through straight alignment."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+ikkyo+tutorial"
+    },
+    {
+      "id": "nikyo",
+      "group": "Osae waza (pins)",
+      "name": "Nikyo",
+      "alt": "Second control — wrist lock",
+      "level": "Intermediate",
+      "muscles": "Forearms · Grip · Core · Shoulders",
+      "desc": "A rotational wrist lock that folds the attacker's wrist toward their own forearm, dropping them through pain-free structure rather than brute pressure. The lock is applied by turning your center with the hands connected to it — the wrists merely transmit. Applied with the arms alone it becomes a strength contest; applied with the hips it is inescapable.",
+      "exercises": [
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 up-downs"
+        },
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Prayer stretch",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Cranking the lock with the hands instead of settling the body weight through it.",
+        "Losing the vertical alignment of their wrist, elbow and shoulder — the lock leaks out sideways.",
+        "Applying it fast on training partners; nikyo is drilled slow because it bites suddenly."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+nikyo+wrist+lock+tutorial"
+    },
+    {
+      "id": "sankyo",
+      "group": "Osae waza (pins)",
+      "name": "Sankyo",
+      "alt": "Third control — spiral wrist twist",
+      "level": "Intermediate",
+      "muscles": "Forearms · Grip · Obliques · Legs",
+      "desc": "A spiral twist of the hand and forearm that runs a line of tension up through the attacker's elbow and shoulder, lifting them onto their toes. The twist is maintained while you move — steering them into the pin like holding a live steering wheel. Control of their center through one hand is the essence of the technique.",
+      "exercises": [
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30m"
+        }
+      ],
+      "stretches": [
+        "Wrist extensor stretch",
+        "Wrist flexor stretch",
+        "Prayer stretch",
+        "Thoracic rotation stretch"
+      ],
+      "mistakes": [
+        "Letting the twist unwind while stepping — the spiral must stay wound through every movement.",
+        "Twisting the hand flat sideways instead of spiraling up through the arm's axis.",
+        "Standing tall and disconnected instead of keeping the elbow controlled at your center."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+sankyo+tutorial"
+    },
+    {
+      "id": "shiho-nage",
+      "group": "Nage waza (throws)",
+      "name": "Shiho-nage",
+      "alt": "Four-direction throw",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Legs · Grip",
+      "desc": "Taking the attacker's arm up and over as you pivot beneath it — folding their hand back toward their shoulder and cutting down as if sheathing a sword. The name promises a throw in any of four directions from the same entry. Their balance is broken the moment their elbow rises above their shoulder; the cut merely finishes it.",
+      "exercises": [
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Cable face pulls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Triceps overhead stretch",
+        "Wrist flexor stretch",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Wrenching the arm around your body instead of pivoting your body under the arm.",
+        "Cutting down away from their shoulder line, which loses the lock and invites a spin-out.",
+        "Standing tall through the pivot instead of passing under with bent knees."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+shiho+nage+tutorial"
+    },
+    {
+      "id": "irimi-nage",
+      "group": "Nage waza (throws)",
+      "name": "Irimi-nage",
+      "alt": "Entering throw",
+      "level": "Intermediate",
+      "muscles": "Legs · Core · Chest · Shoulders",
+      "desc": "The 'twenty-year technique': enter deep behind the attacker, draw their head to your shoulder as their balance spirals down, then throw by entering again as their body rises. The throwing arm does not clothesline — the attacker falls over the wave of your advancing center. Timing their rise-and-fall rhythm is the entire art.",
+      "exercises": [
+        {
+          "name": "Sled pushes",
+          "scheme": "4 × 15m"
+        },
+        {
+          "name": "Cable chest flys",
+          "scheme": "3 × 12",
+          "wgerId": 1689
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "3 × 10"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Kneeling hip flexor stretch",
+        "Upper trap stretch",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Swinging the arm across the neck like a strike instead of throwing with the step.",
+        "Entering shallow, beside the attacker rather than behind their balance line.",
+        "Letting their head float off your shoulder before the final entry."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+irimi+nage+tutorial"
+    },
+    {
+      "id": "kote-gaeshi",
+      "group": "Nage waza (throws)",
+      "name": "Kote-gaeshi",
+      "alt": "Wrist-turn throw",
+      "level": "Intermediate",
+      "muscles": "Forearms · Grip · Hips · Core",
+      "desc": "An outward turn of the attacker's wrist, timed with a tenkan pivot that whips their balance out from under them. The wrist turn and the hip turn are one motion — the hand is folded back and out while your center drops and rotates. Done with the fingers alone it is a struggle; done with the pivot the attacker flips themselves to escape the lock.",
+      "exercises": [
+        {
+          "name": "Dumbbell wrist curls",
+          "scheme": "3 × 15",
+          "wgerId": 1205
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Prayer stretch",
+        "Standing spinal twist"
+      ],
+      "mistakes": [
+        "Turning the wrist without moving the feet, leaving the attacker balanced enough to punch.",
+        "Grabbing high on the forearm instead of folding the hand itself.",
+        "Applying the lock upward at chest height instead of down toward their center."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+kote+gaeshi+tutorial"
+    },
+    {
+      "id": "tenchi-nage",
+      "group": "Nage waza (throws)",
+      "name": "Tenchi-nage",
+      "alt": "Heaven-and-earth throw",
+      "level": "Intermediate",
+      "muscles": "Legs · Shoulders · Core · Back",
+      "desc": "One hand spirals low toward the earth while the other rises toward heaven, splitting the attacker's balance in two directions at once. The entering step drives your center through the gap the split creates, and they fall backward over their own broken base. Neither arm pushes hard — the division of their attention does the throwing.",
+      "exercises": [
+        {
+          "name": "Dumbbell shoulder press",
+          "scheme": "3 × 10",
+          "wgerId": 567,
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png"
+        },
+        {
+          "name": "Cable pull-throughs",
+          "scheme": "3 × 12",
+          "wgerId": 1751
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Cross-body shoulder stretch",
+        "Kneeling hip flexor stretch",
+        "Cat-cow"
+      ],
+      "mistakes": [
+        "Raising and lowering the arms without stepping through, turning it into a shoving match.",
+        "Both hands working at the same height, which fails to split the balance.",
+        "Chasing the fall with the upper body instead of staying centered over your own feet."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+tenchi+nage+tutorial"
+    },
+    {
+      "id": "kokyu-nage",
+      "group": "Nage waza (throws)",
+      "name": "Kokyu-nage",
+      "alt": "Breath throw",
+      "level": "Advanced",
+      "muscles": "Core · Hips · Shoulders · Legs",
+      "desc": "A family of throws with no lock and no grip — the attacker's momentum is received, extended a hair past its own reach, and released into a fall. Timing replaces mechanism: you join their motion at full speed and add one breath of extension from your center. It is the purest test of blending, and it fails completely when forced.",
+      "exercises": [
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Medicine ball rotational throws",
+          "scheme": "3 × 6 / side"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Single-leg balance on BOSU",
+          "scheme": "3 × 30s / leg"
+        }
+      ],
+      "stretches": [
+        "Standing spinal twist",
+        "Cat-cow",
+        "Cross-body shoulder stretch",
+        "90/90 hip switch"
+      ],
+      "mistakes": [
+        "Meeting the attack early and colliding instead of joining its direction first.",
+        "Throwing from the arms with a static center — kokyu power is a whole-body wave.",
+        "Stopping your own motion at the release point rather than extending through it."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+kokyu+nage+tutorial"
+    },
+    {
+      "id": "koshi-nage",
+      "group": "Nage waza (throws)",
+      "name": "Koshi-nage",
+      "alt": "Hip throw",
+      "level": "Advanced",
+      "muscles": "Hips · Glutes · Legs · Back",
+      "desc": "Aikido's hip throw: the attacker is drawn over a hip presented perpendicular and below their center, and rolls over it like water over a stone. Unlike judo's lifted throws, uke's own momentum supplies the ride — your job is a deep knee bend, a level hip, and exact placement under their falling line. Entry timing turns it from a lift into a levitation.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Seated forward fold",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Presenting the hip too high so the attacker stalls on your back instead of rolling over.",
+        "Bending forward at the waist to haul them over rather than dropping under with the knees.",
+        "Entering without kuzushi and turning the throw into a deadlift."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=aikido+koshi+nage+hip+throw+tutorial"
+    }
+  ]
+}

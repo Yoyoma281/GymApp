@@ -3,12 +3,52 @@ import type { Activity, SportMeta } from '../activities';
 
 export const sportIndex: SportMeta[] = [
   {
+    "id": "aikido",
+    "name": "Aikido",
+    "emoji": "☯️",
+    "tag": "AK",
+    "category": "Grappling arts",
+    "drillCount": 15
+  },
+  {
+    "id": "archery",
+    "name": "Archery",
+    "emoji": "🏹",
+    "tag": "AR",
+    "category": "Weapon & traditional arts",
+    "drillCount": 16
+  },
+  {
+    "id": "badminton",
+    "name": "Badminton",
+    "emoji": "🏸",
+    "tag": "BD",
+    "category": "Ball & team sports",
+    "drillCount": 16
+  },
+  {
+    "id": "baseball",
+    "name": "Baseball",
+    "emoji": "⚾",
+    "tag": "BS",
+    "category": "Ball & team sports",
+    "drillCount": 15
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball",
+    "emoji": "🏀",
+    "tag": "BB",
+    "category": "Ball & team sports",
+    "drillCount": 15
+  },
+  {
     "id": "bjj",
     "name": "BJJ / Grappling",
     "emoji": "🤼",
     "tag": "JJ",
     "category": "Grappling arts",
-    "drillCount": 2
+    "drillCount": 19
   },
   {
     "id": "boxing",
@@ -16,7 +56,15 @@ export const sportIndex: SportMeta[] = [
     "emoji": "🥊",
     "tag": "BX",
     "category": "Striking arts",
-    "drillCount": 3
+    "drillCount": 17
+  },
+  {
+    "id": "capoeira",
+    "name": "Capoeira",
+    "emoji": "🕺",
+    "tag": "CP",
+    "category": "Striking arts",
+    "drillCount": 16
   },
   {
     "id": "climbing",
@@ -24,7 +72,63 @@ export const sportIndex: SportMeta[] = [
     "emoji": "🧗",
     "tag": "CL",
     "category": "Outdoor & adventure",
-    "drillCount": 2
+    "drillCount": 16
+  },
+  {
+    "id": "crossfit",
+    "name": "CrossFit",
+    "emoji": "🔥",
+    "tag": "CF",
+    "category": "Strength & fitness",
+    "drillCount": 16
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling",
+    "emoji": "🚴",
+    "tag": "CY",
+    "category": "Endurance",
+    "drillCount": 15
+  },
+  {
+    "id": "fencing",
+    "name": "Fencing",
+    "emoji": "🤺",
+    "tag": "FN",
+    "category": "Weapon & traditional arts",
+    "drillCount": 16
+  },
+  {
+    "id": "golf",
+    "name": "Golf",
+    "emoji": "⛳",
+    "tag": "GF",
+    "category": "Ball & team sports",
+    "drillCount": 15
+  },
+  {
+    "id": "gymnastics",
+    "name": "Gymnastics",
+    "emoji": "🤸",
+    "tag": "GY",
+    "category": "Strength & fitness",
+    "drillCount": 16
+  },
+  {
+    "id": "hiking",
+    "name": "Hiking",
+    "emoji": "🥾",
+    "tag": "HK",
+    "category": "Outdoor & adventure",
+    "drillCount": 15
+  },
+  {
+    "id": "judo",
+    "name": "Judo",
+    "emoji": "🎽",
+    "tag": "JD",
+    "category": "Grappling arts",
+    "drillCount": 15
   },
   {
     "id": "karate",
@@ -32,7 +136,47 @@ export const sportIndex: SportMeta[] = [
     "emoji": "🥋",
     "tag": "KA",
     "category": "Striking arts",
-    "drillCount": 4
+    "drillCount": 18
+  },
+  {
+    "id": "kendo",
+    "name": "Kendo",
+    "emoji": "⚔️",
+    "tag": "KD",
+    "category": "Weapon & traditional arts",
+    "drillCount": 15
+  },
+  {
+    "id": "kickboxing",
+    "name": "Kickboxing",
+    "emoji": "💥",
+    "tag": "KB",
+    "category": "Striking arts",
+    "drillCount": 16
+  },
+  {
+    "id": "krav-maga",
+    "name": "Krav Maga",
+    "emoji": "🛡️",
+    "tag": "KM",
+    "category": "Striking arts",
+    "drillCount": 16
+  },
+  {
+    "id": "kung-fu",
+    "name": "Kung Fu",
+    "emoji": "🐉",
+    "tag": "KF",
+    "category": "Striking arts",
+    "drillCount": 16
+  },
+  {
+    "id": "mma",
+    "name": "MMA",
+    "emoji": "🤜",
+    "tag": "MM",
+    "category": "Striking arts",
+    "drillCount": 16
   },
   {
     "id": "muay-thai",
@@ -40,7 +184,39 @@ export const sportIndex: SportMeta[] = [
     "emoji": "🦵",
     "tag": "MT",
     "category": "Striking arts",
-    "drillCount": 2
+    "drillCount": 16
+  },
+  {
+    "id": "olympic-weightlifting",
+    "name": "Olympic Weightlifting",
+    "emoji": "🏋️‍♂️",
+    "tag": "OL",
+    "category": "Strength & fitness",
+    "drillCount": 15
+  },
+  {
+    "id": "powerlifting",
+    "name": "Powerlifting",
+    "emoji": "🏋️",
+    "tag": "PL",
+    "category": "Strength & fitness",
+    "drillCount": 16
+  },
+  {
+    "id": "rowing",
+    "name": "Rowing",
+    "emoji": "🚣",
+    "tag": "RW",
+    "category": "Endurance",
+    "drillCount": 15
+  },
+  {
+    "id": "rugby",
+    "name": "Rugby",
+    "emoji": "🏉",
+    "tag": "RG",
+    "category": "Ball & team sports",
+    "drillCount": 16
   },
   {
     "id": "running",
@@ -48,17 +224,147 @@ export const sportIndex: SportMeta[] = [
     "emoji": "🏃",
     "tag": "RN",
     "category": "Endurance",
-    "drillCount": 2
+    "drillCount": 16
+  },
+  {
+    "id": "skateboarding",
+    "name": "Skateboarding",
+    "emoji": "🛹",
+    "tag": "SB",
+    "category": "Outdoor & adventure",
+    "drillCount": 15
+  },
+  {
+    "id": "skiing",
+    "name": "Skiing",
+    "emoji": "⛷️",
+    "tag": "SK",
+    "category": "Outdoor & adventure",
+    "drillCount": 15
+  },
+  {
+    "id": "snowboarding",
+    "name": "Snowboarding",
+    "emoji": "🏂",
+    "tag": "SN",
+    "category": "Outdoor & adventure",
+    "drillCount": 16
+  },
+  {
+    "id": "soccer",
+    "name": "Soccer",
+    "emoji": "⚽",
+    "tag": "SC",
+    "category": "Ball & team sports",
+    "drillCount": 16
+  },
+  {
+    "id": "surfing",
+    "name": "Surfing",
+    "emoji": "🏄",
+    "tag": "SF",
+    "category": "Outdoor & adventure",
+    "drillCount": 15
+  },
+  {
+    "id": "swimming",
+    "name": "Swimming",
+    "emoji": "🏊",
+    "tag": "SW",
+    "category": "Endurance",
+    "drillCount": 16
+  },
+  {
+    "id": "taekwondo",
+    "name": "Taekwondo",
+    "emoji": "🦶",
+    "tag": "TK",
+    "category": "Striking arts",
+    "drillCount": 16
+  },
+  {
+    "id": "tennis",
+    "name": "Tennis",
+    "emoji": "🎾",
+    "tag": "TN",
+    "category": "Ball & team sports",
+    "drillCount": 15
+  },
+  {
+    "id": "triathlon",
+    "name": "Triathlon",
+    "emoji": "🏅",
+    "tag": "TR",
+    "category": "Endurance",
+    "drillCount": 16
+  },
+  {
+    "id": "volleyball",
+    "name": "Volleyball",
+    "emoji": "🏐",
+    "tag": "VB",
+    "category": "Ball & team sports",
+    "drillCount": 16
+  },
+  {
+    "id": "wrestling",
+    "name": "Wrestling",
+    "emoji": "🤼‍♂️",
+    "tag": "WR",
+    "category": "Grappling arts",
+    "drillCount": 15
+  },
+  {
+    "id": "yoga",
+    "name": "Yoga",
+    "emoji": "🧘",
+    "tag": "YG",
+    "category": "Strength & fitness",
+    "drillCount": 15
   }
 ];
 
 const loaders: Record<string, () => Activity> = {
+  'aikido': () => require('./aikido.json') as Activity,
+  'archery': () => require('./archery.json') as Activity,
+  'badminton': () => require('./badminton.json') as Activity,
+  'baseball': () => require('./baseball.json') as Activity,
+  'basketball': () => require('./basketball.json') as Activity,
   'bjj': () => require('./bjj.json') as Activity,
   'boxing': () => require('./boxing.json') as Activity,
+  'capoeira': () => require('./capoeira.json') as Activity,
   'climbing': () => require('./climbing.json') as Activity,
+  'crossfit': () => require('./crossfit.json') as Activity,
+  'cycling': () => require('./cycling.json') as Activity,
+  'fencing': () => require('./fencing.json') as Activity,
+  'golf': () => require('./golf.json') as Activity,
+  'gymnastics': () => require('./gymnastics.json') as Activity,
+  'hiking': () => require('./hiking.json') as Activity,
+  'judo': () => require('./judo.json') as Activity,
   'karate': () => require('./karate.json') as Activity,
+  'kendo': () => require('./kendo.json') as Activity,
+  'kickboxing': () => require('./kickboxing.json') as Activity,
+  'krav-maga': () => require('./krav-maga.json') as Activity,
+  'kung-fu': () => require('./kung-fu.json') as Activity,
+  'mma': () => require('./mma.json') as Activity,
   'muay-thai': () => require('./muay-thai.json') as Activity,
+  'olympic-weightlifting': () => require('./olympic-weightlifting.json') as Activity,
+  'powerlifting': () => require('./powerlifting.json') as Activity,
+  'rowing': () => require('./rowing.json') as Activity,
+  'rugby': () => require('./rugby.json') as Activity,
   'running': () => require('./running.json') as Activity,
+  'skateboarding': () => require('./skateboarding.json') as Activity,
+  'skiing': () => require('./skiing.json') as Activity,
+  'snowboarding': () => require('./snowboarding.json') as Activity,
+  'soccer': () => require('./soccer.json') as Activity,
+  'surfing': () => require('./surfing.json') as Activity,
+  'swimming': () => require('./swimming.json') as Activity,
+  'taekwondo': () => require('./taekwondo.json') as Activity,
+  'tennis': () => require('./tennis.json') as Activity,
+  'triathlon': () => require('./triathlon.json') as Activity,
+  'volleyball': () => require('./volleyball.json') as Activity,
+  'wrestling': () => require('./wrestling.json') as Activity,
+  'yoga': () => require('./yoga.json') as Activity,
 };
 
 export function loadSport(id: string): Activity | undefined {

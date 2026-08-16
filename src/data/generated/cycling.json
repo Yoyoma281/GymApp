@@ -1,0 +1,707 @@
+{
+  "id": "cycling",
+  "name": "Cycling",
+  "emoji": "🚴",
+  "tag": "CY",
+  "category": "Endurance",
+  "drills": [
+    {
+      "id": "cadence-drills",
+      "group": "Pedaling technique",
+      "name": "Cadence drills",
+      "alt": "Smooth pedaling at 90-100 rpm",
+      "level": "Beginner",
+      "muscles": "Quads · Hip flexors · Calves",
+      "desc": "Blocks of riding at 90-100 rpm in an easy gear, keeping the upper body quiet and the pedal stroke round. A higher cadence shifts load from muscle to cardiovascular system, saving the legs for late in a ride. Smoothness first — the rpm follows.",
+      "exercises": [
+        {
+          "name": "Bodyweight squats",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Leg extensions",
+          "scheme": "3 × 12",
+          "wgerId": 369,
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
+        },
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 45s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Seated calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 1620,
+          "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Standing hamstring stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Bouncing in the saddle — a sign the gear is too easy or the stroke is stabby.",
+        "Gripping the bars and tensing the shoulders as the legs spin up.",
+        "Chasing rpm with a mashing toe-down stroke instead of a round one."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=cycling+cadence+drills+high+rpm"
+    },
+    {
+      "id": "single-leg-pedaling",
+      "group": "Pedaling technique",
+      "name": "Single-leg pedaling",
+      "alt": "One-leg trainer drill for a round stroke",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Hamstrings · Quads",
+      "desc": "30-60 second blocks on the trainer pedaling with one leg while the other rests on a stool. Exposes the dead spot at the top of the stroke; the fix is driving the knee up and over the 12 o'clock position and sweeping back through the bottom like scraping mud off the shoe.",
+      "exercises": [
+        {
+          "name": "Cable hip flexor march",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Single-leg press",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 1515
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Clunking through the top of the stroke instead of carrying the pedal over smoothly.",
+        "Rocking the hips to heave the pedal around.",
+        "Going so long per leg that form collapses — quality beats duration."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=single+leg+pedaling+drill+cycling+trainer"
+    },
+    {
+      "id": "spin-ups",
+      "group": "Pedaling technique",
+      "name": "High-cadence spin-ups",
+      "alt": "Short bursts toward 120+ rpm",
+      "level": "Intermediate",
+      "muscles": "Hip flexors · Calves · Core",
+      "desc": "30-second ramps from normal cadence up to the edge of bouncing, then back off a touch and hold. Trains the neuromuscular system to fire and relax fast, raising the ceiling so race cadence feels effortless. The limiter is coordination, not fitness.",
+      "exercises": [
+        {
+          "name": "Jump rope",
+          "scheme": "4 × 60s",
+          "wgerId": 993
+        },
+        {
+          "name": "Pogo hops",
+          "scheme": "3 × 20"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Calf wall stretch",
+        "Standing quad stretch",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Holding the bounce instead of backing off to the fastest smooth cadence.",
+        "Death-gripping the bars — hands stay light, core does the stabilizing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=cycling+spin+up+drill+high+cadence"
+    },
+    {
+      "id": "endurance-base-ride",
+      "group": "Endurance and power",
+      "name": "Endurance base rides",
+      "alt": "Long steady zone-2 riding",
+      "level": "Beginner",
+      "muscles": "Quads · Glutes · Hamstrings",
+      "desc": "Two hours or more at a conversational, all-day effort — zone 2. Builds mitochondrial density, fat metabolism, and the durability that lets hard sessions land on prepared legs. The discipline is staying easy on the hills instead of surging.",
+      "exercises": [
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 10",
+          "wgerId": 507
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Doorway pec stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Riding zone 2 as zone 3 and arriving at the week's intervals half-cooked.",
+        "Under-fueling long rides and normalizing the bonk.",
+        "Never moving on the bike — shift position and stand briefly every 15 minutes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=zone+2+cycling+base+training"
+    },
+    {
+      "id": "sweet-spot-intervals",
+      "group": "Endurance and power",
+      "name": "Sweet-spot intervals",
+      "alt": "Long blocks just under threshold",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "2-3 blocks of 10-20 minutes at 88-94% of FTP — hard enough to drive threshold upward, easy enough to repeat all week. The workhorse intensity of time-crunched training. Steady pressure on the pedals, steady breathing, no surges.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "3 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Standing hamstring stretch",
+        "Seated forward fold"
+      ],
+      "mistakes": [
+        "Riding the first five minutes at threshold and drifting down — start at the bottom of the range.",
+        "Letting cadence sag as fatigue builds, grinding the intervals out at 70 rpm.",
+        "Stacking sweet spot every day with no genuinely easy rides between."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sweet+spot+intervals+cycling+workout"
+    },
+    {
+      "id": "ftp-intervals",
+      "group": "Endurance and power",
+      "name": "FTP intervals",
+      "alt": "Threshold repeats, e.g. 2 × 20 min",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Hamstrings",
+      "desc": "Classic 2 × 20 minutes at 95-105% of FTP with short recovery. Raises the highest power you can sustain for an hour — the number almost every road performance is built on. Pacing is the skill: the first interval should feel suspiciously manageable.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Weighted plank",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Couch stretch",
+        "Standing hamstring stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Starting 20 watts over and detonating at minute twelve.",
+        "Testing FTP rarely and training on a stale, inflated number.",
+        "Rocking and rolling on the saddle instead of holding a stable core."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ftp+intervals+2x20+cycling+workout"
+    },
+    {
+      "id": "vo2-intervals",
+      "group": "Endurance and power",
+      "name": "VO2max intervals",
+      "alt": "3-5 minute maximal aerobic repeats",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Diaphragm",
+      "desc": "Repeats of 3-5 minutes at roughly 110-120% of FTP, with equal recovery, breathing at the ragged edge by the final minute. Raises the aerobic ceiling that caps FTP itself. Best ridden at a high cadence to spread the load and accumulate maximal minutes of heavy breathing.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 5",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Rowing machine intervals",
+          "scheme": "4 × 500m"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Hip flexor lunge",
+        "Thoracic extension over foam roller",
+        "Standing hamstring stretch"
+      ],
+      "mistakes": [
+        "Sprinting the first 30 seconds — the target is even power that maximizes time at high oxygen uptake.",
+        "Doing them on tired legs where the required power is unreachable.",
+        "Grinding a low cadence and letting the legs fail before the lungs are stressed."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=vo2max+intervals+cycling+workout"
+    },
+    {
+      "id": "low-cadence-torque",
+      "group": "Climbing",
+      "name": "Low-cadence torque work",
+      "alt": "Big-gear seated efforts at 50-60 rpm",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Core",
+      "desc": "Seated climbs or trainer blocks at 50-60 rpm and moderate power, driving each pedal stroke from the glutes with a rock-solid torso. On-bike strength training that builds the torque reserve steep gradients demand. Keep the knees tracking straight and the effort controlled.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Leg press",
+          "scheme": "4 × 8",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 8",
+          "wgerId": 294
+        },
+        {
+          "name": "Step-ups",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 981,
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Lying figure-4",
+        "Standing hamstring stretch",
+        "Hip flexor lunge"
+      ],
+      "mistakes": [
+        "Letting the knees bow outward under load.",
+        "Wrestling the bars side to side instead of bracing the core.",
+        "Doing torque work with any knee pain — it's the first drill to cut."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=low+cadence+big+gear+cycling+drill"
+    },
+    {
+      "id": "seated-climbing",
+      "group": "Climbing",
+      "name": "Seated climbing",
+      "alt": "Sustained gradient pacing in the saddle",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Lower back",
+      "desc": "Long climbs ridden seated, slightly back in the saddle, hands relaxed on the tops, at a steady threshold-or-below effort. Seated is the most economical way up any long gradient; the skill is even pacing from bottom to summit and recruiting the glutes by dropping the heel through the stroke.",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "scheme": "4 × 10",
+          "wgerId": 371,
+          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        }
+      ],
+      "stretches": [
+        "Hip flexor lunge",
+        "Seated forward fold",
+        "Lying figure-4",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Attacking the base of the climb and crawling the top third.",
+        "Hunching over the bars and closing the chest, which cramps breathing.",
+        "Refusing to shift down and grinding when the gradient kicks."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=seated+climbing+technique+cycling"
+    },
+    {
+      "id": "standing-climbing",
+      "group": "Climbing",
+      "name": "Standing climbing and attacks",
+      "alt": "Out-of-saddle efforts on steep pitches",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Arms",
+      "desc": "Rising out of the saddle with the bike rocking rhythmically beneath a quiet body, weight over the pedals, pulling the bars in sync with each downstroke. Standing costs more energy but delivers more power — used for steep pitches, accelerations, and giving the seated muscles a break.",
+      "exercises": [
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 12 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Dumbbell rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Box jumps",
+          "scheme": "3 × 6",
+          "wgerId": 1373
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Couch stretch",
+        "Hip flexor lunge",
+        "Cross-body shoulder stretch"
+      ],
+      "mistakes": [
+        "Throwing the body over the front wheel instead of letting the bike rock under a stable torso.",
+        "Shifting to a harder gear too late — cadence collapses the moment you stand.",
+        "Standing for whole climbs out of habit and burning matches for nothing."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=standing+climbing+technique+cycling+out+of+saddle"
+    },
+    {
+      "id": "sprint-standing-starts",
+      "group": "Sprinting",
+      "name": "Standing-start sprints",
+      "alt": "Max power from near-standstill",
+      "level": "Intermediate",
+      "muscles": "Glutes · Quads · Arms",
+      "desc": "From a crawl in a big gear, explode out of the saddle for 10-15 seconds of maximal effort. Pure peak-power work: the first three pedal strokes come from the glutes and back while the arms wrestle the bars straight. Full recovery between reps keeps every sprint honest.",
+      "exercises": [
+        {
+          "name": "Trap bar deadlifts",
+          "scheme": "4 × 4"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 6",
+          "wgerId": 614
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "4 × 6",
+          "wgerId": 294
+        },
+        {
+          "name": "Bent-over barbell rows",
+          "scheme": "3 × 8",
+          "wgerId": 81,
+          "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Lying figure-4",
+        "Hip flexor lunge",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Starting in a gear so big the first strokes stall, or so small you spin out instantly.",
+        "Letting the bike wander across the road under full power.",
+        "Sprinting again before full recovery — quality dies and so does the data."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=standing+start+sprint+cycling+drill"
+    },
+    {
+      "id": "leadout-sprints",
+      "group": "Sprinting",
+      "name": "Race-speed sprints",
+      "alt": "High-speed jumps from 40+ km/h",
+      "level": "Advanced",
+      "muscles": "Quads · Glutes · Calves",
+      "desc": "Winding up to race speed, then jumping hard and shifting through the gears as the sprint builds over 15-20 seconds. Trains the top-end kick that decides races — timing the jump, staying low and aero, and keeping the bike straight while shifting under maximal load.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "5 × 3"
+        },
+        {
+          "name": "Power cleans",
+          "scheme": "4 × 3",
+          "wgerId": 683
+        },
+        {
+          "name": "Depth jumps",
+          "scheme": "3 × 5"
+        },
+        {
+          "name": "Lying hamstring curls",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "4 × 12",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Standing quad stretch",
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Jumping from too far out and being swallowed at the line.",
+        "Sitting up into the wind mid-sprint instead of staying low over the bars.",
+        "Missing the shift and spinning out at peak speed."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=sprint+leadout+technique+cycling"
+    },
+    {
+      "id": "cornering",
+      "group": "Bike handling",
+      "name": "Cornering",
+      "alt": "Line choice and lean through turns",
+      "level": "Beginner",
+      "muscles": "Core · Quads · Forearms",
+      "desc": "Brake before the turn, outside pedal down and weighted, look through the exit, then lean the bike and carry speed out. Cornering well is free speed and free energy — every corner exited fast is an acceleration you don't have to make. The eyes lead and the bike follows.",
+      "exercises": [
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        },
+        {
+          "name": "Single-leg squats to box",
+          "scheme": "3 × 6 / leg"
+        },
+        {
+          "name": "Side plank",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 40m"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Standing quad stretch",
+        "Supine spinal twist",
+        "Neck rotation stretch"
+      ],
+      "mistakes": [
+        "Braking mid-corner and standing the bike up off the line.",
+        "Staring at the apex or the hazard instead of looking through the exit.",
+        "Inside pedal down through the lean — a pedal strike waiting to happen."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=cornering+technique+road+cycling+tutorial"
+    },
+    {
+      "id": "group-riding",
+      "group": "Bike handling",
+      "name": "Group riding and drafting",
+      "alt": "Holding a wheel in a paceline",
+      "level": "Intermediate",
+      "muscles": "Core · Neck · Forearms",
+      "desc": "Riding 30-50cm off the wheel ahead, saving up to 30% of the effort, while holding a rock-steady line and pace. The craft is smoothness: soft-pedal instead of braking, take short even pulls, and never overlap wheels. Trust is built by being predictable.",
+      "exercises": [
+        {
+          "name": "Plank with alternating arm reach",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        },
+        {
+          "name": "Dead bug",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 rolls"
+        }
+      ],
+      "stretches": [
+        "Neck extension stretch",
+        "Upper trap stretch",
+        "Doorway pec stretch",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Staring at the wheel in front instead of looking two riders up the road.",
+        "Grabbing brakes in the paceline instead of feathering or soft-pedaling.",
+        "Surging through pulls and shattering the group's rhythm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=group+riding+drafting+skills+cycling"
+    },
+    {
+      "id": "tt-position",
+      "group": "Bike handling",
+      "name": "Time-trial position work",
+      "alt": "Holding an aero tuck at power",
+      "level": "Advanced",
+      "muscles": "Neck · Lower back · Hamstrings",
+      "desc": "Progressively longer blocks in the aero bars — flat back, shrugged-in shoulders, head low with eyes up — while holding target power. Aerodynamics is 80% of the resistance at race speed, so the position is the equipment. The body must be trained to produce power while folded.",
+      "exercises": [
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Plank",
+          "scheme": "3 × 90s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Prone neck extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "Thoracic extension over foam roller",
+        "Neck flexion stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Adopting the lowest possible position but losing 30 watts to closed hips.",
+        "Riding the position only in races — the back and neck must adapt in training.",
+        "Craning the whole head up to sight instead of raising just the eyes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=time+trial+position+training+cycling"
+    }
+  ]
+}

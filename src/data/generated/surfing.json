@@ -1,0 +1,675 @@
+{
+  "id": "surfing",
+  "name": "Surfing",
+  "emoji": "🏄",
+  "tag": "SF",
+  "category": "Outdoor & adventure",
+  "drills": [
+    {
+      "id": "paddling-technique",
+      "group": "Paddling & wave catching",
+      "name": "Paddling technique",
+      "alt": "Efficient prone paddling",
+      "level": "Beginner",
+      "muscles": "Lats · Shoulders · Lower back",
+      "desc": "Long, deep strokes from a stable arched position on the board, pulling water past the hip rather than splashing at the surface. Power comes from the lats and a strong thoracic extension that keeps the chest lifted and the board flat. Most of a surf session is paddling, so stroke economy decides how many waves you catch.",
+      "exercises": [
+        {
+          "name": "Lat pulldowns",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Straight-arm cable pulldowns",
+          "scheme": "3 × 12",
+          "wgerId": 1726,
+          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png"
+        },
+        {
+          "name": "Dumbbell pullovers",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Face pulls",
+          "scheme": "3 × 15",
+          "wgerId": 222
+        }
+      ],
+      "stretches": [
+        "Cobra stretch",
+        "Doorway pec stretch",
+        "Child's pose with side reach",
+        "Thread the needle"
+      ],
+      "mistakes": [
+        "Paddling with bent, splashy arms instead of long strokes that finish past the hip.",
+        "Letting the chest sag so the nose ploughs and the board drags.",
+        "Both arms leaving the water at once — kills glide between strokes."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=surfing+paddling+technique+tutorial"
+    },
+    {
+      "id": "sprint-paddle",
+      "group": "Paddling & wave catching",
+      "name": "Sprint paddle",
+      "alt": "Burst paddling to catch the wave",
+      "level": "Intermediate",
+      "muscles": "Lats · Shoulders · Triceps",
+      "desc": "A 5-10 stroke maximal effort that matches your board speed to the wave just before takeoff. The stroke shortens and the turnover doubles while the chest stays low and the board stays flat. Catching waves early is what turns steep, panicked drops into easy ones.",
+      "exercises": [
+        {
+          "name": "Battle rope waves",
+          "scheme": "6 × 20s"
+        },
+        {
+          "name": "Medicine ball slams",
+          "scheme": "4 × 10"
+        },
+        {
+          "name": "Rowing machine sprints",
+          "scheme": "6 × 100 m"
+        },
+        {
+          "name": "Explosive push-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Cable triceps pushdowns",
+          "scheme": "3 × 12",
+          "wgerId": 805,
+          "imageUrl": "https://wger.de/media/exercise-images/805/7a437824-e2cc-46e1-804a-674f0ea31d25.png"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Overhead triceps stretch",
+        "Cobra stretch",
+        "Wall pec stretch"
+      ],
+      "mistakes": [
+        "Lifting the head and shoulders high, which stalls the board exactly when it needs speed.",
+        "Shortening strokes into surface slaps instead of fast full pulls.",
+        "Giving up two strokes too early — the wave passes underneath."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=surf+sprint+paddle+catch+more+waves"
+    },
+    {
+      "id": "wave-reading",
+      "group": "Paddling & wave catching",
+      "name": "Wave reading & positioning",
+      "alt": "Sitting in the right spot",
+      "level": "Beginner",
+      "muscles": "Core · Hip flexors · Neck extensors",
+      "desc": "Scanning the horizon from a seated position on the board, judging where a wave will peak, and paddling to the takeoff zone before it arrives. The skill is visual, but holding the scanning posture and repeatedly pivoting the board demands core and hip endurance. Good positioning beats good paddling every time.",
+      "exercises": [
+        {
+          "name": "Seated cable rows",
+          "scheme": "3 × 12",
+          "wgerId": 1117,
+          "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png"
+        },
+        {
+          "name": "Hanging knee raises",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Prone cobra holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Russian twists",
+          "scheme": "3 × 20",
+          "wgerId": 1193,
+          "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png"
+        }
+      ],
+      "stretches": [
+        "Seated butterfly",
+        "Neck half-circles",
+        "Supine spinal twist",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Watching the wave in front instead of the sets on the horizon.",
+        "Sitting too far inside and getting caught by every set.",
+        "Pivoting the board with arms only instead of sweeping with the legs."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+read+waves+surfing+positioning"
+    },
+    {
+      "id": "turtle-roll",
+      "group": "Getting out the back",
+      "name": "Turtle roll",
+      "alt": "Flipping the longboard under whitewater",
+      "level": "Beginner",
+      "muscles": "Shoulders · Grip · Core",
+      "desc": "Rolling upside-down beneath an oncoming wall of whitewater while gripping the rails, letting the wave pass over the upturned board. Strength comes from a locked grip and a braced core that keeps the board from being ripped away. It is the standard escape for boards too buoyant to duck dive.",
+      "exercises": [
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 40s"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30 m"
+        },
+        {
+          "name": "Plank shoulder taps",
+          "scheme": "3 × 16",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Dumbbell reverse flys",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Cross-body shoulder stretch",
+        "Cat-cow",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Rolling too late, so the wave hits mid-flip and strips the board away.",
+        "Straight, relaxed arms — the board gets torn from the hands.",
+        "Letting the legs float wide instead of wrapping them toward the board."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=turtle+roll+surfing+tutorial"
+    },
+    {
+      "id": "duck-dive",
+      "group": "Getting out the back",
+      "name": "Duck dive",
+      "alt": "Pushing the board under a wave",
+      "level": "Intermediate",
+      "muscles": "Chest · Triceps · Core",
+      "desc": "Sinking the nose with a sharp straight-arm push, then driving the tail down with a knee or foot so board and body slice under the breaking wave. Power comes from a fast press through the chest and triceps timed a board-length before impact. Depth and timing matter more than raw strength.",
+      "exercises": [
+        {
+          "name": "Barbell bench press",
+          "scheme": "3 × 8",
+          "wgerId": 185,
+          "imageUrl": "https://wger.de/media/exercise-images/100/Decline-bench-press-1.png"
+        },
+        {
+          "name": "Dips",
+          "scheme": "3 × 8",
+          "wgerId": 194,
+          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png"
+        },
+        {
+          "name": "Medicine ball chest passes",
+          "scheme": "4 × 8"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Overhead triceps stretch",
+        "Cobra stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Starting the push too late — the wave hits before the board is under.",
+        "Bending the elbows on the press, which sinks the surfer but not the board.",
+        "Forgetting the knee-to-tail push, so the tail stays on the surface and the wave drags it back."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=duck+dive+surfing+tutorial"
+    },
+    {
+      "id": "pop-up",
+      "group": "Pop-up & stance",
+      "name": "Pop-up",
+      "alt": "Prone to standing in one motion",
+      "level": "Beginner",
+      "muscles": "Chest · Core · Hip flexors",
+      "desc": "One explosive push from prone that swings both feet under the body into a low, sideways stance. Speed comes from a plyometric press and a fast hip snap — hesitating or going knee-first stalls the board on the steepest part of the wave. It should land you compact, centered, and already looking down the line.",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "scheme": "4 × 10",
+          "wgerId": 132
+        },
+        {
+          "name": "Plyometric push-ups",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Mountain climbers",
+          "scheme": "3 × 20",
+          "wgerId": 996
+        },
+        {
+          "name": "Deep goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Kneeling hip flexor stretch",
+        "Cobra stretch",
+        "Pigeon pose",
+        "Downward dog"
+      ],
+      "mistakes": [
+        "Going to the knees first instead of one continuous swing to the feet.",
+        "Standing tall immediately — stay crouched with knees bent through the drop.",
+        "Looking down at the board instead of where you want to go."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=surf+pop+up+technique+tutorial"
+    },
+    {
+      "id": "trimming",
+      "group": "Pop-up & stance",
+      "name": "Trimming",
+      "alt": "Riding the fast line across the wave",
+      "level": "Beginner",
+      "muscles": "Ankles · Calves · Core",
+      "desc": "Holding the board at the angle and section of the wave where it runs fastest with the least input. Fine control comes from subtle ankle and knee shifts that move weight along the stringer — forward for speed, back to stall. It is the quiet skill underneath every turn.",
+      "exercises": [
+        {
+          "name": "Single-leg balance board holds",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Ankle circles",
+        "Downward dog calf pedal",
+        "Standing quad stretch",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Stiff, straight legs that transmit every bump instead of absorbing it.",
+        "Riding too far back on the tail and dragging the brakes the whole wave.",
+        "Facing the beach square-on rather than angling the shoulders down the line."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=surfing+trim+technique+beginner"
+    },
+    {
+      "id": "late-takeoff",
+      "group": "Pop-up & stance",
+      "name": "Late takeoff",
+      "alt": "Steep, last-second drops",
+      "level": "Advanced",
+      "muscles": "Quads · Core · Hip flexors",
+      "desc": "Popping up on a wave that is already pitching, with the board angled down a near-vertical face. Success comes from an instant pop-up, weight driven through the front foot, and a deep crouch that keeps the fins engaged through the freefall. It is the pop-up under maximum time pressure.",
+      "exercises": [
+        {
+          "name": "Burpee box jumps",
+          "scheme": "4 × 6"
+        },
+        {
+          "name": "Barbell front squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Clap push-ups",
+          "scheme": "4 × 5",
+          "wgerId": 1554,
+          "imageUrl": "https://wger.de/media/exercise-images/1554/49207a62-8799-4b47-8c0b-7bde02926f3d.png"
+        },
+        {
+          "name": "Ab wheel rollouts",
+          "scheme": "3 × 8"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Couch stretch",
+        "Pigeon pose",
+        "Cobra stretch"
+      ],
+      "mistakes": [
+        "Leaning back away from the drop — the tail sinks and the wave pitches you.",
+        "A slow, staged pop-up that finishes after the board has already landed.",
+        "Aiming straight down instead of angling the takeoff along the face."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=late+takeoff+steep+drop+surfing+technique"
+    },
+    {
+      "id": "bottom-turn",
+      "group": "Turns & rail work",
+      "name": "Bottom turn",
+      "alt": "The turn at the base of the wave",
+      "level": "Intermediate",
+      "muscles": "Quads · Glutes · Core",
+      "desc": "A drawn-out carve at the wave's base that converts drop speed into direction back up the face. Power comes from compressing into the legs, burying the inside rail, and driving through the turn with the hips while the eyes lead to the target on the lip. Every maneuver that follows is only as good as this turn.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Bulgarian split squats",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 988,
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 8 / side"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Couch stretch",
+        "Lying figure-4",
+        "Seated spinal twist"
+      ],
+      "mistakes": [
+        "Turning off the back foot only, which slides the tail and bleeds speed.",
+        "Staying tall through the turn instead of compressing and extending.",
+        "Looking at the nose of the board instead of up at the section you want to hit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=bottom+turn+surfing+technique+tutorial"
+    },
+    {
+      "id": "top-turn",
+      "group": "Turns & rail work",
+      "name": "Top turn",
+      "alt": "Redirecting off the top of the wave",
+      "level": "Intermediate",
+      "muscles": "Obliques · Hips · Quads",
+      "desc": "Releasing the board off the top of the wave and redirecting it back down the face. The snap comes from a hard rotation of head, shoulders, and hips against a braced back leg, with the front foot steering the board through the arc. Executed at the steepest part of the lip it becomes a snap or re-entry.",
+      "exercises": [
+        {
+          "name": "Rotational medicine ball throws",
+          "scheme": "4 × 6 / side"
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Rotating with arms only — the board never comes around because the hips stay square.",
+        "Hitting the lip flat instead of arriving with the rail engaged from the bottom turn.",
+        "Straightening the legs at the top and losing contact through the redirection."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=top+turn+surfing+tutorial"
+    },
+    {
+      "id": "pumping",
+      "group": "Turns & rail work",
+      "name": "Pumping down the line",
+      "alt": "Generating speed on the wave face",
+      "level": "Intermediate",
+      "muscles": "Quads · Calves · Core",
+      "desc": "Rhythmic compression and extension while linking small rail-to-rail arcs high on the wave face, using gravity twice per cycle to build speed. The drive comes from the legs loading and unweighting the board like a squat jump laid on its side. Timing to the wave's shape matters more than effort.",
+      "exercises": [
+        {
+          "name": "Jump squats",
+          "scheme": "4 × 8",
+          "wgerId": 614
+        },
+        {
+          "name": "Skater jumps",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Wall sits",
+          "scheme": "3 × 45s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 12",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        }
+      ],
+      "stretches": [
+        "Couch stretch",
+        "Standing calf stretch",
+        "Deep squat hold",
+        "Seated hamstring stretch"
+      ],
+      "mistakes": [
+        "Pumping in the flats where there is no slope to convert — bounce, not speed.",
+        "Arm-waving instead of driving through the legs.",
+        "Staying low the whole time; without full extension there is no unweighting."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+pump+for+speed+surfing"
+    },
+    {
+      "id": "cutback",
+      "group": "Turns & rail work",
+      "name": "Cutback",
+      "alt": "Carving back to the power source",
+      "level": "Advanced",
+      "muscles": "Obliques · Hips · Quads",
+      "desc": "A full-rail carve that reverses direction and returns the board to the breaking part of the wave, finishing with a rebound off the whitewater. Power comes from committing the body weight over the inside rail and leading the whole rotation with the head and trailing arm. It converts excess speed back into position.",
+      "exercises": [
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Rotational cable rows",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Lateral box step-ups",
+          "scheme": "3 × 8 / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 20s"
+        }
+      ],
+      "stretches": [
+        "Seated spinal twist",
+        "90/90 hip switch",
+        "Pigeon pose",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Not enough speed going in — the rail bogs mid-arc and the turn dies.",
+        "Stopping the rotation halfway instead of carving a full arc back to the foam.",
+        "Flat board through the turn; without rail engagement it becomes a slide."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=cutback+surfing+technique+tutorial"
+    },
+    {
+      "id": "floater",
+      "group": "Turns & rail work",
+      "name": "Floater",
+      "alt": "Riding over a breaking section",
+      "level": "Advanced",
+      "muscles": "Quads · Ankles · Core",
+      "desc": "Riding up and along the top of a breaking section, then absorbing the drop back down with the wave. The skill lies in a light, flat board over the foam and deeply flexed legs that swallow the freefall on landing. Knee and ankle stiffness on impact is what separates a make from a buckle.",
+      "exercises": [
+        {
+          "name": "Depth jumps",
+          "scheme": "4 × 5"
+        },
+        {
+          "name": "Barbell front squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Tibialis raises",
+          "scheme": "3 × 15",
+          "wgerId": 1200
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "Standing calf stretch",
+        "Couch stretch",
+        "Ankle circles"
+      ],
+      "mistakes": [
+        "Approaching with the rail buried instead of a flat, free board on top of the foam.",
+        "Landing with straight legs — the impact buckles the knees or breaks the board.",
+        "Looking down at the foam rather than ahead to the landing zone."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=floater+surfing+tutorial"
+    },
+    {
+      "id": "barrel-riding",
+      "group": "Turns & rail work",
+      "name": "Barrel riding",
+      "alt": "Tucking inside the tube",
+      "level": "Advanced",
+      "muscles": "Quads · Core · Hip adductors",
+      "desc": "Setting a high line and compressing into a tight crouch as the lip throws over, holding trim inside the tube until the exit. Control comes from isometric leg strength in a deep, narrow stance and micro-adjustments of speed with the inside hand and rail. It demands calm under the loudest conditions in surfing.",
+      "exercises": [
+        {
+          "name": "Wall sits",
+          "scheme": "4 × 60s",
+          "wgerId": 1408
+        },
+        {
+          "name": "Cossack squats",
+          "scheme": "3 × 6 / side",
+          "wgerId": 1407
+        },
+        {
+          "name": "Isometric split squat holds",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 10 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Deep squat hold",
+        "90/90 hip switch",
+        "Butterfly stretch",
+        "Couch stretch"
+      ],
+      "mistakes": [
+        "Stalling too much and getting clipped by the foam ball.",
+        "Standing tall inside the tube — the lip catches the head or shoulders.",
+        "Aiming at the wall instead of keeping the eyes locked on the exit."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+get+barreled+surfing+technique"
+    },
+    {
+      "id": "wipeout-breath-control",
+      "group": "Wipeouts & recovery",
+      "name": "Wipeout & breath control",
+      "alt": "Falling safely and staying calm underwater",
+      "level": "Beginner",
+      "muscles": "Diaphragm · Core · Neck",
+      "desc": "Falling flat and away from the board, protecting the head, and relaxing through the hold-down instead of fighting it. Composure comes from CO2 tolerance built on land and a practiced habit of exhaling slowly while the wave passes. A relaxed surfer uses a fraction of the oxygen a panicked one does.",
+      "exercises": [
+        {
+          "name": "Dead bugs",
+          "scheme": "3 × 10 / side"
+        },
+        {
+          "name": "Farmer's carries",
+          "scheme": "3 × 30 m"
+        },
+        {
+          "name": "Rowing machine intervals with nasal breathing",
+          "scheme": "4 × 250 m"
+        },
+        {
+          "name": "Plank with slow exhales",
+          "scheme": "3 × 45s"
+        }
+      ],
+      "stretches": [
+        "Child's pose with deep breathing",
+        "Cobra stretch",
+        "Neck half-circles",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Diving head-first off the board in shallow or unknown water.",
+        "Surfacing without covering the head — the board is usually right above you.",
+        "Thrashing for the surface immediately instead of letting the turbulence pass."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=how+to+wipeout+safely+surfing+breath+control"
+    }
+  ]
+}

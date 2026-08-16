@@ -1,0 +1,660 @@
+{
+  "id": "judo",
+  "name": "Judo",
+  "emoji": "🎽",
+  "tag": "JD",
+  "category": "Grappling arts",
+  "drills": [
+    {
+      "id": "ushiro-ukemi",
+      "group": "Ukemi & movement",
+      "name": "Ushiro ukemi",
+      "alt": "Backward breakfall",
+      "level": "Beginner",
+      "muscles": "Core · Neck · Abs",
+      "desc": "Falling backward safely by rounding the spine, tucking the chin and slapping the mat with both arms at 45 degrees. The slap disperses impact a fraction before the back lands, and the tucked chin keeps the head from whipping into the mat. Every throw you ever take lands on this skill.",
+      "exercises": [
+        {
+          "name": "Crunches",
+          "scheme": "3 × 15",
+          "wgerId": 167,
+          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png"
+        },
+        {
+          "name": "Neck harness flexions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 12",
+          "wgerId": 265
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Child's pose",
+        "Chin-to-chest neck stretch",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Reaching back with the hands to catch the fall — a broken wrist waiting to happen.",
+        "Letting the head snap back instead of gluing the chin to the chest.",
+        "Landing flat instead of rolling through a rounded spine."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ushiro+ukemi+backward+breakfall+tutorial"
+    },
+    {
+      "id": "yoko-ukemi",
+      "group": "Ukemi & movement",
+      "name": "Yoko ukemi",
+      "alt": "Side breakfall",
+      "level": "Beginner",
+      "muscles": "Obliques · Core · Shoulders",
+      "desc": "The side fall that absorbs most standing throws — one leg sweeps across, the body lands on its side, and the near arm slaps the mat hard. Impact spreads along the whole side of the body rather than a point, with the head held up off the mat. Drill it until the slap is a reflex, not a decision.",
+      "exercises": [
+        {
+          "name": "Side planks",
+          "scheme": "3 × 30s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        },
+        {
+          "name": "Neck harness flexions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Cable lateral raises",
+          "scheme": "3 × 12",
+          "wgerId": 1730
+        }
+      ],
+      "stretches": [
+        "Supine spinal twist",
+        "Lat side-bend stretch",
+        "Chin-to-chest neck stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Slapping with a bent wrist or the elbow instead of the whole forearm and palm.",
+        "Landing on the point of the shoulder rather than the meat of the back and side.",
+        "Crossing the legs on landing, which drives the knees together."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=yoko+ukemi+side+breakfall+judo+tutorial"
+    },
+    {
+      "id": "zenpo-kaiten-ukemi",
+      "group": "Ukemi & movement",
+      "name": "Zenpo kaiten ukemi",
+      "alt": "Forward rolling breakfall",
+      "level": "Intermediate",
+      "muscles": "Shoulders · Core · Legs",
+      "desc": "A diagonal roll over the shoulder that converts forward momentum into a smooth return to standing or a slapped side landing. The arm forms a rounded frame — contact runs from the little-finger edge of the hand along the forearm and across the back, never onto the head or point of the shoulder. It is the escape hatch for throws that launch you forward.",
+      "exercises": [
+        {
+          "name": "Shoulder taps in plank",
+          "scheme": "3 × 20",
+          "wgerId": 1091,
+          "imageUrl": "https://wger.de/media/exercise-images/1091/50c8912d-54ef-46c9-99d1-633b6196aa1e.jpg"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hollow body rocks",
+          "scheme": "3 × 15"
+        },
+        {
+          "name": "Pike push-ups",
+          "scheme": "3 × 8",
+          "wgerId": 454,
+          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Thread the needle",
+        "Cross-body shoulder stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Rolling straight over the head instead of diagonally across the back.",
+        "Collapsing the arm frame so the shoulder takes a point impact.",
+        "Staying tucked too long and finishing flat instead of rolling up to stance."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=zenpo+kaiten+ukemi+forward+roll+judo+tutorial"
+    },
+    {
+      "id": "kumi-kata",
+      "group": "Grips & kuzushi",
+      "name": "Kumi kata",
+      "alt": "Gripping strategy",
+      "level": "Beginner",
+      "muscles": "Forearms · Grip · Lats · Shoulders",
+      "desc": "The fight before the throw: securing your dominant sleeve-and-lapel grip while denying the opponent theirs. Elbows stay heavy and close, the sleeve hand controls their power arm, and every grip is taken with intent to attack within seconds. Matches at every level are decided in this phase.",
+      "exercises": [
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Plate pinch holds",
+          "scheme": "3 × 30s",
+          "wgerId": 1430
+        },
+        {
+          "name": "Barbell rows",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Dead hangs",
+          "scheme": "3 × 45s"
+        },
+        {
+          "name": "Wrist roller",
+          "scheme": "3 × 2 up-downs"
+        }
+      ],
+      "stretches": [
+        "Wrist flexor stretch",
+        "Wrist extensor stretch",
+        "Cross-body shoulder stretch",
+        "Upper trap stretch"
+      ],
+      "mistakes": [
+        "Gripping and then waiting — a grip you don't attack from is a grip you'll lose.",
+        "Straight, stiff arms that hand the opponent your kuzushi.",
+        "Chasing the lapel with both hands while ignoring sleeve control."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=judo+kumi+kata+gripping+tutorial"
+    },
+    {
+      "id": "kuzushi-happo",
+      "group": "Grips & kuzushi",
+      "name": "Happo no kuzushi",
+      "alt": "Off-balancing in eight directions",
+      "level": "Beginner",
+      "muscles": "Lats · Biceps · Core · Legs",
+      "desc": "Drilling the eight directions of balance-breaking that precede every throw. Kuzushi comes from moving your whole body while the hands transmit the pull or push — steering the opponent's weight onto their toes, heels or edges of their feet. A throw against a balanced opponent is strength; against a broken one it is technique.",
+      "exercises": [
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Band pull-aparts",
+          "scheme": "3 × 15",
+          "wgerId": 1380
+        },
+        {
+          "name": "Landmine rotations",
+          "scheme": "3 × 8 / side",
+          "wgerId": 1779
+        },
+        {
+          "name": "Walking lunges",
+          "scheme": "3 × 10 / leg",
+          "wgerId": 206,
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+        }
+      ],
+      "stretches": [
+        "Thoracic rotation stretch",
+        "Wrist flexor stretch",
+        "Standing spinal twist",
+        "Doorway pec stretch"
+      ],
+      "mistakes": [
+        "Pulling with the arms alone instead of stepping and turning the whole body.",
+        "Breaking balance and then pausing, letting the opponent recover before the entry.",
+        "Watching the hands instead of feeling where the opponent's weight has gone."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=judo+kuzushi+eight+directions+tutorial"
+    },
+    {
+      "id": "uchi-komi",
+      "group": "Grips & kuzushi",
+      "name": "Uchi komi",
+      "alt": "Repetition throw entries",
+      "level": "Intermediate",
+      "muscles": "Legs · Hips · Back · Core",
+      "desc": "Repeated fitting-in practice: kuzushi, entry and loading of a throw without the finish, done in high-volume sets. The goal is a single fused motion — pull, turn, load — fast enough that no gap exists for the opponent to react. Champions count their uchi komi in the hundreds of thousands.",
+      "exercises": [
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Goblet squats",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Band-resisted rotational pulls",
+          "scheme": "3 × 15 / side"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Jump squats",
+          "scheme": "3 × 8",
+          "wgerId": 614
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Standing quad stretch",
+        "Thoracic rotation stretch",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Stepping in without pulling first — entry with no kuzushi grooves a dead throw.",
+        "Turning on the heels instead of the balls of the feet.",
+        "Rushing reps with a tall, unloaded posture instead of bending the knees under the opponent."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=judo+uchi+komi+drill+tutorial"
+    },
+    {
+      "id": "o-goshi",
+      "group": "Throws",
+      "name": "O-goshi",
+      "alt": "Major hip throw",
+      "level": "Beginner",
+      "muscles": "Hips · Glutes · Legs · Back",
+      "desc": "The foundational hip throw: pull the opponent forward, turn in with the arm around their waist, and load them across your hips. The lift is a leg extension — knees bend deep on entry so your hips sit below theirs, then straighten to float them over. It teaches the entry mechanics behind the entire hip-throw family.",
+      "exercises": [
+        {
+          "name": "Barbell back squats",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Standing calf raises",
+          "scheme": "3 × 15",
+          "wgerId": 622,
+          "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg"
+        }
+      ],
+      "stretches": [
+        "Kneeling hip flexor stretch",
+        "Standing quad stretch",
+        "Seated forward fold",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Entering with straight legs so the hips never get under the opponent.",
+        "Leaving a gap — chest and hips must be glued to the opponent at the load.",
+        "Bending at the waist to lift instead of extending the knees."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=o+goshi+judo+hip+throw+tutorial"
+    },
+    {
+      "id": "osoto-gari",
+      "group": "Throws",
+      "name": "Osoto-gari",
+      "alt": "Major outer reap",
+      "level": "Beginner",
+      "muscles": "Hamstrings · Glutes · Core · Upper back",
+      "desc": "Driving the opponent's weight onto one heel, then reaping that leg out from behind with a sweeping hamstring motion. Chest pressure and the pull of both hands break them backward as your leg swings through like a pendulum. Commitment is everything — a half-hearted reap is an invitation to be countered with the same throw.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 × 8",
+          "wgerId": 507
+        },
+        {
+          "name": "Lying leg curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Single-leg RDL",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cable pull-throughs",
+          "scheme": "3 × 12",
+          "wgerId": 1751
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Lying figure-4",
+        "Calf wall stretch"
+      ],
+      "mistakes": [
+        "Reaping before the opponent's weight is loaded onto the target leg.",
+        "Staying upright instead of driving the chest forward as the leg sweeps back.",
+        "Tapping the leg with the calf instead of reaping big through the thigh."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=osoto+gari+judo+tutorial"
+    },
+    {
+      "id": "tai-otoshi",
+      "group": "Throws",
+      "name": "Tai-otoshi",
+      "alt": "Body drop",
+      "level": "Intermediate",
+      "muscles": "Legs · Obliques · Lats · Grip",
+      "desc": "A hand throw where the extended leg blocks the opponent's shin while a violent rotational pull spins them over it. Unlike hip throws there is almost no body contact — the opponent trips over your leg propelled purely by kuzushi and rotation. The blocking leg stays bent and springy, never straight and locked.",
+      "exercises": [
+        {
+          "name": "Cable woodchoppers",
+          "scheme": "3 × 10 / side",
+          "wgerId": 145
+        },
+        {
+          "name": "Lateral lunges",
+          "scheme": "3 × 10 / leg"
+        },
+        {
+          "name": "One-arm dumbbell rows",
+          "scheme": "3 × 10 / arm",
+          "wgerId": 1186,
+          "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        }
+      ],
+      "stretches": [
+        "90/90 hip switch",
+        "Seated straddle",
+        "Thoracic rotation stretch",
+        "Standing quad stretch"
+      ],
+      "mistakes": [
+        "Locking the blocking leg straight — a bent knee protects the ACL and springs the throw.",
+        "Placing the foot past the opponent's far leg instead of across the near shin.",
+        "Pulling down instead of around, killing the rotation."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=tai+otoshi+judo+tutorial"
+    },
+    {
+      "id": "ippon-seoi-nage",
+      "group": "Throws",
+      "name": "Ippon seoi-nage",
+      "alt": "One-arm shoulder throw",
+      "level": "Intermediate",
+      "muscles": "Legs · Back · Shoulders · Core",
+      "desc": "Trapping one arm, spinning in low and launching the opponent over your shoulder. The entry drops your hips well below theirs with knees deeply bent, then the throw is finished by straightening the legs and bowing forward in one explosive wave. Speed of the turn matters more than back strength — it is a squat, not a lift.",
+      "exercises": [
+        {
+          "name": "Front squats",
+          "scheme": "4 × 6",
+          "wgerId": 257,
+          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png"
+        },
+        {
+          "name": "Pull-ups",
+          "scheme": "3 × 8",
+          "wgerId": 475,
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg"
+        },
+        {
+          "name": "Dumbbell jump squats",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Kettlebell swings",
+          "scheme": "3 × 15",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+        },
+        {
+          "name": "Back extensions",
+          "scheme": "3 × 12"
+        }
+      ],
+      "stretches": [
+        "Cross-body shoulder stretch",
+        "Standing quad stretch",
+        "Child's pose",
+        "Thoracic rotation stretch"
+      ],
+      "mistakes": [
+        "Entering with high hips so the opponent stuffs the throw by squatting down.",
+        "Losing the trapped arm — the elbow must be clamped tight to your shoulder.",
+        "Pulling the opponent onto a static back instead of throwing through leg drive."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=ippon+seoi+nage+judo+tutorial"
+    },
+    {
+      "id": "uchi-mata",
+      "group": "Throws",
+      "name": "Uchi-mata",
+      "alt": "Inner thigh throw",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Glutes · Hips · Core",
+      "desc": "The queen of throws: a sweeping lift of the inner thigh that sends the opponent rotating over your hip while you balance on one leg. The lifting leg swings like a pendulum as the upper body pulls and rotates in the same arc. It demands single-leg balance, hip extension power and total commitment of the head and chest downward.",
+      "exercises": [
+        {
+          "name": "Single-leg Romanian deadlifts",
+          "scheme": "4 × 6 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Barbell hip thrusts",
+          "scheme": "3 × 8"
+        },
+        {
+          "name": "Cable hip extensions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Single-leg balance on BOSU",
+          "scheme": "3 × 30s / leg"
+        },
+        {
+          "name": "Nordic hamstring curls",
+          "scheme": "3 × 5"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Couch stretch",
+        "90/90 hip switch",
+        "Seated straddle",
+        "Lying figure-4"
+      ],
+      "mistakes": [
+        "Lifting between the legs with a straight vertical leg instead of sweeping through the inner thigh.",
+        "Keeping the head up — the head must dive as the leg rises, like a see-saw.",
+        "Hopping on the support leg without rotating, stalling the throw halfway."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=uchi+mata+judo+tutorial"
+    },
+    {
+      "id": "harai-goshi",
+      "group": "Throws",
+      "name": "Harai-goshi",
+      "alt": "Sweeping hip throw",
+      "level": "Advanced",
+      "muscles": "Glutes · Hamstrings · Core · Back",
+      "desc": "A hip throw finished with a sweeping leg: the opponent is loaded onto the hip, then the outside of your leg sweeps their thigh away as your torso rotates them over. It bridges the hip-throw and leg-throw families and punishes opponents who stiff-arm to block o-goshi. Balance on the support leg while sweeping is the whole game.",
+      "exercises": [
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "4 × 6",
+          "wgerId": 507
+        },
+        {
+          "name": "Single-leg RDL",
+          "scheme": "3 × 8 / leg",
+          "wgerId": 1388
+        },
+        {
+          "name": "Cable hip extensions",
+          "scheme": "3 × 12 / leg"
+        },
+        {
+          "name": "Pallof press",
+          "scheme": "3 × 12 / side",
+          "wgerId": 1194,
+          "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Kneeling hip flexor stretch",
+        "Lying figure-4",
+        "Supine spinal twist"
+      ],
+      "mistakes": [
+        "Sweeping before the opponent's weight is committed onto your hip.",
+        "Bending the sweeping leg — it should stay long and sweep like a broom.",
+        "Letting the pulling hand go slack mid-throw, so the opponent lands on top of you."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=harai+goshi+judo+tutorial"
+    },
+    {
+      "id": "kesa-gatame",
+      "group": "Ne-waza",
+      "name": "Kesa-gatame",
+      "alt": "Scarf hold",
+      "level": "Beginner",
+      "muscles": "Core · Neck · Chest · Legs",
+      "desc": "The first pin every judoka learns: chest across the opponent's chest, their head and arm wrapped like a scarf, legs sprawled wide for base. Weight pours through the ribs while the legs adjust like outriggers against every bridge and shrimp. Holding it for 20 seconds under a struggling opponent is a full-body isometric battle.",
+      "exercises": [
+        {
+          "name": "Side planks",
+          "scheme": "3 × 45s / side",
+          "wgerId": 580
+        },
+        {
+          "name": "Dumbbell bench press",
+          "scheme": "3 × 10",
+          "wgerId": 186
+        },
+        {
+          "name": "Neck harness extensions",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Copenhagen plank",
+          "scheme": "3 × 30s / side"
+        }
+      ],
+      "stretches": [
+        "Doorway pec stretch",
+        "Upper trap stretch",
+        "Supine spinal twist",
+        "Child's pose"
+      ],
+      "mistakes": [
+        "Sitting upright with weight on your own hip instead of pouring the chest into theirs.",
+        "Keeping the legs together, making the bridge-and-roll escape easy.",
+        "Squeezing the head with the arm while forgetting to control the trapped arm."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=kesa+gatame+judo+pin+tutorial"
+    },
+    {
+      "id": "yoko-shiho-gatame",
+      "group": "Ne-waza",
+      "name": "Yoko-shiho-gatame",
+      "alt": "Side four-quarter hold",
+      "level": "Intermediate",
+      "muscles": "Core · Chest · Hips · Back",
+      "desc": "Side control judo-style: perpendicular to the opponent with grips under the neck and between the legs, chest smothering theirs. Hips ride low and heavy, switching from knees to sprawled toes to answer each escape attempt. It converts more readily to armlocks and other pins than any other hold.",
+      "exercises": [
+        {
+          "name": "Plank",
+          "scheme": "3 × 60s",
+          "wgerId": 458,
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+        },
+        {
+          "name": "Cable rows",
+          "scheme": "3 × 10"
+        },
+        {
+          "name": "Hip thrusts",
+          "scheme": "3 × 10",
+          "wgerId": 294
+        },
+        {
+          "name": "Push-ups",
+          "scheme": "3 × 15",
+          "wgerId": 1551,
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png"
+        }
+      ],
+      "stretches": [
+        "Cat-cow",
+        "Child's pose",
+        "Doorway pec stretch",
+        "Kneeling hip flexor stretch"
+      ],
+      "mistakes": [
+        "Floating high on the opponent's chest so they slip their knee inside.",
+        "Static grips — the hold survives by transitioning, not by squeezing harder.",
+        "Leaving the near-side arm free to frame under the chin."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=yoko+shiho+gatame+judo+tutorial"
+    },
+    {
+      "id": "juji-gatame",
+      "group": "Ne-waza",
+      "name": "Juji-gatame",
+      "alt": "Cross armlock",
+      "level": "Advanced",
+      "muscles": "Hamstrings · Hip flexors · Grip · Core",
+      "desc": "The cross-body armbar: hips tight to the opponent's shoulder, legs clamped over the chest and face, arm extended against the thumb-up elbow. Finishing is a hip bridge, not an arm pull — the whole posterior chain levers against one joint. Entries from turnovers and failed pins make it judo's highest-percentage submission.",
+      "exercises": [
+        {
+          "name": "Glute bridges",
+          "scheme": "3 × 15",
+          "wgerId": 265
+        },
+        {
+          "name": "Lying leg curls",
+          "scheme": "3 × 12"
+        },
+        {
+          "name": "Hanging leg raises",
+          "scheme": "3 × 10",
+          "wgerId": 283
+        },
+        {
+          "name": "Towel pull-ups",
+          "scheme": "3 × 6"
+        },
+        {
+          "name": "Hollow body holds",
+          "scheme": "3 × 30s"
+        }
+      ],
+      "stretches": [
+        "Standing hamstring stretch",
+        "Lying figure-4",
+        "Supine spinal twist",
+        "Wrist flexor stretch"
+      ],
+      "mistakes": [
+        "Leaving space between your hips and the opponent's shoulder — space is escape.",
+        "Crossing the feet loosely instead of clamping the knees together.",
+        "Yanking with the arms instead of driving the hips up to finish."
+      ],
+      "videoUrl": "https://www.youtube.com/results?search_query=juji+gatame+judo+armbar+tutorial"
+    }
+  ]
+}
