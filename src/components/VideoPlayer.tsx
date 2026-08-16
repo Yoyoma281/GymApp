@@ -1,5 +1,14 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { ActivityIndicator, Image, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
+import {
+  ActivityIndicator,
+  Animated,
+  Image,
+  Platform,
+  Pressable,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
 import VideoScrubber from './VideoScrubber';
@@ -44,6 +53,18 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
   useEffect(() => {
     setStarted(false);
   }, [uri]);
+
+  // The play/pause glyph is transient: it fades out shortly after
+  // playback starts and fades back in when paused.
+  const overlay = useRef(new Animated.Value(1)).current;
+  useEffect(() => {
+    Animated.timing(overlay, {
+      toValue: isPlaying ? 0 : 1,
+      duration: isPlaying ? 320 : 180,
+      delay: isPlaying ? 260 : 0,
+      useNativeDriver: Platform.OS !== 'web',
+    }).start();
+  }, [isPlaying, overlay]);
 
   const toggle = () => {
     if (isPlaying) {
@@ -99,13 +120,18 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
           </View>
         ) : null}
 
-        {!isPlaying ? (
-          <View style={styles.center} pointerEvents="none">
-            <View style={styles.playButton}>
+        <Animated.View style={[styles.center, { opacity: overlay }]} pointerEvents="none">
+          <View style={styles.playButton}>
+            {isPlaying ? (
+              <View style={styles.pauseIcon}>
+                <View style={styles.pauseBar} />
+                <View style={styles.pauseBar} />
+              </View>
+            ) : (
               <Text style={styles.playIcon}>▶</Text>
-            </View>
+            )}
           </View>
-        ) : null}
+        </Animated.View>
       </Pressable>
 
       {/* Controls: scrubber + mute + fullscreen. Always available while
@@ -183,6 +209,8 @@ const styles = StyleSheet.create({
     elevation: 4,
   },
   playIcon: { color: '#fff', fontSize: 24, marginLeft: 5 },
+  pauseIcon: { flexDirection: 'row', gap: 5 },
+  pauseBar: { width: 6, height: 22, borderRadius: 2, backgroundColor: '#fff' },
   controls: {
     position: 'absolute',
     left: 0,
