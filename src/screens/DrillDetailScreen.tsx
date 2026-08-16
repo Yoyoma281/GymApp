@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   video: {
     borderRadius: 16,
     aspectRatio: 16 / 9,
-    backgroundColor: '#efe7d8',
+    backgroundColor: colors.chipBg,
     borderWidth: 1,
     borderColor: colors.border,
     alignItems: 'center',

@@ -65,14 +65,20 @@ for (const f of files) {
   const file = path.join(GEN_DIR, f);
   const activity = JSON.parse(fs.readFileSync(file, 'utf8'));
   for (const drill of activity.drills) {
-    const query = `${activity.name} ${drill.group}`.toLowerCase();
+    // most specific first: "karate roundhouse kick" → "karate kicks" → "karate"
+    const queries = [
+      `${activity.name} ${drill.alt ?? drill.name}`.toLowerCase(),
+      `${activity.name} ${drill.group}`.toLowerCase(),
+      activity.name.toLowerCase(),
+    ];
     let clip;
     try {
-      const had = query in cache;
-      clip = await searchClip(query);
-      if (!had) searched += 1;
-      // group query found nothing → fall back to the sport name alone
-      if (!clip) clip = await searchClip(activity.name.toLowerCase());
+      for (const query of queries) {
+        const had = query in cache;
+        clip = await searchClip(query);
+        if (!had) searched += 1;
+        if (clip) break;
+      }
     } catch (err) {
       console.warn(`${activity.id}/${drill.id}: ${err.message}`);
       if (/rate limit/.test(err.message)) {

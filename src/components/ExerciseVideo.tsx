@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet } from 'react-native';
 import { useVideoPlayer, VideoView } from 'expo-video';
+import { colors } from '../theme';
 
 export default function ExerciseVideo({ uri }: { uri: string }) {
   const player = useVideoPlayer(uri, (p) => {
@@ -16,6 +17,6 @@ const styles = StyleSheet.create({
     width: '100%',
     aspectRatio: 16 / 9,
     borderRadius: 12,
-    backgroundColor: '#efe7d8',
+    backgroundColor: colors.chipBg,
   },
 });

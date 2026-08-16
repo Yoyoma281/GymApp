@@ -51,6 +51,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     gap: 16,
+    backgroundColor: '#ece7dc',
+    borderRadius: 12,
+    paddingVertical: 10,
   },
   map: {
     width: 110,

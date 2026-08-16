@@ -26,7 +26,7 @@ const theme = {
 export default function App() {
   return (
     <NavigationContainer theme={theme}>
-      <StatusBar style="dark" />
+      <StatusBar style="light" />
       <Stack.Navigator
         screenOptions={{
           headerShadowVisible: false,
