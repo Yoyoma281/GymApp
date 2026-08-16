@@ -18,15 +18,20 @@
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Cable hip adductions",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "detailId": "fed-Cable_Hip_Adduction"
         },
         {
           "name": "Bosu single-leg stands",
-          "scheme": "3 × 30s / leg"
+          "scheme": "3 × 30s / leg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Walking lunges with dumbbells",
@@ -63,11 +68,13 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Leg extension machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Single-leg balance with ball toss",
@@ -103,7 +110,9 @@
       "exercises": [
         {
           "name": "Goblet squats",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Agility ladder in-in-out drills",
@@ -117,7 +126,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -143,7 +153,9 @@
       "exercises": [
         {
           "name": "Lateral bounds",
-          "scheme": "3 × 6 / side"
+          "scheme": "3 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "detailId": "fed-Lateral_Bound"
         },
         {
           "name": "Cable hip abductions",
@@ -189,7 +201,9 @@
       "exercises": [
         {
           "name": "Cable hip adductions",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "detailId": "fed-Cable_Hip_Adduction"
         },
         {
           "name": "Adductor machine",
@@ -199,7 +213,8 @@
           "name": "Single-leg glute bridges",
           "scheme": "3 × 10 / leg",
           "wgerId": 1740,
-          "detailId": "wger-1740"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "detailId": "fed-Single_Leg_Glute_Bridge"
         },
         {
           "name": "Lateral lunges with dumbbell",
@@ -229,7 +244,9 @@
       "exercises": [
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Bulgarian split squats",
@@ -304,7 +321,9 @@
       "exercises": [
         {
           "name": "Cable hip adductions",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "detailId": "fed-Cable_Hip_Adduction"
         },
         {
           "name": "Rotational med-ball throws",
@@ -314,7 +333,8 @@
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Lateral lunges",
@@ -341,13 +361,16 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Cable pallof press",
@@ -385,7 +408,9 @@
         },
         {
           "name": "Leg extension machine",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Box jumps",
@@ -423,13 +448,16 @@
       "exercises": [
         {
           "name": "Rotational medicine ball throws",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Bulgarian split squats",
@@ -610,7 +638,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Ankling drills",
@@ -640,7 +668,9 @@
       "exercises": [
         {
           "name": "Trap bar deadlifts",
-          "scheme": "4 × 5"
+          "scheme": "4 × 5",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Hill sprints",

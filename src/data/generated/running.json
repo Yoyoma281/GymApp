@@ -27,14 +27,14 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         },
         {
           "name": "Box step-ups",
@@ -75,7 +75,7 @@
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "wger-1620"
+          "detailId": "fed-Seated_Calf_Raise"
         },
         {
           "name": "Glute bridges",
@@ -121,11 +121,14 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Dead bug",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         }
       ],
       "stretches": [
@@ -154,7 +157,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Nordic hamstring curls",
@@ -210,11 +214,13 @@
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "wger-1620"
+          "detailId": "fed-Seated_Calf_Raise"
         },
         {
           "name": "Dead bug",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         }
       ],
       "stretches": [
@@ -242,7 +248,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Calf raises",
@@ -297,14 +304,14 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Plank",
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [
@@ -331,7 +338,9 @@
       "exercises": [
         {
           "name": "Trap bar deadlifts",
-          "scheme": "4 × 4"
+          "scheme": "4 × 4",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Nordic hamstring curls",
@@ -351,7 +360,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -385,7 +395,9 @@
         },
         {
           "name": "Split squats",
-          "scheme": "3 × 10 / leg"
+          "scheme": "3 × 10 / leg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/0.jpg",
+          "detailId": "fed-Split_Squats"
         },
         {
           "name": "Pogo hops",
@@ -471,20 +483,23 @@
       "exercises": [
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 20",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Side plank",
@@ -530,7 +545,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Walking lunges",
@@ -544,14 +560,14 @@
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         }
       ],
       "stretches": [
@@ -604,7 +620,8 @@
           "name": "Mountain climbers",
           "scheme": "3 × 30s",
           "wgerId": 996,
-          "detailId": "wger-996"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+          "detailId": "fed-Mountain_Climbers"
         }
       ],
       "stretches": [
@@ -646,14 +663,15 @@
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Side plank",
@@ -691,7 +709,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 6",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Bulgarian split squats",
@@ -709,7 +728,7 @@
           "scheme": "4 × 12",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         }
       ],
       "stretches": [
@@ -736,7 +755,9 @@
       "exercises": [
         {
           "name": "Trap bar deadlifts",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Hip thrusts",
@@ -758,7 +779,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [

@@ -16,7 +16,9 @@
       "exercises": [
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Wall sit",
@@ -70,13 +72,16 @@
         },
         {
           "name": "Barbell hip thrusts",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Sled push",
           "scheme": "4 × 20 m",
           "wgerId": 1523,
-          "detailId": "wger-1523"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "detailId": "fed-Sled_Push"
         }
       ],
       "stretches": [
@@ -162,7 +167,7 @@
           "scheme": "3 × 12",
           "wgerId": 369,
           "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "wger-369"
+          "detailId": "fed-Leg_Extensions"
         },
         {
           "name": "Ankle dorsiflexion raises",
@@ -212,7 +217,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -247,13 +253,14 @@
           "scheme": "3 × 15 / side",
           "wgerId": 377,
           "imageUrl": "https://wger.de/media/exercise-images/125/Leg-raises-2.png",
-          "detailId": "wger-377"
+          "detailId": "fed-Side_Leg_Raises"
         },
         {
           "name": "Single-leg leg press",
           "scheme": "3 × 10 / leg",
           "wgerId": 1515,
-          "detailId": "wger-1515"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Side plank with top-leg raise",
@@ -288,13 +295,16 @@
       "exercises": [
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Cable glute kickbacks",
@@ -354,7 +364,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -386,14 +397,16 @@
         },
         {
           "name": "Medicine ball chest throws",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 12 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         },
         {
           "name": "Push-ups",
@@ -427,11 +440,14 @@
           "name": "Sled push",
           "scheme": "4 × 15 m",
           "wgerId": 1523,
-          "detailId": "wger-1523"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Medicine ball step-and-throw",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Dumbbell push press",
@@ -484,7 +500,7 @@
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "wger-1620"
+          "detailId": "fed-Seated_Calf_Raise"
         },
         {
           "name": "Broad jumps",
@@ -517,7 +533,8 @@
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
-          "detailId": "wger-142"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "detailId": "fed-External_Rotation_with_Cable"
         },
         {
           "name": "Dumbbell lateral raises",
@@ -525,13 +542,16 @@
         },
         {
           "name": "Wrist roller",
-          "scheme": "3 × 2 rolls"
+          "scheme": "3 × 2 rolls",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
           "wgerId": 1380,
-          "detailId": "wger-1380"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "detailId": "fed-Band_Pull_Apart"
         },
         {
           "name": "Medicine ball rotational slams",
@@ -564,7 +584,8 @@
           "name": "Cable single-arm pulldowns",
           "scheme": "3 × 10 / side",
           "wgerId": 1972,
-          "detailId": "wger-1972"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Arm_Cable_Crossover/0.jpg",
+          "detailId": "fed-Single-Arm_Cable_Crossover"
         },
         {
           "name": "Cable horizontal woodchoppers",
@@ -653,7 +674,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         },
         {
           "name": "Cable high-to-low woodchoppers",
@@ -664,7 +685,7 @@
           "scheme": "3 × 12",
           "wgerId": 272,
           "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png",
-          "detailId": "wger-272"
+          "detailId": "fed-Hammer_Curls"
         },
         {
           "name": "Suitcase carries",
@@ -695,22 +716,28 @@
       "exercises": [
         {
           "name": "Cable crossovers",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/0.jpg",
+          "detailId": "fed-Cable_Crossover"
         },
         {
           "name": "Pallof press with rotation",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press_With_Rotation/0.jpg",
+          "detailId": "fed-Pallof_Press_With_Rotation"
         },
         {
           "name": "Dumbbell hammer curls",
           "scheme": "3 × 12",
           "wgerId": 1567,
           "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png",
-          "detailId": "wger-1567"
+          "detailId": "fed-Preacher_Hammer_Dumbbell_Curl"
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         }
       ],
       "stretches": [

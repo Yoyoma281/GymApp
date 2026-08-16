@@ -23,7 +23,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         },
         {
           "name": "Dumbbell pullovers",
@@ -37,7 +37,8 @@
           "name": "Face pulls",
           "scheme": "3 × 15",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         }
       ],
       "stretches": [
@@ -113,7 +114,7 @@
           "scheme": "3 × 12",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         },
         {
           "name": "Hanging knee raises",
@@ -128,7 +129,7 @@
           "scheme": "3 × 20",
           "wgerId": 1193,
           "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
-          "detailId": "wger-1193"
+          "detailId": "fed-Russian_Twist"
         }
       ],
       "stretches": [
@@ -200,7 +201,7 @@
           "scheme": "3 × 8",
           "wgerId": 185,
           "imageUrl": "https://wger.de/media/exercise-images/100/Decline-bench-press-1.png",
-          "detailId": "wger-185"
+          "detailId": "fed-Barbell_Guillotine_Bench_Press"
         },
         {
           "name": "Dips",
@@ -211,13 +212,16 @@
         },
         {
           "name": "Medicine ball chest passes",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Push-ups",
@@ -263,7 +267,8 @@
           "name": "Mountain climbers",
           "scheme": "3 × 20",
           "wgerId": 996,
-          "detailId": "wger-996"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+          "detailId": "fed-Mountain_Climbers"
         },
         {
           "name": "Deep goblet squats",
@@ -306,7 +311,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Walking lunges",
@@ -320,7 +325,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -351,7 +356,9 @@
         },
         {
           "name": "Barbell front squats",
-          "scheme": "3 × 6"
+          "scheme": "3 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "detailId": "fed-Front_Barbell_Squat"
         },
         {
           "name": "Clap push-ups",
@@ -439,7 +446,9 @@
       "exercises": [
         {
           "name": "Rotational medicine ball throws",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Landmine rotations",
@@ -503,7 +512,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Kettlebell swings",
@@ -586,13 +595,16 @@
         },
         {
           "name": "Barbell front squats",
-          "scheme": "3 × 6"
+          "scheme": "3 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "detailId": "fed-Front_Barbell_Squat"
         },
         {
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Tibialis raises",
@@ -648,7 +660,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -675,7 +687,9 @@
       "exercises": [
         {
           "name": "Dead bugs",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         },
         {
           "name": "Farmer's carries",

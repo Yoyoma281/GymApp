@@ -262,6 +262,43 @@ async function fetchWgerCatalog() {
   return slim;
 }
 
+// ── free-exercise-db enrichment (open source, no key) ───────────
+
+const FED_CACHE = path.join(here, '.fed-cache.json');
+const FED_RAW = 'https://raw.githubusercontent.com/yuhonas/free-exercise-db/main';
+
+async function fetchFedCatalog() {
+  if (fs.existsSync(FED_CACHE)) {
+    return JSON.parse(fs.readFileSync(FED_CACHE, 'utf8'));
+  }
+  console.log('Downloading free-exercise-db…');
+  const res = await fetch(`${FED_RAW}/dist/exercises.json`);
+  if (!res.ok) throw new Error(`free-exercise-db fetch failed: ${res.status}`);
+  const all = await res.json();
+  const slim = all.map((ex) => ({
+    id: ex.id ?? ex.name.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+    name: ex.name,
+    level: ex.level ?? null,
+    equipment: ex.equipment ?? null,
+    primaryMuscles: ex.primaryMuscles ?? [],
+    secondaryMuscles: ex.secondaryMuscles ?? [],
+    instructions: ex.instructions ?? [],
+    image: ex.images?.[0] ? `${FED_RAW}/exercises/${ex.images[0]}` : null,
+  }));
+  fs.writeFileSync(FED_CACHE, JSON.stringify(slim));
+  console.log(`  fetched ${slim.length} exercises with instructions`);
+  return slim;
+}
+
+function buildFedIndex(catalog) {
+  const index = new Map();
+  for (const ex of catalog) {
+    const key = normalize(ex.name);
+    if (key && !index.has(key)) index.set(key, ex);
+  }
+  return index;
+}
+
 // ── MuscleWiki enrichment (requires MUSCLEWIKI_API_KEY) ─────────
 //
 // api.musclewiki.com is a paid API: /exercises?search=<name> finds ids,
@@ -343,7 +380,7 @@ function tokenMatch(index, name) {
   return bestScore >= 0.75 ? best : null;
 }
 
-function enrichSportFile(file, index, mwByName, details) {
+function enrichSportFile(file, index, fedIndex, mwByName, details) {
   const activity = JSON.parse(fs.readFileSync(file, 'utf8'));
   let matched = 0;
   let total = 0;
@@ -353,6 +390,7 @@ function enrichSportFile(file, index, mwByName, details) {
       delete ex.detailId;
       const mw = mwByName?.[normalize(ex.name)] ?? null;
       const hit = tokenMatch(index, ex.name);
+      const fed = tokenMatch(fedIndex, ex.name);
       if (mw) {
         ex.detailId = `mw-${mw.id}`;
         const mainVideo = mw.videos.find((v) => v.gender === 'male' && v.angle === 'front') ?? mw.videos[0];
@@ -371,25 +409,40 @@ function enrichSportFile(file, index, mwByName, details) {
         };
       }
       if (hit) {
-        matched += 1;
         ex.wgerId = hit.id;
         if (hit.image) ex.imageUrl = hit.image;
-        if (!mw) {
-          ex.detailId = `wger-${hit.id}`;
-          details[ex.detailId] = {
-            name: hit.names[0] ?? ex.name,
-            imageUrl: hit.image,
-            videoUrl: hit.video,
-            muscles: hit.muscles,
-            secondaryMuscles: hit.secondaryMuscles,
-            muscleIds: hit.muscleIds,
-            secondaryMuscleIds: hit.secondaryMuscleIds,
-            description: hit.description,
-            source: 'wger',
-          };
-        }
       }
-      if (mw) matched += hit ? 0 : 1;
+      if (!ex.imageUrl && fed?.image) ex.imageUrl = fed.image;
+      if (!mw && fed) {
+        ex.detailId = `fed-${fed.id}`;
+        details[ex.detailId] = {
+          name: fed.name,
+          imageUrl: fed.image ?? hit?.image ?? null,
+          videoUrl: hit?.video ?? null,
+          muscles: fed.primaryMuscles,
+          secondaryMuscles: fed.secondaryMuscles,
+          muscleIds: hit?.muscleIds ?? [],
+          secondaryMuscleIds: hit?.secondaryMuscleIds ?? [],
+          difficulty: fed.level,
+          equipment: fed.equipment,
+          steps: fed.instructions,
+          source: 'free-exercise-db',
+        };
+      } else if (!mw && hit) {
+        ex.detailId = `wger-${hit.id}`;
+        details[ex.detailId] = {
+          name: hit.names[0] ?? ex.name,
+          imageUrl: hit.image,
+          videoUrl: hit.video,
+          muscles: hit.muscles,
+          secondaryMuscles: hit.secondaryMuscles,
+          muscleIds: hit.muscleIds,
+          secondaryMuscleIds: hit.secondaryMuscleIds,
+          description: hit.description,
+          source: 'wger',
+        };
+      }
+      if (mw || fed || hit) matched += 1;
     }
   }
   fs.writeFileSync(file, JSON.stringify(activity, null, 2) + '\n');
@@ -469,6 +522,7 @@ async function main() {
     try {
       const catalog = await fetchWgerCatalog();
       const wgerIndex = buildWgerIndex(catalog);
+      const fedIndex = buildFedIndex(await fetchFedCatalog());
       const files = fs
         .readdirSync(GEN_DIR)
         .filter((f) => f.endsWith('.json') && !['sports.json', 'search-index.json', 'exercise-details.json'].includes(f));
@@ -495,7 +549,7 @@ async function main() {
       let matched = 0;
       let total = 0;
       for (const f of files) {
-        const r = enrichSportFile(path.join(GEN_DIR, f), wgerIndex, mwByName, details);
+        const r = enrichSportFile(path.join(GEN_DIR, f), wgerIndex, fedIndex, mwByName, details);
         matched += r.matched;
         total += r.total;
       }

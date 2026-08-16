@@ -27,7 +27,7 @@
           "scheme": "3 × 10",
           "wgerId": 567,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "wger-567"
+          "detailId": "fed-Dumbbell_Shoulder_Press"
         },
         {
           "name": "Jump rope",
@@ -64,7 +64,9 @@
         },
         {
           "name": "Medicine ball chest throws",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Barbell push press",
@@ -75,13 +77,14 @@
           "scheme": "3 × 12 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         },
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -112,7 +115,9 @@
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Landmine rotations",
@@ -163,14 +168,16 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Hammer curls",
           "scheme": "3 × 12",
           "wgerId": 272,
           "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png",
-          "detailId": "wger-272"
+          "detailId": "fed-Hammer_Curls"
         }
       ],
       "stretches": [
@@ -207,13 +214,15 @@
           "name": "Sled push",
           "scheme": "4 × 20 m",
           "wgerId": 1523,
-          "detailId": "wger-1523"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Single-leg glute bridges",
           "scheme": "3 × 12 / leg",
           "wgerId": 1740,
-          "detailId": "wger-1740"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "detailId": "fed-Single_Leg_Glute_Bridge"
         }
       ],
       "stretches": [
@@ -240,7 +249,9 @@
       "exercises": [
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Bulgarian split squats",
@@ -261,7 +272,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -309,7 +321,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -337,7 +350,9 @@
       "exercises": [
         {
           "name": "Scissor jumps",
-          "scheme": "4 × 12"
+          "scheme": "4 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scissors_Jump/0.jpg",
+          "detailId": "fed-Scissors_Jump"
         },
         {
           "name": "Split squat jumps",
@@ -403,7 +418,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -435,7 +451,9 @@
         },
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Standing cable hip flexions",
@@ -558,7 +576,9 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Landmine rotations",
@@ -644,7 +664,7 @@
           "scheme": "4 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "wger-478"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Kettlebell swings",
@@ -666,7 +686,9 @@
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         }
       ],
       "stretches": [

@@ -22,7 +22,9 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Split squat isometric holds",
@@ -33,7 +35,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         }
       ],
       "stretches": [
@@ -73,7 +75,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Lateral band walks",
@@ -231,7 +234,9 @@
       "exercises": [
         {
           "name": "Wrist roller",
-          "scheme": "3 × 2 rolls"
+          "scheme": "3 × 2 rolls",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Dumbbell wrist rotations",
@@ -241,7 +246,8 @@
           "name": "Cable external rotations",
           "scheme": "3 × 12 / arm",
           "wgerId": 142,
-          "detailId": "wger-142"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "detailId": "fed-External_Rotation_with_Cable"
         },
         {
           "name": "Farmer's carries",
@@ -278,14 +284,15 @@
           "name": "Cable lateral raises",
           "scheme": "3 × 12",
           "wgerId": 1730,
-          "detailId": "wger-1730"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+          "detailId": "fed-Cable_Seated_Lateral_Raise"
         },
         {
           "name": "Hammer curls",
           "scheme": "3 × 10",
           "wgerId": 272,
           "imageUrl": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png",
-          "detailId": "wger-272"
+          "detailId": "fed-Hammer_Curls"
         },
         {
           "name": "Med ball chest passes",
@@ -314,14 +321,16 @@
       "exercises": [
         {
           "name": "Wrist roller",
-          "scheme": "3 × 2 rolls"
+          "scheme": "3 × 2 rolls",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Single-arm cable rows",
           "scheme": "3 × 10 / arm",
           "wgerId": 1621,
           "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg",
-          "detailId": "wger-1621"
+          "detailId": "fed-Single-Arm_Cable_Crossover"
         },
         {
           "name": "Dumbbell external rotations",
@@ -366,7 +375,8 @@
           "name": "Single-leg press",
           "scheme": "3 × 10 / leg",
           "wgerId": 1515,
-          "detailId": "wger-1515"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Broad jumps",
@@ -378,7 +388,9 @@
         },
         {
           "name": "Step-ups with dumbbells",
-          "scheme": "3 × 8 / leg"
+          "scheme": "3 × 8 / leg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "detailId": "fed-Dumbbell_Step_Ups"
         }
       ],
       "stretches": [
@@ -425,7 +437,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         }
       ],
       "stretches": [
@@ -453,7 +465,8 @@
           "name": "Power cleans",
           "scheme": "4 × 3",
           "wgerId": 683,
-          "detailId": "wger-683"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
+          "detailId": "fed-Power_Clean"
         },
         {
           "name": "Sled sprints",
@@ -461,7 +474,9 @@
         },
         {
           "name": "Single-leg broad jumps",
-          "scheme": "3 × 4 / leg"
+          "scheme": "3 × 4 / leg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Hill sprints (treadmill incline)",
@@ -506,7 +521,8 @@
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
           "wgerId": 1380,
-          "detailId": "wger-1380"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "detailId": "fed-Band_Pull_Apart"
         }
       ],
       "stretches": [
@@ -534,7 +550,8 @@
           "name": "Cable external rotations",
           "scheme": "3 × 12 / arm",
           "wgerId": 142,
-          "detailId": "wger-142"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "detailId": "fed-External_Rotation_with_Cable"
         },
         {
           "name": "Reverse wrist curls",
@@ -551,7 +568,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -581,7 +598,9 @@
         },
         {
           "name": "Wrist roller",
-          "scheme": "3 × 2 rolls"
+          "scheme": "3 × 2 rolls",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Plate pinch holds",

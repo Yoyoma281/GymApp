@@ -29,7 +29,7 @@
           "scheme": "3 × 15",
           "wgerId": 1620,
           "imageUrl": "https://wger.de/media/exercise-images/1620/edd40e39-e337-4460-a8dd-6127d40ddd16.jpeg",
-          "detailId": "wger-1620"
+          "detailId": "fed-Seated_Calf_Raise"
         },
         {
           "name": "Single-leg balance on wobble board",
@@ -60,7 +60,9 @@
       "exercises": [
         {
           "name": "Scissor jumps",
-          "scheme": "4 × 12"
+          "scheme": "4 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scissors_Jump/0.jpg",
+          "detailId": "fed-Scissors_Jump"
         },
         {
           "name": "Jump rope double unders",
@@ -108,7 +110,7 @@
           "scheme": "3 × 12",
           "wgerId": 369,
           "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "wger-369"
+          "detailId": "fed-Leg_Extensions"
         },
         {
           "name": "Standing cable hip flexions",
@@ -160,7 +162,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Copenhagen plank",
@@ -198,7 +201,8 @@
           "name": "Single-leg leg press",
           "scheme": "3 × 10 / leg",
           "wgerId": 1515,
-          "detailId": "wger-1515"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         },
         {
           "name": "Side plank with top-leg raise",
@@ -239,7 +243,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Cable straight-leg kickbacks",
@@ -249,13 +254,15 @@
           "name": "Hanging straight-leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Glute ham raises",
           "scheme": "3 × 8",
           "wgerId": 2478,
-          "detailId": "wger-2478"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/0.jpg",
+          "detailId": "fed-Glute_Ham_Raise"
         },
         {
           "name": "Standing cable hip flexions",
@@ -289,20 +296,22 @@
           "name": "Sled push",
           "scheme": "4 × 20 m",
           "wgerId": 1523,
-          "detailId": "wger-1523"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "wger-371"
+          "detailId": "fed-Leg_Press"
         },
         {
           "name": "Single-leg glute bridges",
           "scheme": "3 × 12 / leg",
           "wgerId": 1740,
-          "detailId": "wger-1740"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "detailId": "fed-Single_Leg_Glute_Bridge"
         },
         {
           "name": "Standing cable hip flexions",
@@ -333,13 +342,16 @@
       "exercises": [
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Cable glute kickbacks",
@@ -347,7 +359,9 @@
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "4 × 6 / side"
+          "scheme": "4 × 6 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Reverse sled drag",
@@ -382,7 +396,9 @@
         },
         {
           "name": "Lying leg curls",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Cable hip abductions",
@@ -442,7 +458,9 @@
         },
         {
           "name": "Single-leg bounding",
-          "scheme": "3 × 8 / leg"
+          "scheme": "3 × 8 / leg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -522,7 +540,9 @@
         },
         {
           "name": "Medicine ball chest throws",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Push-ups",
@@ -562,20 +582,22 @@
           "name": "Cable external rotations",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
-          "detailId": "wger-142"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "detailId": "fed-External_Rotation_with_Cable"
         },
         {
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
           "wgerId": 1380,
-          "detailId": "wger-1380"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "detailId": "fed-Band_Pull_Apart"
         },
         {
           "name": "Single-arm dumbbell rows",
           "scheme": "3 × 10 / side",
           "wgerId": 1637,
           "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png",
-          "detailId": "wger-1637"
+          "detailId": "fed-One-Arm_Dumbbell_Row"
         },
         {
           "name": "Goblet squat with pause",
@@ -708,7 +730,8 @@
           "name": "Single-leg Romanian deadlifts",
           "scheme": "3 × 8 / leg",
           "wgerId": 1388,
-          "detailId": "wger-1388"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [

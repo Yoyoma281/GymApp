@@ -38,7 +38,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -83,7 +83,8 @@
           "name": "Plate front raises",
           "scheme": "3 × 12",
           "wgerId": 254,
-          "detailId": "wger-254"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/0.jpg",
+          "detailId": "fed-Front_Plate_Raise"
         },
         {
           "name": "Wall slides",
@@ -136,7 +137,7 @@
           "scheme": "3 × 10",
           "wgerId": 571,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "wger-571"
+          "detailId": "fed-Barbell_Shrug"
         }
       ],
       "stretches": [
@@ -182,7 +183,7 @@
           "scheme": "3 × 10",
           "wgerId": 571,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "wger-571"
+          "detailId": "fed-Barbell_Shrug"
         }
       ],
       "stretches": [
@@ -232,7 +233,8 @@
           "name": "Overhead squats",
           "scheme": "3 × 5",
           "wgerId": 441,
-          "detailId": "wger-441"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
+          "detailId": "fed-Overhead_Squat"
         }
       ],
       "stretches": [
@@ -259,7 +261,9 @@
       "exercises": [
         {
           "name": "Snatch balance",
-          "scheme": "4 × 3"
+          "scheme": "4 × 3",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/0.jpg",
+          "detailId": "fed-Snatch_Balance"
         },
         {
           "name": "Drop snatch (no dip)",
@@ -269,7 +273,8 @@
           "name": "Overhead squats",
           "scheme": "3 × 5",
           "wgerId": 441,
-          "detailId": "wger-441"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
+          "detailId": "fed-Overhead_Squat"
         },
         {
           "name": "Barbell push press",
@@ -280,7 +285,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -321,7 +326,8 @@
           "name": "Overhead squats",
           "scheme": "3 × 3",
           "wgerId": 441,
-          "detailId": "wger-441"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
+          "detailId": "fed-Overhead_Squat"
         },
         {
           "name": "Back squats",
@@ -373,14 +379,15 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Barbell shrugs",
           "scheme": "3 × 10",
           "wgerId": 571,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "wger-571"
+          "detailId": "fed-Barbell_Shrug"
         }
       ],
       "stretches": [
@@ -461,7 +468,9 @@
         },
         {
           "name": "Clean pulls",
-          "scheme": "4 × 3"
+          "scheme": "4 × 3",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "detailId": "fed-Clean_Pull"
         },
         {
           "name": "Clean deadlift to slow eccentric",
@@ -558,7 +567,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Weighted front plank",
@@ -646,7 +655,7 @@
           "scheme": "3 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "wger-478"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Behind-the-neck jerks, light",
@@ -697,7 +706,9 @@
         },
         {
           "name": "Clean pulls",
-          "scheme": "3 × 3"
+          "scheme": "3 × 3",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "detailId": "fed-Clean_Pull"
         },
         {
           "name": "Weighted dips",

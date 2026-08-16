@@ -22,7 +22,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Deep bodyweight squat hold",
@@ -69,7 +70,7 @@
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "wger-371"
+          "detailId": "fed-Leg_Press"
         },
         {
           "name": "Barbell hip hinges (RDL)",
@@ -80,14 +81,14 @@
           "scheme": "3 × 10",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         },
         {
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [
@@ -117,14 +118,14 @@
           "scheme": "3 × 10",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         },
         {
           "name": "Barbell bent-over rows",
           "scheme": "3 × 8",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "wger-81"
+          "detailId": "fed-Bent_Over_Barbell_Row"
         },
         {
           "name": "Hollow body hold",
@@ -135,7 +136,7 @@
           "scheme": "3 × 12",
           "wgerId": 92,
           "imageUrl": "https://wger.de/media/exercise-images/81/Biceps-curl-1.png",
-          "detailId": "wger-92"
+          "detailId": "fed-Dumbbell_Bicep_Curl"
         },
         {
           "name": "Back extensions",
@@ -168,7 +169,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Stability ball hamstring curls",
@@ -176,7 +178,9 @@
         },
         {
           "name": "Dead bug",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         },
         {
           "name": "Cable hip flexor march",
@@ -210,7 +214,7 @@
           "scheme": "3 × 12",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         },
         {
           "name": "Back extensions",
@@ -225,7 +229,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [
@@ -255,7 +259,7 @@
           "scheme": "4 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "wger-371"
+          "detailId": "fed-Leg_Press"
         },
         {
           "name": "Front squats",
@@ -269,7 +273,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         },
         {
           "name": "Weighted plank",
@@ -359,7 +363,7 @@
           "scheme": "3 × 10",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         }
       ],
       "stretches": [
@@ -399,11 +403,15 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Dead bug",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         }
       ],
       "stretches": [
@@ -437,7 +445,7 @@
           "scheme": "4 × 6",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "wger-81"
+          "detailId": "fed-Bent_Over_Barbell_Row"
         },
         {
           "name": "Kettlebell swings",
@@ -456,7 +464,8 @@
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         }
       ],
       "stretches": [
@@ -483,7 +492,9 @@
       "exercises": [
         {
           "name": "Trap bar deadlifts",
-          "scheme": "5 × 3"
+          "scheme": "5 × 3",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Barbell back squats",
@@ -527,7 +538,9 @@
       "exercises": [
         {
           "name": "Goblet squats",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Lat pulldowns",
@@ -537,7 +550,8 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Back extensions",
@@ -548,7 +562,7 @@
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [
@@ -586,13 +600,14 @@
           "scheme": "4 × 10",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "detailId": "wger-507"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Kettlebell swings",
@@ -634,7 +649,8 @@
           "name": "Power cleans",
           "scheme": "5 × 3",
           "wgerId": 683,
-          "detailId": "wger-683"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
+          "detailId": "fed-Power_Clean"
         },
         {
           "name": "Jump squats",
@@ -644,7 +660,9 @@
         },
         {
           "name": "Trap bar deadlifts",
-          "scheme": "4 × 4"
+          "scheme": "4 × 4",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Medicine ball slams",
@@ -654,7 +672,8 @@
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         }
       ],
       "stretches": [

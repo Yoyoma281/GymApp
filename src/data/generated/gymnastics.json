@@ -16,7 +16,9 @@
       "exercises": [
         {
           "name": "Dead bug",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         },
         {
           "name": "Cable crunches",
@@ -109,7 +111,8 @@
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Cable crunches",
@@ -126,7 +129,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         }
       ],
       "stretches": [
@@ -155,7 +158,7 @@
           "scheme": "3 × 8",
           "wgerId": 567,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "wger-567"
+          "detailId": "fed-Seated_Dumbbell_Press"
         },
         {
           "name": "Pike push-ups",
@@ -223,7 +226,8 @@
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Dumbbell Z-press",
@@ -265,7 +269,7 @@
           "scheme": "4 × 6",
           "wgerId": 567,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "wger-567"
+          "detailId": "fed-Standing_Alternating_Dumbbell_Press"
         },
         {
           "name": "Straddle press negatives from handstand",
@@ -276,7 +280,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         }
       ],
       "stretches": [
@@ -362,7 +366,8 @@
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
-          "detailId": "wger-283"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Nordic hamstring curls",
@@ -442,7 +447,9 @@
       "exercises": [
         {
           "name": "Dips (parallel bars)",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
+          "detailId": "fed-Parallel_Bar_Dip"
         },
         {
           "name": "Ring support hold practice",
@@ -488,7 +495,9 @@
         },
         {
           "name": "Dips (parallel bars)",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
+          "detailId": "fed-Parallel_Bar_Dip"
         },
         {
           "name": "Hanging knee-to-L raises",
@@ -499,7 +508,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         },
         {
           "name": "Tuck L-sit on parallettes",
@@ -530,7 +539,9 @@
       "exercises": [
         {
           "name": "Weighted pull-ups",
-          "scheme": "4 × 5"
+          "scheme": "4 × 5",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Pull_Ups/0.jpg",
+          "detailId": "fed-Weighted_Pull_Ups"
         },
         {
           "name": "Weighted dips",
@@ -582,7 +593,9 @@
         },
         {
           "name": "Barbell hip thrusts",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Dumbbell pullovers on bench",
@@ -715,7 +728,7 @@
           "scheme": "4 × 10",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         },
         {
           "name": "Skin the cat on rings",
@@ -730,7 +743,9 @@
         },
         {
           "name": "Weighted pull-ups",
-          "scheme": "3 × 5"
+          "scheme": "3 × 5",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Pull_Ups/0.jpg",
+          "detailId": "fed-Weighted_Pull_Ups"
         },
         {
           "name": "Ring rows (feet elevated)",

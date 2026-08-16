@@ -20,14 +20,16 @@
         },
         {
           "name": "Goblet squats",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Goblet_Squat/0.jpg",
+          "detailId": "fed-Goblet_Squat"
         },
         {
           "name": "Standing calf raises",
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         },
         {
           "name": "Suitcase carries",
@@ -60,7 +62,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         },
         {
           "name": "Bird dogs",
@@ -73,7 +75,8 @@
           "name": "Face pulls",
           "scheme": "3 × 12",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         },
         {
           "name": "Back extensions",
@@ -164,7 +167,8 @@
           "name": "Band pull-aparts",
           "scheme": "3 × 15",
           "wgerId": 1380,
-          "detailId": "wger-1380"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "detailId": "fed-Band_Pull_Apart"
         }
       ],
       "stretches": [
@@ -192,20 +196,21 @@
           "scheme": "3 × 10 / arm",
           "wgerId": 1621,
           "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg",
-          "detailId": "wger-1621"
+          "detailId": "fed-Single-Arm_Cable_Crossover"
         },
         {
           "name": "Bent-over dumbbell rows",
           "scheme": "3 × 10",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "wger-81"
+          "detailId": "fed-Bent_Over_Two-Dumbbell_Row"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 12",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         },
         {
           "name": "Prone Y-T-W raises",
@@ -255,7 +260,7 @@
           "scheme": "3 × 10",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "wger-1117"
+          "detailId": "fed-Seated_Cable_Rows"
         }
       ],
       "stretches": [
@@ -289,14 +294,16 @@
         },
         {
           "name": "Scapular pull-ups",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scapular_Pull-Up/0.jpg",
+          "detailId": "fed-Scapular_Pull-Up"
         },
         {
           "name": "Pallof press",
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -370,7 +377,8 @@
           "name": "Face pulls",
           "scheme": "3 × 12",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         },
         {
           "name": "Resistance band draws (mimic draw)",
@@ -415,7 +423,7 @@
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [
@@ -452,7 +460,9 @@
         },
         {
           "name": "Dead bugs",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         }
       ],
       "stretches": [
@@ -530,7 +540,7 @@
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         },
         {
           "name": "Farmer's carries",
@@ -563,7 +573,7 @@
           "scheme": "4 × 10 / arm",
           "wgerId": 1621,
           "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg",
-          "detailId": "wger-1621"
+          "detailId": "fed-Single-Arm_Cable_Crossover"
         },
         {
           "name": "Lat pulldowns",
@@ -578,13 +588,14 @@
           "scheme": "3 × 10",
           "wgerId": 81,
           "imageUrl": "https://wger.de/media/exercise-images/81/a751a438-ae2d-4751-8d61-cef0e9292174.png",
-          "detailId": "wger-81"
+          "detailId": "fed-Bent_Over_Two-Dumbbell_Row"
         },
         {
           "name": "Face pulls",
           "scheme": "3 × 12",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         }
       ],
       "stretches": [
@@ -654,18 +665,21 @@
           "name": "Face pulls",
           "scheme": "3 × 12",
           "wgerId": 222,
-          "detailId": "wger-222"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "detailId": "fed-Face_Pull"
         },
         {
           "name": "Dead bugs",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+          "detailId": "fed-Dead_Bug"
         },
         {
           "name": "Plank",
           "scheme": "3 × 45s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "wger-458"
+          "detailId": "fed-Plank"
         }
       ],
       "stretches": [

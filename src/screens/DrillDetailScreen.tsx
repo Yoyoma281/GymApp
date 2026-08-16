@@ -95,6 +95,7 @@ export default function DrillDetailScreen({ route }: Props) {
                     <Text style={styles.exerciseMeta}>
                       <Text style={styles.exerciseMetaLabel}>Difficulty: </Text>
                       {detail.difficulty}
+                      {detail.equipment ? `  ·  ${detail.equipment}` : ''}
                       {detail.grips?.length ? `  ·  Grip: ${detail.grips.join(', ')}` : ''}
                     </Text>
                   )}

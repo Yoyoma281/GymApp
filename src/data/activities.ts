@@ -32,9 +32,10 @@ export interface ExerciseDetail {
   secondaryMuscleIds?: MuscleRef[];
   description?: string | null;
   difficulty?: string | null;
+  equipment?: string | null;
   grips?: string[];
   steps?: string[];
-  source: 'wger' | 'musclewiki';
+  source: 'wger' | 'musclewiki' | 'free-exercise-db';
 }
 
 export const exerciseDetails: Record<string, ExerciseDetail> =

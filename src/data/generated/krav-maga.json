@@ -20,7 +20,9 @@
         },
         {
           "name": "Med-ball chest pass",
-          "scheme": "4 × 6"
+          "scheme": "4 × 6",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Push-ups",
@@ -61,7 +63,7 @@
           "scheme": "3 × 12",
           "wgerId": 1726,
           "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
-          "detailId": "wger-1726"
+          "detailId": "fed-Rope_Straight-Arm_Pulldown"
         },
         {
           "name": "Med-ball overhead slams",
@@ -123,7 +125,8 @@
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 1021,
-          "detailId": "wger-1021"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Single-Leg_Leg_Extension"
         }
       ],
       "stretches": [
@@ -167,7 +170,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "wger-1194"
+          "detailId": "fed-Pallof_Press"
         }
       ],
       "stretches": [
@@ -194,7 +197,9 @@
       "exercises": [
         {
           "name": "Barbell hip thrusts",
-          "scheme": "4 × 8"
+          "scheme": "4 × 8",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "detailId": "fed-Barbell_Hip_Thrust"
         },
         {
           "name": "Cable knee drives",
@@ -240,7 +245,9 @@
       "exercises": [
         {
           "name": "Band external rotations",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/0.jpg",
+          "detailId": "fed-External_Rotation_with_Band"
         },
         {
           "name": "Reaction-ball catches",
@@ -252,7 +259,9 @@
         },
         {
           "name": "Wrist roller",
-          "scheme": "3 × 2 rolls"
+          "scheme": "3 × 2 rolls",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -285,7 +294,8 @@
           "name": "Single-arm cable press",
           "scheme": "3 × 10 / side",
           "wgerId": 1969,
-          "detailId": "wger-1969"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Arm_Cable_Crossover/0.jpg",
+          "detailId": "fed-Single-Arm_Cable_Crossover"
         },
         {
           "name": "Band rotations",
@@ -326,7 +336,7 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "wger-478"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Isometric overhead plate hold",
@@ -342,7 +352,9 @@
         },
         {
           "name": "Band external rotations",
-          "scheme": "3 × 12 / side"
+          "scheme": "3 × 12 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/0.jpg",
+          "detailId": "fed-External_Rotation_with_Band"
         }
       ],
       "stretches": [
@@ -372,7 +384,7 @@
           "scheme": "3 × 12",
           "wgerId": 1567,
           "imageUrl": "https://wger.de/media/exercise-images/1567/0a8c155c-a48e-47e8-9df3-e39f025c6cad.png",
-          "detailId": "wger-1567"
+          "detailId": "fed-Preacher_Hammer_Dumbbell_Curl"
         },
         {
           "name": "Lat pulldowns",
@@ -414,7 +426,7 @@
           "scheme": "3 × 6",
           "wgerId": 152,
           "imageUrl": "https://wger.de/media/exercise-images/152/6c1a7459-266d-491a-bd50-7cbaea2bc771.png",
-          "detailId": "wger-152"
+          "detailId": "fed-Chin-Up"
         },
         {
           "name": "Neck curls",
@@ -431,7 +443,7 @@
           "scheme": "3 × 12",
           "wgerId": 571,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "wger-571"
+          "detailId": "fed-Barbell_Shrug"
         },
         {
           "name": "Lateral box step-ups",
@@ -465,7 +477,7 @@
           "scheme": "4 × 6",
           "wgerId": 630,
           "imageUrl": "https://wger.de/media/exercise-images/630/b0f0c7d8-5878-4d9e-b820-21acc013741d.webp",
-          "detailId": "wger-630"
+          "detailId": "fed-Sumo_Deadlift"
         },
         {
           "name": "Goblet squat pulses",
@@ -486,7 +498,7 @@
           "scheme": "3 × 15",
           "wgerId": 622,
           "imageUrl": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
-          "detailId": "wger-622"
+          "detailId": "fed-Standing_Calf_Raises"
         }
       ],
       "stretches": [
@@ -520,7 +532,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1637,
           "imageUrl": "https://wger.de/media/exercise-images/1637/a1fbe83a-a3e5-49f6-a2c2-5d5b533c2be8.png",
-          "detailId": "wger-1637"
+          "detailId": "fed-One-Arm_Dumbbell_Row"
         },
         {
           "name": "Barbell reverse lunges",
