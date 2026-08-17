@@ -19,6 +19,9 @@ expo-env.d.ts
 *.mobileprovision
 play-key.json
 
+# Vercel
+.vercel/
+
 # Metro
 .metro-health-check*
 
