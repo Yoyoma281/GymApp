@@ -87,16 +87,11 @@ export default function DrillDetailScreen({ route }: Props) {
 
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
-      {/* A tutorial for this exact technique is the most useful thing to
-          show; the ambient sport clip is the fallback where none was found. */}
-      {drill.tutorialId ? (
-        <TutorialVideo
-          videoId={drill.tutorialId}
-          title={drill.tutorialTitle}
-          channel={drill.tutorialChannel}
-          searchUrl={drill.videoUrl}
-        />
-      ) : drill.clipUrl ? (
+      {/* The bundled sport clip has a consistent look across the app; a
+          YouTube embed's chrome (thumbnail, red play button, suggested
+          videos) clashes with it, so it's only a fallback when no clip was
+          fetched for this drill. */}
+      {drill.clipUrl ? (
         <View>
           <VideoPlayer uri={drill.clipUrl} poster={drill.clipPoster} ambient />
           <View style={styles.clipFooter}>
@@ -108,6 +103,13 @@ export default function DrillDetailScreen({ route }: Props) {
             )}
           </View>
         </View>
+      ) : drill.tutorialId ? (
+        <TutorialVideo
+          videoId={drill.tutorialId}
+          title={drill.tutorialTitle}
+          channel={drill.tutorialChannel}
+          searchUrl={drill.videoUrl}
+        />
       ) : (
         <Pressable
           style={styles.video}
