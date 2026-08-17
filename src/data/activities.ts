@@ -33,6 +33,10 @@ export interface ExerciseDetail {
   description?: string | null;
   difficulty?: string | null;
   equipment?: string | null;
+  /** Push or pull — how the movement loads. */
+  force?: string | null;
+  /** Compound or isolation. */
+  mechanic?: string | null;
   grips?: string[];
   steps?: string[];
   source: 'wger' | 'musclewiki' | 'free-exercise-db';
@@ -56,6 +60,10 @@ export interface Drill {
   clipUrl?: string;
   clipPoster?: string;
   clipCredit?: string;
+  /** YouTube video id of a tutorial for this exact technique. */
+  tutorialId?: string;
+  tutorialTitle?: string;
+  tutorialChannel?: string;
 }
 
 export interface Activity {

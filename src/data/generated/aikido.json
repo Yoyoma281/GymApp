@@ -23,13 +23,14 @@
           "scheme": "3 × 15 / leg",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         },
         {
           "name": "Goblet squats",
@@ -53,7 +54,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+tenkan+pivot+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6263395/6263395-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6263395/4k-resolution-achievement-active-activity-6263395.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Artem Podrez / Pexels"
+      "clipCredit": "Artem Podrez / Pexels",
+      "tutorialId": "GVnSU6jMZ40",
+      "tutorialTitle": "Tenkai: The 180-Degree Pivot | Aikido Body Movement Basics",
+      "tutorialChannel": "Fighting Blonde"
     },
     {
       "id": "irimi",
@@ -69,7 +73,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Sled pushes",
@@ -90,7 +94,7 @@
           "scheme": "3 × 60s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-322"
+          "detailId": "mw-204"
         }
       ],
       "stretches": [
@@ -107,7 +111,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+irimi+entering+step+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/7988410/7988410-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7988410/pexels-photo-7988410.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "KihiVy0in4E",
+      "tutorialTitle": "How to Do Irimi Nage | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "shikko",
@@ -122,14 +129,15 @@
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
           "wgerId": 1407,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
           "detailId": "mw-8"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Cable hip abductions",
@@ -141,7 +149,7 @@
           "name": "Wall sits",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         }
       ],
       "stretches": [
@@ -158,7 +166,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+shikko+knee+walking+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/32116072/13692107_1280_720_50fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/32116072/human-movement-human-movements-32116072.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Travel with  Lenses / Pexels"
+      "clipCredit": "Travel with  Lenses / Pexels",
+      "tutorialId": "xIFFFSfYF14",
+      "tutorialTitle": "[Aikido Tutorial] Shiko Walking (Japanese Walking on Knees)",
+      "tutorialChannel": "USDC by Rokas Leo"
     },
     {
       "id": "mae-ukemi",
@@ -178,14 +189,17 @@
         },
         {
           "name": "Hollow body rocks",
-          "scheme": "3 × 15"
+          "scheme": "3 × 15",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Pike push-ups",
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "mw-193"
+          "detailId": "mw-182"
         },
         {
           "name": "Goblet squats",
@@ -209,7 +223,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+mae+ukemi+forward+roll+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6765702/6765702-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765702/fight-grab-judo-martial-arts-6765702.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "cIiQahBpZrA",
+      "tutorialTitle": "How to do Mae Ukemi, Front Roll - Aikido Ukemi Tutorial",
+      "tutorialChannel": "Mihaly Dobroka - My Aikido Life"
     },
     {
       "id": "ushiro-ukemi-aikido",
@@ -236,7 +253,10 @@
         },
         {
           "name": "Neck harness flexions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 2495,
+          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
+          "detailId": "wger-2495"
         },
         {
           "name": "Glute bridges",
@@ -260,7 +280,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+ushiro+ukemi+backward+roll+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6765224/6765224-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765224/pexels-photo-6765224.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "e4TKYhqUwXk",
+      "tutorialTitle": "How to do Ushiro Ukemi Backward Roll - Aikido Ukemi Tutorial",
+      "tutorialChannel": "Mihaly Dobroka - My Aikido Life"
     },
     {
       "id": "tobu-ukemi",
@@ -280,18 +303,24 @@
         },
         {
           "name": "Hollow body rocks",
-          "scheme": "3 × 15"
+          "scheme": "3 × 15",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Side planks",
           "scheme": "3 × 45s / side",
           "wgerId": 458,
-          "detailId": "mw-322",
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Neck harness flexions",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 2495,
+          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
+          "detailId": "wger-2495"
         },
         {
           "name": "Box jumps",
@@ -316,7 +345,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+breakfall+tobu+ukemi+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6263409/6263409-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6263409/4k-resolution-achievement-active-activity-6263409.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Artem Podrez / Pexels"
+      "clipCredit": "Artem Podrez / Pexels",
+      "tutorialId": "sff7AFue8As",
+      "tutorialTitle": "How to learn Aikido Soft Breakfall (Ukemi) alone - in only 6 Steps...",
+      "tutorialChannel": "Thomas Inauen"
     },
     {
       "id": "ikkyo",
@@ -330,23 +362,23 @@
         {
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
-          "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "wgerId": 1971,
+          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
           "detailId": "mw-23"
         },
         {
           "name": "Landmine press",
           "scheme": "3 × 8 / arm",
           "wgerId": 346,
-          "detailId": "mw-744",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "detailId": "mw-744"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Pallof press",
@@ -370,7 +402,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+ikkyo+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6765233/6765233-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765233/pexels-photo-6765233.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "GAh2LqQgLbM",
+      "tutorialTitle": "Technique Tips S1/E1 - Ikkyo From Any Attack",
+      "tutorialChannel": "Newark Aikido"
     },
     {
       "id": "nikyo",
@@ -384,7 +419,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 up-downs",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         },
         {
@@ -422,7 +458,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+nikyo+wrist+lock+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6765433/6765433-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765433/pexels-photo-6765433.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "ummLn3M_Sk8",
+      "tutorialTitle": "How to Do Nikyo | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "sankyo",
@@ -451,14 +490,15 @@
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
-          "detailId": "mw-767"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "mw-743"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         }
       ],
       "stretches": [
@@ -475,7 +515,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+sankyo+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6263405/6263405-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6263405/4k-resolution-achievement-active-activity-6263405.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Artem Podrez / Pexels"
+      "clipCredit": "Artem Podrez / Pexels",
+      "tutorialId": "QNkk7rL76gw",
+      "tutorialTitle": "Shomen Uchi Sankyo Ura | Aikido 3rd Kyu Wrist Lock Tutorial",
+      "tutorialChannel": "Fighting Blonde"
     },
     {
       "id": "shiho-nage",
@@ -491,7 +534,7 @@
           "scheme": "3 × 10",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-453"
+          "detailId": "mw-45"
         },
         {
           "name": "Cable face pulls",
@@ -510,7 +553,8 @@
         {
           "name": "Dead hangs",
           "scheme": "3 × 45s",
-          "detailId": "mw-1639"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/0.jpg",
+          "detailId": "mw-1643"
         }
       ],
       "stretches": [
@@ -527,7 +571,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+shiho+nage+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6767178/6767178-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6767178/pexels-photo-6767178.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "T9vWR7EdQdM",
+      "tutorialTitle": "How to Do Shihonage | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "irimi-nage",
@@ -557,14 +604,14 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Medicine ball slams",
           "scheme": "3 × 10",
           "wgerId": 1525,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
-          "detailId": "mw-708"
+          "detailId": "mw-731"
         }
       ],
       "stretches": [
@@ -581,7 +628,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+irimi+nage+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6767176/6767176-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6767176/pexels-photo-6767176.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "KihiVy0in4E",
+      "tutorialTitle": "How to Do Irimi Nage | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "kote-gaeshi",
@@ -603,7 +653,8 @@
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "detailId": "wger-145"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "fed-Cable_Internal_Rotation"
         },
         {
           "name": "Plate pinch holds",
@@ -633,7 +684,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+kote+gaeshi+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6765420/6765420-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765420/pexels-photo-6765420.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "ll1GCzl4Bxg",
+      "tutorialTitle": "How to Do Kotegaeshi | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "tenchi-nage",
@@ -649,7 +703,7 @@
           "scheme": "3 × 10",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-453"
+          "detailId": "mw-45"
         },
         {
           "name": "Cable pull-throughs",
@@ -663,7 +717,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Band pull-aparts",
@@ -687,7 +741,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+tenchi+nage+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6767185/6767185-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6767185/pexels-photo-6767185.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "2AJYWEeEDTY",
+      "tutorialTitle": "TENCHI-NAGE | AIKIDO BASIC TECHNIQUES - Mastering &quot;Lines of Force&quot;",
+      "tutorialChannel": "AIKIDO SILVERDALE"
     },
     {
       "id": "kokyu-nage",
@@ -737,7 +794,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+kokyu+nage+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6766141/6766141-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6766141/pexels-photo-6766141.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "qwBO21eVVso",
+      "tutorialTitle": "Kokyunage - The Aiki Dojo 2 Minute Technique #aikido #aikidocenterla #aikidosalamancaaikikai #budo",
+      "tutorialChannel": "Aikido Center LA"
     },
     {
       "id": "koshi-nage",
@@ -753,7 +813,7 @@
           "scheme": "3 × 8",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-335"
+          "detailId": "mw-8"
         },
         {
           "name": "Barbell hip thrusts",
@@ -791,7 +851,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=aikido+koshi+nage+hip+throw+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6767170/6767170-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6767170/pexels-photo-6767170.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "i8uu52XeZno",
+      "tutorialTitle": "How to Do Koshi Nage | Aikido Lessons",
+      "tutorialChannel": "Howcast"
     }
   ]
 }

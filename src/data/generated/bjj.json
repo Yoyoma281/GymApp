@@ -37,7 +37,9 @@
         {
           "name": "V-ups",
           "scheme": "3 × 12",
-          "detailId": "mw-25"
+          "wgerId": 1964,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/0.jpg",
+          "detailId": "mw-1587"
         }
       ],
       "stretches": [
@@ -52,7 +54,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+shrimping+drill",
       "clipUrl": "https://videos.pexels.com/video-files/38631561/16407933_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631561/bjj-dojo-sparring-partner-tatami-38631561.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "yiA-UfMxq8s",
+      "tutorialTitle": "How to Do the Hip Escape aka Shrimping | Jiu Jitsu",
+      "tutorialChannel": "Howcast"
     },
     {
       "id": "bridging-upa",
@@ -82,7 +87,7 @@
           "scheme": "3 × 12",
           "wgerId": 369,
           "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "mw-1402"
+          "detailId": "mw-40"
         },
         {
           "name": "Neck bridges (wall-assisted)",
@@ -110,7 +115,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+upa+bridge+roll+mount+escape",
       "clipUrl": "https://videos.pexels.com/video-files/8612327/8612327-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8612327/karate-kung-fu-martial-arts-self-defense-8612327.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "T-gP-2ClEZM",
+      "tutorialTitle": "BJJ Beginners Tutorial - Mount Escape (Bridge &amp; Roll)",
+      "tutorialChannel": "Chess Club Jiu-Jitsu"
     },
     {
       "id": "technical-stand-up",
@@ -125,25 +133,28 @@
           "name": "Turkish get-ups",
           "scheme": "3 × 3 / side",
           "wgerId": 675,
-          "detailId": "mw-25"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
+          "detailId": "mw-1587"
         },
         {
           "name": "Reverse lunges",
           "scheme": "3 × 8 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "mw-1134"
+          "detailId": "mw-102"
         },
         {
           "name": "Single-arm dumbbell overhead press",
           "scheme": "3 × 8 / arm",
           "wgerId": 687,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-453"
+          "detailId": "mw-418"
         },
         {
           "name": "Bear crawls",
-          "scheme": "3 × 15m"
+          "scheme": "3 × 15m",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/0.jpg",
+          "detailId": "fed-Spider_Crawl"
         }
       ],
       "stretches": [
@@ -158,7 +169,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+technical+stand+up+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/8611645/8611645-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8611645/pexels-photo-8611645.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "ln9qevg_qXE",
+      "tutorialTitle": "Solo Drill Series - Technical Stand Up  #bjj #jiujitsu #martialarts #arizonabjj #nogi #teaching",
+      "tutorialChannel": "Ares East Mesa BJJ"
     },
     {
       "id": "granby-roll",
@@ -178,7 +192,10 @@
         },
         {
           "name": "Wall walks",
-          "scheme": "3 × 3"
+          "scheme": "3 × 3",
+          "wgerId": 1391,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "fed-Farmers_Walk"
         },
         {
           "name": "Hollow body holds",
@@ -191,8 +208,8 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "detailId": "mw-248",
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
+          "detailId": "mw-35"
         },
         {
           "name": "Plate halos",
@@ -214,7 +231,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+granby+roll+drill",
       "clipUrl": "https://videos.pexels.com/video-files/8611716/8611716-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8611716/pexels-photo-8611716.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "cNu05sTvQDE",
+      "tutorialTitle": "Guard Recovery: How to Do a Shoulder Roll (No Gi Jiu-Jitsu/BJJ)",
+      "tutorialChannel": "Brian Glick"
     },
     {
       "id": "guard-retention",
@@ -235,9 +255,9 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Seated leg press (single leg)",
@@ -250,8 +270,8 @@
           "name": "Bicycle crunches",
           "scheme": "3 × 20",
           "wgerId": 1412,
-          "detailId": "mw-866",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "detailId": "mw-866"
         }
       ],
       "stretches": [
@@ -267,7 +287,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+guard+retention+drills",
       "clipUrl": "https://videos.pexels.com/video-files/8611713/8611713-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8611713/pexels-photo-8611713.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "URGwWYwdoAs",
+      "tutorialTitle": "Guard Retention - How To Never Get Your Guard Passed In Jiu Jitsu by Gordon Ryan",
+      "tutorialChannel": "Bernardo Faria BJJ Fanatics"
     },
     {
       "id": "scissor-sweep",
@@ -289,12 +312,15 @@
           "name": "Side plank with leg lift",
           "scheme": "3 × 8 / side",
           "wgerId": 1410,
-          "detailId": "mw-1593",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
+          "detailId": "mw-1593"
         },
         {
           "name": "Lying hip adduction machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 1093,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "detailId": "fed-Dip_Machine"
         },
         {
           "name": "Pallof press",
@@ -316,7 +342,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+scissor+sweep+closed+guard",
       "clipUrl": "https://videos.pexels.com/video-files/7988409/7988409-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7988409/pexels-photo-7988409.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "lXARLAPD8wM",
+      "tutorialTitle": "No Gi Scissor Sweep #bjj",
+      "tutorialChannel": "Steven Kaloustian"
     },
     {
       "id": "hip-bump-sweep",
@@ -332,7 +361,7 @@
           "scheme": "3 × 12",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Weighted_Sit-Ups_-_With_Bands/0.jpg",
           "wgerId": 591,
-          "detailId": "mw-25"
+          "detailId": "mw-779"
         },
         {
           "name": "Barbell hip thrusts",
@@ -368,7 +397,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+hip+bump+sweep+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/38631556/16407843_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631556/bjj-dojo-sparring-partner-tatami-38631556.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "86eSdQYSjxA",
+      "tutorialTitle": "The BJJ Hip Bump Sweep and How to Connect It to Other Attacks, by Jon Thomas",
+      "tutorialChannel": "Stephan Kesting"
     },
     {
       "id": "butterfly-sweep",
@@ -398,16 +430,19 @@
           "scheme": "3 × 10 / arm",
           "wgerId": 508,
           "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg",
-          "detailId": "mw-447"
+          "detailId": "mw-319"
         },
         {
           "name": "Cable hip flexions",
           "scheme": "3 × 12 / leg",
+          "wgerId": 2495,
+          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "detailId": "mw-1318"
         },
         {
           "name": "Rowing machine sprints",
           "scheme": "4 × 250m",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1200"
         }
       ],
@@ -424,7 +459,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+butterfly+sweep+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/7988987/7988987-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7988987/pexels-photo-7988987.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "PrPzHawIePY",
+      "tutorialTitle": "Marcelo Garcia Guide on The Perfect Butterfly Sweep #shorts",
+      "tutorialChannel": "Mixed Martial Arts Content"
     },
     {
       "id": "knee-cut-pass",
@@ -452,14 +490,15 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Cable adductions",
           "scheme": "3 × 12 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/12/4a42cc6f-648d-40cc-a72a-c49dd47e1667.webp",
+          "wgerId": 12,
           "detailId": "mw-1008"
         }
       ],
@@ -475,7 +514,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+knee+cut+pass+details",
       "clipUrl": "https://videos.pexels.com/video-files/38631560/16407853_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631560/bjj-dojo-sparring-partner-tatami-38631560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "Hy0XYZMV0vo",
+      "tutorialTitle": "The EASIEST Knee Cut Combination",
+      "tutorialChannel": "JonThomasBJJ"
     },
     {
       "id": "torreando-pass",
@@ -495,27 +537,30 @@
         {
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
-          "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "wgerId": 1971,
+          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
           "detailId": "mw-23"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         },
         {
           "name": "Agility ladder drills",
-          "scheme": "4 × 30s"
+          "scheme": "4 × 30s",
+          "wgerId": 1196,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
+          "detailId": "fed-Kneeling_Arm_Drill"
         },
         {
           "name": "Push-ups",
           "scheme": "3 × 15",
           "wgerId": 583,
           "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
-          "detailId": "mw-193"
+          "detailId": "mw-182"
         }
       ],
       "stretches": [
@@ -531,7 +576,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+toreando+pass+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/8611719/8611719-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8611719/pexels-photo-8611719.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "eTGONjQrXSY",
+      "tutorialTitle": "Spectrum | BJJ Fundamentals - Bullfighter/Torreando Pass",
+      "tutorialChannel": "SPECTRUM JIU JITSU"
     },
     {
       "id": "over-under-pass",
@@ -559,15 +607,15 @@
           "name": "Zercher squats",
           "scheme": "3 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
-          "detailId": "mw-365",
-          "wgerId": 615
+          "wgerId": 615,
+          "detailId": "mw-365"
         },
         {
           "name": "Weighted plank",
           "scheme": "3 × 45s",
-          "detailId": "mw-543",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-543"
         }
       ],
       "stretches": [
@@ -583,7 +631,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+over+under+pressure+pass",
       "clipUrl": "https://videos.pexels.com/video-files/38631557/16407945_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631557/bjj-dojo-sparring-partner-tatami-38631557.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "we3wrU-Ctbw",
+      "tutorialTitle": "Nicky Ryan: Unstoppable Body Lock Pass Details | B-Team Technique",
+      "tutorialChannel": "The B-Team"
     },
     {
       "id": "arm-drag-back-take",
@@ -604,8 +655,9 @@
         {
           "name": "Gorilla rows",
           "scheme": "3 × 8 / arm",
-          "detailId": "mw-911",
-          "wgerId": 1501
+          "wgerId": 1501,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Row/0.jpg",
+          "detailId": "mw-911"
         },
         {
           "name": "Rope climbs",
@@ -633,7 +685,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+arm+drag+back+take",
       "clipUrl": "https://videos.pexels.com/video-files/7988986/7988986-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7988986/pexels-photo-7988986.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "e_c7G5T_ZR8",
+      "tutorialTitle": "BJJ Techniques: Arm Drag to Back Take by Gordon Ryan",
+      "tutorialChannel": "BJJ Fanatics"
     },
     {
       "id": "back-control-hooks",
@@ -647,7 +702,8 @@
         {
           "name": "Dead hangs",
           "scheme": "3 × 45s",
-          "detailId": "mw-1639"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/0.jpg",
+          "detailId": "mw-1643"
         },
         {
           "name": "Hanging knee raises",
@@ -671,7 +727,10 @@
         },
         {
           "name": "Hollow body rocks",
-          "scheme": "3 × 20"
+          "scheme": "3 × 20",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         }
       ],
       "stretches": [
@@ -688,7 +747,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+back+control+retention+drills",
       "clipUrl": "https://videos.pexels.com/video-files/38631559/16407979_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631559/bjj-dojo-sparring-partner-tatami-38631559.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "N6lKNqUOZoY",
+      "tutorialTitle": "How to Escape the Back EVERY TIME | Jiu Jitsu Back Escape System",
+      "tutorialChannel": "Matt Arroyo Jiu Jitsu "
     },
     {
       "id": "armbar-from-guard",
@@ -708,7 +770,10 @@
         },
         {
           "name": "Lying hip adduction machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 1093,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "detailId": "fed-Dip_Machine"
         },
         {
           "name": "Glute bridges",
@@ -720,9 +785,9 @@
         {
           "name": "Reverse crunches",
           "scheme": "3 × 15",
-          "detailId": "mw-882",
           "wgerId": 1772,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg",
+          "detailId": "mw-882"
         }
       ],
       "stretches": [
@@ -738,7 +803,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+armbar+from+closed+guard+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/38631565/16407924_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38631565/bjj-dojo-sparring-partner-tatami-38631565.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipCredit": "Uriel Lu / Pexels",
+      "tutorialId": "o-6XKZvs2Xk",
+      "tutorialTitle": "BJJ TECHNIQUE | NO GI | Armbar from closed guard",
+      "tutorialChannel": "Santino DeFranco"
     },
     {
       "id": "triangle-choke",
@@ -758,7 +826,10 @@
         },
         {
           "name": "Lying hip adduction machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 1093,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "detailId": "fed-Dip_Machine"
         },
         {
           "name": "Nordic hamstring curls",
@@ -777,9 +848,9 @@
         {
           "name": "Lat pulldowns",
           "scheme": "3 × 10",
-          "detailId": "mw-1659",
           "wgerId": 1972,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg",
+          "detailId": "mw-23"
         }
       ],
       "stretches": [
@@ -795,7 +866,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+triangle+choke+setup+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/7988992/7988992-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7988992/pexels-photo-7988992.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "Set1xYNKEJw",
+      "tutorialTitle": "How to do the Perfect Triangle Best Sankaku Jime Judo BJJ Grappling Submission for MMA",
+      "tutorialChannel": "Peter Mettler Martial Arts"
     },
     {
       "id": "rear-naked-choke",
@@ -828,7 +902,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         }
       ],
@@ -844,7 +919,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=rear+naked+choke+details+bjj",
       "clipUrl": "https://videos.pexels.com/video-files/6767173/6767173-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6767173/pexels-photo-6767173.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "KW2RvtWgBxU",
+      "tutorialTitle": "How to do the Rear Naked Choke in Jiu Jitsu | Jiu Jitsu Tutorial | BJJ Lessons",
+      "tutorialChannel": "Matt Arroyo Jiu Jitsu "
     },
     {
       "id": "grip-fighting",
@@ -865,9 +943,9 @@
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         },
         {
           "name": "Plate pinch holds",
@@ -880,7 +958,7 @@
           "scheme": "3 × 12",
           "wgerId": 1925,
           "imageUrl": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
-          "detailId": "mw-213"
+          "detailId": "mw-351"
         },
         {
           "name": "Band pull-aparts",
@@ -903,7 +981,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=bjj+grip+fighting+fundamentals",
       "clipUrl": "https://videos.pexels.com/video-files/19995525/19995525-hd_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/19995525/bjj-nxt-ufc-wwe-19995525.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "WeStarMoney  Rec / Pexels"
+      "clipCredit": "WeStarMoney  Rec / Pexels",
+      "tutorialId": "Oi7BBPPjIvE",
+      "tutorialTitle": "Score More Takedowns in BJJ with THIS Simple Drill (The RIGHT Way for Beginners to Hand Fight)",
+      "tutorialChannel": "Brandon Reed BJJ"
     },
     {
       "id": "takedown-entries",
@@ -918,8 +999,8 @@
           "name": "Trap-bar deadlifts",
           "scheme": "3 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Jump squats",
@@ -931,13 +1012,16 @@
         {
           "name": "Zercher carries",
           "scheme": "3 × 30m",
+          "wgerId": 1116,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/0.jpg",
           "detailId": "mw-71"
         },
         {
           "name": "Broad jumps",
           "scheme": "3 × 5",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         }
       ],
       "stretches": [
@@ -952,7 +1036,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=wrestling+takedown+entries",
       "clipUrl": "https://videos.pexels.com/video-files/6765432/6765432-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6765432/pexels-photo-6765432.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "X3xKwQcDKM0",
+      "tutorialTitle": "How To Shoot: Basic Wrestling and BJJ Moves and Technique Tutorials For Beginners",
+      "tutorialChannel": "Fundamental Wrestling"
     },
     {
       "id": "double-leg-finish",
@@ -966,8 +1053,9 @@
         {
           "name": "Back squats",
           "scheme": "4 × 5",
-          "detailId": "mw-191",
-          "wgerId": 615
+          "wgerId": 615,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "detailId": "mw-335"
         },
         {
           "name": "Heavy sled pushes",
@@ -979,8 +1067,9 @@
         {
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
-          "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "wgerId": 75,
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "detailId": "wger-75"
         },
         {
           "name": "Power cleans",
@@ -1004,7 +1093,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=double+leg+takedown+finish+wrestling",
       "clipUrl": "https://videos.pexels.com/video-files/6766144/6766144-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6766144/pexels-photo-6766144.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "U3T0fy6-iNE",
+      "tutorialTitle": "CHAIN WRESTLING: SHOT RECOVERY - JORDAN BURROUGHS | FCA Wrestling TECHNIQUE",
+      "tutorialChannel": "FCA Wrestling"
     }
   ]
 }

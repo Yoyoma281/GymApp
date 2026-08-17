@@ -19,14 +19,14 @@
           "scheme": "3 × 10",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-453"
+          "detailId": "mw-45"
         },
         {
           "name": "Cable triceps pushdowns",
           "scheme": "3 × 12",
           "wgerId": 1185,
           "imageUrl": "https://wger.de/media/exercise-images/1185/c5ca283d-8958-4fd8-9d59-a3f52a3ac66b.jpg",
-          "detailId": "mw-1681"
+          "detailId": "mw-241"
         },
         {
           "name": "Wrist curls with dumbbell",
@@ -56,7 +56,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=form+shooting+basketball+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6077079/6077079-hd_1366_720_50fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6077079/ball-balls-basketball-competing-6077079.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "KoolShooters / Pexels"
+      "clipCredit": "KoolShooters / Pexels",
+      "tutorialId": "7DLuEHmM4yE",
+      "tutorialTitle": "4 SHOOTING DRILLS THAT WILL FIX YOUR JUMPSHOT #basketballtraining",
+      "tutorialChannel": "Keith Poitier Performance"
     },
     {
       "id": "catch-and-shoot",
@@ -70,15 +73,16 @@
         {
           "name": "Trap bar jumps",
           "scheme": "4 × 5",
-          "detailId": "mw-700",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-700"
         },
         {
           "name": "Barbell back squats",
           "scheme": "4 × 6",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-335"
+          "detailId": "mw-8"
         },
         {
           "name": "Medicine ball chest passes",
@@ -89,8 +93,9 @@
         {
           "name": "Pogo jumps",
           "scheme": "3 × 15",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Cable pallof press",
@@ -114,7 +119,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=catch+and+shoot+basketball+drills",
       "clipUrl": "https://videos.pexels.com/video-files/6077077/6077077-hd_1366_720_50fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6077077/ball-balls-basketball-competing-6077077.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "KoolShooters / Pexels"
+      "clipCredit": "KoolShooters / Pexels",
+      "tutorialId": "IYzPW29rYEI",
+      "tutorialTitle": "3 Keys How to Shoot a Basketball Better off the Catch",
+      "tutorialChannel": "ShotMechanics"
     },
     {
       "id": "pull-up-jumper",
@@ -143,8 +151,9 @@
         {
           "name": "Trap bar jumps",
           "scheme": "4 × 5",
-          "detailId": "mw-700",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-700"
         },
         {
           "name": "Hanging leg raises",
@@ -168,7 +177,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=pull+up+jumper+basketball+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6777266/6777266-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6777266/pexels-photo-6777266.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "cottonbro studio / Pexels",
+      "tutorialId": "glny6njDcbE",
+      "tutorialTitle": "5 INSANE Drills To MASTER The Pull-up Jumpshot",
+      "tutorialChannel": "Marcus Hodges"
     },
     {
       "id": "layup-package",
@@ -182,8 +194,9 @@
         {
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
-          "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "wgerId": 75,
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "detailId": "wger-75"
         },
         {
           "name": "Box jumps (single-leg takeoff)",
@@ -201,7 +214,7 @@
           "scheme": "3 × 8 / leg",
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
           "wgerId": 981,
-          "detailId": "mw-1187"
+          "detailId": "mw-1188"
         }
       ],
       "stretches": [
@@ -218,7 +231,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=layup+footwork+tutorial+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/5390845/5390845-hd_1366_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5390845/pexels-photo-5390845.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Monstera Production / Pexels"
+      "clipCredit": "Monstera Production / Pexels",
+      "tutorialId": "d0z7QqblJaM",
+      "tutorialTitle": "How To Shoot A Layup For Beginners! Basketball Basics [SECRETS]",
+      "tutorialChannel": "Get Handles Basketball"
     },
     {
       "id": "floater",
@@ -232,7 +248,8 @@
         {
           "name": "Single-leg bounds",
           "scheme": "3 × 6 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Alternate_Leg_Diagonal_Bound"
         },
         {
           "name": "Bulgarian split squats",
@@ -256,8 +273,8 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "detailId": "mw-248",
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
+          "detailId": "mw-35"
         }
       ],
       "stretches": [
@@ -274,7 +291,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=floater+basketball+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/6249619/6249619-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6249619/basketball-disabled-exercise-sport-6249619.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "Ef1lKgSchfQ",
+      "tutorialTitle": "HOW TO FIX YOUR FLOATER THE RIGHT WAY #basketball",
+      "tutorialChannel": "Keith Poitier Performance"
     },
     {
       "id": "euro-step",
@@ -291,14 +311,17 @@
         },
         {
           "name": "Lateral lunges with dumbbell",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "wgerId": 75,
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "detailId": "wger-75"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Bulgarian split squats",
@@ -329,7 +352,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=euro+step+tutorial+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/8979775/8979775-hd_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8979775/action-adult-ball-basketball-8979775.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "PNW Production / Pexels"
+      "clipCredit": "PNW Production / Pexels",
+      "tutorialId": "h_qPJ5VOvis",
+      "tutorialTitle": "How to Execute the EURO STEP in Basketball the RIGHT WAY! ✅",
+      "tutorialChannel": "ILoveBasketballTV"
     },
     {
       "id": "pound-dribble",
@@ -350,9 +376,9 @@
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         },
         {
           "name": "Plate pinch holds",
@@ -365,7 +391,7 @@
           "scheme": "3 × 10",
           "wgerId": 1525,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
-          "detailId": "mw-708"
+          "detailId": "mw-731"
         }
       ],
       "stretches": [
@@ -381,7 +407,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=pound+dribbling+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/6070828/6070828-hd_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6070828/basketball-sports-training-training-6070828.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Curtis Adams / Pexels"
+      "clipCredit": "Curtis Adams / Pexels",
+      "tutorialId": "j1ThcKunzG0",
+      "tutorialTitle": "Basketball Dribbling Drills for Beginners - 6 essential exercises you can do at home",
+      "tutorialChannel": "Coach Michael Fungai"
     },
     {
       "id": "crossover",
@@ -400,7 +429,10 @@
         },
         {
           "name": "Adductor machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 208,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
+          "detailId": "fed-Ab_Crunch_Machine"
         },
         {
           "name": "Wrist curls & reverse wrist curls",
@@ -435,7 +467,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=crossover+move+tutorial+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/32067766/13668548_1080_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/32067766/pexels-photo-32067766.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Airam Dato-on / Pexels"
+      "clipCredit": "Airam Dato-on / Pexels",
+      "tutorialId": "9kfY8HqD72U",
+      "tutorialTitle": "How to Handle Pressure and Play at YOUR Speed",
+      "tutorialChannel": "By Any Means Basketball"
     },
     {
       "id": "combo-dribbling",
@@ -449,6 +484,7 @@
         {
           "name": "Dead-ball acceleration sprints",
           "scheme": "5 × 10m",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1200"
         },
         {
@@ -471,8 +507,8 @@
         {
           "name": "Jump rope (crossovers)",
           "scheme": "3 × 45s",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stride_Jump_Crossover/0.jpg",
+          "wgerId": 1863,
+          "imageUrl": "https://wger.de/media/exercise-images/1863/5f29959d-0fd1-46d2-98b7-0c2cb5d9ee13.png",
           "detailId": "fed-Stride_Jump_Crossover"
         }
       ],
@@ -490,7 +526,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=combo+dribble+moves+tutorial+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/8337059/8337059-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8337059/basketball-basketball-coach-basketball-life-basketball-player-8337059.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "RDNE Stock project / Pexels",
+      "tutorialId": "ocyhMviieFQ",
+      "tutorialTitle": "NBA 2K26 Dribbling Tutorial Early Dribble Moves Handcam Breakdown",
+      "tutorialChannel": "NBA2KLab"
     },
     {
       "id": "defensive-slide",
@@ -505,7 +544,8 @@
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         },
         {
           "name": "Goblet squat (paused)",
@@ -515,11 +555,14 @@
           "name": "Wall sit",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         },
         {
           "name": "Adductor machine",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "wgerId": 208,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
+          "detailId": "fed-Ab_Crunch_Machine"
         },
         {
           "name": "Sled lateral drags",
@@ -542,7 +585,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=defensive+slides+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/32000017/13637892_1024_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/32000017/action-sports-32000017.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Maxwell Taylor / Pexels"
+      "clipCredit": "Maxwell Taylor / Pexels",
+      "tutorialId": "HHFzW6lhjmM",
+      "tutorialTitle": "Defensive stance and defensive slides in basketball (episode 11 training drills)",
+      "tutorialChannel": "Beijing Falcons Basketball"
     },
     {
       "id": "closeout",
@@ -557,6 +603,7 @@
           "name": "Sprint-to-stop drills",
           "scheme": "5 × 10m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Cone_Sprint_Drill/0.jpg",
+          "wgerId": 1196,
           "detailId": "fed-Single-Cone_Sprint_Drill"
         },
         {
@@ -566,14 +613,16 @@
         {
           "name": "Pogo jumps",
           "scheme": "3 × 15",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         }
       ],
       "stretches": [
@@ -590,7 +639,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=closeout+defense+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/31955038/13615486_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/31955038/4k-video-action-shot-ambient-video-camera-movement-31955038.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Houssam benamara / Pexels"
+      "clipCredit": "Houssam benamara / Pexels",
+      "tutorialId": "P6io-yG7ZAQ",
+      "tutorialTitle": "5 Best Basketball Closeout Drills V1 | Top Drills For Elite Individual Defense",
+      "tutorialChannel": "BreakthroughBBall"
     },
     {
       "id": "box-out",
@@ -612,8 +664,8 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Sled pushes",
@@ -648,7 +700,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=box+out+rebounding+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/4742327/4742327-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/4742327/pexels-photo-4742327.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ketut Subiyanto / Pexels"
+      "clipCredit": "Ketut Subiyanto / Pexels",
+      "tutorialId": "D09Hx2HYFlM",
+      "tutorialTitle": "How To Box Out A 7ft Player Like Jon Koncak. #HawksAlumni",
+      "tutorialChannel": "Atlanta Hawks"
     },
     {
       "id": "lateral-quickness",
@@ -669,19 +724,20 @@
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Jump rope (side-to-side)",
           "scheme": "3 × 45s",
-          "wgerId": 993,
+          "wgerId": 1524,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_To_Side_Chins/0.jpg",
           "detailId": "mw-1597"
         }
@@ -699,7 +755,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=lateral+quickness+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/6249330/6249330-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6249330/basketball-disabled-exercise-sport-6249330.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "-0AwkVwh9hg",
+      "tutorialTitle": "4 Drills to Build Basketball Speed and Agility",
+      "tutorialChannel": "KP Sports Performance"
     },
     {
       "id": "first-step",
@@ -717,24 +776,29 @@
         {
           "name": "Trap bar jumps",
           "scheme": "4 × 5",
-          "detailId": "mw-700",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-700"
         },
         {
           "name": "Bulgarian split squats (explosive up)",
           "scheme": "3 × 6 / leg",
-          "detailId": "mw-1139"
+          "wgerId": 112,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
+          "detailId": "mw-25"
         },
         {
           "name": "Standing broad jumps",
           "scheme": "4 × 4",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
-          "detailId": "mw-700",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-700"
         },
         {
           "name": "Hill sprints",
           "scheme": "5 × 15m",
+          "wgerId": 961,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1097"
         }
       ],
@@ -752,7 +816,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=first+step+explosiveness+drills+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/6762829/6762829-hd_1272_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/6762829/pexels-photo-6762829.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipCredit": "Kampus Production / Pexels",
+      "tutorialId": "h1dRvW0ESDs",
+      "tutorialTitle": "Speed Drill (footwork) (first step)",
+      "tutorialChannel": "JAWS ELITE"
     },
     {
       "id": "vertical-jump",
@@ -768,21 +835,21 @@
           "scheme": "4 × 5",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-335"
+          "detailId": "mw-8"
         },
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Depth jumps",
           "scheme": "4 × 4",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg",
-          "detailId": "mw-701",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-701"
         },
         {
           "name": "Standing calf raises (heavy)",
@@ -813,7 +880,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=vertical+jump+training+basketball",
       "clipUrl": "https://videos.pexels.com/video-files/8979072/8979072-hd_1280_720_60fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8979072/athlete-backboard-ball-basket-8979072.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "PNW Production / Pexels"
+      "clipCredit": "PNW Production / Pexels",
+      "tutorialId": "7FYEeFt9PD8",
+      "tutorialTitle": "How To Jump Higher In Less Than 5 Minutes",
+      "tutorialChannel": "Isaiah Rivera"
     }
   ]
 }

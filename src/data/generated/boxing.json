@@ -19,7 +19,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 129,
           "imageUrl": "https://wger.de/media/exercise-images/129/b263c968-e067-4750-916a-d8758a7df23e.webp",
-          "detailId": "mw-1799"
+          "detailId": "mw-217"
         },
         {
           "name": "Med-ball chest pass",
@@ -32,7 +32,7 @@
           "scheme": "3 × 10",
           "wgerId": 687,
           "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
-          "detailId": "mw-45"
+          "detailId": "mw-441"
         },
         {
           "name": "Band pull-aparts",
@@ -63,7 +63,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+jab+technique+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/7314306/7314306-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7314306/action-action-energy-adult-adverse-7314306.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "https://kaboompics.com/ / Pexels"
+      "clipCredit": "https://kaboompics.com/ / Pexels",
+      "tutorialId": "71nmi6nGcrY",
+      "tutorialTitle": "How to Throw the Perfect Jab in Boxing",
+      "tutorialChannel": "Tony Jeffries"
     },
     {
       "id": "cross",
@@ -78,28 +81,29 @@
           "name": "Landmine punch press",
           "scheme": "3 × 8 / side",
           "wgerId": 346,
-          "detailId": "mw-9",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "detailId": "mw-744"
         },
         {
           "name": "Rotational med-ball slams",
           "scheme": "4 × 6",
-          "detailId": "mw-731",
-          "wgerId": 1525
+          "wgerId": 1525,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+          "detailId": "mw-731"
         },
         {
           "name": "Cable rows",
           "scheme": "3 × 12",
           "wgerId": 1117,
           "imageUrl": "https://wger.de/media/exercise-images/1117/2555c4c3-a84d-47db-b83b-cbf721f12e45.png",
-          "detailId": "mw-24"
+          "detailId": "mw-970"
         },
         {
           "name": "Plyo push-ups",
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
           "wgerId": 583,
-          "detailId": "mw-193"
+          "detailId": "mw-182"
         }
       ],
       "stretches": [
@@ -114,7 +118,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+cross+technique",
       "clipUrl": "https://videos.pexels.com/video-files/8810052/8810052-hd_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8810052/adult-athlete-bar-battle-8810052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Los Muertos Crew / Pexels"
+      "clipCredit": "Los Muertos Crew / Pexels",
+      "tutorialId": "-hy2QLE567o",
+      "tutorialTitle": "How to punch - the right CROSS #boxing #boxingtraining",
+      "tutorialChannel": "Day One Martial Arts"
     },
     {
       "id": "lead-hook",
@@ -136,11 +143,14 @@
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
-          "detailId": "mw-767"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "mw-743"
         },
         {
           "name": "Lateral med-ball throws",
-          "scheme": "4 × 5 / side"
+          "scheme": "4 × 5 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Dumbbell lateral raises",
@@ -171,7 +181,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+lead+hook+technique",
       "clipUrl": "https://videos.pexels.com/video-files/3444517/3444517-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/3444517/free-video-3444517.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Curtis Adams / Pexels"
+      "clipCredit": "Curtis Adams / Pexels",
+      "tutorialId": "Z_xVXcn6pCw",
+      "tutorialTitle": "RYAN GARCIA DRILLING LEFT HOOK IN FINAL GERVONTA WORKOUT BEFORE FIGHT",
+      "tutorialChannel": "Little Giant Boxing"
     },
     {
       "id": "rear-uppercut",
@@ -186,15 +199,15 @@
           "name": "Trap-bar deadlifts",
           "scheme": "4 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Half-kneeling landmine press",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-754",
           "wgerId": 346,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "detailId": "mw-754"
         },
         {
           "name": "Low-to-high cable woodchoppers",
@@ -231,7 +244,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+rear+uppercut+technique",
       "clipUrl": "https://videos.pexels.com/video-files/4804863/4804863-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/4804863/pexels-photo-4804863.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ketut Subiyanto / Pexels"
+      "clipCredit": "Ketut Subiyanto / Pexels",
+      "tutorialId": "cHpUfBbdB0o",
+      "tutorialTitle": "How To Punch Faster (SNAP Your Punches)",
+      "tutorialChannel": "Glove Up"
     },
     {
       "id": "body-hook",
@@ -258,12 +274,14 @@
         {
           "name": "Rotational med-ball slams",
           "scheme": "4 × 6 / side",
-          "detailId": "mw-731",
-          "wgerId": 1525
+          "wgerId": 1525,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+          "detailId": "mw-731"
         },
         {
           "name": "Side planks with reach-through",
           "scheme": "3 × 8 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
           "detailId": "mw-323"
         }
       ],
@@ -297,7 +315,7 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-773"
+          "detailId": "mw-4"
         },
         {
           "name": "Battle ropes alternating waves",
@@ -305,7 +323,9 @@
         },
         {
           "name": "Rotational med-ball throws",
-          "scheme": "4 × 5 / side"
+          "scheme": "4 × 5 / side",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Bent-over barbell rows",
@@ -319,7 +339,7 @@
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
           "wgerId": 583,
-          "detailId": "mw-193"
+          "detailId": "mw-182"
         }
       ],
       "stretches": [
@@ -349,7 +369,10 @@
       "exercises": [
         {
           "name": "Dumbbell front raise isometric hold",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         },
         {
           "name": "Face pulls",
@@ -363,20 +386,21 @@
           "scheme": "3 × 12",
           "wgerId": 923,
           "imageUrl": "https://wger.de/media/exercise-images/151/Dumbbell-shrugs-2.png",
-          "detailId": "mw-12"
+          "detailId": "mw-290"
         },
         {
           "name": "Plate halo circles",
           "scheme": "3 × 8 / direction",
-          "detailId": "mw-1075",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg",
+          "wgerId": 994,
+          "detailId": "mw-1075"
         },
         {
           "name": "Neck curls",
           "scheme": "3 × 15",
-          "detailId": "mw-1",
           "wgerId": 364,
-          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png"
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
+          "detailId": "mw-1"
         }
       ],
       "stretches": [
@@ -425,7 +449,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         }
       ],
@@ -459,27 +484,28 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-42"
+          "detailId": "mw-336"
         },
         {
           "name": "Side planks",
           "scheme": "3 × 40s",
           "wgerId": 458,
-          "detailId": "mw-322",
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Band rotations",
           "scheme": "3 × 15 / side",
-          "detailId": "mw-2203",
-          "wgerId": 1826
+          "wgerId": 1826,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "mw-2203"
         },
         {
           "name": "Neck curls",
           "scheme": "3 × 15",
-          "detailId": "mw-1",
           "wgerId": 364,
-          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png"
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
+          "detailId": "mw-1"
         }
       ],
       "stretches": [
@@ -509,19 +535,21 @@
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
-          "detailId": "mw-767"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "mw-743"
         },
         {
           "name": "Single-arm dumbbell lateral raises",
           "scheme": "3 × 12",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-1901"
+          "detailId": "mw-20"
         },
         {
           "name": "Pallof press with rotation",
           "scheme": "3 × 8 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press_With_Rotation/0.jpg",
+          "wgerId": 985,
           "detailId": "mw-1039"
         },
         {
@@ -529,7 +557,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-42"
+          "detailId": "mw-336"
         },
         {
           "name": "Face pulls",
@@ -569,26 +597,27 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         },
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 15",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Wall sit",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         }
       ],
       "stretches": [
@@ -628,7 +657,7 @@
           "scheme": "3 × 15",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Cable hip rotations",
@@ -640,9 +669,9 @@
         {
           "name": "Lateral box step-ups",
           "scheme": "3 × 8 / leg",
-          "detailId": "mw-25",
           "wgerId": 981,
-          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
+          "detailId": "mw-99"
         }
       ],
       "stretches": [
@@ -679,25 +708,28 @@
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         },
         {
           "name": "Front squats",
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-42"
+          "detailId": "mw-336"
         },
         {
           "name": "Agility ladder lateral shuffles",
           "scheme": "4 × 30s",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_to_Side_Box_Shuffle/0.jpg",
           "detailId": "mw-1106"
         }
       ],
@@ -747,8 +779,8 @@
           "name": "Bodyweight squats",
           "scheme": "3 × 20",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg",
-          "detailId": "mw-192",
-          "wgerId": 615
+          "wgerId": 615,
+          "detailId": "mw-192"
         }
       ],
       "stretches": [
@@ -797,7 +829,7 @@
           "scheme": "3 × 15",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Plank shoulder taps",
@@ -842,7 +874,7 @@
           "scheme": "3 × 15",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Pogo hops",
@@ -853,7 +885,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         }
       ],
@@ -902,8 +935,9 @@
         {
           "name": "Farmer carries",
           "scheme": "3 × 40m",
-          "detailId": "mw-71",
-          "wgerId": 1116
+          "wgerId": 1116,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-71"
         }
       ],
       "stretches": [

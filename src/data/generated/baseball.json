@@ -33,13 +33,14 @@
           "scheme": "3 × 8 / side",
           "wgerId": 984,
           "imageUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
-          "detailId": "mw-104"
+          "detailId": "mw-372"
         },
         {
           "name": "Mini-band lateral walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "wger-1514"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "fed-Monster_Walk"
         },
         {
           "name": "Pallof press",
@@ -63,7 +64,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+hitting+load+and+stride+mechanics",
       "clipUrl": "https://videos.pexels.com/video-files/5182770/5182770-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5182770/pexels-photo-5182770.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipCredit": "Tima Miroshnichenko / Pexels",
+      "tutorialId": "P_khgnW6BpA",
+      "tutorialTitle": "Practice Swing to Game Swing | Load Stride Pace Drill (Pro Speed Baseball)",
+      "tutorialChannel": "Pro Speed Baseball"
     },
     {
       "id": "rotational-swing",
@@ -91,14 +95,15 @@
           "name": "Landmine rotations",
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
-          "detailId": "mw-767"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "detailId": "mw-743"
         },
         {
           "name": "Barbell back squats",
           "scheme": "4 × 6",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-335"
+          "detailId": "mw-8"
         },
         {
           "name": "Cable hip rotations",
@@ -122,7 +127,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+rotational+hitting+mechanics+hip+shoulder+separation",
       "clipUrl": "https://videos.pexels.com/video-files/5182924/5182924-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5182924/pexels-photo-5182924.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipCredit": "Tima Miroshnichenko / Pexels",
+      "tutorialId": "q866PzWkpII",
+      "tutorialTitle": "It’s all in the HIPS💯 - How To Use Hips in The Baseball Swing",
+      "tutorialChannel": "Hitting Done Right - HDR"
     },
     {
       "id": "bat-speed",
@@ -146,22 +154,23 @@
         {
           "name": "Lat pulldowns",
           "scheme": "3 × 10",
-          "detailId": "mw-1659",
           "wgerId": 1972,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg",
+          "detailId": "mw-23"
         },
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 up-downs",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         }
       ],
       "stretches": [
@@ -178,7 +187,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+bat+speed+overload+underload+training",
       "clipUrl": "https://videos.pexels.com/video-files/852399/852399-hd_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/852399/free-video-852399.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Distill / Pexels"
+      "clipCredit": "Distill / Pexels",
+      "tutorialId": "txN0r40-qck",
+      "tutorialTitle": "How To Increase BAT SPEED",
+      "tutorialChannel": "Northern Baseball Training"
     },
     {
       "id": "opposite-field-hitting",
@@ -191,7 +203,10 @@
       "exercises": [
         {
           "name": "Cable low-to-high chops",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "wgerId": 145,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "detailId": "fed-Standing_Cable_Wood_Chop"
         },
         {
           "name": "Medicine ball delayed-rotation throws",
@@ -208,7 +223,10 @@
         },
         {
           "name": "Pallof press with hold",
-          "scheme": "3 × 8 / side"
+          "scheme": "3 × 8 / side",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         },
         {
           "name": "Dumbbell wrist curls",
@@ -232,7 +250,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+opposite+field+hitting+drills",
       "clipUrl": "https://videos.pexels.com/video-files/5182772/5182772-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5182772/pexels-photo-5182772.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipCredit": "Tima Miroshnichenko / Pexels",
+      "tutorialId": "ok2W-QUqiuE",
+      "tutorialTitle": "How to Hit the Outside Pitch and Transfer to in Game Performance",
+      "tutorialChannel": "Gradum Gswing"
     },
     {
       "id": "pitching-delivery",
@@ -291,7 +312,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+pitching+mechanics+delivery+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/37743491/16009197_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/37743491/pexels-photo-37743491.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Joaquin Reyes Ramos / Pexels"
+      "clipCredit": "Joaquin Reyes Ramos / Pexels",
+      "tutorialId": "VZAXCdUEXf0",
+      "tutorialTitle": "Brandon Hall:  The Art of Pitching - Mechanics, Drills &amp; Troubleshooting",
+      "tutorialChannel": "Championship Productions"
     },
     {
       "id": "drive-leg-power",
@@ -318,22 +342,22 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 25s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Rear-foot-elevated jump squats",
           "scheme": "3 × 5 / leg",
-          "detailId": "mw-191",
           "wgerId": 615,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg",
+          "detailId": "mw-191"
         }
       ],
       "stretches": [
@@ -350,7 +374,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=pitching+velocity+lower+half+drive+leg+mechanics",
       "clipUrl": "https://videos.pexels.com/video-files/5182768/5182768-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5182768/pexels-photo-5182768.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipCredit": "Tima Miroshnichenko / Pexels",
+      "tutorialId": "-DQx-EJenYo",
+      "tutorialTitle": "Baseball Pitching Tips: How to properly use your legs while pitching with Casey Crosby",
+      "tutorialChannel": "ProTips4U"
     },
     {
       "id": "arm-care-velocity",
@@ -383,7 +410,9 @@
         },
         {
           "name": "Rebounder rhythmic stabilizations",
-          "scheme": "3 × 20s / side"
+          "scheme": "3 × 20s / side",
+          "wgerId": 56,
+          "detailId": "wger-56"
         },
         {
           "name": "Dumbbell wrist pronation/supination",
@@ -407,7 +436,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+arm+care+rotator+cuff+exercises+pitchers",
       "clipUrl": "https://videos.pexels.com/video-files/38847727/16513517_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/38847727/pexels-photo-38847727.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Joaquin Reyes Ramos / Pexels"
+      "clipCredit": "Joaquin Reyes Ramos / Pexels",
+      "tutorialId": "McHb2hXrTrE",
+      "tutorialTitle": "Must Do Youth Baseball Pitching Drills For Beginner Pitchers",
+      "tutorialChannel": "ARM Pitching Developmet"
     },
     {
       "id": "fielding-grounders",
@@ -427,26 +459,27 @@
           "scheme": "3 × 8 / side",
           "wgerId": 984,
           "imageUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
-          "detailId": "mw-104"
+          "detailId": "mw-372"
         },
         {
           "name": "Kettlebell deadlifts",
           "scheme": "3 × 10",
           "wgerId": 1003,
           "imageUrl": "https://wger.de/media/exercise-images/1003/772d6e47-3865-4944-9255-7435d0b06782.png",
-          "detailId": "mw-78"
+          "detailId": "mw-81"
         },
         {
           "name": "Wall sits",
           "scheme": "3 × 40s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         },
         {
           "name": "Mini-band lateral walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "detailId": "wger-1514"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "fed-Monster_Walk"
         }
       ],
       "stretches": [
@@ -463,7 +496,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+fielding+ground+balls+infield+technique",
       "clipUrl": "https://videos.pexels.com/video-files/18064075/18064075-hd_1280_720_48fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/18064075/pexels-photo-18064075.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Felipe Jiménez / Pexels"
+      "clipCredit": "Felipe Jiménez / Pexels",
+      "tutorialId": "oG6gQe2gXUk",
+      "tutorialTitle": "How to: Field a Ground Ball | Baseball Fielding Tips",
+      "tutorialChannel": "Ultimate Baseball Training"
     },
     {
       "id": "backhand-pickup",
@@ -478,6 +514,7 @@
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
           "wgerId": 1407,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
           "detailId": "mw-8"
         },
         {
@@ -496,9 +533,9 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "detailId": "mw-204",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
+          "detailId": "mw-204"
         },
         {
           "name": "Pallof press",
@@ -522,7 +559,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+backhand+ground+ball+technique+infield",
       "clipUrl": "https://videos.pexels.com/video-files/17515082/17515082-hd_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/17515082/pexels-photo-17515082.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "K / Pexels"
+      "clipCredit": "K / Pexels",
+      "tutorialId": "EYcTd2kkNiI",
+      "tutorialTitle": "Outfield ground ball technique that most coaches don’t teach.",
+      "tutorialChannel": "Baseball Instincts"
     },
     {
       "id": "outfield-crow-hop",
@@ -536,13 +576,15 @@
         {
           "name": "Broad jumps",
           "scheme": "4 × 4",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Single-leg bounds",
           "scheme": "3 × 5 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "detailId": "fed-Alternate_Leg_Diagonal_Bound"
         },
         {
           "name": "Medicine ball scoop throws",
@@ -554,8 +596,8 @@
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Cable external rotations",
@@ -579,7 +621,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+outfield+crow+hop+throwing+technique",
       "clipUrl": "https://videos.pexels.com/video-files/33853229/14366371_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/33853229/pexels-photo-33853229.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Jonathan Ellis / Pexels"
+      "clipCredit": "Jonathan Ellis / Pexels",
+      "tutorialId": "dWRUAYKjDII",
+      "tutorialTitle": "How to Demonstrate/Teach the Crow Hop- FOR COACHES!",
+      "tutorialChannel": "Frozen Ropes National Training Center"
     },
     {
       "id": "throwing-accuracy",
@@ -593,9 +638,9 @@
         {
           "name": "Half-kneeling landmine press",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-754",
           "wgerId": 346,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "detailId": "mw-754"
         },
         {
           "name": "Cable external rotations",
@@ -636,7 +681,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+throwing+mechanics+accuracy+fundamentals",
       "clipUrl": "https://videos.pexels.com/video-files/5182782/5182782-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/5182782/pexels-photo-5182782.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipCredit": "Tima Miroshnichenko / Pexels",
+      "tutorialId": "ezponkC8QvQ",
+      "tutorialTitle": "🎯 Master Infield Throwing Mechanics: Youth Baseball Pro Tips (Step-by-Step Guide!)",
+      "tutorialChannel": "Peter Torres III"
     },
     {
       "id": "long-toss",
@@ -670,13 +718,15 @@
         {
           "name": "Lat pulldowns",
           "scheme": "3 × 10",
-          "detailId": "mw-1659",
           "wgerId": 1972,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg",
+          "detailId": "mw-23"
         },
         {
           "name": "Rebounder rhythmic stabilizations",
-          "scheme": "3 × 20s / side"
+          "scheme": "3 × 20s / side",
+          "wgerId": 56,
+          "detailId": "wger-56"
         }
       ],
       "stretches": [
@@ -694,7 +744,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+long+toss+program+arm+strength",
       "clipUrl": "https://videos.pexels.com/video-files/37743535/16009289_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/37743535/pexels-photo-37743535.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Joaquin Reyes Ramos / Pexels"
+      "clipCredit": "Joaquin Reyes Ramos / Pexels",
+      "tutorialId": "xsd9RiXqx40",
+      "tutorialTitle": "How to Throw Max Distance Long Toss",
+      "tutorialChannel": "TopVelocity.net"
     },
     {
       "id": "sprint-start-first-step",
@@ -708,18 +761,21 @@
         {
           "name": "Sled sprints",
           "scheme": "6 × 15m",
+          "wgerId": 961,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1097"
         },
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
-          "detailId": "mw-2221",
-          "wgerId": 184
+          "wgerId": 184,
+          "detailId": "mw-2221"
         },
         {
           "name": "Falling starts to sprint",
           "scheme": "5 × 10m",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1200"
         },
         {
@@ -750,7 +806,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+base+running+first+step+acceleration+drills",
       "clipUrl": "https://videos.pexels.com/video-files/37612701/15941795_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/37612701/banderas-bay-drone-mexico-nayarit-37612701.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Allan González / Pexels"
+      "clipCredit": "Allan González / Pexels",
+      "tutorialId": "q866PzWkpII",
+      "tutorialTitle": "It’s all in the HIPS💯 - How To Use Hips in The Baseball Swing",
+      "tutorialChannel": "Hitting Done Right - HDR"
     },
     {
       "id": "base-stealing",
@@ -764,8 +823,9 @@
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Lateral sled pushes",
@@ -778,6 +838,7 @@
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
           "wgerId": 1407,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
           "detailId": "mw-8"
         },
         {
@@ -803,7 +864,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+base+stealing+lead+and+jump+technique",
       "clipUrl": "https://videos.pexels.com/video-files/37052402/15696220_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/37052402/baseball-baseball-field-bases-california-37052402.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "NewLA / Pexels"
+      "clipCredit": "NewLA / Pexels",
+      "tutorialId": "ZNNgtNAwpag",
+      "tutorialTitle": "How to steal bases (feat. Rajai Davis)",
+      "tutorialChannel": "Brodie Brazil"
     },
     {
       "id": "sliding",
@@ -831,9 +895,9 @@
         {
           "name": "Slider hamstring curls",
           "scheme": "3 × 10",
-          "detailId": "mw-1340",
           "wgerId": 364,
-          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png"
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
+          "detailId": "mw-1345"
         },
         {
           "name": "Hollow body hold",
@@ -846,6 +910,7 @@
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
           "wgerId": 1407,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
           "detailId": "mw-8"
         }
       ],
@@ -864,7 +929,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=baseball+sliding+technique+bent+leg+pop+up+slide",
       "clipUrl": "https://videos.pexels.com/video-files/16186338/16186338-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/16186338/videogrammer-16186338.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Vitaliy Haiduk / Pexels"
+      "clipCredit": "Vitaliy Haiduk / Pexels",
+      "tutorialId": "67PiSOS-0oo",
+      "tutorialTitle": "Sliding can be difficult here is a step progression on how to better slide #baseball #youtubeshorts",
+      "tutorialChannel": "Legends Baseball Camps"
     }
   ]
 }
