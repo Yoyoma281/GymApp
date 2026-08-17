@@ -63,12 +63,27 @@ function deviceLanguage(): string {
 
 let current = LANGUAGES.some((l) => l.code === deviceLanguage()) ? deviceLanguage() : 'en';
 
+// Screens read translations through plain t() calls rather than context,
+// so a language change has to tell React something happened. Subscribers
+// (App) re-key the navigator, which re-renders every mounted screen.
+const listeners = new Set<() => void>();
+
+export function subscribeLanguage(listener: () => void): () => void {
+  listeners.add(listener);
+  return () => {
+    listeners.delete(listener);
+  };
+}
+
 export function getLanguage() {
   return current;
 }
 
 export function setLanguage(code: string) {
-  current = LANGUAGES.some((l) => l.code === code) ? code : 'en';
+  const next = LANGUAGES.some((l) => l.code === code) ? code : 'en';
+  if (next === current) return;
+  current = next;
+  for (const listener of listeners) listener();
 }
 
 export function isRTL() {

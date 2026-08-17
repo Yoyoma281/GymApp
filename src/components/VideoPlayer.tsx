@@ -13,6 +13,7 @@ import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
 import VideoScrubber from './VideoScrubber';
 import { track } from '../data/analytics';
+import { t } from '../i18n';
 import { colors } from '../theme';
 
 // On web, expo-video renders the <video> at its intrinsic size (e.g.
@@ -109,7 +110,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
       <View style={[styles.frame, styles.center]}>
         {poster ? <Image source={{ uri: poster }} style={styles.poster} /> : null}
         <View style={styles.errorOverlay}>
-          <Text style={styles.errorText}>Video unavailable</Text>
+          <Text style={styles.errorText}>{t('videoUnavailable')}</Text>
           {error?.message ? <Text style={styles.errorHint}>{error.message}</Text> : null}
         </View>
       </View>

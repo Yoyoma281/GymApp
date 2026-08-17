@@ -14,6 +14,7 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { loadSport, searchIndex, sportIndex, SportMeta } from '../data/activities';
 import { track } from '../data/analytics';
 import { t } from '../i18n';
+import { tCategory, tSport } from '../i18n/taxonomy';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
 import { sportImages } from '../data/sportImages';
 import { RootStackParamList } from '../navigation';
@@ -128,7 +129,7 @@ export default function HomeScreen({ navigation }: Props) {
             onPress={() => setActiveCategory(activeCategory === c ? null : c)}
           >
             <Text style={[styles.chipText, activeCategory === c && styles.chipTextActive]}>
-              {c}
+              {tCategory(c)}
             </Text>
           </Pressable>
         ))}
@@ -154,7 +155,7 @@ export default function HomeScreen({ navigation }: Props) {
       windowSize={7}
       removeClippedSubviews
       renderSectionHeader={({ section }) => (
-        <Text style={styles.sectionTitle}>{section.title}</Text>
+        <Text style={styles.sectionTitle}>{tCategory(section.title)}</Text>
       )}
       renderItem={({ item: row }) => (
         <View style={styles.gridRow}>
@@ -180,7 +181,7 @@ export default function HomeScreen({ navigation }: Props) {
               />
               <View style={styles.activityLabel}>
                 <Text style={styles.activityName} numberOfLines={2}>
-                  {sport.name}
+                  {tSport(sport.name)}
                 </Text>
                 <Text style={styles.activityCount}>
                   {t("drillsCount").replace("{{count}}", String(sport.drillCount))}

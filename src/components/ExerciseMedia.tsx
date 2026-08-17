@@ -3,6 +3,7 @@ import { Image, StyleSheet, Text, View } from 'react-native';
 import { ExerciseDetail } from '../data/activities';
 import { isMuscleWikiUrl, resolveVideoUrl } from '../data/mediaToken';
 import VideoPlayer from './VideoPlayer';
+import { t } from '../i18n';
 import { colors } from '../theme';
 
 type State = { kind: 'none' } | { kind: 'loading' } | { kind: 'video'; uri: string } | { kind: 'failed' };
@@ -40,7 +41,7 @@ export default function ExerciseMedia({ detail }: { detail: ExerciseDetail }) {
     return (
       <View>
         {image}
-        <Text style={styles.notice}>Video needs a connection to the token service</Text>
+        <Text style={styles.notice}>{t('videoNeedsConnection')}</Text>
       </View>
     );
   }

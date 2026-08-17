@@ -16,6 +16,7 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import { track } from '../data/analytics';
 import { t } from '../i18n';
+import { tGroup } from '../i18n/taxonomy';
 import ExerciseMedia from '../components/ExerciseMedia';
 import VideoPlayer from '../components/VideoPlayer';
 import TutorialVideo from '../components/TutorialVideo';
@@ -127,12 +128,12 @@ export default function DrillDetailScreen({ route }: Props) {
       <View style={styles.pills}>
         <View style={[styles.pill, { backgroundColor: levelColors[drill.level].bg }]}>
           <Text style={[styles.pillText, { color: levelColors[drill.level].fg }]}>
-            {drill.level.toUpperCase()}
+            {t(`level${drill.level}` as never).toUpperCase()}
           </Text>
         </View>
         <View style={[styles.pill, { backgroundColor: tagColors.group.bg }]}>
           <Text style={[styles.pillText, { color: tagColors.group.fg }]}>
-            {drill.group.toUpperCase()}
+            {tGroup(drill.group).toUpperCase()}
           </Text>
         </View>
         <View style={[styles.pill, { backgroundColor: tagColors.muscles.bg }]}>
@@ -185,7 +186,7 @@ export default function DrillDetailScreen({ route }: Props) {
                       <Text style={styles.exerciseMetaLabel}>{t("muscles")}: </Text>
                       {detail.muscles.join(', ')}
                       {detail.secondaryMuscles?.length
-                        ? `  ·  also ${detail.secondaryMuscles.join(', ')}`
+                        ? `  ·  ${t('alsoWorks')} ${detail.secondaryMuscles.join(', ')}`
                         : ''}
                     </Text>
                   )}

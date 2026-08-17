@@ -34,6 +34,17 @@ export interface UIStrings {
   levelBeginner: string;
   levelIntermediate: string;
   levelAdvanced: string;
+  creditsIntro: string;
+  creditsFooter: string;
+  photographsNote: string;
+  videoNeedsConnection: string;
+  alsoWorks: string;          // joins the secondary muscles: "Glutes · also Hamstrings"
+  grip: string;
+  exerciseVideos: string;
+  exerciseImages: string;
+  exerciseInstructions: string;
+  sportClips: string;
+  backendHost: string;
 }
 
 export const strings: Record<string, UIStrings> = {
@@ -67,6 +78,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Beginner',
     levelIntermediate: 'Intermediate',
     levelAdvanced: 'Advanced',
+    creditsIntro:
+      'DojoFit is built on openly licensed and licensed third-party content. Thanks to everyone who made this material available.',
+    creditsFooter:
+      'Drill programming and technique descriptions are original to DojoFit. Exercise guidance is general information, not medical advice — train within your ability and seek coaching for unfamiliar techniques.',
+    photographsNote: 'Sport photographs (listed below)',
+    videoNeedsConnection: 'Video needs a connection to the token service',
+    alsoWorks: 'also',
+    grip: 'Grip',
+    exerciseVideos: 'Exercise demonstration videos and instructions',
+    exerciseImages: 'Exercise images, muscle diagrams and body maps',
+    exerciseInstructions: 'Exercise instructions and photos',
+    sportClips: 'Sport and technique clips',
+    backendHost: "Hosts the app's small backend",
   },
 
   ar: {
@@ -99,6 +123,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'مبتدئ',
     levelIntermediate: 'متوسط',
     levelAdvanced: 'متقدّم',
+    creditsIntro:
+      'يعتمد DojoFit على محتوى من أطراف أخرى بتراخيص مفتوحة ومرخّصة. شكرًا لكل من أتاح هذه المواد.',
+    creditsFooter:
+      'برنامج التمارين ووصف الحركات من إعداد DojoFit. إرشادات التمرين معلومات عامة وليست نصيحة طبية — تدرّب في حدود قدرتك واستعن بمدرّب في الحركات غير المألوفة.',
+    photographsNote: 'الصور الرياضية (المذكورة أدناه)',
+    videoNeedsConnection: 'يحتاج الفيديو إلى اتصال بخدمة الرموز',
+    alsoWorks: 'وأيضًا',
+    grip: 'القبضة',
+    exerciseVideos: 'مقاطع توضيحية وإرشادات للتمارين',
+    exerciseImages: 'صور التمارين ومخططات العضلات وخرائط الجسم',
+    exerciseInstructions: 'إرشادات التمارين وصورها',
+    sportClips: 'مقاطع رياضية وتقنية',
+    backendHost: 'يستضيف الخادم الخلفي الصغير للتطبيق',
   },
 
   de: {
@@ -131,6 +168,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Anfänger',
     levelIntermediate: 'Fortgeschritten',
     levelAdvanced: 'Profi',
+    creditsIntro:
+      'DojoFit basiert auf frei lizenzierten und lizenzierten Inhalten Dritter. Danke an alle, die dieses Material bereitgestellt haben.',
+    creditsFooter:
+      'Übungsprogramme und Technikbeschreibungen stammen von DojoFit. Die Trainingshinweise sind allgemeine Informationen und keine medizinische Beratung — trainiere im Rahmen deiner Möglichkeiten und lass dir unbekannte Techniken zeigen.',
+    photographsNote: 'Sportfotos (siehe Liste unten)',
+    videoNeedsConnection: 'Für Videos wird eine Verbindung zum Token-Dienst gebraucht',
+    alsoWorks: 'außerdem',
+    grip: 'Griff',
+    exerciseVideos: 'Übungsvideos und Anleitungen',
+    exerciseImages: 'Übungsbilder, Muskeldiagramme und Körperkarten',
+    exerciseInstructions: 'Übungsanleitungen und Fotos',
+    sportClips: 'Sport- und Technikclips',
+    backendHost: 'Hostet das kleine Backend der App',
   },
 
   es: {
@@ -163,6 +213,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Principiante',
     levelIntermediate: 'Intermedio',
     levelAdvanced: 'Avanzado',
+    creditsIntro:
+      'DojoFit se apoya en contenido de terceros con licencia abierta y con licencia. Gracias a todas las personas que lo pusieron a disposición.',
+    creditsFooter:
+      'La programación de los ejercicios y las descripciones técnicas son originales de DojoFit. Las indicaciones de entrenamiento son información general, no consejo médico: entrena dentro de tus posibilidades y busca a un entrenador para las técnicas que no domines.',
+    photographsNote: 'Fotografías deportivas (lista abajo)',
+    videoNeedsConnection: 'El vídeo necesita conexión con el servicio de tokens',
+    alsoWorks: 'además',
+    grip: 'Agarre',
+    exerciseVideos: 'Vídeos de demostración e instrucciones de los ejercicios',
+    exerciseImages: 'Imágenes de ejercicios, diagramas musculares y mapas del cuerpo',
+    exerciseInstructions: 'Instrucciones y fotos de los ejercicios',
+    sportClips: 'Clips de deporte y técnica',
+    backendHost: 'Aloja el pequeño backend de la app',
   },
 
   fa: {
@@ -195,6 +258,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'مبتدی',
     levelIntermediate: 'متوسط',
     levelAdvanced: 'پیشرفته',
+    creditsIntro:
+      'DojoFit بر پایهٔ محتوای دیگران با مجوز آزاد و مجوزدار ساخته شده است. از همهٔ کسانی که این مواد را در دسترس گذاشتند سپاسگزاریم.',
+    creditsFooter:
+      'برنامهٔ تمرین‌ها و توضیح تکنیک‌ها ساختهٔ خود DojoFit است. راهنمای تمرین اطلاعات عمومی است، نه توصیهٔ پزشکی — در حد توان خودت تمرین کن و برای تکنیک‌های ناآشنا از مربی کمک بگیر.',
+    photographsNote: 'عکس‌های ورزشی (فهرست زیر)',
+    videoNeedsConnection: 'پخش ویدیو به اتصال به سرویس توکن نیاز دارد',
+    alsoWorks: 'همچنین',
+    grip: 'نحوهٔ گرفتن',
+    exerciseVideos: 'ویدیوهای نمایش تمرین و دستورالعمل‌ها',
+    exerciseImages: 'تصاویر تمرین‌ها، نمودار عضلات و نقشهٔ بدن',
+    exerciseInstructions: 'دستورالعمل و عکس تمرین‌ها',
+    sportClips: 'کلیپ‌های ورزشی و فنی',
+    backendHost: 'میزبان بک‌اند کوچک برنامه',
   },
 
   fr: {
@@ -227,6 +303,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Débutant',
     levelIntermediate: 'Intermédiaire',
     levelAdvanced: 'Avancé',
+    creditsIntro:
+      'DojoFit s’appuie sur des contenus tiers sous licence libre ou sous licence. Merci à toutes celles et ceux qui les ont mis à disposition.',
+    creditsFooter:
+      'La programmation des exercices et les descriptions techniques sont propres à DojoFit. Les conseils d’entraînement sont des informations générales, pas un avis médical — entraînez-vous selon vos capacités et faites-vous encadrer pour les techniques que vous ne maîtrisez pas.',
+    photographsNote: 'Photos de sport (liste ci-dessous)',
+    videoNeedsConnection: 'La vidéo nécessite une connexion au service de jetons',
+    alsoWorks: 'aussi',
+    grip: 'Prise',
+    exerciseVideos: 'Vidéos de démonstration et consignes',
+    exerciseImages: 'Images d’exercices, schémas musculaires et cartes du corps',
+    exerciseInstructions: 'Consignes et photos des exercices',
+    sportClips: 'Clips de sport et de technique',
+    backendHost: 'Héberge le petit backend de l’appli',
   },
 
   hi: {
@@ -259,6 +348,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'शुरुआती',
     levelIntermediate: 'मध्यम',
     levelAdvanced: 'उन्नत',
+    creditsIntro:
+      'DojoFit खुले लाइसेंस वाली और लाइसेंस प्राप्त बाहरी सामग्री पर बना है। यह सामग्री उपलब्ध कराने वाले सभी लोगों का धन्यवाद।',
+    creditsFooter:
+      'ड्रिल की योजना और तकनीकों के विवरण DojoFit के अपने हैं। व्यायाम से जुड़ी सलाह सामान्य जानकारी है, चिकित्सकीय सलाह नहीं — अपनी क्षमता के भीतर ही अभ्यास करें और नई तकनीकों के लिए कोच की मदद लें।',
+    photographsNote: 'खेल तस्वीरें (नीचे सूचीबद्ध)',
+    videoNeedsConnection: 'वीडियो के लिए टोकन सेवा से कनेक्शन चाहिए',
+    alsoWorks: 'साथ ही',
+    grip: 'पकड़',
+    exerciseVideos: 'व्यायाम के डेमो वीडियो और निर्देश',
+    exerciseImages: 'व्यायाम चित्र, मांसपेशी आरेख और बॉडी मैप',
+    exerciseInstructions: 'व्यायाम के निर्देश और तस्वीरें',
+    sportClips: 'खेल और तकनीक क्लिप',
+    backendHost: 'ऐप का छोटा बैकएंड होस्ट करता है',
   },
 
   it: {
@@ -291,6 +393,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Principiante',
     levelIntermediate: 'Intermedio',
     levelAdvanced: 'Avanzato',
+    creditsIntro:
+      'DojoFit si basa su contenuti di terze parti con licenza aperta o concessa in licenza. Grazie a tutti quelli che hanno reso disponibile questo materiale.',
+    creditsFooter:
+      'La programmazione degli esercizi e le descrizioni tecniche sono originali di DojoFit. Le indicazioni di allenamento sono informazioni generali, non consigli medici: allenati nei tuoi limiti e fatti seguire da un istruttore per le tecniche che non conosci.',
+    photographsNote: 'Fotografie sportive (elenco sotto)',
+    videoNeedsConnection: 'Il video richiede una connessione al servizio token',
+    alsoWorks: 'anche',
+    grip: 'Presa',
+    exerciseVideos: 'Video dimostrativi e istruzioni degli esercizi',
+    exerciseImages: 'Immagini degli esercizi, schemi muscolari e mappe del corpo',
+    exerciseInstructions: 'Istruzioni e foto degli esercizi',
+    sportClips: 'Clip di sport e tecnica',
+    backendHost: 'Ospita il piccolo backend dell’app',
   },
 
   ja: {
@@ -323,6 +438,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: '初級',
     levelIntermediate: '中級',
     levelAdvanced: '上級',
+    creditsIntro:
+      'DojoFitは、オープンライセンスおよびライセンス許諾された第三者のコンテンツで成り立っています。素材を公開してくださった皆さまに感謝します。',
+    creditsFooter:
+      'トレーニングの構成と技の解説はDojoFitのオリジナルです。運動に関する内容は一般的な情報であり、医療上の助言ではありません。無理のない範囲で行い、慣れない技は指導者の指示を受けてください。',
+    photographsNote: 'スポーツ写真（以下に記載）',
+    videoNeedsConnection: '動画の再生にはトークンサービスへの接続が必要です',
+    alsoWorks: 'ほか',
+    grip: '握り方',
+    exerciseVideos: '種目のデモ動画と手順',
+    exerciseImages: '種目の画像・筋肉図・ボディマップ',
+    exerciseInstructions: '種目の手順と写真',
+    sportClips: 'スポーツ・技のクリップ',
+    backendHost: 'アプリの小さなバックエンドのホスティング',
   },
 
   pl: {
@@ -355,6 +483,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Początkujący',
     levelIntermediate: 'Średnio zaawansowany',
     levelAdvanced: 'Zaawansowany',
+    creditsIntro:
+      'DojoFit korzysta z materiałów innych autorów na wolnych i komercyjnych licencjach. Dziękujemy wszystkim, którzy je udostępnili.',
+    creditsFooter:
+      'Program ćwiczeń i opisy technik są autorstwa DojoFit. Wskazówki treningowe to informacje ogólne, a nie porada medyczna — ćwicz w granicach swoich możliwości, a przy nieznanych technikach poproś o pomoc trenera.',
+    photographsNote: 'Zdjęcia sportowe (lista poniżej)',
+    videoNeedsConnection: 'Wideo wymaga połączenia z usługą tokenów',
+    alsoWorks: 'dodatkowo',
+    grip: 'Chwyt',
+    exerciseVideos: 'Filmy pokazowe i instrukcje ćwiczeń',
+    exerciseImages: 'Zdjęcia ćwiczeń, schematy mięśni i mapy ciała',
+    exerciseInstructions: 'Instrukcje i zdjęcia ćwiczeń',
+    sportClips: 'Klipy sportowe i techniczne',
+    backendHost: 'Hostuje niewielki backend aplikacji',
   },
 
   pt: {
@@ -387,6 +528,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Iniciante',
     levelIntermediate: 'Intermediário',
     levelAdvanced: 'Avançado',
+    creditsIntro:
+      'O DojoFit é feito com conteúdo de terceiros com licença aberta e licenciado. Obrigado a todos que disponibilizaram esse material.',
+    creditsFooter:
+      'A programação dos exercícios e as descrições das técnicas são originais do DojoFit. As orientações de treino são informação geral, não aconselhamento médico — treine dentro dos seus limites e procure um professor para técnicas que você não conhece.',
+    photographsNote: 'Fotos esportivas (listadas abaixo)',
+    videoNeedsConnection: 'O vídeo precisa de conexão com o serviço de tokens',
+    alsoWorks: 'também',
+    grip: 'Pegada',
+    exerciseVideos: 'Vídeos de demonstração e instruções dos exercícios',
+    exerciseImages: 'Imagens de exercícios, diagramas musculares e mapas do corpo',
+    exerciseInstructions: 'Instruções e fotos dos exercícios',
+    sportClips: 'Clipes de esporte e técnica',
+    backendHost: 'Hospeda o pequeno backend do app',
   },
 
   ru: {
@@ -419,6 +573,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Новичок',
     levelIntermediate: 'Средний',
     levelAdvanced: 'Продвинутый',
+    creditsIntro:
+      'DojoFit собран из материалов других авторов — со свободными и обычными лицензиями. Спасибо всем, кто открыл к ним доступ.',
+    creditsFooter:
+      'Программа упражнений и описания техник — авторские материалы DojoFit. Рекомендации по тренировкам носят общий характер и не являются медицинской консультацией: тренируйся по своим возможностям, а для незнакомых техник обратись к тренеру.',
+    photographsNote: 'Спортивные фотографии (список ниже)',
+    videoNeedsConnection: 'Для видео нужно подключение к сервису токенов',
+    alsoWorks: 'также',
+    grip: 'Хват',
+    exerciseVideos: 'Видео с показом упражнений и инструкции',
+    exerciseImages: 'Изображения упражнений, схемы мышц и карты тела',
+    exerciseInstructions: 'Инструкции и фото упражнений',
+    sportClips: 'Спортивные и технические ролики',
+    backendHost: 'Хостинг небольшого бэкенда приложения',
   },
 
   tr: {
@@ -451,6 +618,19 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: 'Başlangıç',
     levelIntermediate: 'Orta',
     levelAdvanced: 'İleri',
+    creditsIntro:
+      'DojoFit, açık lisanslı ve lisanslı üçüncü taraf içeriklerle hazırlandı. Bu materyali paylaşan herkese teşekkürler.',
+    creditsFooter:
+      'Çalışma programı ve teknik açıklamaları DojoFit’e aittir. Antrenman önerileri genel bilgidir, tıbbi tavsiye değildir — kendi seviyende çalış ve bilmediğin teknikler için bir antrenörden destek al.',
+    photographsNote: 'Spor fotoğrafları (aşağıda listelenmiştir)',
+    videoNeedsConnection: 'Video için token servisine bağlantı gerekir',
+    alsoWorks: 'ayrıca',
+    grip: 'Tutuş',
+    exerciseVideos: 'Hareket gösterim videoları ve açıklamaları',
+    exerciseImages: 'Hareket görselleri, kas şemaları ve vücut haritaları',
+    exerciseInstructions: 'Hareket talimatları ve fotoğrafları',
+    sportClips: 'Spor ve teknik klipleri',
+    backendHost: 'Uygulamanın küçük arka ucunu barındırır',
   },
 
   zh: {
@@ -482,5 +662,18 @@ export const strings: Record<string, UIStrings> = {
     levelBeginner: '入门',
     levelIntermediate: '进阶',
     levelAdvanced: '高手',
+    creditsIntro:
+      'DojoFit 使用了开放许可及已获授权的第三方内容。感谢所有公开这些素材的人。',
+    creditsFooter:
+      '训练编排与技术讲解均为 DojoFit 原创。训练建议仅为一般信息，不构成医疗建议——请量力而行，不熟悉的动作请在教练指导下练习。',
+    photographsNote: '运动摄影（见下方列表）',
+    videoNeedsConnection: '播放视频需要连接令牌服务',
+    alsoWorks: '兼顾',
+    grip: '握法',
+    exerciseVideos: '动作示范视频与说明',
+    exerciseImages: '动作图片、肌肉图与人体图',
+    exerciseInstructions: '动作说明与照片',
+    sportClips: '运动与技术短片',
+    backendHost: '托管应用的小型后端',
   },
 };

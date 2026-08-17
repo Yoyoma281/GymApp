@@ -4,6 +4,7 @@ import attributions from '../../assets/sports/attributions.json';
 import { sportIndex } from '../data/activities';
 import { isAnalyticsOptedOut, setAnalyticsOptOut } from '../data/analytics';
 import { getLanguage, LANGUAGES, setLanguage, t } from '../i18n';
+import { tSport } from '../i18n/taxonomy';
 import { colors } from '../theme';
 
 interface Attribution {
@@ -13,34 +14,34 @@ interface Attribution {
   source: string;
 }
 
-const SOURCES = [
+const sourcesFor = () => [
   {
     name: 'wger',
-    what: 'Exercise images, muscle diagrams and body maps',
+    what: t('exerciseImages'),
     license: 'CC BY-SA 4.0',
     url: 'https://wger.de',
   },
   {
     name: 'free-exercise-db',
-    what: 'Exercise instructions and photos',
+    what: t('exerciseInstructions'),
     license: 'Public domain (Unlicense)',
     url: 'https://github.com/yuhonas/free-exercise-db',
   },
   {
     name: 'MuscleWiki',
-    what: 'Exercise demonstration videos and instructions',
+    what: t('exerciseVideos'),
     license: 'Licensed via MuscleWiki API',
     url: 'https://musclewiki.com',
   },
   {
     name: 'Pexels',
-    what: 'Sport and technique clips',
+    what: t('sportClips'),
     license: 'Pexels License',
     url: 'https://www.pexels.com',
   },
   {
     name: 'Wikimedia Commons',
-    what: 'Sport photographs (listed below)',
+    what: t('photographsNote'),
     license: 'Various open licenses',
     url: 'https://commons.wikimedia.org',
   },
@@ -57,8 +58,7 @@ export default function CreditsScreen() {
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
       <Text style={styles.intro}>
-        DojoFit is built on openly licensed and licensed third-party content. Thanks to everyone
-        who made this material available.
+        {t('creditsIntro')}
       </Text>
 
       <Text style={styles.sectionTitle}>{t('language')}</Text>
@@ -83,11 +83,8 @@ export default function CreditsScreen() {
       <View style={styles.card}>
         <View style={styles.privacyRow}>
           <View style={styles.privacyText}>
-            <Text style={styles.cardTitle}>Anonymous usage stats</Text>
-            <Text style={styles.cardBody}>
-              Counts which sports and drills get opened, so the catalog can be improved. No
-              account, no personal data, no advertising — just a random id for this install.
-            </Text>
+            <Text style={styles.cardTitle}>{t('analyticsTitle')}</Text>
+            <Text style={styles.cardBody}>{t('analyticsBody')}</Text>
           </View>
           <Switch
             value={!optedOut}
@@ -100,8 +97,8 @@ export default function CreditsScreen() {
         </View>
       </View>
 
-      <Text style={styles.sectionTitle}>Data & media sources</Text>
-      {SOURCES.map((s) => (
+      <Text style={styles.sectionTitle}>{t('sources')}</Text>
+      {sourcesFor().map((s) => (
         <Pressable key={s.name} style={styles.card} onPress={() => Linking.openURL(s.url)}>
           <Text style={styles.cardTitle}>{s.name}</Text>
           <Text style={styles.cardBody}>{s.what}</Text>
@@ -109,21 +106,19 @@ export default function CreditsScreen() {
         </Pressable>
       ))}
 
-      <Text style={styles.sectionTitle}>Sport photographs</Text>
+      <Text style={styles.sectionTitle}>{t('photographs')}</Text>
       <View style={styles.photoList}>
         {photos.map(({ sport, a }) => (
           <Pressable key={sport} onPress={() => Linking.openURL(a.source)}>
             <Text style={styles.photo}>
-              <Text style={styles.photoSport}>{sport}</Text> — {a.author || 'unknown'}, {a.license}
+              <Text style={styles.photoSport}>{tSport(sport)}</Text> — {a.author || 'unknown'}, {a.license}
             </Text>
           </Pressable>
         ))}
       </View>
 
       <Text style={styles.footer}>
-        Drill programming and technique descriptions are original to DojoFit. Exercise guidance is
-        general information, not medical advice — train within your ability and seek coaching for
-        unfamiliar techniques.
+        {t('creditsFooter')}
       </Text>
     </ScrollView>
   );

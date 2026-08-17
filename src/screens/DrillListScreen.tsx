@@ -6,6 +6,7 @@ import { Drill, loadSport } from '../data/activities';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
 import { sportImages } from '../data/sportImages';
 import { t } from '../i18n';
+import { tGroup, tSport } from '../i18n/taxonomy';
 import { RootStackParamList } from '../navigation';
 import { colors, levelColors } from '../theme';
 
@@ -53,7 +54,7 @@ export default function DrillListScreen({ navigation, route }: Props) {
             pointerEvents="none"
           />
           <View style={styles.heroText}>
-            <Text style={styles.title}>{activity.name}</Text>
+            <Text style={styles.title}>{tSport(activity.name)}</Text>
             <Text style={styles.subtitle}>{t("drillListSubtitle")}</Text>
           </View>
         </View>
@@ -66,7 +67,7 @@ export default function DrillListScreen({ navigation, route }: Props) {
       <View style={styles.body}>
       {groups.map((group) => (
         <View key={group.name}>
-          <Text style={styles.groupTitle}>{group.name}</Text>
+          <Text style={styles.groupTitle}>{tGroup(group.name)}</Text>
           <View style={styles.list}>
             {group.drills.map((drill) => (
               <Pressable
@@ -85,7 +86,7 @@ export default function DrillListScreen({ navigation, route }: Props) {
                 </View>
                 <View style={[styles.levelPill, { backgroundColor: levelColors[drill.level].bg }]}>
                   <Text style={[styles.levelText, { color: levelColors[drill.level].fg }]}>
-                    {drill.level.toUpperCase()}
+                    {t(`level${drill.level}` as never).toUpperCase()}
                   </Text>
                 </View>
               </Pressable>

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { AppState, Text, TextStyle } from 'react-native';
 import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -10,6 +10,8 @@ import CreditsScreen from './src/screens/CreditsScreen';
 import { RootStackParamList } from './src/navigation';
 import { loadSport, sportIndex } from './src/data/activities';
 import { flush, initAnalytics, track } from './src/data/analytics';
+import { getLanguage, subscribeLanguage, t } from './src/i18n';
+import { tSport } from './src/i18n/taxonomy';
 import { colors } from './src/theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -29,6 +31,11 @@ const theme = {
 };
 
 export default function App() {
+  // Re-mount the navigator when the language changes so every screen
+  // picks up the new strings, including ones already on the stack.
+  const [lang, setLang] = useState(getLanguage());
+  useEffect(() => subscribeLanguage(() => setLang(getLanguage())), []);
+
   useEffect(() => {
     void initAnalytics();
     // Send anything still queued when the app goes to the background.
@@ -39,7 +46,7 @@ export default function App() {
   }, []);
 
   return (
-    <NavigationContainer theme={theme}>
+    <NavigationContainer theme={theme} key={lang}>
       <StatusBar style="light" />
       <Stack.Navigator
         screenOptions={{
@@ -67,7 +74,7 @@ export default function App() {
                   navigation.navigate('Credits');
                 }}
               >
-                Credits
+                {t('credits')}
               </Text>
             ),
           })}
@@ -76,7 +83,7 @@ export default function App() {
           name="DrillList"
           component={DrillListScreen}
           options={({ route }) => ({
-            title: sportIndex.find((s) => s.id === route.params.activityId)?.name ?? 'Drills',
+            title: tSport(sportIndex.find((s) => s.id === route.params.activityId)?.name ?? ''),
           })}
         />
         <Stack.Screen
@@ -91,7 +98,7 @@ export default function App() {
         <Stack.Screen
           name="Credits"
           component={CreditsScreen}
-          options={{ title: 'Credits & licenses' }}
+          options={{ title: t('creditsTitle') }}
         />
       </Stack.Navigator>
     </NavigationContainer>
