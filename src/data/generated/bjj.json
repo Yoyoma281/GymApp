@@ -43,9 +43,17 @@
         }
       ],
       "stretches": [
-        "Happy baby",
-        "Spinal twist",
-        "Child’s pose"
+        {
+          "name": "Happy baby"
+        },
+        {
+          "name": "Spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Pushing with arms instead of driving off the foot.",
@@ -102,10 +110,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Cobra pose",
-        "Kneeling hip flexor stretch",
-        "Neck circles"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cobra pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Neck circles",
+          "detailId": "mw-133"
+        }
       ],
       "mistakes": [
         "Bridging straight up instead of over the shoulder — the opponent just rides it.",
@@ -158,9 +178,18 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Wrist flexor stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-145"
+        }
       ],
       "mistakes": [
         "Swinging the leg back between the posted hand and the opponent instead of behind it.",
@@ -218,10 +247,21 @@
         }
       ],
       "stretches": [
-        "Plow pose",
-        "Thread the needle",
-        "Cat-cow",
-        "Seated forward fold"
+        {
+          "name": "Plow pose"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-146"
+        }
       ],
       "mistakes": [
         "Rolling over the top of the head instead of across the shoulders — dangerous for the neck.",
@@ -275,10 +315,21 @@
         }
       ],
       "stretches": [
-        "Happy baby",
-        "90/90 hip switch",
-        "Lying figure-4",
-        "Butterfly stretch"
+        {
+          "name": "Happy baby"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1475"
+        }
       ],
       "mistakes": [
         "Framing with straight, locked knees so the passer folds the legs aside.",
@@ -331,9 +382,18 @@
         }
       ],
       "stretches": [
-        "Seated straddle",
-        "Spinal twist",
-        "Pigeon pose"
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Sweeping a postured, upright opponent — pull them forward first.",
@@ -385,9 +445,18 @@
         }
       ],
       "stretches": [
-        "Cobra pose",
-        "Kneeling hip flexor stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Cobra pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Sitting up slowly and telegraphing — the opponent simply re-postures.",
@@ -447,10 +516,22 @@
         }
       ],
       "stretches": [
-        "Butterfly stretch",
-        "Seated forward fold",
-        "Lat stretch on rack",
-        "90/90 hip switch"
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Falling straight backward instead of to the shoulder at 45 degrees.",
@@ -503,9 +584,17 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Cossack squat hold",
-        "Pigeon pose"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cossack squat hold"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Cutting the knee without controlling the far hip or underhook — you land straight in a triangle or sweep.",
@@ -564,10 +653,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Standing calf stretch",
-        "Wrist flexor stretch",
-        "Child’s pose"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Pushing the legs down instead of steering them offline — they spring straight back.",
@@ -619,10 +720,22 @@
         }
       ],
       "stretches": [
-        "Cobra pose",
-        "Doorway pec stretch",
-        "Kneeling hip flexor stretch",
-        "Child’s pose"
+        {
+          "name": "Cobra pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Head floating high, giving space for frames and the underhook leg to escape.",
@@ -674,9 +787,18 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Cross-body shoulder stretch",
-        "Spinal twist"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Dragging the wrist only — grip the triceps to move the whole arm across.",
@@ -734,10 +856,21 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Finger extensor stretch",
-        "Happy baby",
-        "Child’s pose"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Happy baby"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Crossing the ankles in front — a straight-ankle lock waiting to happen.",
@@ -791,9 +924,17 @@
         }
       ],
       "stretches": [
-        "Seated straddle",
-        "Happy baby",
-        "Lying hamstring stretch with band"
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Happy baby"
+        },
+        {
+          "name": "Lying hamstring stretch with band",
+          "detailId": "mw-1203"
+        }
       ],
       "mistakes": [
         "Knees drifting apart at the finish — all the breaking pressure leaks out.",
@@ -854,10 +995,22 @@
         }
       ],
       "stretches": [
-        "Lying hamstring stretch with band",
-        "Pigeon pose",
-        "Seated straddle",
-        "Butterfly stretch"
+        {
+          "name": "Lying hamstring stretch with band",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1472"
+        }
       ],
       "mistakes": [
         "Staying square to the opponent instead of cutting an angle toward the trapped arm.",
@@ -908,9 +1061,18 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        }
       ],
       "mistakes": [
         "Squeezing on the jaw instead of getting under the chin first.",
@@ -969,10 +1131,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Finger extensor stretch",
-        "Cross-body shoulder stretch",
-        "Upper trap stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-134"
+        }
       ],
       "mistakes": [
         "Reaching for grips with straight arms and a broken posture.",
@@ -1025,9 +1199,18 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Deep squat hold",
-        "Lat stretch on rack"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        }
       ],
       "mistakes": [
         "Bending at the waist instead of the knees on the level change.",
@@ -1080,10 +1263,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Kneeling hip flexor stretch",
-        "Child’s pose"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Driving straight through the middle instead of cutting the corner.",

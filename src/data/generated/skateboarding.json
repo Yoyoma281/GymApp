@@ -51,10 +51,21 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing calf stretch",
-        "Ankle circles",
-        "Seated hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1330"
+        }
       ],
       "mistakes": [
         "Pushing mongo (with the front foot), which delays every setup for tricks.",
@@ -105,10 +116,21 @@
         }
       ],
       "stretches": [
-        "Seated spinal twist",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Ankle circles"
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Turning with the arms only while the hips stay frozen.",
@@ -157,10 +179,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Child's pose",
-        "Neck half-circles"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Neck half-circles",
+          "detailId": "mw-168"
+        }
       ],
       "mistakes": [
         "Stiff-arming the ground — sprained and broken wrists come from this one reflex.",
@@ -218,10 +252,22 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch",
-        "Seated hamstring stretch",
-        "Deep squat hold"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Popping and jumping as one motion instead of snap-then-slide.",
@@ -269,10 +315,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Seated spinal twist",
-        "Standing quad stretch"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        }
       ],
       "mistakes": [
         "Scooping out and away so the board spins off behind you.",
@@ -322,10 +379,22 @@
         }
       ],
       "stretches": [
-        "Seated spinal twist",
-        "90/90 hip switch",
-        "Supine spinal twist",
-        "Standing calf stretch"
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "No shoulder pre-wind, so the board only makes it 90 degrees and you land sideways.",
@@ -382,10 +451,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1334"
+        }
       ],
       "mistakes": [
         "Kicking forward off the nose instead of flicking out the heelside corner.",
@@ -435,10 +515,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Downward dog calf pedal",
-        "Standing quad stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Kicking straight forward so the board flips slow and lands primo.",
@@ -495,10 +586,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing calf stretch",
-        "Cat-cow",
-        "Seated hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1337"
+        }
       ],
       "mistakes": [
         "Locking the tail against the ground instead of hovering above it.",
@@ -549,10 +652,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Couch stretch",
-        "Cat-cow"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Leaning the chest over the nose instead of dropping weight through a bent front knee.",
@@ -602,10 +716,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Couch stretch",
-        "Standing calf stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-145"
+        }
       ],
       "mistakes": [
         "Pumping on the flat instead of extending exactly through the transition's curve.",
@@ -656,10 +782,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch",
-        "Ankle circles"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Leaning back at the moment of commitment — the classic slam onto the tailbone.",
@@ -710,10 +847,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing quad stretch",
-        "Seated spinal twist",
-        "Deep squat hold"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Forgetting to lift the nose on the way back — the front truck hangs up and slams you.",
@@ -769,10 +918,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Deep squat hold",
-        "Lying figure-4",
-        "Standing calf stretch"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        }
       ],
       "mistakes": [
         "Ollieing at the ledge from parallel instead of a slight approach angle.",
@@ -822,10 +982,22 @@
         }
       ],
       "stretches": [
-        "Seated spinal twist",
-        "90/90 hip switch",
-        "Supine spinal twist",
-        "Deep squat hold"
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Leaning back as the board locks on — the slide-out onto the back happens instantly.",

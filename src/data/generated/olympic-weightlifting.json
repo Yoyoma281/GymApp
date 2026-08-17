@@ -48,11 +48,25 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Ankle dorsiflexion wall stretch",
-        "Thoracic foam-roller extension",
-        "Deep squat hold",
-        "Lat stretch on rack"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Passive shoulders — the bar must be actively pushed toward the ceiling.",
@@ -110,11 +124,25 @@
         }
       ],
       "stretches": [
-        "Front rack stretch on rack",
-        "Wrist flexor stretch",
-        "Lat stretch on rack",
-        "Thoracic foam-roller extension",
-        "Triceps overhead stretch"
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        }
       ],
       "mistakes": [
         "Death-gripping the bar instead of letting it rest on the shoulders.",
@@ -169,10 +197,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Seated forward fold",
-        "Lat stretch on rack",
-        "Hip flexor stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Letting the bar swing away from the body instead of sweeping it into the hips.",
@@ -230,10 +270,22 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Cross-body shoulder stretch",
-        "Wrist extensor stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Swinging the bar out and looping it instead of keeping it against the body.",
@@ -291,10 +343,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor stretch",
-        "Banded shoulder dislocates",
-        "Standing hamstring stretch",
-        "Deep squat hold"
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Pulling with the arms before the hips finish extending.",
@@ -351,10 +415,21 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Ankle dorsiflexion wall stretch",
-        "Deep squat hold",
-        "Lat stretch on rack"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Pressing the bar up instead of dropping the body under it.",
@@ -409,11 +484,25 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Banded shoulder dislocates",
-        "Ankle dorsiflexion wall stretch",
-        "Pigeon pose",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Rushing the first pull and arriving at the hip with the shoulders behind the bar.",
@@ -471,10 +560,21 @@
         }
       ],
       "stretches": [
-        "Front rack stretch on rack",
-        "Wrist flexor stretch",
-        "Standing hamstring stretch",
-        "Hip flexor stretch"
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Reverse-curling the bar up instead of extending the hips and whipping the elbows.",
@@ -529,10 +629,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Seated forward fold",
-        "Upper trap stretch",
-        "Hip flexor stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Turning it into a fast deadlift with no explosive finish at the hip.",
@@ -587,11 +699,24 @@
         }
       ],
       "stretches": [
-        "Front rack stretch on rack",
-        "Deep squat hold",
-        "Ankle dorsiflexion wall stretch",
-        "Wrist flexor stretch",
-        "Pigeon pose"
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Catching the bar out front and getting folded in the hole.",
@@ -649,10 +774,22 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Lat stretch on rack",
-        "Triceps overhead stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Dipping forward onto the toes and shoving the bar out in front.",
@@ -704,10 +841,20 @@
         }
       ],
       "stretches": [
-        "Ankle dorsiflexion wall stretch",
-        "Front rack stretch on rack",
-        "Couch stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Dipping onto the toes so the bar drifts forward.",
@@ -761,10 +908,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "90/90 hip switch",
-        "Calf wall stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Splitting long and low with the front knee past vertical, unstable and slow to recover.",
@@ -813,11 +972,26 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Couch stretch",
-        "Lat stretch on rack",
-        "Triceps overhead stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Pressing the bar out because the drive and split didn't finish together.",
@@ -869,11 +1043,25 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Front rack stretch on rack",
-        "Banded shoulder dislocates",
-        "Couch stretch",
-        "Pigeon pose"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Rushing the jerk before the breath and grip are reset after the clean.",

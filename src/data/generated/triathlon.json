@@ -51,10 +51,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Child's pose with side reach",
-        "Cross-body shoulder stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Child's pose with side reach",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Dropping the elbow and pressing down on the water instead of back.",
@@ -104,10 +116,22 @@
         }
       ],
       "stretches": [
-        "Levator scapulae stretch",
-        "Upper trap stretch",
-        "Thread the needle",
-        "Seated spinal twist"
+        {
+          "name": "Levator scapulae stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Lifting the whole head to breathe, sinking the hips.",
@@ -158,10 +182,22 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Neck flexor stretch",
-        "Cat-cow",
-        "Doorway pec stretch"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Neck flexor stretch",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        }
       ],
       "mistakes": [
         "Sighting too often and stalling the hips every lift.",
@@ -218,10 +254,21 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Standing quad stretch",
-        "Ankle plantar-flexor stretch",
-        "Child's pose"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Ankle plantar-flexor stretch"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Starting at all-out sprint with no settle plan and going anaerobic for the whole swim.",
@@ -276,10 +323,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Standing quad stretch",
-        "Downward dog calf pedal"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Bouncing in the saddle — cadence has outrun core control.",
@@ -334,11 +393,26 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Pigeon pose",
-        "Thoracic foam-roller extension",
-        "Upper trap stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-132"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        }
       ],
       "mistakes": [
         "Sitting up on every small rise and throwing away the aero savings.",
@@ -396,10 +470,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Pigeon pose",
-        "Standing quad stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1330"
+        }
       ],
       "mistakes": [
         "Surging over every rise and paying with matches you need for the run.",
@@ -455,10 +541,22 @@
         }
       ],
       "stretches": [
-        "Downward dog calf pedal",
-        "Kneeling hip flexor stretch",
-        "Standing quad stretch",
-        "Seated figure-4"
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Seated figure-4",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Overstriding — reaching the foot out front and heel-striking into a brake.",
@@ -514,10 +612,21 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Downward dog"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Sprinting out of T2 on adrenaline and blowing up by kilometer three.",
@@ -566,10 +675,21 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Ankle circles",
-        "Hip circles",
-        "Shoulder rolls"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Hip circles",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Shoulder rolls",
+          "detailId": "mw-138"
+        }
       ],
       "mistakes": [
         "Not walking the transition layout beforehand and losing the rack row.",
@@ -617,10 +737,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Calf wall stretch",
-        "Hip flexor stretch",
-        "Toe touch hang"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Toe touch hang",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Leaving shoes clipped in with no elastic laces, then wrestling knots on wobbly legs.",
@@ -678,11 +810,26 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Pigeon pose",
-        "Downward dog calf pedal",
-        "Standing hamstring stretch",
-        "Child's pose"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Running the brick too fast and turning an adaptation session into a smash-fest.",
@@ -740,10 +887,22 @@
         }
       ],
       "stretches": [
-        "Pigeon pose",
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Turning the rehearsal into a race and needing two weeks to recover.",
@@ -787,10 +946,21 @@
         }
       ],
       "stretches": [
-        "Cat-cow",
-        "Supine spinal twist",
-        "Child's pose",
-        "Standing side bend"
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Waiting until hungry or bonking — by then it's 30 minutes too late.",
@@ -837,10 +1007,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Kneeling hip flexor stretch",
-        "Calf wall stretch",
-        "Pigeon pose"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Banking time early — the debt is repaid with heavy interest on the run.",
@@ -898,11 +1080,24 @@
         }
       ],
       "stretches": [
-        "Full-body foam rolling",
-        "Pigeon pose",
-        "Doorway pec stretch",
-        "Couch stretch",
-        "Downward dog"
+        {
+          "name": "Full-body foam rolling"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Running the simulation at full race effort and arriving at the start line flat.",

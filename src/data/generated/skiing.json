@@ -50,10 +50,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-146"
+        }
       ],
       "mistakes": [
         "Sitting back on the tails — quads torch and the skis wander.",
@@ -103,10 +115,21 @@
         }
       ],
       "stretches": [
-        "Standing IT band stretch",
-        "Lying figure-4",
-        "Standing calf stretch",
-        "Butterfly stretch"
+        {
+          "name": "Standing IT band stretch"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1473"
+        }
       ],
       "mistakes": [
         "Pushing straight back instead of out to the side off the edge.",
@@ -159,10 +182,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing quad stretch",
-        "Seated hamstring stretch",
-        "Standing calf stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Standing bolt upright to rest mid-run and losing the stance when it matters.",
@@ -212,10 +247,22 @@
         }
       ],
       "stretches": [
-        "Butterfly stretch",
-        "Frog stretch",
-        "Standing straddle forward fold",
-        "Standing quad stretch"
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Standing straddle forward fold",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        }
       ],
       "mistakes": [
         "Leaning back when scared — the wedge stops braking and the skis run away.",
@@ -273,10 +320,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Lying figure-4",
-        "Couch stretch",
-        "Seated spinal twist"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Rotating the shoulders into the turn instead of turning the legs under a stable torso.",
@@ -327,10 +386,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Neck half-circles"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Neck half-circles",
+          "detailId": "mw-132"
+        }
       ],
       "mistakes": [
         "Swinging the whole arm across the body, which rotates the shoulders uphill.",
@@ -388,10 +459,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Supine spinal twist",
-        "Couch stretch",
-        "Lying figure-4"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Letting the upper body swing with the skis instead of separating hips from torso.",
@@ -441,10 +524,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Standing calf stretch",
-        "Lying figure-4",
-        "Downward dog calf pedal"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Leaning the whole body uphill — the edges bite and stop the slide abruptly.",
@@ -491,10 +585,22 @@
         }
       ],
       "stretches": [
-        "Lying figure-4",
-        "Seated spinal twist",
-        "Standing quad stretch",
-        "90/90 hip switch"
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Leaning uphill into the stop, so the edges wash out and slide.",
@@ -552,10 +658,21 @@
         }
       ],
       "stretches": [
-        "Standing IT band stretch",
-        "90/90 hip switch",
-        "Couch stretch",
-        "Seated spinal twist"
+        {
+          "name": "Standing IT band stretch"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Banking the whole body inside instead of angulating — the edges lose grip mid-turn.",
@@ -613,10 +730,21 @@
         }
       ],
       "stretches": [
-        "Frog stretch",
-        "90/90 hip switch",
-        "Standing IT band stretch",
-        "Couch stretch"
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing IT band stretch"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Dropping the inside shoulder and banking — grip vanishes exactly at peak load.",
@@ -671,10 +799,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Seated hamstring stretch",
-        "Deep squat hold"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Stiff legs that launch off every bump instead of folding to swallow it.",
@@ -724,10 +864,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Standing calf stretch",
-        "Seated spinal twist",
-        "Couch stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "A timid half-hop that leaves the tails in the snow and twists the knees.",
@@ -777,10 +929,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Supine spinal twist",
-        "Seated hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1203"
+        }
       ],
       "mistakes": [
         "Leaning back — the quads blow up and the skis dive on every extension anyway.",
@@ -838,10 +1002,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Lying figure-4",
-        "Supine spinal twist",
-        "Standing calf stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Backing off and getting bucked by every pile — crud rewards commitment.",

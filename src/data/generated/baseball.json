@@ -51,10 +51,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Lying figure-4"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Striding so hard the head and hands drift forward with the front foot.",
@@ -114,10 +126,22 @@
         }
       ],
       "stretches": [
-        "Thoracic spine rotation on wall",
-        "90/90 hip switch",
-        "Couch stretch",
-        "Standing lat stretch on rack"
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Spinning the shoulders and hips together — no separation, no whip.",
@@ -174,10 +198,22 @@
         }
       ],
       "stretches": [
-        "Thoracic spine rotation on wall",
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Standing lat stretch on rack"
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-144"
+        }
       ],
       "mistakes": [
         "Swinging the heavy bat with lazy mechanics, grooving a slow pattern.",
@@ -237,10 +273,22 @@
         }
       ],
       "stretches": [
-        "Thoracic spine rotation on wall",
-        "90/90 hip switch",
-        "Cross-body shoulder stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Pulling off the outside pitch and rolling over a weak grounder.",
@@ -299,10 +347,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Sleeper stretch",
-        "90/90 hip switch",
-        "Doorway pec stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Rushing down the mound before the arm gets up, forcing a late, high release.",
@@ -361,10 +421,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing adductor rock",
-        "90/90 hip switch",
-        "Standing hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing adductor rock",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Collapsing the back knee downward instead of driving the hip sideways.",
@@ -422,11 +494,26 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Lat stretch on rack"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        }
       ],
       "mistakes": [
         "Training acceleration daily while ignoring the decelerators that protect the elbow.",
@@ -483,10 +570,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Standing hamstring stretch",
-        "90/90 hip switch",
-        "Child's pose"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Bending from the waist with straight legs, so the glove stabs down late.",
@@ -546,10 +645,22 @@
         }
       ],
       "stretches": [
-        "Standing adductor rock",
-        "Seated straddle",
-        "Couch stretch",
-        "Lying figure-4"
+        {
+          "name": "Standing adductor rock",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Staying tall and stabbing down at the ball instead of sinking the hips.",
@@ -608,10 +719,22 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch on step",
-        "Kneeling hip flexor stretch",
-        "Sleeper stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Standing calf stretch on step",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        }
       ],
       "mistakes": [
         "Catching flat-footed and building momentum from zero after the catch.",
@@ -668,10 +791,22 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        }
       ],
       "mistakes": [
         "Aiming with the arm and slowing it down, which sprays throws worse.",
@@ -730,11 +865,26 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Standing lat stretch on rack",
-        "Doorway pec stretch",
-        "Cobra stretch",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Jumping to max distance without a graduated warm-up ladder.",
@@ -793,10 +943,21 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Standing calf stretch on step",
-        "World's greatest stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing calf stretch on step",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "World's greatest stretch"
+        }
       ],
       "mistakes": [
         "Popping straight upright on the first step and losing the acceleration lean.",
@@ -851,10 +1012,22 @@
         }
       ],
       "stretches": [
-        "Standing adductor rock",
-        "90/90 hip switch",
-        "Kneeling hip flexor stretch",
-        "Seated straddle"
+        {
+          "name": "Standing adductor rock",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-148"
+        }
       ],
       "mistakes": [
         "A false-stepping jump — stepping backward before moving toward second.",
@@ -915,11 +1088,26 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Seated straddle",
-        "Standing quad stretch",
-        "Lying figure-4",
-        "90/90 hip switch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Slowing down before the slide, which defeats its entire purpose.",

@@ -43,10 +43,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Wrist flexor & extensor stretch",
-        "Overhead triceps stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Overhead triceps stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Ball resting in the palm instead of on the finger pads.",
@@ -106,10 +118,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Calf stretch on step",
-        "Cross-body shoulder stretch",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Catching flat-footed, then starting the shot from zero.",
@@ -164,10 +188,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Lying figure-4",
-        "Calf stretch on step"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Floating forward on the release so every shot has a different depth.",
@@ -218,10 +254,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Kneeling hip flexor stretch",
-        "Calf stretch on step",
-        "Lying figure-4"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Taking off from the wrong foot so the body drifts under the rim.",
@@ -278,10 +326,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing quad stretch",
-        "Wrist flexor & extensor stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1330"
+        }
       ],
       "mistakes": [
         "Shooting it flat like a jumper — the floater lives on high arc.",
@@ -339,10 +399,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Frog stretch",
-        "Butterfly stretch",
-        "Couch stretch"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Two short choppy steps in the same line — no defender is moved.",
@@ -395,10 +467,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor & extensor stretch",
-        "Forearm pronation-supination stretch",
-        "Cross-body shoulder stretch",
-        "Standing quad stretch"
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Forearm pronation-supination stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        }
       ],
       "mistakes": [
         "Soft, polite dribbles that give defenders a full second per bounce.",
@@ -454,10 +538,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Butterfly stretch",
-        "Wrist flexor & extensor stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        }
       ],
       "mistakes": [
         "Crossing high and slow through the steal zone at the defender's hands.",
@@ -513,10 +609,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor & extensor stretch",
-        "90/90 hip switch",
-        "Couch stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        }
       ],
       "mistakes": [
         "Dribbling combos for their own sake with no exit burst attached.",
@@ -572,10 +680,22 @@
         }
       ],
       "stretches": [
-        "Frog stretch",
-        "Lying figure-4",
-        "Butterfly stretch",
-        "Standing quad stretch"
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        }
       ],
       "mistakes": [
         "Clicking the heels together mid-slide, surrendering the base.",
@@ -626,10 +746,22 @@
         }
       ],
       "stretches": [
-        "Calf stretch on step",
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Lying figure-4"
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Sprinting all the way in and flying past the pump fake.",
@@ -687,10 +819,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Lying figure-4",
-        "Cat-cow",
-        "Standing hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Watching the ball's flight instead of hitting a body first.",
@@ -743,10 +887,22 @@
         }
       ],
       "stretches": [
-        "Frog stretch",
-        "Butterfly stretch",
-        "90/90 hip switch",
-        "Calf stretch on step"
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Long, bounding side steps that leave the base wide open mid-air.",
@@ -803,10 +959,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Calf stretch on step",
-        "Standing hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        }
       ],
       "mistakes": [
         "First step lands under the body instead of out past the defender's foot.",
@@ -866,11 +1034,26 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing quad stretch",
-        "Calf stretch on step",
-        "Lying figure-4",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Only jumping — without a strength base, plyos have nothing to return.",

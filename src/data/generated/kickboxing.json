@@ -44,10 +44,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Wrist flexor stretch",
-        "Upper trap stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-132"
+        }
       ],
       "mistakes": [
         "Dropping the hand on the way back instead of returning along the same line.",
@@ -104,10 +116,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Thread the needle",
-        "Wrist flexor stretch",
-        "Standing calf stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Rear heel glued to the floor, blocking the hip rotation.",
@@ -156,10 +180,21 @@
         }
       ],
       "stretches": [
-        "Lying spinal twist",
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Standing side bend"
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Swinging wide from the elbow like a slap instead of turning the whole body.",
@@ -216,10 +251,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Doorway pec stretch",
-        "Kneeling hip flexor stretch",
-        "Child's pose"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Dropping the fist to the waist before throwing — a highway sign for the counter.",
@@ -270,10 +317,21 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Calf wall stretch",
-        "Seated toe reach"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Seated toe reach"
+        }
       ],
       "mistakes": [
         "Pushing with a straight leg swing instead of lifting the knee first.",
@@ -330,10 +388,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Lying figure-4",
-        "Couch stretch"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Hitting with the foot instead of the hard lower shin.",
@@ -391,11 +461,26 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Seated straddle",
-        "Standing quad stretch",
-        "Lying spinal twist",
-        "Couch stretch"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Kicking at the target and stopping — aim to swing through to the far side.",
@@ -450,10 +535,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Standing calf stretch",
-        "Seated straddle"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1332"
+        }
       ],
       "mistakes": [
         "A big visible hop on the switch that announces the kick.",
@@ -508,11 +605,25 @@
         }
       ],
       "stretches": [
-        "Front split progression",
-        "Seated straddle",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Couch stretch"
+        {
+          "name": "Front split progression"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Bending sideways at the waist to fake height instead of opening the hip.",
@@ -563,10 +674,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Couch stretch",
-        "Standing quad stretch",
-        "Child's pose"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Lifting the knee straight up instead of driving the hips through the target.",
@@ -624,10 +747,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Lat stretch on rack",
-        "Upper trap stretch",
-        "Child's pose"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-133"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Pulling with bent, tired arms instead of hanging body weight on the opponent's posture.",
@@ -678,10 +813,20 @@
         }
       ],
       "stretches": [
-        "Kneeling shin stretch",
-        "Standing calf stretch",
-        "Ankle circles",
-        "Lying figure-4"
+        {
+          "name": "Kneeling shin stretch"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Checking with the foot planted and just turning the knee — the shin must lift.",
@@ -735,10 +880,21 @@
         }
       ],
       "stretches": [
-        "Lying spinal twist",
-        "Levator scapulae stretch",
-        "Standing side bend",
-        "Deep squat hold"
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Levator scapulae stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Standing side bend"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Bending at the waist with straight legs, ending face-down in knee range.",
@@ -785,10 +941,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Resetting the feet after the cross instead of flowing its rotation into the kick.",
@@ -842,11 +1010,26 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Lying spinal twist",
-        "90/90 hip switch",
-        "Child's pose",
-        "Wrist flexor stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        }
       ],
       "mistakes": [
         "Flinching and turning away on the partner's turn instead of blocking in structure.",
@@ -897,11 +1080,26 @@
         }
       ],
       "stretches": [
-        "Child's pose",
-        "Standing quad stretch",
-        "Doorway pec stretch",
-        "90/90 hip switch",
-        "Standing hamstring stretch"
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Holding the breath through flurries and gassing in one round.",

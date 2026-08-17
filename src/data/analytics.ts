@@ -8,7 +8,7 @@
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Platform } from 'react-native';
-import { apiHeaders, markWorking, orderedBases } from './api';
+import { apiHeaders, markWorking, orderedBases, withKey } from './api';
 import appConfig from '../../app.json';
 
 export type EventName =
@@ -114,7 +114,7 @@ export async function flush() {
 
   for (const base of orderedBases()) {
     try {
-      const res = await fetch(`${base}/api/events`, {
+      const res = await fetch(withKey(`${base}/api/events`), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', ...apiHeaders() },
         body: JSON.stringify({ events }),

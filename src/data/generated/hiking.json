@@ -50,10 +50,22 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Hip flexor lunge stretch",
-        "Standing quad stretch",
-        "Lying figure-4"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Taking long strides uphill, which shifts work from glutes to overloaded calves.",
@@ -99,10 +111,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing calf stretch",
-        "Hamstring stretch with strap",
-        "Hip flexor lunge stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Hamstring stretch with strap",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Rushing the pause — the skeletal rest is the entire point of the step.",
@@ -156,10 +180,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Pigeon pose",
-        "Standing calf stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Starting too fast and blowing up halfway — steep grades punish uneven pacing.",
@@ -197,10 +233,21 @@
         }
       ],
       "stretches": [
-        "Child's pose with deep breathing",
-        "Doorway chest stretch",
-        "Standing side bend",
-        "Standing calf stretch"
+        {
+          "name": "Child's pose with deep breathing",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway chest stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Standing side bend"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Matching a fitter partner's pace instead of your own breathing rhythm.",
@@ -245,10 +292,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Couch stretch",
-        "Lying figure-4",
-        "Standing calf stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        }
       ],
       "mistakes": [
         "Leaning back and heel-striking on straight legs, which hammers the knees.",
@@ -304,10 +363,21 @@
         }
       ],
       "stretches": [
-        "Adductor rock-back",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Ankle circles"
+        {
+          "name": "Adductor rock-back",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Descending straight down a loose slope instead of zig-zagging across it.",
@@ -361,10 +431,22 @@
         }
       ],
       "stretches": [
-        "Doorway chest stretch",
-        "Neck side stretch",
-        "Hip flexor lunge stretch",
-        "Child's pose"
+        {
+          "name": "Doorway chest stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Neck side stretch",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Hanging the whole load on the shoulder straps instead of the hip belt.",
@@ -418,10 +500,22 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Couch stretch",
-        "Lying spinal twist",
-        "Pigeon pose"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Increasing weight and distance in the same week.",
@@ -471,10 +565,22 @@
         }
       ],
       "stretches": [
-        "Triceps overhead stretch",
-        "Cross-body shoulder stretch",
-        "Wrist circles",
-        "Doorway chest stretch"
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Wrist circles",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Doorway chest stretch",
+          "detailId": "mw-125"
+        }
       ],
       "mistakes": [
         "Gripping the poles hard instead of loading the straps.",
@@ -521,10 +627,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Standing calf stretch",
-        "Adductor rock-back",
-        "Lying figure-4"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Adductor rock-back",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Crossing with the hip belt buckled — a swamped pack becomes an anchor.",
@@ -578,10 +695,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Wrist flexor stretch",
-        "Hip flexor lunge stretch",
-        "Child's pose"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Pulling with the arms instead of standing on the feet.",
@@ -630,10 +759,20 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Standing calf stretch",
-        "Downward dog",
-        "Lying figure-4"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Stopping dead on every rock instead of keeping light, continuous momentum.",
@@ -683,10 +822,19 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Standing calf stretch",
-        "Kneeling shin stretch",
-        "Toe extension stretch on wall"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling shin stretch"
+        },
+        {
+          "name": "Toe extension stretch on wall"
+        }
       ],
       "mistakes": [
         "Relying on stiff boots for stability instead of building it in the joint.",
@@ -740,11 +888,26 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing hamstring stretch",
-        "Pigeon pose",
-        "Standing calf stretch",
-        "Couch stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Training only short, hard sessions and never a genuinely long one.",
@@ -782,10 +945,22 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Hip flexor lunge stretch",
-        "Child's pose",
-        "Lying spinal twist"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Surging on climbs and collapsing on flats instead of holding even effort.",

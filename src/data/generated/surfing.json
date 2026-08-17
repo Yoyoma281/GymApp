@@ -51,10 +51,22 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Doorway pec stretch",
-        "Child's pose with side reach",
-        "Thread the needle"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Child's pose with side reach",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Paddling with bent, splashy arms instead of long strokes that finish past the hip.",
@@ -108,10 +120,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Overhead triceps stretch",
-        "Cobra stretch",
-        "Wall pec stretch"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Overhead triceps stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Wall pec stretch",
+          "detailId": "mw-124"
+        }
       ],
       "mistakes": [
         "Lifting the head and shoulders high, which stalls the board exactly when it needs speed.",
@@ -162,10 +186,22 @@
         }
       ],
       "stretches": [
-        "Seated butterfly",
-        "Neck half-circles",
-        "Supine spinal twist",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Seated butterfly",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Neck half-circles",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Watching the wave in front instead of the sets on the horizon.",
@@ -215,10 +251,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Cross-body shoulder stretch",
-        "Cat-cow",
-        "Child's pose"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Rolling too late, so the wave hits mid-flip and strips the board away.",
@@ -275,10 +323,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Overhead triceps stretch",
-        "Cobra stretch",
-        "Standing quad stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Overhead triceps stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        }
       ],
       "mistakes": [
         "Starting the push too late — the wave hits before the board is under.",
@@ -335,11 +395,25 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Kneeling hip flexor stretch",
-        "Cobra stretch",
-        "Pigeon pose",
-        "Downward dog"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Going to the knees first instead of one continuous swing to the feet.",
@@ -390,10 +464,21 @@
         }
       ],
       "stretches": [
-        "Ankle circles",
-        "Downward dog calf pedal",
-        "Standing quad stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1332"
+        }
       ],
       "mistakes": [
         "Stiff, straight legs that transmit every bump instead of absorbing it.",
@@ -444,10 +529,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Couch stretch",
-        "Pigeon pose",
-        "Cobra stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Leaning back away from the drop — the tail sinks and the wave pitches you.",
@@ -505,10 +602,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Couch stretch",
-        "Lying figure-4",
-        "Seated spinal twist"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Turning off the back foot only, which slides the tail and bleeds speed.",
@@ -558,10 +667,22 @@
         }
       ],
       "stretches": [
-        "Seated spinal twist",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Lying figure-4"
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Rotating with arms only — the board never comes around because the hips stay square.",
@@ -618,10 +739,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing calf stretch",
-        "Deep squat hold",
-        "Seated hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1334"
+        }
       ],
       "mistakes": [
         "Pumping in the flats where there is no slope to convert — bounce, not speed.",
@@ -679,10 +812,22 @@
         }
       ],
       "stretches": [
-        "Seated spinal twist",
-        "90/90 hip switch",
-        "Pigeon pose",
-        "Standing quad stretch"
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        }
       ],
       "mistakes": [
         "Not enough speed going in — the rail bogs mid-arc and the turn dies.",
@@ -733,10 +878,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Standing calf stretch",
-        "Couch stretch",
-        "Ankle circles"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Approaching with the rail buried instead of a flat, free board on top of the foam.",
@@ -793,10 +949,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "90/90 hip switch",
-        "Butterfly stretch",
-        "Couch stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Stalling too much and getting clipped by the foam ball.",
@@ -842,10 +1010,22 @@
         }
       ],
       "stretches": [
-        "Child's pose with deep breathing",
-        "Cobra stretch",
-        "Neck half-circles",
-        "Supine spinal twist"
+        {
+          "name": "Child's pose with deep breathing",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Neck half-circles",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Diving head-first off the board in shallow or unknown water.",

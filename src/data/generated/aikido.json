@@ -41,10 +41,21 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Calf wall stretch",
-        "Standing quad stretch",
-        "Ankle circles"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Bobbing up and down through the turn instead of keeping the hips level.",
@@ -98,10 +109,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "Calf wall stretch",
-        "Child's pose"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Stepping straight into the attack instead of entering beside and behind it.",
@@ -153,10 +176,21 @@
         }
       ],
       "stretches": [
-        "Kneeling shin stretch",
-        "Couch stretch",
-        "90/90 hip switch",
-        "Seated straddle"
+        {
+          "name": "Kneeling shin stretch"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-146"
+        }
       ],
       "mistakes": [
         "Dragging dead toes instead of keeping them curled under and live.",
@@ -210,10 +244,22 @@
         }
       ],
       "stretches": [
-        "Cat-cow",
-        "Thread the needle",
-        "Cross-body shoulder stretch",
-        "Child's pose"
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Rolling over the head and spine instead of diagonally across the back.",
@@ -267,10 +313,22 @@
         }
       ],
       "stretches": [
-        "Chin-to-chest neck stretch",
-        "Cat-cow",
-        "Supine spinal twist",
-        "Child's pose"
+        {
+          "name": "Chin-to-chest neck stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Rolling straight over the crown of the head instead of past one shoulder.",
@@ -331,11 +389,26 @@
         }
       ],
       "stretches": [
-        "Supine spinal twist",
-        "Chin-to-chest neck stretch",
-        "Lat side-bend stretch",
-        "Wrist flexor stretch",
-        "Child's pose"
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Chin-to-chest neck stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Lat side-bend stretch",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Landing flat on the back instead of on the side with the slap absorbing impact.",
@@ -389,10 +462,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Wrist flexor stretch",
-        "Doorway pec stretch",
-        "Child's pose"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Pushing the arm down with the hands while the hips stay behind.",
@@ -445,10 +530,21 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Prayer stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Prayer stretch"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Cranking the lock with the hands instead of settling the body weight through it.",
@@ -502,10 +598,21 @@
         }
       ],
       "stretches": [
-        "Wrist extensor stretch",
-        "Wrist flexor stretch",
-        "Prayer stretch",
-        "Thoracic rotation stretch"
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Prayer stretch"
+        },
+        {
+          "name": "Thoracic rotation stretch",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Letting the twist unwind while stepping — the spiral must stay wound through every movement.",
@@ -558,10 +665,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Triceps overhead stretch",
-        "Wrist flexor stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        }
       ],
       "mistakes": [
         "Wrenching the arm around your body instead of pivoting your body under the arm.",
@@ -615,10 +734,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Kneeling hip flexor stretch",
-        "Upper trap stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-132"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        }
       ],
       "mistakes": [
         "Swinging the arm across the neck like a strike instead of throwing with the step.",
@@ -671,10 +802,21 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Prayer stretch",
-        "Standing spinal twist"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Prayer stretch"
+        },
+        {
+          "name": "Standing spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Turning the wrist without moving the feet, leaving the attacker balanced enough to punch.",
@@ -728,10 +870,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Kneeling hip flexor stretch",
-        "Cat-cow"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Raising and lowering the arms without stepping through, turning it into a shoving match.",
@@ -781,10 +935,22 @@
         }
       ],
       "stretches": [
-        "Standing spinal twist",
-        "Cat-cow",
-        "Cross-body shoulder stretch",
-        "90/90 hip switch"
+        {
+          "name": "Standing spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Meeting the attack early and colliding instead of joining its direction first.",
@@ -838,10 +1004,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing quad stretch",
-        "Seated forward fold",
-        "Supine spinal twist"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Presenting the hip too high so the attacker stalls on your back instead of rolling over.",

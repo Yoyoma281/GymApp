@@ -39,10 +39,20 @@
         }
       ],
       "stretches": [
-        "Supported fish pose over foam roller",
-        "Seated side bend",
-        "Thread the needle",
-        "Child's pose"
+        {
+          "name": "Supported fish pose over foam roller"
+        },
+        {
+          "name": "Seated side bend"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Gripping the throat so hard the breath turns into a strain instead of a whisper.",
@@ -92,10 +102,21 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Wall lat stretch",
-        "Downward dog with pedaling heels",
-        "Calf stretch on step"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Wall lat stretch",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Downward dog with pedaling heels"
+        },
+        {
+          "name": "Calf stretch on step",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Rounding the spine to force heels down — bend the knees and keep the back long.",
@@ -150,10 +171,21 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Cobra stretch",
-        "Downward dog hold",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Downward dog hold"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Rushing ahead of the breath so the flow becomes choreography without an anchor.",
@@ -203,10 +235,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Wrist flexor stretch",
-        "Cobra stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Shoulders dip below the elbows, grinding the rotator cuff.",
@@ -255,10 +299,21 @@
         }
       ],
       "stretches": [
-        "Low lunge hold",
-        "Butterfly stretch",
-        "Standing quad stretch",
-        "90/90 hip switch"
+        {
+          "name": "Low lunge hold"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Front knee caves inward past the big toe instead of tracking over the ankle.",
@@ -308,10 +363,22 @@
         }
       ],
       "stretches": [
-        "Lying figure-4",
-        "Butterfly stretch",
-        "Standing quad stretch",
-        "Ankle circles & calf stretch"
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Ankle circles & calf stretch",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Pressing the foot against the knee joint instead of above or below it.",
@@ -368,10 +435,21 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Lying figure-4",
-        "Kneeling hip flexor stretch",
-        "Downward dog hold"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Downward dog hold"
+        }
       ],
       "mistakes": [
         "Lifted hip rolls open toward the ceiling instead of staying square down.",
@@ -421,10 +499,21 @@
         }
       ],
       "stretches": [
-        "Lying figure-4",
-        "Seated straddle fold",
-        "Standing side bend",
-        "Butterfly stretch"
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Seated straddle fold",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Standing side bend"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1475"
+        }
       ],
       "mistakes": [
         "Dumping full body weight into the bottom hand instead of the standing leg.",
@@ -477,10 +566,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor & extensor stretch",
-        "Child's pose",
-        "Garland squat (malasana)",
-        "Seated forward fold"
+        {
+          "name": "Wrist flexor & extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Garland squat (malasana)",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        }
       ],
       "mistakes": [
         "Gaze drops straight down or back, tipping the head-heavy balance forward.",
@@ -536,11 +637,26 @@
         }
       ],
       "stretches": [
-        "Thread the needle",
-        "Doorway pec stretch",
-        "Neck side-flexion stretch",
-        "Child's pose",
-        "Kneeling lat stretch"
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Neck side-flexion stretch",
+          "detailId": "mw-133"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Kicking up with momentum instead of lifting the legs with compression.",
@@ -598,10 +714,21 @@
         }
       ],
       "stretches": [
-        "Puppy pose",
-        "Kneeling lat stretch on bench",
-        "Doorway pec stretch",
-        "Thoracic extension over foam roller"
+        {
+          "name": "Puppy pose"
+        },
+        {
+          "name": "Kneeling lat stretch on bench",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Elbows slide wider than the shoulders, collapsing the base.",
@@ -648,10 +775,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Knees-to-chest rock",
-        "Supine twist",
-        "Doorway pec stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Knees-to-chest rock",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Supine twist",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Knees splay outward as the hips rise instead of tracking over the heels.",
@@ -698,10 +837,22 @@
         }
       ],
       "stretches": [
-        "Lying figure-4",
-        "90/90 hip switch",
-        "Kneeling hip flexor stretch",
-        "Frog stretch"
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1470"
+        }
       ],
       "mistakes": [
         "Hips tilt and dump onto the front-leg side instead of staying square with support.",
@@ -750,11 +901,26 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Couch stretch",
-        "Thoracic extension over foam roller",
-        "Child's pose",
-        "Cobra stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Hips drift back over the heels, stealing the whole point of the pose.",
@@ -807,11 +973,25 @@
         }
       ],
       "stretches": [
-        "Thoracic extension over foam roller",
-        "Doorway pec stretch",
-        "Couch stretch",
-        "Puppy pose",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Puppy pose"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Elbows bow outward on the press-up because the shoulders lack flexion range.",

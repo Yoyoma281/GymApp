@@ -41,10 +41,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Standing hamstring stretch",
-        "Hip circles"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Hip circles",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Weight rocking back onto the heels mid-shot.",
@@ -103,10 +114,22 @@
         }
       ],
       "stretches": [
-        "Cat-cow",
-        "Doorway pec stretch",
-        "Child’s pose",
-        "Upper trap stretch"
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-133"
+        }
       ],
       "mistakes": [
         "Chest lifting and back arching as the bow comes up.",
@@ -158,9 +181,18 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Grabbing the riser at release, torquing the bow before the arrow clears.",
@@ -208,9 +240,18 @@
         }
       ],
       "stretches": [
-        "Finger extensor stretch",
-        "Wrist flexor stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Hooking on the fingertips so the forearm fights the string all the way back.",
@@ -267,10 +308,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Thread the needle",
-        "Lat stretch on rack"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Drawing with the biceps and forearm while the shoulder blade never moves.",
@@ -319,10 +372,22 @@
         }
       ],
       "stretches": [
-        "Upper trap stretch",
-        "Neck circles",
-        "Levator scapulae stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Neck circles",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Levator scapulae stretch",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        }
       ],
       "mistakes": [
         "Bringing the head to the hand instead of the hand to the head.",
@@ -375,10 +440,22 @@
         }
       ],
       "stretches": [
-        "Thread the needle",
-        "Doorway pec stretch",
-        "Child’s pose",
-        "Upper trap stretch"
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-132"
+        }
       ],
       "mistakes": [
         "Skipping straight from anchor to release with the arm still loaded.",
@@ -421,10 +498,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Thread the needle",
-        "Cat-cow",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        }
       ],
       "mistakes": [
         "Stalling on the clicker, then ripping through it with the arm.",
@@ -471,9 +560,18 @@
         }
       ],
       "stretches": [
-        "Finger extensor stretch",
-        "Wrist flexor stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Plucking the string outward like a guitar, kicking the nock sideways.",
@@ -524,9 +622,18 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Upper trap stretch",
-        "Child’s pose"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-133"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Dropping the bow arm to peek at the arrow before it lands.",
@@ -575,10 +682,21 @@
         }
       ],
       "stretches": [
-        "Neck circles",
-        "Upper trap stretch",
-        "Palming (eye relaxation)",
-        "Cat-cow"
+        {
+          "name": "Neck circles",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Palming (eye relaxation)"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Freezing on a perfect pin while expansion silently stops.",
@@ -626,9 +744,18 @@
         }
       ],
       "stretches": [
-        "Neck circles",
-        "Levator scapulae stretch",
-        "Upper trap stretch"
+        {
+          "name": "Neck circles",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Levator scapulae stretch",
+          "detailId": "mw-132"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-133"
+        }
       ],
       "mistakes": [
         "Tilting or turning the head to chase string picture instead of holding one head position.",
@@ -677,10 +804,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Child’s pose",
-        "Upper trap stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-134"
+        }
       ],
       "mistakes": [
         "Holding with a sagging line — long holds in bad form just train bad form.",
@@ -737,10 +876,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Doorway pec stretch",
-        "Thread the needle",
-        "Wrist flexor stretch"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        }
       ],
       "mistakes": [
         "Letting the string snap forward on the let-down instead of controlling the eccentric.",
@@ -793,10 +944,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Triceps overhead stretch",
-        "Child’s pose"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Shoulder creeping up into the neck as the hold fatigues.",
@@ -845,10 +1008,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Neck circles",
-        "Child’s pose"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Neck circles",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Rushing arrows because there is nothing to aim at — tempo still matters.",

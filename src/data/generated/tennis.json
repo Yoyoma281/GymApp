@@ -49,10 +49,21 @@
         }
       ],
       "stretches": [
-        "Downward dog calf pedal",
-        "Standing calf stretch on step",
-        "Ankle circles",
-        "Standing quad stretch"
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Standing calf stretch on step",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        }
       ],
       "mistakes": [
         "Hopping too early and landing flat-footed before the opponent hits.",
@@ -109,10 +120,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Seated straddle",
-        "Standing adductor rock",
-        "Lying figure-4"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Standing adductor rock",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Standing tall between shuffles instead of staying in an athletic crouch.",
@@ -167,10 +190,21 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "World's greatest stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "World's greatest stretch"
+        }
       ],
       "mistakes": [
         "Taking a small stutter step first instead of one decisive crossover.",
@@ -227,10 +261,22 @@
         }
       ],
       "stretches": [
-        "Thoracic spine rotation on wall",
-        "Cross-body shoulder stretch",
-        "90/90 hip switch",
-        "Standing chest opener"
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing chest opener",
+          "detailId": "mw-124"
+        }
       ],
       "mistakes": [
         "Swinging with the arm only while the hips stay square to the net.",
@@ -285,10 +331,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Thoracic spine rotation on wall"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Dominant arm takes over and muscles the ball, pulling it wide.",
@@ -346,10 +404,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Wrist extensor stretch",
-        "Child's pose with side reach",
-        "Doorway pec stretch"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Child's pose with side reach",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Chopping steeply downward so the ball floats and sits up.",
@@ -407,11 +477,26 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Thoracic spine rotation on wall",
-        "Wrist extensor stretch",
-        "Standing lat stretch on rack"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-144"
+        }
       ],
       "mistakes": [
         "Late contact — the one-hander forgives nothing behind the front hip.",
@@ -469,10 +554,22 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Doorway pec stretch",
-        "Standing lat stretch on rack",
-        "Thoracic extension over foam roller"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Inconsistent toss — every other flaw starts here.",
@@ -527,10 +624,22 @@
         }
       ],
       "stretches": [
-        "Thoracic spine rotation on wall",
-        "Wrist flexor stretch",
-        "90/90 hip switch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Taking a full groundstroke backswing against a fast serve.",
@@ -583,10 +692,22 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Standing lat stretch on rack"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Slowing the swing to steer the spin — brush faster, not slower.",
@@ -642,11 +763,26 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Thoracic extension over foam roller",
-        "Sleeper stretch",
-        "Kneeling hip flexor stretch",
-        "Child's pose"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Tossing too far in front, which turns the kick into a weak flat serve.",
@@ -703,10 +839,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Standing quad stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        }
       ],
       "mistakes": [
         "Taking a backswing — the volley is a punch, not a stroke.",
@@ -764,10 +912,22 @@
         }
       ],
       "stretches": [
-        "Sleeper stretch",
-        "Standing lat stretch on rack",
-        "Doorway pec stretch",
-        "Standing calf stretch on step"
+        {
+          "name": "Sleeper stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Standing lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Standing calf stretch on step",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Backpedaling square-on instead of turning sideways first.",
@@ -824,10 +984,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch",
-        "90/90 hip switch",
-        "Thoracic spine rotation on wall"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Thoracic spine rotation on wall",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Stopping to hit, then restarting — momentum should carry through the shot.",
@@ -881,10 +1053,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Couch stretch",
-        "Standing quad stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Bending from the waist instead of the knees, so the racquet face tilts down.",

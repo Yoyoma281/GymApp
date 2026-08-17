@@ -51,10 +51,22 @@
         }
       ],
       "stretches": [
-        "Cat-cow",
-        "Child's pose breathing",
-        "Thoracic foam-roller extension",
-        "Supine 90/90 breathing"
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Child's pose breathing",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Supine 90/90 breathing",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Shrugging a chest breath instead of expanding the belly and sides 360 degrees.",
@@ -109,10 +121,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Thoracic foam-roller extension",
-        "Lat stretch on rack",
-        "Upper trap stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-167"
+        }
       ],
       "mistakes": [
         "Unracking with staggered feet and one hip taking the whole load.",
@@ -170,10 +194,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Couch stretch",
-        "Ankle dorsiflexion wall stretch",
-        "90/90 hip switch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Knees caving inward out of the hole instead of tracking over the toes.",
@@ -231,11 +266,26 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Lat stretch on rack",
-        "Couch stretch",
-        "Seated hamstring stretch",
-        "Banded shoulder dislocates"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-141"
+        }
       ],
       "mistakes": [
         "Placing the bar too low and turning every set into elbow and bicep pain.",
@@ -281,10 +331,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Pigeon pose",
-        "Ankle dorsiflexion wall stretch",
-        "Couch stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Relaxing during the pause and getting folded on the way up.",
@@ -339,10 +400,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Deep squat hold",
-        "Seated hamstring stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Crashing the bar onto the pins instead of lowering under control.",
@@ -399,10 +472,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Thoracic foam-roller extension",
-        "Couch stretch",
-        "Cat-cow"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Losing the shoulder-blade pinch during the handoff and pressing from loose shoulders.",
@@ -460,10 +545,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Triceps overhead stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Sinking the bar into a relaxed chest and losing all stored tension.",
@@ -521,10 +618,22 @@
         }
       ],
       "stretches": [
-        "Triceps overhead stretch",
-        "Wrist flexor stretch",
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        }
       ],
       "mistakes": [
         "Gripping so narrow the wrists cave — just inside shoulder width is enough.",
@@ -573,10 +682,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Thoracic foam-roller extension",
-        "Doorway pec stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        }
       ],
       "mistakes": [
         "Driving upward instead of horizontally, lifting the glutes off the pad.",
@@ -634,11 +755,26 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Seated forward fold",
-        "Hip flexor stretch",
-        "Lat stretch on rack",
-        "Glute figure-4 stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Glute figure-4 stretch",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Jerking the slack out of the bar and rounding at liftoff.",
@@ -695,11 +831,26 @@
         }
       ],
       "stretches": [
-        "Frog stretch",
-        "Butterfly stretch",
-        "90/90 hip switch",
-        "Standing straddle fold",
-        "Couch stretch"
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing straddle fold",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Ripping at the bar before the knees are pushed out over the toes.",
@@ -754,10 +905,22 @@
         }
       ],
       "stretches": [
-        "Seated forward fold",
-        "Standing hamstring stretch",
-        "Deep squat hold",
-        "Glute figure-4 stretch"
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Glute figure-4 stretch",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Using a deficit so tall the lower back rounds just to reach the bar.",
@@ -815,10 +978,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor stretch",
-        "Upper trap stretch",
-        "Forearm flexor stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Forearm flexor stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Hitching the bar up the thighs — practice a clean, continuous lockout.",
@@ -866,10 +1041,21 @@
         }
       ],
       "stretches": [
-        "Full-body foam rolling",
-        "Doorway pec stretch",
-        "Deep squat hold",
-        "Standing hamstring stretch"
+        {
+          "name": "Full-body foam rolling"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        }
       ],
       "mistakes": [
         "Racking the bench bar the instant the elbows lock instead of waiting for 'rack'.",
@@ -908,10 +1094,21 @@
         }
       ],
       "stretches": [
-        "Full-body foam rolling",
-        "Cat-cow",
-        "Couch stretch",
-        "Child's pose breathing"
+        {
+          "name": "Full-body foam rolling"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Child's pose breathing",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Opening too heavy and chasing the meet instead of building it.",

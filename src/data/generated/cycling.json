@@ -48,10 +48,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Hip flexor lunge",
-        "Standing hamstring stretch",
-        "Calf wall stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Bouncing in the saddle — a sign the gear is too easy or the stroke is stabby.",
@@ -105,10 +117,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Standing hamstring stretch",
-        "Lying figure-4",
-        "Standing quad stretch"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        }
       ],
       "mistakes": [
         "Clunking through the top of the stroke instead of carrying the pedal over smoothly.",
@@ -158,10 +182,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Calf wall stretch",
-        "Standing quad stretch",
-        "Seated forward fold"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-145"
+        }
       ],
       "mistakes": [
         "Holding the bounce instead of backing off to the fastest smooth cadence.",
@@ -218,11 +254,26 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Standing hamstring stretch",
-        "Lying figure-4",
-        "Doorway pec stretch",
-        "Standing quad stretch"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        }
       ],
       "mistakes": [
         "Riding zone 2 as zone 3 and arriving at the week's intervals half-cooked.",
@@ -280,10 +331,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Hip flexor lunge",
-        "Standing hamstring stretch",
-        "Seated forward fold"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        }
       ],
       "mistakes": [
         "Riding the first five minutes at threshold and drifting down — start at the bottom of the range.",
@@ -341,10 +404,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Lying figure-4"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Starting 20 watts over and detonating at minute twelve.",
@@ -399,10 +474,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Hip flexor lunge",
-        "Thoracic extension over foam roller",
-        "Standing hamstring stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        }
       ],
       "mistakes": [
         "Sprinting the first 30 seconds — the target is even power that maximizes time at high oxygen uptake.",
@@ -460,10 +547,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Lying figure-4",
-        "Standing hamstring stretch",
-        "Hip flexor lunge"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Letting the knees bow outward under load.",
@@ -521,10 +620,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Seated forward fold",
-        "Lying figure-4",
-        "Child's pose"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Attacking the base of the climb and crawling the top third.",
@@ -582,10 +693,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Couch stretch",
-        "Hip flexor lunge",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        }
       ],
       "mistakes": [
         "Throwing the body over the front wheel instead of letting the bike rock under a stable torso.",
@@ -643,10 +766,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Lying figure-4",
-        "Hip flexor lunge",
-        "Doorway pec stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Starting in a gear so big the first strokes stall, or so small you spin out instantly.",
@@ -704,10 +839,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Calf wall stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Jumping from too far out and being swallowed at the line.",
@@ -756,10 +903,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Standing quad stretch",
-        "Supine spinal twist",
-        "Neck rotation stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Supine spinal twist",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Neck rotation stretch",
+          "detailId": "mw-168"
+        }
       ],
       "mistakes": [
         "Braking mid-corner and standing the bike up off the line.",
@@ -808,10 +967,22 @@
         }
       ],
       "stretches": [
-        "Neck extension stretch",
-        "Upper trap stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Neck extension stretch",
+          "detailId": "mw-132"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-133"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Staring at the wheel in front instead of looking two riders up the road.",
@@ -869,11 +1040,26 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Thoracic extension over foam roller",
-        "Neck flexion stretch",
-        "Child's pose"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Neck flexion stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Adopting the lowest possible position but losing 30 watts to closed hips.",

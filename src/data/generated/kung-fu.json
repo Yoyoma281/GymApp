@@ -43,10 +43,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Butterfly stretch",
-        "Frog stretch",
-        "Standing calf stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1473"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Knees collapsing inward instead of tracking over the toes.",
@@ -97,10 +109,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Couch stretch",
-        "Standing calf stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        }
       ],
       "mistakes": [
         "Rear heel lifting off the floor, breaking the drive line.",
@@ -155,10 +179,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Cossack squat hold",
-        "90/90 hip switch",
-        "Frog stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Cossack squat hold"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1470"
+        }
       ],
       "mistakes": [
         "Standing up between stances instead of staying low through the transition.",
@@ -205,10 +240,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Cross-body shoulder stretch",
-        "Thread the needle"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Punching from the shoulder while the waist stays frozen.",
@@ -265,10 +312,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Overhead triceps stretch",
-        "Wrist flexor stretch",
-        "Wrist extensor stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Overhead triceps stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Elbows flaring wide off the center line between punches.",
@@ -318,10 +377,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Doorway pec stretch",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        }
       ],
       "mistakes": [
         "Striking with the fingers or flat palm instead of the heel of the hand.",
@@ -372,10 +443,21 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Kneeling hip flexor stretch",
-        "Calf wall stretch",
-        "Seated toe reach"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Seated toe reach"
+        }
       ],
       "mistakes": [
         "Kicking with pointed toes instead of leading with the heel.",
@@ -426,10 +508,21 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Kneeling hip flexor stretch",
-        "Calf wall stretch",
-        "Ankle circles"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Lifting the whole leg from the hip instead of snapping from the knee.",
@@ -486,10 +579,21 @@
         }
       ],
       "stretches": [
-        "Seated straddle",
-        "Cossack squat hold",
-        "Lying figure-4",
-        "Standing hamstring stretch"
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Cossack squat hold"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        }
       ],
       "mistakes": [
         "Hips unstacked so the kick pushes diagonally instead of piercing.",
@@ -538,10 +642,21 @@
         }
       ],
       "stretches": [
-        "Front split progression",
-        "Seated straddle",
-        "Standing hamstring stretch",
-        "Lying spinal twist"
+        {
+          "name": "Front split progression"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Bending the knee mid-arc, collapsing the sweep.",
@@ -599,11 +714,24 @@
         }
       ],
       "stretches": [
-        "Front split progression",
-        "Seated straddle",
-        "90/90 hip switch",
-        "Standing quad stretch",
-        "Ankle circles"
+        {
+          "name": "Front split progression"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Jumping before the cross-step finishes, so the spin has no stored rotation.",
@@ -660,10 +788,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch with band",
-        "Doorway pec stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Finger extensor stretch with band",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        }
       ],
       "mistakes": [
         "Claw shape held rigid the whole time instead of tensing only at contact.",
@@ -717,10 +857,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Thread the needle"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Grabbing and holding on instead of hooking, redirecting, and striking in one beat.",
@@ -768,10 +920,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Kneeling hip flexor stretch",
-        "Seated straddle",
-        "Lying spinal twist"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Shallow stances that make the form easier but empty.",
@@ -822,11 +986,23 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Lying hamstring stretch with strap",
-        "Seated toe reach",
-        "Downward dog",
-        "Front split progression"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Lying hamstring stretch with strap",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Seated toe reach"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Front split progression"
+        }
       ],
       "mistakes": [
         "Leaning the torso back to buy height instead of keeping it tall.",
@@ -877,11 +1053,24 @@
         }
       ],
       "stretches": [
-        "Front split progression",
-        "Side split progression",
-        "Seated straddle",
-        "Standing hamstring stretch",
-        "Pigeon pose"
+        {
+          "name": "Front split progression"
+        },
+        {
+          "name": "Side split progression"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Bouncing into the stretch instead of pressing gradually with the breath.",

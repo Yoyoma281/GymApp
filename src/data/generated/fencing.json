@@ -43,10 +43,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Standing quad stretch",
-        "Standing calf stretch",
-        "90/90 hip switch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Standing up tall between actions — the stance must stay loaded.",
@@ -97,9 +109,18 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Bobbing up and down with each step instead of gliding at one height.",
@@ -156,10 +177,20 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Couch stretch",
-        "Downward dog"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Keeping one metronome rhythm — opponents time you instantly.",
@@ -206,10 +237,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Standing quad stretch",
-        "Deep squat hold"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Jumping high instead of skimming forward — hang time is dead time.",
@@ -258,10 +300,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        }
       ],
       "mistakes": [
         "Steering from the wrist and elbow — big joints make big, slow arcs.",
@@ -311,9 +365,18 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        }
       ],
       "mistakes": [
         "Making a wide arc with the whole arm instead of a fingertip spiral.",
@@ -362,9 +425,18 @@
         }
       ],
       "stretches": [
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Upper trap stretch"
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-167"
+        }
       ],
       "mistakes": [
         "Winding up for the beat — the preparation is read before it lands.",
@@ -414,10 +486,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Lat stretch on rack",
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        }
       ],
       "mistakes": [
         "Pressing on the strong part of their blade instead of leveraging weak with strong.",
@@ -474,10 +558,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Kneeling hip flexor stretch",
-        "Seated straddle"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-145"
+        }
       ],
       "mistakes": [
         "Stepping the front foot out before the arm extends — attack loses priority and reach.",
@@ -528,10 +624,22 @@
         }
       ],
       "stretches": [
-        "Kneeling hip flexor stretch",
-        "Standing calf stretch",
-        "Standing hamstring stretch",
-        "Deep squat hold"
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Accelerating on the advance instead of the lunge — the surprise is spent early.",
@@ -578,10 +686,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Standing calf stretch",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Launching from too far away, arriving after the counter-attack.",
@@ -628,10 +748,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Throwing from the elbow so the blade slaps instead of whipping.",
@@ -681,9 +813,18 @@
         }
       ],
       "stretches": [
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Upper trap stretch"
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-168"
+        }
       ],
       "mistakes": [
         "Sweeping a huge parry that carries your own blade far off line.",
@@ -732,9 +873,18 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-152"
+        }
       ],
       "mistakes": [
         "Circling from the elbow, making the parry slow and wide.",
@@ -782,10 +932,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Standing quad stretch",
-        "90/90 hip switch",
-        "Downward dog"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Retreating in one straight rhythm until you run out of piste.",
@@ -834,9 +995,18 @@
         }
       ],
       "stretches": [
-        "Triceps overhead stretch",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        }
       ],
       "mistakes": [
         "Stop-hitting without closing the line or stealing the tempo — a double touch at best.",

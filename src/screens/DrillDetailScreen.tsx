@@ -17,6 +17,7 @@ export default function DrillDetailScreen({ route }: Props) {
   const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
   const drill = activity?.drills.find((d) => d.id === route.params.drillId);
   const [expanded, setExpanded] = useState<string | null>(null);
+  const [expandedStretch, setExpandedStretch] = useState<string | null>(null);
 
   useEffect(() => {
     if (activity && drill) track('drill_open', `${activity.id}/${drill.id}`);
@@ -153,13 +154,38 @@ export default function DrillDetailScreen({ route }: Props) {
         })}
       </View>
 
-      <Text style={styles.sectionTitle}>{t("stretches")}</Text>
-      <View style={styles.stretchWrap}>
-        {drill.stretches.map((s) => (
-          <View key={s} style={styles.stretchChip}>
-            <Text style={styles.stretchText}>{s}</Text>
-          </View>
-        ))}
+      <Text style={styles.sectionTitle}>{t('stretches')}</Text>
+      <View style={styles.stretchList}>
+        {drill.stretches.map((s) => {
+          const detail = s.detailId ? exerciseDetails[s.detailId] : undefined;
+          const isOpen = expandedStretch === s.name;
+          return (
+            <Pressable
+              key={s.name}
+              style={[styles.stretchCard, !detail && styles.stretchCardPlain]}
+              onPress={() => {
+                if (!detail) return;
+                if (!isOpen) track('exercise_open', detail.name);
+                setExpandedStretch(isOpen ? null : s.name);
+              }}
+            >
+              <View style={styles.stretchRow}>
+                <Text style={styles.stretchText}>{s.name}</Text>
+                {detail && <Text style={styles.exerciseChevron}>{isOpen ? '▾' : '▸'}</Text>}
+              </View>
+              {isOpen && detail && (
+                <View style={styles.exerciseDetail}>
+                  <ExerciseMedia detail={detail} />
+                  {detail.steps?.map((step, i) => (
+                    <Text key={step} style={styles.exerciseStep}>
+                      {i + 1}. {step}
+                    </Text>
+                  ))}
+                </View>
+              )}
+            </Pressable>
+          );
+        })}
       </View>
 
       <Text style={styles.sectionTitle}>{t("watchOutFor")}</Text>
@@ -276,16 +302,18 @@ const styles = StyleSheet.create({
   exerciseImageEmoji: { fontSize: 20 },
   exerciseName: { flex: 1, fontWeight: '600', fontSize: 15, color: colors.text },
   exerciseScheme: { fontSize: 13, fontWeight: '700', color: colors.accent },
-  stretchWrap: { marginTop: 10, flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
-  stretchChip: {
+  stretchList: { marginTop: 10, gap: 8 },
+  stretchCard: {
     backgroundColor: colors.card,
     borderWidth: 1,
     borderColor: colors.border,
-    borderRadius: 999,
+    borderRadius: 12,
     paddingHorizontal: 14,
-    paddingVertical: 7,
+    paddingVertical: 11,
   },
-  stretchText: { fontSize: 13, fontWeight: '600', color: colors.body },
+  stretchCardPlain: { opacity: 0.85 },
+  stretchRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
+  stretchText: { fontSize: 14, fontWeight: '600', color: colors.body, flex: 1 },
   mistakeList: { marginTop: 10, gap: 8 },
   mistakeRow: { flexDirection: 'row', gap: 10, alignItems: 'flex-start' },
   bullet: {

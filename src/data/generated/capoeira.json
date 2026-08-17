@@ -51,10 +51,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge stretch",
-        "Standing quad stretch",
-        "Standing calf stretch",
-        "Deep squat hold"
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        }
       ],
       "mistakes": [
         "Stepping mechanically to a count instead of flowing with the rhythm of the berimbau.",
@@ -99,10 +111,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Wrist flexor stretch",
-        "Hamstring stretch seated",
-        "Lying figure-4"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Hamstring stretch seated",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Sitting the weight fully on the floor instead of staying loaded and ready to move.",
@@ -152,10 +176,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Cat-cow",
-        "Deep squat hold"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Turning the back to the opponent mid-rotation.",
@@ -206,10 +242,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Ankle dorsiflexion wall stretch",
-        "Standing calf stretch",
-        "Lying figure-4"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        }
       ],
       "mistakes": [
         "Rising onto the toes with heels off the floor — no balance, no base.",
@@ -260,10 +307,21 @@
         }
       ],
       "stretches": [
-        "Standing side bend",
-        "Adductor rock-backs",
-        "Seated straddle",
-        "Hip flexor lunge stretch"
+        {
+          "name": "Standing side bend"
+        },
+        {
+          "name": "Adductor rock-backs",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Bending only at the waist while the legs stay straight and rooted.",
@@ -321,10 +379,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Seated straddle",
-        "Couch stretch",
-        "Hamstring stretch seated"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Hamstring stretch seated",
+          "detailId": "mw-145"
+        }
       ],
       "mistakes": [
         "Staying too high so the kick still clips the head or shoulder.",
@@ -375,10 +445,22 @@
         }
       ],
       "stretches": [
-        "Hamstring stretch on rack",
-        "Seated straddle",
-        "Standing quad stretch",
-        "Lying figure-4"
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Bending the kicking leg and turning the crescent into a weak flick.",
@@ -429,10 +511,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Hip flexor lunge stretch",
-        "Hamstring stretch on rack",
-        "Standing calf stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        }
       ],
       "mistakes": [
         "Slapping with the toes instead of pushing through the sole of the foot.",
@@ -488,10 +582,21 @@
         }
       ],
       "stretches": [
-        "Seated straddle",
-        "90/90 hip switch",
-        "Hamstring stretch on rack",
-        "Standing side bend"
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Kicking from a square stance without the crossing step that loads the hips.",
@@ -548,10 +653,22 @@
         }
       ],
       "stretches": [
-        "Seated straddle",
-        "Standing quad stretch",
-        "Lying spinal twist",
-        "Standing calf stretch"
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        }
       ],
       "mistakes": [
         "Spinning without spotting — the head must turn first to find the target.",
@@ -608,10 +725,22 @@
         }
       ],
       "stretches": [
-        "90/90 hip switch",
-        "Lying figure-4",
-        "Standing quad stretch",
-        "Couch stretch"
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Support foot doesn’t pivot, choking the hip rotation.",
@@ -669,11 +798,26 @@
         }
       ],
       "stretches": [
-        "Standing forward fold",
-        "Seated straddle",
-        "Hamstring stretch on rack",
-        "90/90 hip switch",
-        "Wrist flexor stretch"
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        }
       ],
       "mistakes": [
         "Looking at the floor instead of sighting the target between the legs.",
@@ -720,10 +864,21 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Shoulder wall slides",
-        "Seated straddle",
-        "Standing side bend"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Shoulder wall slides",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Seated straddle",
+          "detailId": "mw-1335"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Throwing the legs over fast and blind instead of controlled and watching the game.",
@@ -780,10 +935,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Triceps overhead stretch",
-        "Child’s pose",
-        "Lying spinal twist"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Elbow floating away from the hip instead of digging into the waist as a shelf.",
@@ -834,10 +1001,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Shoulder wall slides",
-        "Doorway pec stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Shoulder wall slides",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        }
       ],
       "mistakes": [
         "Tucking the chin to the chest and losing sight of the game.",
@@ -895,11 +1074,26 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Thoracic extension over foam roller",
-        "Doorway pec stretch",
-        "Wrist flexor stretch",
-        "Hip flexor lunge stretch"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Reaching back timidly with no leg drive — hesitation stalls the rotation mid-air.",

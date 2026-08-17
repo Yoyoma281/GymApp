@@ -43,10 +43,22 @@
         }
       ],
       "stretches": [
-        "Wrist extensor stretch",
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Neck side flexion"
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Neck side flexion",
+          "detailId": "mw-167"
+        }
       ],
       "mistakes": [
         "Striking with a bent wrist — the heel of the palm must be stacked behind the forearm.",
@@ -97,10 +109,21 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Cross-body shoulder stretch",
-        "Triceps overhead stretch",
-        "Standing side bend"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Swinging with the arm only instead of dropping bodyweight through the strike.",
@@ -158,10 +181,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Hip flexor lunge stretch",
-        "Hamstring stretch on rack",
-        "Standing calf stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Kicking forward like a push kick instead of upward through the groin.",
@@ -211,10 +246,22 @@
         }
       ],
       "stretches": [
-        "Thread the needle",
-        "Doorway pec stretch",
-        "Triceps overhead stretch",
-        "Seated spinal twist"
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Seated spinal twist",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Striking with the forearm instead of the tip of the elbow.",
@@ -272,10 +319,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge stretch",
-        "Couch stretch",
-        "Hamstring stretch on rack",
-        "Lat stretch on rack"
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        }
       ],
       "mistakes": [
         "Lifting the knee without driving the hips through it.",
@@ -323,10 +382,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Cross-body shoulder stretch",
-        "Neck rolls"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Neck rolls",
+          "detailId": "mw-168"
+        }
       ],
       "mistakes": [
         "Blocking with a soft, bent wrist instead of a rigid forearm frame.",
@@ -374,10 +445,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Neck side flexion",
-        "Cat-cow",
-        "Standing quad stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Neck side flexion",
+          "detailId": "mw-132"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        }
       ],
       "mistakes": [
         "Slapping wide across the body and opening the opposite line.",
@@ -434,10 +517,22 @@
         }
       ],
       "stretches": [
-        "Cross-body shoulder stretch",
-        "Wrist flexor stretch",
-        "Lat stretch on rack",
-        "Hip flexor lunge stretch"
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Leaning away and blocking at arm’s length instead of bursting in.",
@@ -488,10 +583,21 @@
         }
       ],
       "stretches": [
-        "Chin tucks",
-        "Neck side flexion",
-        "Biceps wall stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Chin tucks"
+        },
+        {
+          "name": "Neck side flexion",
+          "detailId": "mw-133"
+        },
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-121"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        }
       ],
       "mistakes": [
         "Grabbing and peeling the wrists instead of plucking the thumbs.",
@@ -549,10 +655,20 @@
         }
       ],
       "stretches": [
-        "Chin tucks",
-        "Upper-trap stretch",
-        "Thread the needle",
-        "Standing side bend"
+        {
+          "name": "Chin tucks"
+        },
+        {
+          "name": "Upper-trap stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Reaching back overhead for the attacker instead of attacking the choking arm.",
@@ -606,10 +722,22 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Adductor rock-backs",
-        "Hip flexor lunge stretch",
-        "Cat-cow"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Adductor rock-backs",
+          "detailId": "mw-1472"
+        },
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Pulling at the attacker’s arms instead of dropping the base and striking.",
@@ -660,10 +788,20 @@
         }
       ],
       "stretches": [
-        "Neck side flexion",
-        "Chin tucks",
-        "Lat stretch on rack",
-        "Standing side bend"
+        {
+          "name": "Neck side flexion",
+          "detailId": "mw-167"
+        },
+        {
+          "name": "Chin tucks"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Pulling backward out of the headlock — that feeds the choke and takedown.",
@@ -712,10 +850,22 @@
         }
       ],
       "stretches": [
-        "Child’s pose",
-        "Standing quad stretch",
-        "Doorway pec stretch",
-        "Hamstring stretch on rack"
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-146"
+        }
       ],
       "mistakes": [
         "Hesitating between the cue and the first strike.",
@@ -762,10 +912,22 @@
         }
       ],
       "stretches": [
-        "Neck rolls",
-        "Cat-cow",
-        "Lying spinal twist",
-        "Deep squat hold"
+        {
+          "name": "Neck rolls",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Lying spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Guessing the defense before feeling where the attack actually is.",
@@ -817,11 +979,26 @@
         }
       ],
       "stretches": [
-        "Child’s pose",
-        "Deep squat hold",
-        "Hamstring stretch on rack",
-        "Doorway pec stretch",
-        "Neck rolls"
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Hamstring stretch on rack",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Neck rolls",
+          "detailId": "mw-132"
+        }
       ],
       "mistakes": [
         "Pacing the conditioning portion to save energy — it defeats the drill’s purpose.",
@@ -878,10 +1055,21 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge stretch",
-        "Standing calf stretch",
-        "Lying figure-4",
-        "Standing side bend"
+        {
+          "name": "Hip flexor lunge stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Standing side bend"
+        }
       ],
       "mistakes": [
         "Standing between two attackers instead of moving to line them up.",

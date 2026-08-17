@@ -5,6 +5,8 @@
 // video playback keeps working while the new project's environment
 // variable and deployment protection are being set up.
 
+import { Platform } from 'react-native';
+
 const CONFIGURED = process.env.EXPO_PUBLIC_API_BASE;
 
 export const API_BASES: string[] = [
@@ -18,8 +20,21 @@ export const API_BASES: string[] = [
 // trivially scripted against, alongside the server's rate limiting.
 const APP_KEY = process.env.EXPO_PUBLIC_APP_KEY;
 
+// On web a custom header triggers a CORS preflight, which fails against
+// any deployment that hasn't allow-listed it — so the browser sends the
+// key in the query string only (see withKey below). Native has no
+// preflight, so the header is used there.
 export function apiHeaders(): Record<string, string> {
-  return APP_KEY ? { 'x-app-key': APP_KEY } : {};
+  if (!APP_KEY || Platform.OS === 'web') return {};
+  return { 'x-app-key': APP_KEY };
+}
+
+// The key also rides as a query parameter: a custom header triggers a
+// CORS preflight, and any deployment that predates the header being
+// allow-listed would reject it on web. The server accepts either.
+export function withKey(url: string): string {
+  if (!APP_KEY) return url;
+  return `${url}${url.includes('?') ? '&' : '?'}app_key=${encodeURIComponent(APP_KEY)}`;
 }
 
 /** Base that last answered successfully, tried first next time. */

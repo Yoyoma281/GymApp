@@ -16,6 +16,12 @@ export interface ExerciseVideoSource {
   angle?: string | null;
 }
 
+export interface Stretch {
+  name: string;
+  /** Key into exerciseDetails for a demonstration, when one was matched. */
+  detailId?: string;
+}
+
 export interface MuscleRef {
   id: number;
   front: boolean;
@@ -54,7 +60,7 @@ export interface Drill {
   muscles: string;
   desc: string;
   exercises: Exercise[];
-  stretches: string[];
+  stretches: Stretch[];
   mistakes: string[];
   videoUrl?: string;
   clipUrl?: string;

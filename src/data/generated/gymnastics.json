@@ -50,10 +50,22 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Cat-cow",
-        "Kneeling lat stretch",
-        "Child's pose"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "Lower back peels off the floor — shorten the lever by bending knees until it stays glued.",
@@ -103,10 +115,22 @@
         }
       ],
       "stretches": [
-        "Child's pose",
-        "Knees-to-chest rock",
-        "Seated forward fold",
-        "Standing hamstring stretch"
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Knees-to-chest rock",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        }
       ],
       "mistakes": [
         "Bending the knees to fake height — keep legs straight and squeezed together.",
@@ -163,10 +187,22 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Cat-cow",
-        "Thread the needle",
-        "Kneeling hip flexor stretch"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Thread the needle",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Breaking at the hips on each rock so the shape hinges instead of rolls.",
@@ -223,10 +259,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Doorway pec stretch",
-        "Kneeling lat stretch",
-        "Standing shoulder flexion on wall"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Standing shoulder flexion on wall",
+          "detailId": "mw-138"
+        }
       ],
       "mistakes": [
         "Banana back — ribs flare because the core never locks into hollow.",
@@ -284,10 +332,22 @@
         }
       ],
       "stretches": [
-        "Wrist circles & flexor stretch",
-        "Kneeling lat stretch",
-        "Doorway pec stretch",
-        "Standing forward fold"
+        {
+          "name": "Wrist circles & flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Standing forward fold",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Kicking up with different power every attempt — balance never gets a constant to work with.",
@@ -340,11 +400,26 @@
         }
       ],
       "stretches": [
-        "Seated straddle fold",
-        "Standing pike fold",
-        "Wrist flexor stretch",
-        "Kneeling lat stretch",
-        "90/90 hip switch"
+        {
+          "name": "Seated straddle fold",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Standing pike fold",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Refusing to lean forward, so the hips stay behind the hands and the feet never lighten.",
@@ -394,10 +469,21 @@
         }
       ],
       "stretches": [
-        "Standing straddle fold",
-        "Wrist flexor stretch",
-        "Kneeling hip flexor stretch",
-        "Side-bend reach stretch"
+        {
+          "name": "Standing straddle fold",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Side-bend reach stretch"
+        }
       ],
       "mistakes": [
         "Hands planted together instead of one after the other along the line.",
@@ -452,10 +538,22 @@
         }
       ],
       "stretches": [
-        "Standing pike fold",
-        "Wrist flexor stretch",
-        "Standing quad stretch",
-        "Kneeling lat stretch"
+        {
+          "name": "Standing pike fold",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-143"
+        }
       ],
       "mistakes": [
         "Landing dead with the chest dropped instead of rebounding with arms up.",
@@ -509,11 +607,25 @@
         }
       ],
       "stretches": [
-        "Bridge (wheel) hold",
-        "Kneeling hip flexor stretch",
-        "Doorway pec stretch",
-        "Standing quad stretch",
-        "Cat-cow"
+        {
+          "name": "Bridge (wheel) hold"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Throwing the head and chest back first — the sit and arm swing must lead.",
@@ -562,10 +674,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Cross-body shoulder stretch",
-        "Biceps wall stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-123"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        }
       ],
       "mistakes": [
         "Shoulders shrug up to the ears instead of pressing long and down.",
@@ -619,10 +743,22 @@
         }
       ],
       "stretches": [
-        "Seated forward fold",
-        "Standing pike fold",
-        "Kneeling quad stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Standing pike fold",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Kneeling quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-153"
+        }
       ],
       "mistakes": [
         "Shoulders collapse into a shrug, dropping the hips to the floor.",
@@ -677,10 +813,22 @@
         }
       ],
       "stretches": [
-        "Kneeling lat stretch",
-        "Doorway pec stretch",
-        "Biceps wall stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-119"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Pulling straight up instead of pulling the rings to the hips and leaning over them.",
@@ -730,11 +878,26 @@
         }
       ],
       "stretches": [
-        "Thoracic extension over foam roller",
-        "Doorway pec stretch",
-        "Kneeling hip flexor stretch",
-        "Child's pose",
-        "Cobra stretch"
+        {
+          "name": "Thoracic extension over foam roller",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        }
       ],
       "mistakes": [
         "All the bend crammed into the lower back while the shoulders stay closed.",
@@ -787,11 +950,25 @@
         }
       ],
       "stretches": [
-        "Half-split (runner's hamstring) stretch",
-        "Couch stretch",
-        "Kneeling hip flexor stretch",
-        "Lying hamstring strap stretch",
-        "Low lunge hold"
+        {
+          "name": "Half-split (runner's hamstring) stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lying hamstring strap stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Low lunge hold"
+        }
       ],
       "mistakes": [
         "Hips turned open to fake depth instead of staying square to the front leg.",
@@ -845,11 +1022,25 @@
         }
       ],
       "stretches": [
-        "Seated straddle fold",
-        "Frog stretch",
-        "Butterfly stretch",
-        "Wall straddle (legs up wall)",
-        "Horse stance hold"
+        {
+          "name": "Seated straddle fold",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Frog stretch",
+          "detailId": "mw-1475"
+        },
+        {
+          "name": "Butterfly stretch",
+          "detailId": "mw-1470"
+        },
+        {
+          "name": "Wall straddle (legs up wall)",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Horse stance hold"
+        }
       ],
       "mistakes": [
         "Rounding the lower back and folding from the spine instead of tipping the pelvis.",
@@ -902,10 +1093,22 @@
         }
       ],
       "stretches": [
-        "Biceps wall stretch",
-        "Doorway pec stretch",
-        "Kneeling lat stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-120"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        },
+        {
+          "name": "Kneeling lat stretch",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        }
       ],
       "mistakes": [
         "Elbows bend under load — regress the shape before the arms give.",

@@ -44,10 +44,22 @@
         }
       ],
       "stretches": [
-        "Doorway pec stretch",
-        "Upper trap stretch",
-        "Wrist flexor stretch",
-        "Child’s pose"
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-134"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Shoulders creeping up toward the ears, freezing every strike that follows.",
@@ -91,9 +103,18 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Gripping hard the whole time, so the strike lands dead with no snap.",
@@ -142,10 +163,20 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Kneeling hip flexor stretch",
-        "Downward dog"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Left heel dropping flat, discharging the spring.",
@@ -199,10 +230,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Ankle circles"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Stamping down hard on the heel — an injury generator with no forward drive.",
@@ -253,10 +295,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Doorway pec stretch",
-        "Triceps overhead stretch",
-        "Cat-cow"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Bending the elbows sharply at the top instead of keeping a wide arc.",
@@ -306,10 +360,22 @@
         }
       ],
       "stretches": [
-        "Triceps overhead stretch",
-        "Wrist extensor stretch",
-        "Lat stretch on rack",
-        "Upper trap stretch"
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-167"
+        }
       ],
       "mistakes": [
         "Pushing the cut with the right hand so the tip drifts off center.",
@@ -363,10 +429,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Triceps overhead stretch",
-        "Child’s pose",
-        "Downward dog"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-164"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Swings shrinking to tired little chops as the set goes on.",
@@ -417,10 +494,22 @@
         }
       ],
       "stretches": [
-        "Triceps overhead stretch",
-        "Lat stretch on rack",
-        "Standing calf stretch",
-        "Couch stretch"
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-136"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Leaning the head and shoulders forward to reach instead of driving the body in.",
@@ -470,10 +559,22 @@
         }
       ],
       "stretches": [
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Finger extensor stretch",
-        "Standing calf stretch"
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Finger extensor stretch",
+          "detailId": "mw-154"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Raising the shinai as high as for men, telegraphing the small strike.",
@@ -523,10 +624,21 @@
         }
       ],
       "stretches": [
-        "Spinal twist",
-        "Lat stretch on rack",
-        "Wrist flexor stretch",
-        "Side bend stretch"
+        {
+          "name": "Spinal twist",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Side bend stretch"
+        }
       ],
       "mistakes": [
         "Slapping the dō flat because the wrists never turn the blade edge-on.",
@@ -574,10 +686,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Ankle circles",
-        "Triceps overhead stretch",
-        "Couch stretch"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Ankle circles"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Throwing a fake kote with no threat — the opponent never reacts.",
@@ -621,10 +744,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Doorway pec stretch",
-        "Upper trap stretch",
-        "Child’s pose"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-125"
+        },
+        {
+          "name": "Upper trap stretch",
+          "detailId": "mw-168"
+        },
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Cutting straight down on the diagonal sayu-men instead of at 45 degrees.",
@@ -674,10 +809,22 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Standing calf stretch",
-        "Triceps overhead stretch",
-        "Standing hamstring stretch"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        }
       ],
       "mistakes": [
         "Hesitating a beat after the opening appears — the moment is already gone.",
@@ -725,10 +872,21 @@
         }
       ],
       "stretches": [
-        "Child’s pose",
-        "Downward dog",
-        "Standing quad stretch",
-        "Doorway pec stretch"
+        {
+          "name": "Child’s pose",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-126"
+        }
       ],
       "mistakes": [
         "Pacing yourself — kakari-geiko only works at maximum output.",
@@ -785,10 +943,21 @@
         }
       ],
       "stretches": [
-        "Standing calf stretch",
-        "Couch stretch",
-        "Standing hamstring stretch",
-        "Ankle circles"
+        {
+          "name": "Standing calf stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Ankle circles"
+        }
       ],
       "mistakes": [
         "Stepping in without threatening the center — seme with no pressure is just standing closer.",

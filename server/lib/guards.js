@@ -40,7 +40,9 @@ function rateLimited(req) {
 function unauthorized(req) {
   const expected = process.env.APP_KEY;
   if (!expected) return false;
-  const given = req.headers['x-app-key'];
+  // Accept the key from either place: a custom header triggers a CORS
+  // preflight on web, so the app can also pass it as a query parameter.
+  const given = req.headers['x-app-key'] ?? req.query?.app_key;
   return given !== expected;
 }
 

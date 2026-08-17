@@ -48,10 +48,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Standing quad stretch",
-        "Calf wall stretch",
-        "Seated forward fold"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-147"
+        }
       ],
       "mistakes": [
         "Leaning back to lift the knees higher — the torso should stay tall and slightly forward.",
@@ -101,10 +113,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Calf wall stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Kicking the heel backward instead of pulling it up under the hip.",
@@ -159,10 +183,22 @@
         }
       ],
       "stretches": [
-        "Hip flexor lunge",
-        "Calf wall stretch",
-        "Standing hamstring stretch",
-        "90/90 hip switch"
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Letting the foot dangle loose instead of keeping the toe pulled up.",
@@ -218,10 +254,21 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Lying figure-4",
-        "Hip flexor lunge",
-        "Downward dog"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Kicking the leg out and letting it fall instead of actively pulling it back down.",
@@ -270,9 +317,18 @@
         }
       ],
       "stretches": [
-        "Calf wall stretch",
-        "Hip flexor lunge",
-        "Standing hamstring stretch"
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        }
       ],
       "mistakes": [
         "Chasing the beat by speeding up the pace instead of shortening the stride.",
@@ -322,9 +378,18 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Calf wall stretch",
-        "Hip flexor lunge"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1330"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        }
       ],
       "mistakes": [
         "Overstriding — foot lands ahead of the hips.",
@@ -381,10 +446,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Standing hamstring stretch",
-        "Calf wall stretch",
-        "Hip flexor lunge"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Running the first repeat 10 seconds too fast and fading through the set.",
@@ -442,10 +519,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor lunge",
-        "Lying figure-4",
-        "Calf wall stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Straining and grimacing at top speed — maximal velocity requires a relaxed face and shoulders.",
@@ -495,9 +584,17 @@
         }
       ],
       "stretches": [
-        "Couch stretch",
-        "Downward dog",
-        "Seated forward fold"
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1335"
+        }
       ],
       "mistakes": [
         "Looking down at the feet instead of ahead.",
@@ -554,10 +651,21 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Couch stretch",
-        "Calf wall stretch",
-        "Downward dog"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-129"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Leaning back and braking with heel strikes — this hammers the quads and knees.",
@@ -615,11 +723,26 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor lunge",
-        "Calf wall stretch",
-        "Seated forward fold",
-        "Lying figure-4"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1337"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-145"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1354"
+        }
       ],
       "mistakes": [
         "Running it a minute per mile too fast and stealing from the week's quality sessions.",
@@ -677,10 +800,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Standing quad stretch",
-        "Hip flexor lunge",
-        "Calf wall stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-146"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1366"
+        }
       ],
       "mistakes": [
         "Running it at 5K effort — if you couldn't speak a short sentence, it's too fast.",
@@ -738,10 +873,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor lunge",
-        "Standing quad stretch",
-        "Calf wall stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-147"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-131"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1367"
+        }
       ],
       "mistakes": [
         "Jogging so slowly between surges that it becomes plain intervals with rest.",
@@ -799,10 +946,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Calf wall stretch",
-        "Seated forward fold"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-148"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1202"
+        }
       ],
       "mistakes": [
         "Dropping to the fast pace in the first mile and hanging on instead of building.",
@@ -859,10 +1018,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor lunge",
-        "Standing quad stretch",
-        "Lying figure-4"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1203"
+        },
+        {
+          "name": "Hip flexor lunge",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-128"
+        },
+        {
+          "name": "Lying figure-4",
+          "detailId": "mw-1355"
+        }
       ],
       "mistakes": [
         "Running repeats 10 seconds per mile fast and calling it fitness — it rehearses the wrong race.",
@@ -920,10 +1091,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Calf wall stretch",
-        "90/90 hip switch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "90/90 hip switch",
+          "detailId": "mw-1571"
+        }
       ],
       "mistakes": [
         "Kicking with a long overstride instead of raising cadence first.",

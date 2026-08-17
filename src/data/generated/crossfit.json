@@ -50,10 +50,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Thoracic foam-roller extension",
-        "Child's pose with side reach",
-        "Doorway pec stretch"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Child's pose with side reach",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-127"
+        }
       ],
       "mistakes": [
         "Bending the arms in the swing instead of pushing on the bar with straight arms.",
@@ -111,10 +123,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Cross-body shoulder stretch",
-        "Doorway pec stretch",
-        "Wrist flexor stretch"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Cross-body shoulder stretch",
+          "detailId": "mw-140"
+        },
+        {
+          "name": "Doorway pec stretch",
+          "detailId": "mw-124"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Kipping without strict strength and grinding the shoulders under fatigue.",
@@ -169,10 +193,22 @@
         }
       ],
       "stretches": [
-        "Lat stretch on rack",
-        "Banded shoulder dislocates",
-        "Biceps wall stretch",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-141"
+        },
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-121"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Learning butterfly before kipping is consistent — the timing has nothing to hold onto.",
@@ -227,10 +263,22 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Lat stretch on rack",
-        "Cobra stretch",
-        "Seated forward fold"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1202"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Seated forward fold",
+          "detailId": "mw-1203"
+        }
       ],
       "mistakes": [
         "Breaking the swing after every rep instead of linking the rebound.",
@@ -285,11 +333,26 @@
         }
       ],
       "stretches": [
-        "Banded shoulder dislocates",
-        "Triceps overhead stretch",
-        "Lat stretch on rack",
-        "Wrist extensor stretch",
-        "Child's pose"
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-138"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-137"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-166"
+        }
       ],
       "mistakes": [
         "Landing on the top of the head instead of a controlled tripod with the forehead forward.",
@@ -344,10 +407,22 @@
         }
       ],
       "stretches": [
-        "Forearm flexor stretch",
-        "Lat stretch on rack",
-        "Hip flexor stretch",
-        "Biceps wall stretch"
+        {
+          "name": "Forearm flexor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Biceps wall stretch",
+          "detailId": "mw-122"
+        }
       ],
       "mistakes": [
         "Climbing with the arms and arriving at the top with nothing left to descend.",
@@ -402,10 +477,21 @@
         }
       ],
       "stretches": [
-        "Deep squat hold",
-        "Couch stretch",
-        "Banded shoulder dislocates",
-        "Ankle dorsiflexion wall stretch"
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1355"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Banded shoulder dislocates",
+          "detailId": "mw-139"
+        },
+        {
+          "name": "Ankle dorsiflexion wall stretch"
+        }
       ],
       "mistakes": [
         "Catching the ball low and absorbing it with the arms instead of riding it into the squat.",
@@ -463,11 +549,25 @@
         }
       ],
       "stretches": [
-        "Front rack stretch on rack",
-        "Deep squat hold",
-        "Lat stretch on rack",
-        "Triceps overhead stretch",
-        "Couch stretch"
+        {
+          "name": "Front rack stretch on rack"
+        },
+        {
+          "name": "Deep squat hold",
+          "detailId": "mw-1356"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-142"
+        },
+        {
+          "name": "Triceps overhead stretch",
+          "detailId": "mw-135"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1476"
+        }
       ],
       "mistakes": [
         "Pausing at the shoulders and pressing from a dead stop, wasting the leg drive.",
@@ -525,11 +625,26 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Hip flexor stretch",
-        "Forearm flexor stretch",
-        "Lat stretch on rack",
-        "Thumb and wrist stretch"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1329"
+        },
+        {
+          "name": "Hip flexor stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Forearm flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-143"
+        },
+        {
+          "name": "Thumb and wrist stretch",
+          "detailId": "mw-154"
+        }
       ],
       "mistakes": [
         "Dropping the chest and rounding on the way down between reps.",
@@ -587,10 +702,22 @@
         }
       ],
       "stretches": [
-        "Standing quad stretch",
-        "Downward dog calf pedal",
-        "Kneeling hip flexor stretch",
-        "Seated hamstring stretch"
+        {
+          "name": "Standing quad stretch",
+          "detailId": "mw-130"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1369"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Seated hamstring stretch",
+          "detailId": "mw-1330"
+        }
       ],
       "mistakes": [
         "Landing in a deep collapsed squat because the box is too high for the jump.",
@@ -644,11 +771,26 @@
         }
       ],
       "stretches": [
-        "Calf wall stretch",
-        "Downward dog calf pedal",
-        "Wrist flexor stretch",
-        "Wrist extensor stretch",
-        "Shoulder rolls"
+        {
+          "name": "Calf wall stretch",
+          "detailId": "mw-1204"
+        },
+        {
+          "name": "Downward dog calf pedal",
+          "detailId": "mw-1366"
+        },
+        {
+          "name": "Wrist flexor stretch",
+          "detailId": "mw-155"
+        },
+        {
+          "name": "Wrist extensor stretch",
+          "detailId": "mw-152"
+        },
+        {
+          "name": "Shoulder rolls",
+          "detailId": "mw-140"
+        }
       ],
       "mistakes": [
         "Wide 'chicken wing' arms that shorten the rope and catch the feet.",
@@ -703,10 +845,21 @@
         }
       ],
       "stretches": [
-        "Cobra stretch",
-        "Downward dog",
-        "Kneeling hip flexor stretch",
-        "Child's pose"
+        {
+          "name": "Cobra stretch",
+          "detailId": "mw-163"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Kneeling hip flexor stretch",
+          "detailId": "mw-1476"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Sprinting the first ten and standing bent-over gasping for the next thirty seconds.",
@@ -749,10 +902,22 @@
         }
       ],
       "stretches": [
-        "Child's pose breathing",
-        "Supine 90/90 breathing",
-        "Cat-cow",
-        "Thoracic foam-roller extension"
+        {
+          "name": "Child's pose breathing",
+          "detailId": "mw-165"
+        },
+        {
+          "name": "Supine 90/90 breathing",
+          "detailId": "mw-1571"
+        },
+        {
+          "name": "Cat-cow",
+          "detailId": "mw-166"
+        },
+        {
+          "name": "Thoracic foam-roller extension",
+          "detailId": "mw-163"
+        }
       ],
       "mistakes": [
         "Holding the breath through reps and paying with a heart-rate spike.",
@@ -801,10 +966,21 @@
         }
       ],
       "stretches": [
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Pigeon pose",
-        "Downward dog"
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1332"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1479"
+        },
+        {
+          "name": "Pigeon pose",
+          "detailId": "mw-1214"
+        },
+        {
+          "name": "Downward dog"
+        }
       ],
       "mistakes": [
         "Matching the fastest athlete's opening pace instead of your own plan.",
@@ -848,10 +1024,20 @@
         }
       ],
       "stretches": [
-        "Full-body foam rolling",
-        "Downward dog",
-        "Hip circles",
-        "Shoulder rolls"
+        {
+          "name": "Full-body foam rolling"
+        },
+        {
+          "name": "Downward dog"
+        },
+        {
+          "name": "Hip circles",
+          "detailId": "mw-1354"
+        },
+        {
+          "name": "Shoulder rolls",
+          "detailId": "mw-141"
+        }
       ],
       "mistakes": [
         "Walking slow laps between stations as disguised extra rest.",
@@ -899,11 +1085,26 @@
         }
       ],
       "stretches": [
-        "Forearm flexor stretch",
-        "Lat stretch on rack",
-        "Standing hamstring stretch",
-        "Couch stretch",
-        "Child's pose"
+        {
+          "name": "Forearm flexor stretch",
+          "detailId": "mw-153"
+        },
+        {
+          "name": "Lat stretch on rack",
+          "detailId": "mw-144"
+        },
+        {
+          "name": "Standing hamstring stretch",
+          "detailId": "mw-1334"
+        },
+        {
+          "name": "Couch stretch",
+          "detailId": "mw-1474"
+        },
+        {
+          "name": "Child's pose",
+          "detailId": "mw-164"
+        }
       ],
       "mistakes": [
         "Going unbroken early on the movement that fries the muscles the next movement needs.",
