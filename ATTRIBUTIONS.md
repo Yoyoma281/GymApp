@@ -6,7 +6,7 @@ Sport thumbnails are sourced from Wikimedia Commons under their respective licen
 - **Boxing** — [File:Amateur Kick boxing (72386820).jpg](https://commons.wikimedia.org/wiki/File:Amateur_Kick_boxing_(72386820).jpg) by over hilowsee from Akita, Japan, CC BY-SA 2.0
 - **Muay Thai** — [File:Muay Thai Fight Us Vs Burma (80668027).jpeg](https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668027).jpeg) by Gerrit Phil Baumann, CC BY 3.0
 - **Taekwondo** — [File:5th Annual ROK-U S Friendship Children & Family Taekwondo Exhibition Festival (9661742).jpg](https://commons.wikimedia.org/wiki/File:5th_Annual_ROK-U_S_Friendship_Children_%26_Family_Taekwondo_Exhibition_Festival_(9661742).jpg) by U.S. Air Force photo by Tech. Sgt. Desiree Ware, Public domain
-- **Kickboxing** — [File:Founder of Kunlun Fight Jiang Hua.png](https://commons.wikimedia.org/wiki/File:Founder_of_Kunlun_Fight_Jiang_Hua.png) by Ali Elezzabi, CC BY-SA 4.0
+- **Kickboxing** — [File:Indian Kickboxing team at the 2009 Asian Indoor Games.jpg](https://commons.wikimedia.org/wiki/File:Indian_Kickboxing_team_at_the_2009_Asian_Indoor_Games.jpg) by Kickbox yuvi, CC BY-SA 4.0
 - **MMA** — [File:Shaun Spath walks out of the octagon.png](https://commons.wikimedia.org/wiki/File:Shaun_Spath_walks_out_of_the_octagon.png) by U.S. Air Force/Tristan Biese, Public domain
 - **Krav Maga** — [File:RichardDouiebCouteau.png](https://commons.wikimedia.org/wiki/File:RichardDouiebCouteau.png) by kravmagacoaching, CC BY 3.0
 - **Capoeira** — [File:Roda de Capoeira Angola.jpg](https://commons.wikimedia.org/wiki/File:Roda_de_Capoeira_Angola.jpg) by Ayres Alves de Lima Sales, CC BY-SA 4.0
@@ -16,7 +16,7 @@ Sport thumbnails are sourced from Wikimedia Commons under their respective licen
 - **Wrestling** — [File:Olympic Freestyle Wrestling at Excel - 96kg Gold Medal Match 001.jpg](https://commons.wikimedia.org/wiki/File:Olympic_Freestyle_Wrestling_at_Excel_-_96kg_Gold_Medal_Match_001.jpg) by Ed Webster, CC BY 2.0
 - **Aikido** — [File:2013-05-25 51st All Japan Aikido Demonstration.jpg](https://commons.wikimedia.org/wiki/File:2013-05-25_51st_All_Japan_Aikido_Demonstration.jpg) by L'oeil étranger, CC BY 2.0
 - **Fencing** — [File:Romania v France EFS 2013 Fencing WCH t165941.jpg](https://commons.wikimedia.org/wiki/File:Romania_v_France_EFS_2013_Fencing_WCH_t165941.jpg) by Marie-Lan Nguyen, CC BY 3.0
-- **Kendo** — [File:Johnny Devine kendo stick.jpg](https://commons.wikimedia.org/wiki/File:Johnny_Devine_kendo_stick.jpg) by Tabercil, CC BY-SA 3.0
+- **Kendo** — [File:Georgia Kendo Tournament 2025.jpg](https://commons.wikimedia.org/wiki/File:Georgia_Kendo_Tournament_2025.jpg) by Huntsmanleader, CC BY 4.0
 - **Archery** — [File:Japanese archer 1878b.jpg](https://commons.wikimedia.org/wiki/File:Japanese_archer_1878b.jpg) by Unknown authorUnknown author, Public domain
 - **Running** — [File:Marathon runners near the end of the race - geograph.org.uk - 6142899.jpg](https://commons.wikimedia.org/wiki/File:Marathon_runners_near_the_end_of_the_race_-_geograph.org.uk_-_6142899.jpg) by Stephen Craven, CC BY-SA 2.0
 - **Swimming** — [File:Crystal Swimming Pool(GN08758).jpg](https://commons.wikimedia.org/wiki/File:Crystal_Swimming_Pool(GN08758).jpg) by State Government Photographer, CC0
@@ -24,8 +24,8 @@ Sport thumbnails are sourced from Wikimedia Commons under their respective licen
 - **Rowing** — [File:Regata Sevilla Betis 2015.jpg](https://commons.wikimedia.org/wiki/File:Regata_Sevilla_Betis_2015.jpg) by Carlos Molina, CC BY-SA 4.0
 - **Triathlon** — [File:Iron Man World Triathlon Championships DVIDS329120.jpg](https://commons.wikimedia.org/wiki/File:Iron_Man_World_Triathlon_Championships_DVIDS329120.jpg) by Master Sgt. Cohen Young, Public domain
 - **Powerlifting** — [File:2025 Skelton Gym Powerlifting Competition (9326219).jpg](https://commons.wikimedia.org/wiki/File:2025_Skelton_Gym_Powerlifting_Competition_(9326219).jpg) by U.S. Air Force photo by Senior Airman Haiden Morris, Public domain
-- **Olympic Weightlifting** — [File:Weightlifting at the 2016 Summer Olympics - Men's +105 kg 003.jpg](https://commons.wikimedia.org/wiki/File:Weightlifting_at_the_2016_Summer_Olympics_-_Men%27s_%2B105_kg_003.jpg) by Mohammad Hassanzadeh / Tasnimnews, CC BY 4.0
-- **CrossFit** — [File:Crossfit (200277073).jpeg](https://commons.wikimedia.org/wiki/File:Crossfit_(200277073).jpeg) by Jongsun Lee, CC BY 3.0
+- **Olympic Weightlifting** — [File:Ukraine at the 2020 Summer Olympics - (26 July) (4).jpg](https://commons.wikimedia.org/wiki/File:Ukraine_at_the_2020_Summer_Olympics_-_(26_July)_(4).jpg) by sport.gov.ua, CC BY 4.0
+- **CrossFit** — [File:Airmen compete in 2011 Afghan Games 110911-F-XH170-264.jpg](https://commons.wikimedia.org/wiki/File:Airmen_compete_in_2011_Afghan_Games_110911-F-XH170-264.jpg) by Senior Airman David Carbajal, Public domain
 - **Gymnastics** — [File:2015 European Artistic Gymnastics Championships - Rings - Eleftherios Petrounias 07.jpg](https://commons.wikimedia.org/wiki/File:2015_European_Artistic_Gymnastics_Championships_-_Rings_-_Eleftherios_Petrounias_07.jpg) by Pierre-Yves Beaudouin, CC BY-SA 4.0
 - **Yoga** — [File:Beach asana class, Plage Pereire, Arcachon, 2015.jpg](https://commons.wikimedia.org/wiki/File:Beach_asana_class,_Plage_Pereire,_Arcachon,_2015.jpg) by DimiTalen, CC0
 - **Soccer** — [File:Soccer Player Candace edwards.jpg](https://commons.wikimedia.org/wiki/File:Soccer_Player_Candace_edwards.jpg) by YHC, CC BY-SA 4.0
@@ -35,7 +35,7 @@ Sport thumbnails are sourced from Wikimedia Commons under their respective licen
 - **Baseball** — [File:Baseball swing.jpg](https://commons.wikimedia.org/wiki/File:Baseball_swing.jpg) by unknown, Public domain
 - **Rugby** — [File:Tackling, rugby match, Omagh - geograph.org.uk - 4656531.jpg](https://commons.wikimedia.org/wiki/File:Tackling,_rugby_match,_Omagh_-_geograph.org.uk_-_4656531.jpg) by Kenneth  Allen, CC BY-SA 2.0
 - **Golf** — [File:Golfer in Golf Links 2.jpg](https://commons.wikimedia.org/wiki/File:Golfer_in_Golf_Links_2.jpg) by kallerna, CC BY-SA 3.0
-- **Badminton** — [File:Fence 12, Badminton Horse Trials - geograph.org.uk - 794809.jpg](https://commons.wikimedia.org/wiki/File:Fence_12,_Badminton_Horse_Trials_-_geograph.org.uk_-_794809.jpg) by Trish Steel, CC BY-SA 2.0
+- **Badminton** — [File:Nyl.jpg](https://commons.wikimedia.org/wiki/File:Nyl.jpg) by Alexhu18, CC BY-SA 4.0
 - **Climbing** — [File:Joshue Tree National Park - Manx Boulder - 2.jpg](https://commons.wikimedia.org/wiki/File:Joshue_Tree_National_Park_-_Manx_Boulder_-_2.jpg) by Jarek Tuszyński, CC BY-SA 3.0
 - **Hiking** — [File:Hiker subalpine backpacking mountain people NPS Photo (23061216662).jpg](https://commons.wikimedia.org/wiki/File:Hiker_subalpine_backpacking_mountain_people_NPS_Photo_(23061216662).jpg) by Olympic National Park, Public domain
 - **Surfing** — [File:La horde - Surfers riding a wave in Paea, Tahiti.jpg](https://commons.wikimedia.org/wiki/File:La_horde_-_Surfers_riding_a_wave_in_Paea,_Tahiti.jpg) by Brigittebourger Brigitte Bourger, CC BY-SA 4.0
