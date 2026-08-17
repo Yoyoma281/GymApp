@@ -42,8 +42,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
+        "id": 7,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -85,12 +85,7 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -136,6 +131,10 @@
     "force": "Push",
     "mechanic": "Compound",
     "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
       {
         "id": 10,
         "front": true
@@ -187,16 +186,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Sled_Push": {
@@ -215,22 +213,22 @@
     ],
     "muscleIds": [
       {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
         "id": 10,
         "front": true
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 2,
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 4,
         "front": true
+      },
+      {
+        "id": 8,
+        "front": false
       },
       {
         "id": 11,
@@ -300,16 +298,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-204": {
@@ -355,28 +344,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 14,
-        "front": true
-      },
-      {
         "id": 6,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 10,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-8": {
@@ -422,24 +394,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 8,
-        "front": false
-      },
-      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-223": {
@@ -483,7 +442,12 @@
     "equipment": "Cables",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -529,24 +493,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 8,
-        "front": false
-      },
-      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-297": {
@@ -615,20 +566,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
         "id": 4,
         "front": true
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -680,12 +619,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 3,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-2495": {
@@ -751,12 +685,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-206": {
@@ -854,14 +783,13 @@
       {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
+      },
       {
-        "id": 7,
-        "front": false
+        "id": 10,
+        "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-23": {
@@ -907,16 +835,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 1,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 12,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-744": {
@@ -962,20 +885,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
+        "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-250": {
@@ -1020,40 +934,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
         "id": 14,
         "front": true
-      },
-      {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 3,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1246": {
@@ -1099,7 +984,7 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 7,
+        "id": 9,
         "front": false
       }
     ],
@@ -1146,26 +1031,8 @@
     "equipment": "Dumbbells",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 13,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-1430": {
@@ -1232,20 +1099,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-743": {
@@ -1294,16 +1148,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-538": {
@@ -1397,24 +1242,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 3,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-22": {
@@ -1461,8 +1289,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 9,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -1604,28 +1432,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
         "id": 6,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Cable_Internal_Rotation": {
@@ -1638,7 +1449,7 @@
     "secondaryMuscles": [],
     "muscleIds": [
       {
-        "id": 14,
+        "id": 2,
         "front": true
       }
     ],
@@ -1702,26 +1513,13 @@
       {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
+      },
       {
         "id": 11,
         "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 10,
-        "front": true
-      },
-      {
-        "id": 15,
-        "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-269": {
@@ -1765,7 +1563,12 @@
     "equipment": "Band",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -1812,28 +1615,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
       },
       {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 9,
+        "id": 11,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Backward_Medicine_Ball_Throw": {
@@ -1844,7 +1634,12 @@
       "shoulders"
     ],
     "secondaryMuscles": [],
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "medicine ball",
@@ -1951,16 +1746,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 11,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-33": {
@@ -2010,12 +1804,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 15,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1625": {
@@ -2060,20 +1849,19 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
         "id": 14,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-867": {
@@ -2122,16 +1910,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-40": {
@@ -2174,12 +1953,7 @@
     "equipment": "Machine",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -2224,16 +1998,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 9,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 2,
         "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-31": {
@@ -2274,16 +2043,7 @@
     "equipment": "Barbell",
     "force": "",
     "mechanic": null,
-    "muscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 13,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -2362,16 +2122,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-48": {
@@ -2419,18 +2170,9 @@
       {
         "id": 12,
         "front": false
-      },
-      {
-        "id": 9,
-        "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Side_Leg_Raises": {
@@ -2441,12 +2183,7 @@
       "adductors"
     ],
     "secondaryMuscles": [],
-    "muscleIds": [
-      {
-        "id": 2,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "body only",
@@ -2473,7 +2210,24 @@
       "traps"
     ],
     "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "difficulty": "expert",
     "equipment": "barbell",
     "steps": [
@@ -2531,16 +2285,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-1007": {
@@ -2594,7 +2339,12 @@
     "equipment": "Bodyweight",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -2637,22 +2387,8 @@
     "equipment": "Kettlebells",
     "force": "Pull",
     "mechanic": "Compound",
-    "muscleIds": [
-      {
-        "id": 14,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "muscleIds": [],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1597": {
@@ -2697,52 +2433,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
-        "id": 10,
-        "front": true
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      },
-      {
-        "id": 5,
+        "id": 7,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-329": {
@@ -2786,7 +2481,12 @@
     "equipment": "Barbell",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -2869,12 +2569,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-372": {
@@ -2929,12 +2624,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-42": {
@@ -2978,16 +2668,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Ab_Crunch_Machine": {
@@ -3000,7 +2689,7 @@
     "secondaryMuscles": [],
     "muscleIds": [
       {
-        "id": 1,
+        "id": 6,
         "front": true
       }
     ],
@@ -3030,7 +2719,24 @@
       "quadriceps"
     ],
     "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -3054,14 +2760,14 @@
     ],
     "muscleIds": [
       {
-        "id": 10,
+        "id": 2,
         "front": true
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 7,
-        "front": false
+        "id": 6,
+        "front": true
       }
     ],
     "difficulty": "beginner",
@@ -3119,14 +2825,13 @@
       {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
+      },
       {
-        "id": 6,
+        "id": 10,
         "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1611": {
@@ -3168,7 +2873,12 @@
     "equipment": "Dumbbells",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -3210,7 +2920,12 @@
     "equipment": "Medicine-Ball",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -3358,16 +3073,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-377": {
@@ -3414,10 +3120,6 @@
       {
         "id": 4,
         "front": true
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -3467,14 +3169,6 @@
       {
         "id": 12,
         "front": false
-      },
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 3,
-        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -3519,7 +3213,16 @@
     "equipment": "Bodyweight",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -3613,8 +3316,18 @@
     "secondaryMuscles": [
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -3634,12 +3347,7 @@
       "abductors"
     ],
     "secondaryMuscles": [],
-    "muscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "bands",
@@ -3662,11 +3370,16 @@
     ],
     "muscleIds": [
       {
-        "id": 14,
+        "id": 6,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "cable",
     "steps": [
@@ -3722,7 +3435,12 @@
     "equipment": "Cables",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -3810,8 +3528,26 @@
       "glutes",
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -3861,7 +3597,16 @@
     "equipment": "Recovery",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -3909,16 +3654,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 8,
         "front": false
+      },
+      {
+        "id": 11,
+        "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-191": {
@@ -3970,12 +3714,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-56": {
@@ -4068,24 +3807,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
       },
       {
-        "id": 9,
+        "id": 11,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Alternate_Leg_Diagonal_Bound": {
@@ -4102,8 +3832,26 @@
       "glutes",
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": null,
     "steps": [
@@ -4126,8 +3874,26 @@
       "hamstrings",
       "quadriceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "medicine ball",
     "steps": [
@@ -4179,16 +3945,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 8,
         "front": false
+      },
+      {
+        "id": 11,
+        "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1097": {
@@ -4232,7 +3997,20 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -4290,8 +4068,26 @@
       "glutes",
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -4346,20 +4142,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 10,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
+        "id": 11,
         "front": false
-      },
-      {
-        "id": 6,
-        "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1345": {
@@ -4405,10 +4192,6 @@
     "muscleIds": [
       {
         "id": 11,
-        "front": false
-      },
-      {
-        "id": 8,
         "front": false
       }
     ],
@@ -4503,7 +4286,12 @@
     "equipment": "Bodyweight",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -4559,16 +4347,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Stride_Jump_Crossover": {
@@ -4584,8 +4363,22 @@
       "calves",
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -4617,6 +4410,14 @@
     "secondaryMuscleIds": [
       {
         "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
         "front": false
       }
     ],
@@ -4672,19 +4473,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
-        "id": 3,
+        "id": 4,
         "front": true
       }
     ],
@@ -4783,7 +4572,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
       }
     ],
@@ -4802,8 +4591,26 @@
       "shoulders",
       "triceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -4828,15 +4635,26 @@
       "quadriceps",
       "traps"
     ],
-    "muscleIds": [
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
       {
         "id": 11,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
+      },
       {
-        "id": 7,
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 9,
         "front": false
       }
     ],
@@ -4892,7 +4710,12 @@
     "equipment": "Plate",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -4912,7 +4735,12 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "difficulty": "intermediate",
     "equipment": "dumbbell",
     "steps": [
@@ -4968,16 +4796,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 14,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-866": {
@@ -5028,12 +4847,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 14,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1593": {
@@ -5079,8 +4893,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 8,
-        "front": false
+        "id": 6,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -5099,18 +4913,18 @@
     ],
     "muscleIds": [
       {
-        "id": 12,
+        "id": 5,
         "front": false
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
       },
       {
-        "id": 9,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "difficulty": "beginner",
@@ -5216,10 +5030,6 @@
       {
         "id": 4,
         "front": true
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -5268,20 +5078,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
+        "id": 2,
         "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1318": {
@@ -5327,7 +5128,7 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 11,
+        "id": 8,
         "front": false
       }
     ],
@@ -5425,20 +5226,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
+        "id": 5,
         "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
-        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -5485,16 +5274,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-543": {
@@ -5539,28 +5327,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 14,
-        "front": true
-      },
-      {
         "id": 6,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 10,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-911": {
@@ -5624,8 +5395,26 @@
       "middle back",
       "shoulders"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "difficulty": "intermediate",
     "equipment": "other",
     "steps": [
@@ -5678,15 +5467,7 @@
     "mechanic": null,
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
         "id": 14,
-        "front": true
-      },
-      {
-        "id": 6,
         "front": true
       }
     ],
@@ -5836,22 +5617,9 @@
       {
         "id": 1,
         "front": true
-      },
-      {
-        "id": 13,
-        "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 6,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Flat_Bench_Cable_Flyes": {
@@ -5975,16 +5743,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-481": {
@@ -6030,8 +5797,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 4,
-        "front": true
+        "id": 8,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -6247,7 +6014,12 @@
     "equipment": "Bodyweight",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -6293,19 +6065,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 4,
         "front": true
       }
     ],
@@ -6352,20 +6112,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
         "id": 9,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1075": {
@@ -6410,7 +6161,12 @@
     "equipment": "Bodyweight",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -6426,14 +6182,14 @@
     ],
     "muscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 9,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "difficulty": "intermediate",
@@ -6536,7 +6292,20 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -6584,16 +6353,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-1091": {
@@ -6674,7 +6442,16 @@
     "equipment": "Bodyweight",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -6720,7 +6497,16 @@
     "equipment": "Plate",
     "force": "Hold",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -6788,20 +6574,11 @@
     "mechanic": null,
     "muscleIds": [
       {
-        "id": 8,
-        "front": false
-      },
-      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-348": {
@@ -6863,8 +6640,18 @@
     "secondaryMuscles": [
       "hamstrings"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -6954,24 +6741,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 10,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 7,
-        "front": false
-      },
-      {
         "id": 8,
         "front": false
       },
       {
-        "id": 6,
+        "id": 10,
         "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-231": {
@@ -7014,12 +6792,7 @@
     "equipment": "Cables",
     "force": "",
     "mechanic": null,
-    "muscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -7066,20 +6839,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 6,
+        "id": 1,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Push_Up_to_Side_Plank": {
@@ -7094,8 +6858,26 @@
       "shoulders",
       "triceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -7117,7 +6899,7 @@
     "secondaryMuscles": [],
     "muscleIds": [
       {
-        "id": 4,
+        "id": 2,
         "front": true
       }
     ],
@@ -7214,12 +6996,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-859": {
@@ -7311,20 +7088,7 @@
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-477": {
@@ -7373,12 +7137,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 13,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Knee_Hip_Raise_On_Parallel_Bars": {
@@ -7395,16 +7154,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -7470,20 +7220,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
+        "id": 1,
+        "front": true
       },
       {
-        "id": 9,
+        "id": 12,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-880": {
@@ -7574,16 +7319,19 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 2,
+        "front": true
+      },
+      {
+        "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-469": {
@@ -7633,24 +7381,19 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
+        "id": 8,
         "front": false
       },
       {
-        "id": 8,
-        "front": false
+        "id": 2,
+        "front": true
       },
       {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1712": {
@@ -7699,16 +7442,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
+        "id": 9,
+        "front": false
+      },
       {
         "id": 8,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-474": {
@@ -7751,7 +7493,12 @@
     "equipment": "Bodyweight",
     "force": "Pull",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -7906,28 +7653,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 6,
-        "front": true
-      },
-      {
-        "id": 3,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-28": {
@@ -7973,10 +7703,6 @@
     "muscleIds": [
       {
         "id": 11,
-        "front": false
-      },
-      {
-        "id": 8,
         "front": false
       }
     ],
@@ -8053,12 +7779,7 @@
     "equipment": "Recovery",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -8161,12 +7882,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Close-Grip_Push-Up_off_of_a_Dumbbell": {
@@ -8183,18 +7899,22 @@
     ],
     "muscleIds": [
       {
-        "id": 4,
-        "front": true
+        "id": 5,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 2,
+        "id": 6,
         "front": true
       },
       {
-        "id": 5,
-        "front": false
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
       }
     ],
     "difficulty": "intermediate",
@@ -8246,7 +7966,16 @@
     "equipment": "Bodyweight",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -8262,8 +7991,26 @@
       "chest",
       "shoulders"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "medicine ball",
     "steps": [
@@ -8326,6 +8073,10 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 11,
         "front": false
       }
@@ -8374,8 +8125,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 5,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -8424,16 +8175,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1774": {
@@ -8476,7 +8226,12 @@
     "equipment": "Bodyweight",
     "force": "Hold",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -8519,7 +8274,12 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -8562,7 +8322,12 @@
     "equipment": "Bodyweight",
     "force": "Hold",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -8608,8 +8373,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 10,
-        "front": true
+        "id": 9,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -8658,7 +8423,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 14,
+        "id": 6,
         "front": true
       }
     ],
@@ -8731,10 +8496,6 @@
     "force": "Hold",
     "mechanic": "Isolation",
     "muscleIds": [
-      {
-        "id": 14,
-        "front": true
-      },
       {
         "id": 6,
         "front": true
@@ -8884,8 +8645,8 @@
         "front": true
       },
       {
-        "id": 5,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -8939,8 +8700,8 @@
     "secondaryMuscles": [],
     "muscleIds": [
       {
-        "id": 1,
-        "front": true
+        "id": 7,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -8966,8 +8727,22 @@
       "shoulders",
       "triceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "body only",
     "steps": [
@@ -9085,7 +8860,16 @@
     "equipment": "Recovery",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -9130,20 +8914,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
         "id": 4,
         "front": true
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -9253,11 +9025,24 @@
     ],
     "muscleIds": [
       {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
         "id": 9,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [],
     "difficulty": "intermediate",
     "equipment": "barbell",
     "steps": [
@@ -9368,7 +9153,7 @@
     "mechanic": null,
     "muscleIds": [
       {
-        "id": 5,
+        "id": 11,
         "front": false
       }
     ],
@@ -9419,8 +9204,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
+        "id": 10,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -9475,16 +9260,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-446": {
@@ -9533,16 +9309,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 9,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-264": {
@@ -9589,22 +9360,9 @@
       {
         "id": 12,
         "front": false
-      },
-      {
-        "id": 9,
-        "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 13,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1020": {
@@ -9648,16 +9406,7 @@
     "equipment": "Cables",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 1,
-        "front": true
-      },
-      {
-        "id": 13,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -9671,8 +9420,18 @@
     "secondaryMuscles": [
       "shoulders"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "cable",
     "steps": [
@@ -9730,24 +9489,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 2,
         "front": true
-      },
-      {
-        "id": 14,
-        "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-244": {
@@ -9792,8 +9538,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 10,
-        "front": true
+        "id": 5,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -9811,26 +9557,9 @@
       {
         "id": 12,
         "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
-        "id": 6,
-        "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "medicine ball",
     "steps": [
@@ -9940,16 +9669,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 5,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Balance_Board": {
@@ -9965,12 +9685,8 @@
     ],
     "muscleIds": [
       {
-        "id": 8,
+        "id": 7,
         "front": false
-      },
-      {
-        "id": 10,
-        "front": true
       }
     ],
     "secondaryMuscleIds": [
@@ -9979,11 +9695,7 @@
         "front": false
       },
       {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 6,
+        "id": 10,
         "front": true
       }
     ],
@@ -10039,19 +9751,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 4,
         "front": true
       }
     ],
@@ -10099,8 +9799,8 @@
     "mechanic": null,
     "muscleIds": [
       {
-        "id": 9,
-        "front": false
+        "id": 2,
+        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -10148,24 +9848,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 1,
-        "front": true
-      },
-      {
         "id": 12,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 13,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-305": {
@@ -10208,24 +9895,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
         "id": 8,
         "front": false
-      },
-      {
-        "id": 10,
-        "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Battling_Ropes": {
@@ -10241,50 +9915,14 @@
     ],
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
-        "id": 10,
-        "front": true
-      },
-      {
-        "id": 6,
+        "id": 2,
         "front": true
       }
     ],
     "secondaryMuscleIds": [
       {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 1,
-        "front": true
-      },
-      {
         "id": 4,
         "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "difficulty": "beginner",
@@ -10373,7 +10011,20 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -10388,8 +10039,22 @@
       "chest",
       "triceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "medicine ball",
     "steps": [
@@ -10410,14 +10075,6 @@
     ],
     "secondaryMuscles": [],
     "muscleIds": [
-      {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
       {
         "id": 6,
         "front": true
@@ -10479,19 +10136,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 2,
         "front": true
       }
     ],
@@ -10539,28 +10184,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 14,
-        "front": true
-      },
-      {
-        "id": 6,
+        "id": 4,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1154": {
@@ -10613,16 +10241,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Drop_Push": {
@@ -10638,15 +10257,7 @@
     ],
     "muscleIds": [
       {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 4,
         "front": true
       }
     ],
@@ -10654,10 +10265,6 @@
       {
         "id": 2,
         "front": true
-      },
-      {
-        "id": 11,
-        "front": false
       },
       {
         "id": 5,
@@ -10715,8 +10322,8 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
+        "id": 8,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -10766,19 +10373,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 2,
         "front": true
       }
     ],
@@ -10849,27 +10444,16 @@
     ],
     "muscleIds": [
       {
-        "id": 1,
-        "front": true
-      },
-      {
         "id": 11,
-        "front": false
-      },
-      {
-        "id": 4,
-        "front": true
-      },
-      {
-        "id": 9,
-        "front": false
-      },
-      {
-        "id": 5,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -10927,16 +10511,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 8,
         "front": false
+      },
+      {
+        "id": 11,
+        "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-304": {
@@ -10982,20 +10565,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
+        "id": 2,
         "front": true
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1706": {
@@ -11040,6 +10614,10 @@
     "force": "Pull",
     "mechanic": "Compound",
     "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
       {
         "id": 2,
         "front": true
@@ -11091,20 +10669,15 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
+        "id": 2,
+        "front": true
       },
       {
         "id": 9,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1709": {
@@ -11151,6 +10724,10 @@
     "force": "Pull",
     "mechanic": "Compound",
     "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
       {
         "id": 2,
         "front": true
@@ -11211,20 +10788,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      },
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-357": {
@@ -11268,7 +10832,16 @@
     "equipment": "Barbell",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -11311,6 +10884,10 @@
     "force": "Pull",
     "mechanic": "Compound",
     "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
       {
         "id": 2,
         "front": true
@@ -11365,16 +10942,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
-        "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 8,
         "front": false
+      },
+      {
+        "id": 11,
+        "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-1529": {
@@ -11449,7 +11025,16 @@
     "equipment": "Plate",
     "force": "Hold",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -11494,14 +11079,6 @@
     "force": "Push",
     "mechanic": "Compound",
     "muscleIds": [
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
       {
         "id": 8,
         "front": false
@@ -11556,16 +11133,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-315": {
@@ -11609,16 +11185,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-834": {
@@ -11673,12 +11248,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-344": {
@@ -11724,16 +11294,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
+        "id": 8,
+        "front": false
+      },
+      {
         "id": 10,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-16": {
@@ -11777,7 +11346,7 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 9,
+        "id": 5,
         "front": false
       }
     ],
@@ -11825,10 +11394,6 @@
     "force": "Push",
     "mechanic": "Compound",
     "muscleIds": [
-      {
-        "id": 4,
-        "front": true
-      },
       {
         "id": 5,
         "front": false
@@ -11879,19 +11444,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 4,
         "front": true
       }
     ],
@@ -11941,16 +11494,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 4,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 5,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-39": {
@@ -11998,16 +11546,11 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 12,
+        "id": 9,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1504": {
@@ -12051,12 +11594,7 @@
     "equipment": "Machine",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 8,
-        "front": false
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -12068,7 +11606,12 @@
       "abdominals"
     ],
     "secondaryMuscles": [],
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "body only",
@@ -12202,10 +11745,6 @@
       {
         "id": 11,
         "front": false
-      },
-      {
-        "id": 8,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -12254,24 +11793,15 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
         "id": 8,
         "front": false
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
       },
       {
-        "id": 9,
+        "id": 11,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-345": {
@@ -12319,18 +11849,9 @@
       {
         "id": 12,
         "front": false
-      },
-      {
-        "id": 9,
-        "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 10,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-1852": {
@@ -12375,19 +11896,7 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
-        "id": 8,
-        "front": false
-      },
-      {
-        "id": 10,
+        "id": 4,
         "front": true
       }
     ],
@@ -12512,16 +12021,11 @@
     "mechanic": null,
     "muscleIds": [
       {
-        "id": 12,
+        "id": 5,
         "front": false
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 2,
-        "front": true
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-202": {
@@ -12566,8 +12070,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 2,
-        "front": true
+        "id": 7,
+        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -12587,8 +12091,26 @@
       "glutes",
       "quadriceps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "difficulty": "beginner",
     "equipment": "other",
     "steps": [
@@ -12644,14 +12166,6 @@
     "mechanic": "Compound",
     "muscleIds": [
       {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      },
-      {
         "id": 8,
         "front": false
       },
@@ -12702,12 +12216,7 @@
     "equipment": "Recovery",
     "force": "Pull",
     "mechanic": "Isolation",
-    "muscleIds": [
-      {
-        "id": 2,
-        "front": true
-      }
-    ],
+    "muscleIds": [],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -12798,10 +12307,6 @@
       {
         "id": 8,
         "front": false
-      },
-      {
-        "id": 10,
-        "front": true
       }
     ],
     "secondaryMuscleIds": [],
@@ -12848,7 +12353,16 @@
     "equipment": "Bodyweight",
     "force": "Push",
     "mechanic": "Compound",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -12898,10 +12412,6 @@
       {
         "id": 2,
         "front": true
-      },
-      {
-        "id": 9,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -12979,16 +12489,11 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 4,
-        "front": true
-      }
-    ],
-    "secondaryMuscleIds": [
-      {
         "id": 12,
         "front": false
       }
     ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "mw-470": {
@@ -13055,12 +12560,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "dumbbell",
     "steps": [
@@ -13165,12 +12665,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "fed-Dumbbell_Flyes": {
@@ -13183,16 +12678,11 @@
     "secondaryMuscles": [],
     "muscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 9,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "difficulty": "beginner",
     "equipment": "dumbbell",
     "steps": [
@@ -13255,16 +12745,7 @@
         "front": true
       }
     ],
-    "secondaryMuscleIds": [
-      {
-        "id": 11,
-        "front": false
-      },
-      {
-        "id": 7,
-        "front": false
-      }
-    ],
+    "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
   "wger-378": {
@@ -13333,7 +12814,12 @@
     "equipment": "Cardio",
     "force": "Push",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -13377,7 +12863,12 @@
     "equipment": "Bodyweight",
     "force": "Hold",
     "mechanic": "Isolation",
-    "muscleIds": [],
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
     "secondaryMuscleIds": [],
     "source": "musclewiki"
   },
@@ -13423,12 +12914,8 @@
     "mechanic": "Isolation",
     "muscleIds": [
       {
-        "id": 2,
+        "id": 4,
         "front": true
-      },
-      {
-        "id": 5,
-        "front": false
       }
     ],
     "secondaryMuscleIds": [],
@@ -13448,8 +12935,34 @@
       "shoulders",
       "traps"
     ],
-    "muscleIds": [],
-    "secondaryMuscleIds": [],
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
     "difficulty": "intermediate",
     "equipment": "barbell",
     "steps": [
@@ -13536,7 +13049,14 @@
       "While the other leg is to your side, also flat on the ground with your foot pointed backwards.",
       "Hold this position for the prescribed amount of time then change sides."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1204": {
     "name": "Gastrocnemius Stretch Push Up Position",
@@ -13573,7 +13093,14 @@
       "Straighten your knees and try to push one heel down towards the ground.",
       "Cross your other leg over the top to apply extra pressure to the stretch."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-128": {
     "name": "Quads Stretch Variation Four",
@@ -13609,7 +13136,14 @@
       "Keeping your upper leg flat on the floor, pull your foot towards your buttocks to engage the stretch.",
       "Pause for a few seconds, and then repeat the stretch with your other leg."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1474": {
     "name": "Hip Flexor Stretch Kneeling Lunge 3",
@@ -13647,7 +13181,14 @@
       "Slide the front knee forward while gently leaning back.",
       "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-145": {
     "name": "Hamstrings Stretch Variation Four",
@@ -13683,7 +13224,14 @@
       "Reach forward to try and touch your toes. Reach as far forward as you can go.",
       "Hold the stretch for a few seconds then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1366": {
     "name": "Gastrocnemius Stretch Unilateral On Box",
@@ -13720,7 +13268,14 @@
       "Bend one leg while allowing the weight to push the heel of your straight leg towards the ground.",
       "You should feel your calves being stretched."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-163": {
     "name": "Lower back Stretch Variation Four",
@@ -13756,7 +13311,9 @@
       "Grab your legs just below the knees, and pull your legs towards your chest.",
       "Pause at the apex of the stretch, then return to the starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-1476": {
     "name": "Hip Flexor Stretch Kneeling Lunge 2",
@@ -13792,7 +13349,14 @@
       "Slide the front knee forward while gently leaning back. Raise your arm diagonally backwards",
       "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-146": {
     "name": "Hamstrings Stretch Variation Three",
@@ -13828,7 +13392,14 @@
       "Reach forward to touch the toes of the outstretched leg.",
       "Hold the stretch for a few seconds then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-164": {
     "name": "Lower back Stretch Variation Three",
@@ -13864,7 +13435,9 @@
       "Raise your knees so that they are pointing straight towards the ceiling. Keeping your legs pressed together, rotate your hips to either side.",
       "Repeat this motion as necessary."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-165": {
     "name": "Lower back Stretch Variation Two",
@@ -13901,7 +13474,9 @@
       "Rotate your hips so that your knees are pointing sideways, keeping your hooked leg flat against the floor.",
       "Pause at the apex of the stretch and repeat with your other leg."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-138": {
     "name": "Shoulders Stretch Variation Four",
@@ -13939,7 +13514,14 @@
       "Press the arm until it is straight and rotate your upper torso to engage the stretch even deeper.",
       "Repeat with your other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-166": {
     "name": "Lower back Stretch Variation One",
@@ -13975,7 +13557,9 @@
       "With your arms fully extended, rest your buttocks on the heels of your feet, you can crawl your hands forward to extend the stretch if need be.",
       "Hold the extended position for a few seconds, and return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-124": {
     "name": "Chest Stretch Variation Four",
@@ -14011,7 +13595,14 @@
       "Slowly bring your arms behind your back still at shoulder height.",
       "Pause for a few seconds and then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-125": {
     "name": "Chest Stretch Variation Three",
@@ -14047,7 +13638,14 @@
       "Slowly extend your elbows until they are locked then lift them away from you.",
       "Pause in this position for a few seconds and then return them to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-142": {
     "name": "Lats Stretch Variation Three",
@@ -14083,7 +13681,14 @@
       "Slowly lean into the wall.",
       "Return to starting position, then switch sides."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-152": {
     "name": "Forearms Stretch Variation Four",
@@ -14120,7 +13725,9 @@
       "Rotate the arm across your body.",
       "Switch sides and repeat."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-139": {
     "name": "Shoulders Stretch Variation Three",
@@ -14158,7 +13765,14 @@
       "Hold your elbow with the other arm, and slowly pull the arm forward until you feel your shoulder engaged in the stretch. Pause at the apex of the stretch and return to the starting position.",
       "Return to starting position, and repeat with your other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-153": {
     "name": "Forearms Stretch Variation Three",
@@ -14195,7 +13809,9 @@
       "Hold at the peak of the stretch.",
       "Return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-126": {
     "name": "Chest Stretch Variation Two",
@@ -14231,7 +13847,14 @@
       "With a slight bend in your arm, rotate your arm around your body as slowly as possible.",
       "Return to the starting position and then repeat on the other side."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-154": {
     "name": "Forearms Stretch Variation Two",
@@ -14268,7 +13891,9 @@
       "Hold at the peak of the stretch.",
       "Return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-155": {
     "name": "Forearms Stretch Variation One",
@@ -14305,7 +13930,9 @@
       "Hold at the peak of the stretch.",
       "Return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-140": {
     "name": "Shoulders Stretch Variation Two",
@@ -14345,7 +13972,14 @@
       "Continue the circular motion with your shoulders, pinching up towards your ears, and then extending your chest outwards while you finish the motion.",
       "Repeat as necessary."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-141": {
     "name": "Shoulders Stretch Variation One",
@@ -14384,7 +14018,14 @@
       "Assist the stretch with your other hand on your elbow to engage your shoulder.",
       "Pause for a few seconds, then repeat the stretch with your other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-135": {
     "name": "Triceps Stretch Variation Three",
@@ -14420,7 +14061,14 @@
       "Gently push on your elbow so it is raised by your head.",
       "Hold the stretch for a few seconds then repeat with the other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-127": {
     "name": "Chest Stretch Variation One",
@@ -14456,7 +14104,14 @@
       "With a staggered stance, lean into the wall extending your chest.",
       "Pause for a few seconds and then return to starting position and repeat on opposite side."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1479": {
     "name": "Hip Flexor Stretch Kneeling Lunge 1",
@@ -14493,7 +14148,14 @@
       "Slide the front knee forward while gently leaning back.",
       "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-132": {
     "name": "Traps Stretch Variation Three",
@@ -14529,7 +14191,14 @@
       "Nod your head forward, bringing your chin to your chest.",
       "You will feel the stretch across your neck."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-147": {
     "name": "Hamstrings Stretch Variation Two",
@@ -14565,7 +14234,14 @@
       "Bend your rear leg as much as you can, keeping the front leg straight.",
       "Hold the stretch for a few seconds then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-129": {
     "name": "Quads Stretch Variation Three",
@@ -14601,7 +14277,14 @@
       "Keeping your upper legs flat on the ground, pull both of your feet towards your buttocks.",
       "Pause at the apex of the stretch, then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-148": {
     "name": "Hamstrings Stretch Variation One",
@@ -14638,7 +14321,14 @@
       "Push your thigh towards the wall.",
       "Hold the stretch for a few seconds then return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1367": {
     "name": "Gastrocnemius Stretch Unilateral On Wall",
@@ -14675,7 +14365,14 @@
       "Place the palms on the wall and extend one leg behind you, while slightly bending the front leg.",
       "Push the wall in order to drive the heel of the extended leg into the ground till you feel a stretch in your calf."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1202": {
     "name": "Hamstring Stretch Supine Glide",
@@ -14712,7 +14409,14 @@
       "Raise your leg to stretching point with the aid of the band, keeping a slightly bent knee.",
       "Extend and bend your knee to actively stretch your hamstring."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1214": {
     "name": "Glute Hip Rotator Stretch 3 Seated",
@@ -14748,7 +14452,14 @@
       "Cross the ankle of one leg over the knee of the other.",
       "Push your knee away from you and lean forward for a specified amount of time."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-133": {
     "name": "Traps Stretch Variation Two",
@@ -14784,7 +14495,14 @@
       "Keeping your chest facing forward, turn your head 90 degrees to the left. Then return to centre point.",
       "Repeat, turning your head in the other direction."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-143": {
     "name": "Lats Stretch Variation Two",
@@ -14820,7 +14538,14 @@
       "Slowly lean across your body and trace the opposite hand down your leg.",
       "Hold at the bottom of the stretch, return to starting position and then switch sides."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-134": {
     "name": "Traps Stretch Variation One",
@@ -14856,7 +14581,14 @@
       "Place your left hand on your head and gently pull your head down towards your left shoulder. Then return to centre point.",
       "Repeat, using your right hand pulling towards your right shoulder."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-167": {
     "name": "Traps mid back Stretch Variation Two",
@@ -14893,7 +14625,14 @@
       "Hold at the peak of the stretch, then slowly return to starting position.",
       "Switch sides and repeat."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-168": {
     "name": "Traps mid back Stretch Variation One",
@@ -14929,7 +14668,14 @@
       "Press the arm until it is straight and rotate your upper torso to engage the stretch even deeper.",
       "Repeat with your other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-144": {
     "name": "Lats Stretch Variation One",
@@ -14965,7 +14711,14 @@
       "Slowly lower your body until you feel the stretch.",
       "Hold at the bottom of the stretch, return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-136": {
     "name": "Triceps Stretch Variation Two",
@@ -15001,7 +14754,14 @@
       "Keeping the top still, pull down on the band.",
       "Hold the stretch for a few seconds then repeat with the other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1369": {
     "name": "Gastrocnemius Stretch Bilateral On Box",
@@ -15038,7 +14798,14 @@
       "Let your weight push your heels towards the ground.",
       "You should feel your calves being stretched."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-130": {
     "name": "Quads Stretch Variation Two",
@@ -15074,7 +14841,14 @@
       "Place your hands on your knee in front of you, and lean forward so that your knee extends over your foot.",
       "Pause at the apex of the stretch, and slowly return to starting position. Repeat with your other leg."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1470": {
     "name": "Adductor Stretch Seated Bilateral Static",
@@ -15111,7 +14885,9 @@
       "If you feel that gravity isn't enough, you can apply gentle downward pressure on your knees with your palms",
       "Try to maintain a straight back while performing the exercise"
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-1203": {
     "name": "Hamstring Stretch Supine Dynamic Band",
@@ -15148,7 +14924,14 @@
       "Raise your leg to stretching point with the aid of the band (strap).",
       "Tug onto the strap on the end of range to dynamically stretch the hamstring."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1354": {
     "name": "Glute Hip Rotator Stretch 2 Seated",
@@ -15184,7 +14967,14 @@
       "Cross the ankle of one leg over the knee of the other.",
       "Pull your knee toward  you and hold for a specified amount of time."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1355": {
     "name": "Glute Hip Rotator Stretch 1 Seated",
@@ -15220,7 +15010,14 @@
       "Cross the ankle of one leg over the knee of the other.",
       "Press the knee of the crossed leg outwards."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1329": {
     "name": "Hamstring Stretch Supine Static",
@@ -15257,7 +15054,14 @@
       "Raise your leg to stretching point with the aid of the band (strap).",
       "Tug onto the strap on the end of range to dynamically stretch the hamstring."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-131": {
     "name": "Quads Stretch Variation One",
@@ -15293,7 +15097,14 @@
       "Pull your leg upwards and back to engage your quads, pausing at the apex of the stretch for a few seconds.",
       "Return to starting position and repeat with your other leg."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-137": {
     "name": "Triceps Stretch Variation One",
@@ -15329,7 +15140,14 @@
       "Use the opposite hand to gently apply pressure to the elbow.",
       "Hold the stretch for a few seconds then repeat with the other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1330": {
     "name": "Hamstring Stretch Static Standing Single Leg",
@@ -15365,7 +15183,14 @@
       "Raise your toes and lean over towards them.",
       "Maintain the position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1356": {
     "name": "Glute Hip Rotator Stretch Supine",
@@ -15402,7 +15227,14 @@
       "Reach in between your legs, grabbing the thigh of the leg that is still on the ground.",
       "Pull that leg towards your chest."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1332": {
     "name": "Hamstring Stretch Seated Single Leg Isometric",
@@ -15438,7 +15270,14 @@
       "Bend one leg and tuck the foot by the straight leg's knee.",
       "Dynamically reach forward towards your toes and return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1334": {
     "name": "Hamstring Stretch Seated Single Leg",
@@ -15473,7 +15312,14 @@
       "Start seated with one leg extended and the other bent.",
       "Reach toward the foot of the leg that is extended, bouncing back and forth between the beginning and stretched positions."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1472": {
     "name": "Adductor Stretch Seated Bilateral Dynamic",
@@ -15509,7 +15355,9 @@
       "Once you reach the end of your range, bounce the knees to feel a gentle stretch deep in your groin",
       "Try to maintain a straight back while performing the exercise"
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-1335": {
     "name": "Hamstring Stretch Dynamic Supine Alternating",
@@ -15545,7 +15393,14 @@
       "Perform a posterior pelvic tilt and maintain the position.",
       "Kick one leg up to feel a stretch in the hamstring."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1337": {
     "name": "Hamstring Stretch Dynamic Standing Bilateral",
@@ -15581,7 +15436,14 @@
       "Dynamically kick your back leg forward and up.",
       "Return to starting position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-1473": {
     "name": "Adductor Stretch Dynamic Unilateral 4 Point Position",
@@ -15618,7 +15480,9 @@
       "You should feel your adductors and hip joint being stretched.",
       "Try to maintain a neutral spine"
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-1475": {
     "name": "Adductor Stretch Dynamic Standing Alternate",
@@ -15654,7 +15518,9 @@
       "Transfer your weight towards one leg by bending the knee, while keeping the opposite leg straight and the foot on the ground",
       "Feel a stretch on the inside of the thigh (adductor) of the straight leg"
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
   },
   "mw-119": {
     "name": "Biceps Stretch Variation Five",
@@ -15691,7 +15557,14 @@
       "Rotate your palms so they are facing the ceiling.",
       "Then, change direction and rotate the arms as much as you can."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-120": {
     "name": "Biceps Stretch Variation Four",
@@ -15727,7 +15600,14 @@
       "Raise your arms out behind you, and place them on the wall with your fingers pointing up.",
       "Bend your knees whilst keeping your hands in the same position."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-121": {
     "name": "Biceps Stretch Variation Three",
@@ -15762,7 +15642,14 @@
       "Bend your arm at the elbow, raising your hand to your shoulder.",
       "Using your other hand, stretch the arm down to its full extent."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-122": {
     "name": "Biceps Stretch Variation Two",
@@ -15798,7 +15685,14 @@
       "Place your hand on the wall with your fingers pointing down.",
       "Lean slightly into the wall to feel the stretch in your bicep."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   },
   "mw-123": {
     "name": "Biceps Stretch Variation One",
@@ -15835,6 +15729,1321 @@
       "Gently lean forward, keeping your hand stationary.",
       "Repeat with the other arm."
     ],
-    "source": "musclewiki"
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Medicine_Ball_Chest_Pass": {
+    "name": "Medicine Ball Chest Pass",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "medicine ball",
+    "steps": [
+      "You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.",
+      "Begin facing your partner holding the medicine ball at your torso with both hands.",
+      "Pull the ball to your chest, and reverse the motion by extending through the elbows. For sports applications, you can take a step as you throw.",
+      "Your partner should catch the ball, and throw it back to you.",
+      "Receive the throw with both hands at chest height."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Plyo_Push_up": {
+    "name": "Plyo Push-up",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "Move into a prone position on the floor, supporting your weight on your hands and toes.",
+      "Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.",
+      "Descend by flexing at the elbow, lowering your chest towards the ground.",
+      "At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible. Attempt to push your upper body up until your hands leave the ground.",
+      "Return to the starting position and repeat the exercise.",
+      "For added difficulty, add claps into the movement while you are air borne."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "mw-764": {
+    "name": "Landmine Oblique Twist",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-oblique-twist-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-oblique-twist-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-oblique-twist-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-oblique-twist-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-oblique-twist-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Stand facing the landmine, with your feet shoulder-width apart and your knees slightly bent. Grasp the landmine barbell with both hands, interlacing your fingers and holding it at chest height. Position your arms straight out in front of you, parallel to the floor, with your elbows slightly bent.",
+      "While keeping your core engaged, rotate your torso and the landmine to one side. Twist through your waist, using your oblique muscles to generate the movement. Pivot on the ball of your opposite foot as you rotate away from it.",
+      "Rotate back to the starting position, then perform the same movement in the opposite direction.",
+      "Repeat for the desired number of reps."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-720": {
+    "name": "Medicine Ball Partner Side Toss",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-side-toss-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-side-toss-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-side-toss-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-partner-side-toss-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-partner-side-toss-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Stand facing partner, side by side.",
+      "Toss medicine ball to partner's side.",
+      "Catch and repeat toss on other side."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-443": {
+    "name": "Dumbbell Overhead Side Bend",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-overhead-side-bend-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-overhead-side-bend-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-overhead-side-bend-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-overhead-side-bend-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-overhead-side-bend-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "Overhand",
+      "Neutral"
+    ],
+    "steps": [
+      "Start by standing with your feet shoulder-width apart and holding a dumbbell overhead.",
+      "From this starting position, bend to the side as far as you can while keeping your feet planted and your core engaged."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Trap_Bar_Deadlift": {
+    "name": "Trap Bar Deadlift",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "For this exercise load a trap bar, also known as a hex bar, to an appropriate weight resting on the ground. Stand in the center of the apparatus and grasp both handles.",
+      "Lower your hips, look forward with your head and keep your chest up.",
+      "Begin the movement by driving through the heels and extend your hips and knees. Avoid rounding your back at all times.",
+      "At the completion of the movement, lower the weight back to the ground under control."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-1346": {
+    "name": "Standing Neck Flexions",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-neck-mobility-flexions-standing-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-neck-mobility-flexions-standing-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-neck-mobility-flexions-standing-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-neck-mobility-flexions-standing-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-neck-mobility-flexions-standing-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Neck"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Pull your shoulders back and away from the ears and straighten the back.",
+      "Tuck your chin in and drop your head forwards without rounding the back."
+    ],
+    "equipment": "Recovery",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-228": {
+    "name": "Cable High Single Arm Rear Delt Fly",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-rear-delt-fly-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-rear-delt-fly-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-rear-delt-fly-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-rear-delt-fly-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-rear-delt-fly-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Posterior Deltoid",
+      "Rear Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Use a handle attachment or no attachment at all. The cable should be set to the top.",
+      "Walk a few steps away with the cable coming from the opposing side of the working arm.",
+      "From there, your shoulders should horizontally abduct and adduct, while your elbows stay in a fixed position."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Wrist_Roller": {
+    "name": "Wrist Roller",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
+      "Slowly lift both arms until they are fully extended and parallel to the floor in front of you. Note: Make sure the rope is not wrapped around the roller. Your entire body should be stationary except for the forearms. This is the starting position.",
+      "Rotate one wrist at a time in an upward motion to bring the weight up to the bar by rolling the rope around the roller.",
+      "Once the weight has reached the bar, slowly begin to lower the weight back down by rotating the wrist in a downward motion until the weight reaches the starting position.",
+      "Repeat for the prescribed amount of repetitions in your program."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "mw-299": {
+    "name": "Barbell Front Squat Bodybuilding",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-bodybuilding-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-bodybuilding-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-bodybuilding-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-front-squat-bodybuilding-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-front-squat-bodybuilding-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [],
+    "steps": [
+      "Measure your shoulders against the bar to make sure you're even. Throw your shoulders under the bar. The bar should be digging into your neck slightly.",
+      "Make sure to push your elbows up to the ceiling for the entire rep. To make sure you don't get too pitched forward.",
+      "Use the squat stance you would use for a back or goblet squat. Push your hips back to initiate the squat. Break at the knees until you hit parallel depth.",
+      "Squat back up to a standing position."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-325": {
+    "name": "Elbow Side Plank",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-elbow-side-plank-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-elbow-side-plank-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-elbow-side-plank-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-bodyweight-elbow-side-plank-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-bodyweight-elbow-side-plank-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Press your elbow into the floor.",
+      "Pick your hips up off the ground and maintain this position for the allotted amount of time.",
+      "Make sure you don't let your chest fall forward or backward."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-2210": {
+    "name": "Mini Band Walking Side To Side",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Band-mini-band-walking-side-to-side-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Band-mini-band-walking-side-to-side-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Band-mini-band-walking-side-to-side-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Band-mini-band-walking-side-to-side-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Band-mini-band-walking-side-to-side-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [],
+    "steps": [
+      "Loop band above knees, slight squat stance.",
+      "Step laterally, keeping constant outward knee pressure.",
+      "Continue walking side to side under control."
+    ],
+    "equipment": "Band",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Sled_Drag_Harness": {
+    "name": "Sled Drag - Harness",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "To begin, load the sled with the desired weight and attach the pulling strap. You can pull with handles, use a harness, or attach the pulling strap to a weight belt.",
+      "Whether pulling forwards or backwards, lean in the direction of travel and progress by extending through the hips and knees."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-1118": {
+    "name": "Cardio Skater",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-skater-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-skater-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-skater-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-skater-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-skater-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stand, balance on right foot, left foot behind, slightly bent knees.",
+      "Jump to left, landing on left foot, right foot behind, swinging arms.",
+      "Continue leaping side-to-side, maintaining balance and speed, like a speed skater."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1084": {
+    "name": "Forward Arm Circle",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-forward-arm-circle-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-forward-arm-circle-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-forward-arm-circle-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-forward-arm-circle-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-forward-arm-circle-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Lateral Deltoid",
+      "Anterior Deltoid",
+      "Posterior Deltoid",
+      "Front Shoulders",
+      "Rear Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [],
+    "steps": [
+      "Hold your arms out to your sides.",
+      "Rotate your arms forward in small circles."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-649": {
+    "name": "Half Neck Rolls",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-yoga-half-neck-rolls-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-yoga-half-neck-rolls-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-yoga-half-neck-rolls-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-yoga-half-neck-rolls-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-yoga-half-neck-rolls-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Sit cross-legged on the floor and interlace your fingers behind your head.",
+      "Drop your chin to your chest and roll your head to the right, bringing your right ear towards your right shoulder.",
+      "Slowly roll your head back to center, then over to the left so that your left ear is close to your left shoulder.",
+      "Repeat the movement from side to side, keeping your shoulders relaxed and breathing deeply."
+    ],
+    "equipment": "Yoga",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1600": {
+    "name": "Ankle Circle",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-ankle-circle-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-ankle-circle-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-ankle-circle-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-ankle-circle-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-ankle-circle-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Calves"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Sit or stand, lift one foot slightly off the ground.",
+      "Rotate your ankle in a circular motion.",
+      "Complete the allotted amount of reps, then switch directions and repeat on the other foot."
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1089": {
+    "name": "Cardio Assault Bike",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-assault-bike-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-assault-bike-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-assault-bike-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-assault-bike-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-assault-bike-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Adjust seat and handlebar height for comfort and proper posture on the assault bike.",
+      "Start pedaling with even, controlled motion, maintaining your desired resistance level.",
+      "Monitor heart rate and intensity; increase or decrease resistance for an effective cardio workout."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1481": {
+    "name": "Adductor Leg Raise Side Lying Isometric",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-adductor-leg-raise-side-lying-isometric-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-adductor-leg-raise-side-lying-isometric-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-adductor-leg-raise-side-lying-isometric-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-adductor-leg-raise-side-lying-isometric-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-adductor-leg-raise-side-lying-isometric-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Inner Thigh"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stabilise yourself in the side lying position, using your upper arm and leg",
+      "Raise your under leg and hold isometrically for the specified amount of time"
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1485": {
+    "name": "Abductor Leg Raise Side Lying",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-abductor-leg-raise-side-lying-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-abductor-leg-raise-side-lying-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stabilise yourself in the side lying position, using your upper arm and under leg",
+      "Raise your upper leg till it is parallel to the ground. This is your starting point.",
+      "Raise your leg and lower back to parallel for the specified amount of reps and/or sets",
+      "Feel your bum (glute med) and the lateral line of your leg worked"
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1671": {
+    "name": "Machine Single Leg Leg Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-single-leg-leg-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-single-leg-leg-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-single-leg-leg-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-single-leg-leg-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-single-leg-leg-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "This particular leg press has two separate foot plates. There are holding pins on both sides. Engage the pin on one side.",
+      "Lower the weight but stop before your lower back begins to round.",
+      "Press back to the starting position."
+    ],
+    "equipment": "Machine",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1484": {
+    "name": "Abductor Leg Raise Side Lying Isometric",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-isometric-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-isometric-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-abductor-leg-raise-side-lying-isometric-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-abductor-leg-raise-side-lying-isometric-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-abductor-leg-raise-side-lying-isometric-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stabilise yourself in the side lying position, using your upper arm and under leg",
+      "Raise your upper leg till it is parallel to the ground and hold isometrically for the specified amount of time.",
+      "Feel your bum (glute med) and the lateral line of your leg worked"
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1012": {
+    "name": "Cable Standing Glute Kickback",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-kickback-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-kickback-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-kickback-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-kickback-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-kickback-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Use an ankle attachment. The cable should be set to the bottom of the crossover machine.",
+      "Break at the knee, push your ankle straight back, extending at the hip. Hold for a one count when you feel a contraction in your glutes.",
+      "Then flex at the hips until you are back into your original position."
+    ],
+    "equipment": "Cables",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1107": {
+    "name": "Cardio Long Jump",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-long-jump-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-long-jump-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-long-jump-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-long-jump-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-long-jump-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Calves",
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stand feet shoulder-width, knees slightly bent, arms behind you, eyes forward.",
+      "Swing arms backward, squat deeply, loading legs for explosive power.",
+      "Swing arms, explode forward, extend legs mid-air, land softly on both feet."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-One_Arm_Lat_Pulldown": {
+    "name": "One Arm Lat Pulldown",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back"
+    ],
+    "difficulty": "beginner",
+    "equipment": "cable",
+    "steps": [
+      "Select an appropriate weight and adjust the knee pad to help keep you down. Grasp the handle with a pronated grip. This will be your starting position.",
+      "Pull the handle down, squeezing your elbow to your side as you flex the elbow.",
+      "Pause at the bottom of the motion, and then slowly return the handle to the starting position.",
+      "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "mw-1183": {
+    "name": "Barbell Wrist Extension",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-extension-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-extension-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-extension-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-wrist-extension-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-wrist-extension-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Grab a barbell with an overhand grip and lay your forearms across a bench.",
+      "Let your wrists flex fully, then extend your wrists."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "fed-Straight_Arm_Pulldown": {
+    "name": "Straight-Arm Pulldown",
+    "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
+    "videoUrl": null,
+    "muscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "cable",
+    "steps": [
+      "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
+      "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
+      "While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.",
+      "While keeping the arms straight, go back to the starting position while breathing in.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-727": {
+    "name": "Medicine Ball Reverse Lunge Twist",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-reverse-lunge-twist-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-reverse-lunge-twist-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-reverse-lunge-twist-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-reverse-lunge-twist-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-reverse-lunge-twist-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads",
+      "Inner Quadriceps",
+      "Outer Quadricep"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [],
+    "steps": [
+      "Hold medicine ball at chest.",
+      "Step back into lunge position, extend your arms, twist torso.",
+      "Return to starting position. Repeat on other leg."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
   }
 }

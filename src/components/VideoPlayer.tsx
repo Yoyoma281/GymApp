@@ -30,14 +30,23 @@ if (Platform.OS === 'web' && typeof document !== 'undefined') {
 }
 
 interface Props {
-  uri: string;
-  poster?: string;
+  /**
+   * Remote url, or a require()d asset for clips bundled with the app.
+   * expo-video's VideoSource accepts a module id directly, so bundled
+   * technique clips need no download and play offline.
+   */
+  uri: string | number;
+  poster?: string | number;
   /** Start muted and looping (ambient drill clips); user can unmute. */
   ambient?: boolean;
 }
 
 export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
-  const player = useVideoPlayer({ uri, useCaching: true }, (p) => {
+  // Image takes a require()d asset as-is but a remote one wrapped in {uri}.
+  const posterSource = typeof poster === 'number' ? poster : poster ? { uri: poster } : undefined;
+  // useCaching only applies to remote sources; a bundled asset is already local.
+  const source = typeof uri === 'number' ? uri : { uri, useCaching: true };
+  const player = useVideoPlayer(source, (p) => {
     p.loop = true;
     p.muted = ambient;
     p.timeUpdateEventInterval = 0.2;
@@ -122,7 +131,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
   if (status === 'error') {
     return (
       <View style={[styles.frame, styles.center]}>
-        {poster ? <Image source={{ uri: poster }} style={styles.poster} /> : null}
+        {posterSource ? <Image source={posterSource} style={styles.poster} /> : null}
         <View style={styles.errorOverlay}>
           <Text style={styles.errorText}>{t('videoUnavailable')}</Text>
           {error?.message ? <Text style={styles.errorHint}>{error.message}</Text> : null}
@@ -146,8 +155,8 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
 
       {/* Keep the poster up until the video can actually render a frame,
           otherwise tapping play shows black while it buffers. */}
-      {poster && (!started || status !== 'readyToPlay') ? (
-        <Image source={{ uri: poster }} style={styles.poster} />
+      {posterSource && (!started || status !== 'readyToPlay') ? (
+        <Image source={posterSource} style={styles.poster} />
       ) : null}
 
       {status === 'loading' && started ? (

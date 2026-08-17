@@ -49,3 +49,5 @@ scripts/.pexels-pool.json
 scripts/.youtube-key
 scripts/.youtube-cache.json
 scripts/.musclewiki-stretch-cache.json
+scripts/.musclewiki-catalog.json
+scripts/.pexels-slug-cache.json

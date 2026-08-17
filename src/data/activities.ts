@@ -66,6 +66,13 @@ export interface Drill {
   clipUrl?: string;
   clipPoster?: string;
   clipCredit?: string;
+  /**
+   * Key into the bundled techniqueClips map, set when a clip demonstrating
+   * this exact technique exists. Most drills can only be given footage of
+   * the sport in general, so this both selects the better video and lets the
+   * UI say which kind the user is looking at.
+   */
+  techniqueClip?: string;
   /** YouTube video id of a tutorial for this exact technique. */
   tutorialId?: string;
   tutorialTitle?: string;

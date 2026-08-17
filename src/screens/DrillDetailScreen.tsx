@@ -14,6 +14,7 @@ import {
 } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
+import { techniqueClips } from '../data/generated/techniqueClips';
 import { track } from '../data/analytics';
 import { t } from '../i18n';
 import { tGroup } from '../i18n/taxonomy';
@@ -85,16 +86,27 @@ export default function DrillDetailScreen({ route }: Props) {
 
   if (!activity || !drill) return null;
 
+  // A clip of this exact technique, bundled with the app, where one exists.
+  const technique = drill.techniqueClip ? techniqueClips[drill.techniqueClip] : undefined;
+
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
       {/* The bundled sport clip has a consistent look across the app; a
           YouTube embed's chrome (thumbnail, red play button, suggested
           videos) clashes with it, so it's only a fallback when no clip was
           fetched for this drill. */}
-      {drill.clipUrl ? (
+      {technique || drill.clipUrl ? (
         <View>
-          <VideoPlayer uri={drill.clipUrl} poster={drill.clipPoster} ambient />
+          <VideoPlayer
+            uri={technique?.video ?? drill.clipUrl!}
+            poster={technique?.poster ?? drill.clipPoster}
+            ambient
+          />
           <View style={styles.clipFooter}>
+            {/* Most drills can only be given footage of the sport in general.
+                Where the clip really is this technique, say so — it changes
+                how closely the video is worth watching. */}
+            {technique && <Text style={styles.techniqueBadge}>{t('thisTechnique')}</Text>}
             {drill.clipCredit && <Text style={styles.clipCredit}>{drill.clipCredit}</Text>}
             {drill.videoUrl && (
               <Pressable onPress={() => Linking.openURL(drill.videoUrl!)}>
@@ -298,7 +310,22 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  clipCredit: { fontSize: 11, color: colors.muted },
+  // The credit is the flexible one: it's the longest and the least urgent, so
+  // it gives up width to the badge and the link rather than pushing them out.
+  clipCredit: { fontSize: 11, color: colors.muted, flexShrink: 1, marginRight: 8 },
+  techniqueBadge: {
+    fontSize: 10,
+    fontWeight: '800',
+    letterSpacing: 0.4,
+    textTransform: 'uppercase',
+    color: colors.accent,
+    borderWidth: 1,
+    borderColor: colors.accent,
+    borderRadius: 4,
+    paddingHorizontal: 5,
+    paddingVertical: 2,
+    marginRight: 8,
+  },
   tutorialLink: { fontSize: 12.5, fontWeight: '700', color: colors.accent },
   title: {
     marginTop: 16,

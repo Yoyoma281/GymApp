@@ -32,7 +32,7 @@
           "scheme": "3 × 12",
           "wgerId": 208,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
-          "detailId": "fed-Ab_Crunch_Machine"
+          "detailId": "mw-1504"
         },
         {
           "name": "Tibialis raises",
@@ -61,9 +61,9 @@
         "Leaning the torso forward instead of sitting down."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kiba+dachi+horse+stance",
-      "clipUrl": "https://videos.pexels.com/video-files/6005334/6005334-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6005334/girl-karate-sport-6005334.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "olia danilevich / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/7045154/7045154-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7045154/pexels-photo-7045154.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "RDNE Stock project / Pexels"
     },
     {
       "id": "zenkutsu-dachi-stepping",
@@ -125,9 +125,9 @@
         "Rear heel lifting, which disconnects the drive from the floor."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=zenkutsu+dachi+stepping+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6005441/6005441-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6005441/girl-karate-sport-6005441.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "olia danilevich / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6263395/6263395-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6263395/4k-resolution-achievement-active-activity-6263395.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Artem Podrez / Pexels"
     },
     {
       "id": "tai-sabaki",
@@ -150,21 +150,21 @@
           "scheme": "3 × 10 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-          "detailId": "fed-Kneeling_Arm_Drill"
+          "detailId": "mw-1106"
         },
         {
           "name": "Pallof press with lateral step",
           "scheme": "3 × 8 / side",
           "wgerId": 981,
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
-          "detailId": "wger-981"
+          "detailId": "mw-250"
         },
         {
           "name": "Jump rope",
@@ -180,7 +180,8 @@
           "detailId": "mw-1367"
         },
         {
-          "name": "Ankle circles"
+          "name": "Ankle circles",
+          "detailId": "mw-1600"
         },
         {
           "name": "90/90 hip switch",
@@ -197,9 +198,9 @@
         "Rising tall during the shift, which telegraphs and slows the counter."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=tai+sabaki+karate+footwork+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045164/7045164-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045164/pexels-photo-7045164.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8041960/8041960-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8041960/action-energy-adult-art-athlete-8041960.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "mae-geri",
@@ -236,7 +237,7 @@
           "scheme": "3 × 15",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "fed-Side_Leg_Raises"
+          "detailId": "mw-859"
         }
       ],
       "stretches": [
@@ -258,9 +259,8 @@
         "Slow retraction — leaves the leg exposed to catches."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=mae+geri+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045133/7045133-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045133/pexels-photo-7045133.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-mae-geri"
     },
     {
       "id": "mawashi-geri",
@@ -296,7 +296,7 @@
           "scheme": "3 × 30s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-1481"
         },
         {
           "name": "Single-leg calf raises",
@@ -334,9 +334,8 @@
         "Striking with the toes instead of instep or ball of foot."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=mawashi+geri+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045125/7045125-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045125/pexels-photo-7045125.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-mawashi-geri"
     },
     {
       "id": "yoko-geri-kekomi",
@@ -358,28 +357,28 @@
           "scheme": "3 × 15 / side",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "fed-Dumbbell_Lying_One-Arm_Rear_Lateral_Raise"
+          "detailId": "mw-1485"
         },
         {
           "name": "Single-leg leg press",
           "scheme": "3 × 10 / leg",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-69"
+          "detailId": "mw-1671"
         },
         {
           "name": "Side plank with top-leg raise",
           "scheme": "3 × 30s / side",
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "wgerId": 348,
-          "detailId": "fed-Side_Leg_Raises"
+          "detailId": "mw-1484"
         },
         {
           "name": "Banded lateral walks",
           "scheme": "3 × 12 / direction",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "fed-Monster_Walk"
+          "detailId": "mw-2210"
         }
       ],
       "stretches": [
@@ -404,9 +403,8 @@
         "No pivot of the support foot, which blocks hip turnover and torques the knee."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=yoko+geri+kekomi+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/5999211/5999211-hd_1366_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/5999211/pexels-photo-5999211.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-yoko-geri-kekomi"
     },
     {
       "id": "ushiro-geri",
@@ -429,26 +427,26 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "mw-313"
         },
         {
           "name": "Cable glute kickbacks",
           "scheme": "3 × 12 / leg",
           "wgerId": 1509,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
-          "detailId": "mw-196"
+          "detailId": "mw-1012"
         },
         {
           "name": "Reverse sled drag",
           "scheme": "4 × 20 m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         },
         {
           "name": "Bird dog with band",
           "scheme": "3 × 10 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
-          "detailId": "fed-Deadlift_with_Bands"
+          "detailId": "mw-867"
         }
       ],
       "stretches": [
@@ -475,9 +473,8 @@
         "Over-rotating after impact and giving up the back."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=ushiro+geri+back+kick+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6005335/6005335-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6005335/girl-karate-sport-6005335.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "olia danilevich / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-ushiro-geri"
     },
     {
       "id": "mawashi-geri-jodan",
@@ -511,7 +508,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-1481"
         },
         {
           "name": "Single-leg calf raises",
@@ -572,7 +569,7 @@
           "name": "Medicine ball chest throws",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Pallof press",
@@ -608,9 +605,8 @@
         "Overextending and losing the returning hand (hikite)."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=gyaku+zuki+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/8042130/8042130-hd_1366_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8042130/pexels-photo-8042130.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-gyaku-zuki"
     },
     {
       "id": "oi-zuki",
@@ -632,7 +628,7 @@
           "name": "Medicine ball step-and-throw",
           "scheme": "4 × 6 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "mw-720"
         },
         {
           "name": "Dumbbell push press",
@@ -673,9 +669,8 @@
         "Shoulder hunching up at impact instead of staying packed down."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=oi+zuki+lunge+punch+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/8041958/8041958-hd_1366_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8041958/boy-child-combat-sport-diversity-8041958.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-oi-zuki"
     },
     {
       "id": "kizami-zuki",
@@ -691,7 +686,7 @@
           "scheme": "4 × 6",
           "wgerId": 583,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clock_Push-Up/0.jpg",
-          "detailId": "mw-182"
+          "detailId": "fed-Plyo_Push_up"
         },
         {
           "name": "Cable single-arm chest press",
@@ -718,7 +713,7 @@
           "scheme": "4 × 5",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1107"
         }
       ],
       "stretches": [
@@ -745,9 +740,8 @@
         "Dropping the rear guard while the lead hand is out."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kizami+zuki+karate+jab+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045149/7045149-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045149/pexels-photo-7045149.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-kizami-zuki"
     },
     {
       "id": "uraken-uchi",
@@ -777,7 +771,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Band pull-aparts",
@@ -836,7 +830,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1972,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Arm_Cable_Crossover/0.jpg",
-          "detailId": "mw-264"
+          "detailId": "fed-One_Arm_Lat_Pulldown"
         },
         {
           "name": "Cable horizontal woodchoppers",
@@ -908,7 +902,7 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-765"
         },
         {
           "name": "Cable face pulls",
@@ -922,7 +916,7 @@
           "scheme": "3 × 15",
           "wgerId": 495,
           "imageUrl": "https://wger.de/media/exercise-images/1290/c05818bf-1c81-46df-9f24-42e354265388.png",
-          "detailId": "mw-1020"
+          "detailId": "mw-1183"
         }
       ],
       "stretches": [
@@ -949,9 +943,8 @@
         "No forearm rotation at contact, losing the jarring snap."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=age+uke+rising+block+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045332/7045332-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045332/aikido-arawaza-black-belt-blue-belt-7045332.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-age-uke"
     },
     {
       "id": "gedan-barai",
@@ -967,7 +960,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Cable high-to-low woodchoppers",
@@ -1014,9 +1007,8 @@
         "Blocking bone-on-bone at 90 degrees rather than deflecting at an angle."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=gedan+barai+low+block+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7045132/7045132-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045132/pexels-photo-7045132.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-gedan-barai"
     },
     {
       "id": "soto-uke",
@@ -1052,7 +1044,7 @@
           "name": "Medicine ball rotational throws",
           "scheme": "4 × 6 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "mw-720"
         }
       ],
       "stretches": [
@@ -1079,9 +1071,8 @@
         "Sweeping past the center line and dragging the guard wide open."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=soto+uke+outside+block+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6005443/6005443-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6005443/girl-karate-sport-6005443.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "olia danilevich / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-soto-uke"
     },
     {
       "id": "heian-shodan",
@@ -1094,14 +1085,15 @@
       "exercises": [
         {
           "name": "Goblet squat with pause",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-11"
         },
         {
           "name": "Walking lunges with rotation",
           "scheme": "3 × 8 / leg",
           "wgerId": 985,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
-          "detailId": "mw-1131"
+          "detailId": "mw-727"
         },
         {
           "name": "Plank shoulder taps",
@@ -1140,9 +1132,8 @@
         "Eyes dropping to the floor on direction changes instead of looking before turning."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=heian+shodan+kata+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7990807/7990807-hd_1366_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7990807/pexels-photo-7990807.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
+      "techniqueClip": "karate-heian-shodan"
     },
     {
       "id": "sanbon-renzuku-combo",
@@ -1158,26 +1149,26 @@
           "scheme": "4 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-303"
         },
         {
           "name": "Assault bike sprints",
           "scheme": "6 × 15s hard / 45s easy",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-1089"
         },
         {
           "name": "Medicine ball chest throw into sprint",
           "scheme": "4 × 5",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Bulgarian split squat jumps",
           "scheme": "3 × 6 / leg",
           "wgerId": 614,
           "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
-          "detailId": "mw-700"
+          "detailId": "mw-42"
         },
         {
           "name": "Battle rope intervals",
@@ -1212,9 +1203,9 @@
         "Overcommitting to the first punch and falling into the opponent."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=karate+kumite+combination+kizami+gyaku+mawashi+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6263408/6263408-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6263408/4k-resolution-achievement-active-activity-6263408.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Artem Podrez / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/7045202/7045202-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7045202/pexels-photo-7045202.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "RDNE Stock project / Pexels"
     }
   ]
 }

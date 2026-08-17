@@ -42,3 +42,20 @@ Sport thumbnails are sourced from Wikimedia Commons under their respective licen
 - **Skiing** — [File:Skiers ready to start skiing, Coins slope, Les Contamines-Montjoie, 2025.jpg](https://commons.wikimedia.org/wiki/File:Skiers_ready_to_start_skiing,_Coins_slope,_Les_Contamines-Montjoie,_2025.jpg) by DimiTalen, CC0
 - **Snowboarding** — [File:Skier and snowboarder come down Aiguille slope, Saint-Sorlin-d'Arves, 2023.jpg](https://commons.wikimedia.org/wiki/File:Skier_and_snowboarder_come_down_Aiguille_slope,_Saint-Sorlin-d%27Arves,_2023.jpg) by DimiTalen, CC0
 - **Skateboarding** — [File:Skateboarder jumping off a ledge at Skatepark des Ursulines in Brussels (DSCF4486).jpg](https://commons.wikimedia.org/wiki/File:Skateboarder_jumping_off_a_ledge_at_Skatepark_des_Ursulines_in_Brussels_(DSCF4486).jpg) by Trougnouf, CC BY 4.0
+
+## Technique demonstration videos
+
+Per-technique clips are from Wikimedia Commons, transcoded to H.264 mp4 for
+playback on iOS and redistributed under their original licenses:
+
+- **Mae-geri** — [Mae geri keage, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Mae_geri_keage,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Mawashi-geri** — [Mavashi geri, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Mavashi_geri,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Gedan-barai** — [Karate, Gedan barai, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Karate,_Gedan_barai,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Yoko-geri kekomi** — [Joko geri kekomi, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Joko_geri_kekomi,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Ushiro-geri** — [Ushiro geri, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Ushiro_geri,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Gyaku-zuki** — [Karate, Djaku zuki, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Karate,_Djaku_zuki,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Oi-zuki** — [Oi zuki, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Oi_zuki,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Kizami-zuki** — [Kizami zuki, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Kizami_zuki,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Age-uke** — [Karate, Age uke, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Karate,_Age_uke,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Soto-uke** — [Soto uke, bocni plan.webm](https://commons.wikimedia.org/wiki/File:Soto_uke,_bocni_plan.webm) by Sdcsabac, CC BY-SA 4.0
+- **Heian Shodan** — [Karate, Hean Shodan.webm](https://commons.wikimedia.org/wiki/File:Karate,_Hean_Shodan.webm) by Sdcsabac, CC BY-SA 4.0
