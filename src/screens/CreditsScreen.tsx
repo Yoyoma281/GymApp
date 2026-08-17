@@ -3,6 +3,7 @@ import { Linking, Pressable, ScrollView, StyleSheet, Switch, Text, View } from '
 import attributions from '../../assets/sports/attributions.json';
 import { sportIndex } from '../data/activities';
 import { isAnalyticsOptedOut, setAnalyticsOptOut } from '../data/analytics';
+import { getLanguage, LANGUAGES, setLanguage, t } from '../i18n';
 import { colors } from '../theme';
 
 interface Attribution {
@@ -47,6 +48,7 @@ const SOURCES = [
 
 export default function CreditsScreen() {
   const [optedOut, setOptedOut] = useState(isAnalyticsOptedOut());
+  const [lang, setLang] = useState(getLanguage());
 
   const photos = sportIndex
     .map((s) => ({ sport: s.name, a: (attributions as Record<string, Attribution>)[s.id] }))
@@ -59,7 +61,25 @@ export default function CreditsScreen() {
         who made this material available.
       </Text>
 
-      <Text style={styles.sectionTitle}>Privacy</Text>
+      <Text style={styles.sectionTitle}>{t('language')}</Text>
+      <View style={styles.langWrap}>
+        {LANGUAGES.map((l) => (
+          <Pressable
+            key={l.code}
+            style={[styles.langChip, lang === l.code && styles.langChipActive]}
+            onPress={() => {
+              setLanguage(l.code);
+              setLang(l.code);
+            }}
+          >
+            <Text style={[styles.langText, lang === l.code && styles.langTextActive]}>
+              {l.native}
+            </Text>
+          </Pressable>
+        ))}
+      </View>
+
+      <Text style={styles.sectionTitle}>{t('privacy')}</Text>
       <View style={styles.card}>
         <View style={styles.privacyRow}>
           <View style={styles.privacyText}>
@@ -128,6 +148,18 @@ const styles = StyleSheet.create({
     padding: 14,
     marginBottom: 8,
   },
+  langWrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginBottom: 4 },
+  langChip: {
+    backgroundColor: colors.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: 999,
+    paddingHorizontal: 13,
+    paddingVertical: 7,
+  },
+  langChipActive: { backgroundColor: colors.accent, borderColor: colors.accent },
+  langText: { fontSize: 13, fontWeight: '600', color: colors.secondary },
+  langTextActive: { color: '#fff' },
   privacyRow: { flexDirection: 'row', alignItems: 'center', gap: 12 },
   privacyText: { flex: 1 },
   cardTitle: { fontSize: 15, fontWeight: '700', color: colors.text },

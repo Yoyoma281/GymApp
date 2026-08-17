@@ -3,6 +3,7 @@ import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { Drill, loadSport } from '../data/activities';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
+import { t } from '../i18n';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
@@ -37,7 +38,7 @@ export default function DrillListScreen({ navigation, route }: Props) {
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
       <Text style={styles.title}>{activity.name}</Text>
-      <Text style={styles.subtitle}>Pick the technique you're drilling this week.</Text>
+      <Text style={styles.subtitle}>{t("drillListSubtitle")}</Text>
       {groups.map((group) => (
         <View key={group.name}>
           <Text style={styles.groupTitle}>{group.name}</Text>

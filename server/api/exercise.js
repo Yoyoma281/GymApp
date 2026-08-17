@@ -24,23 +24,34 @@ async function handler(req, res) {
   const name = String(req.query?.name ?? '').trim();
   if (!name) return json(res, 400, { error: 'name query parameter is required' });
 
-  const cacheKey = name.toLowerCase();
+  // MuscleWiki serves 14 locales; cache per (name, lang) so a translated
+  // lookup is paid for once globally rather than per user.
+  const LOCALES = new Set([
+    'en-us', 'ar-sa', 'de-de', 'es-es', 'fa-ir', 'fr-fr', 'hi-in',
+    'it-it', 'ja-jp', 'pl-pl', 'pt-br', 'ru-ru', 'tr-tr', 'zh-cn',
+  ]);
+  const langParam = String(req.query?.lang ?? 'en-us').toLowerCase();
+  const lang = LOCALES.has(langParam) ? langParam : 'en-us';
+  const langQuery = lang === 'en-us' ? '' : `&lang=${lang}`;
+
+  const cacheKey = `${lang}|${name.toLowerCase()}`;
   if (memo.has(cacheKey)) {
     res.setHeader('x-cache', 'HIT');
     return json(res, 200, memo.get(cacheKey), DAY);
   }
 
-  const search = await mw(`/exercises?search=${encodeURIComponent(name)}&limit=5`, key);
+  const search = await mw(`/exercises?search=${encodeURIComponent(name)}&limit=5${langQuery}`, key);
   const hit = search.results?.[0];
   if (!hit) {
-    const miss = { found: false, name };
+    const miss = { found: false, name, lang };
     memo.set(cacheKey, miss);
     return json(res, 200, miss, DAY);
   }
 
-  const detail = await mw(`/exercises/${hit.id}`, key);
+  const detail = await mw(`/exercises/${hit.id}?lang=${lang}`, key);
   const payload = {
     found: true,
+    lang,
     id: detail.id,
     name: detail.name,
     videos: detail.videos ?? [],

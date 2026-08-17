@@ -3,6 +3,7 @@ import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'r
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import { track } from '../data/analytics';
+import { t } from '../i18n';
 import ExerciseMedia from '../components/ExerciseMedia';
 import VideoPlayer from '../components/VideoPlayer';
 import BodyMap from '../components/BodyMap';
@@ -31,7 +32,7 @@ export default function DrillDetailScreen({ route }: Props) {
             {drill.clipCredit && <Text style={styles.clipCredit}>{drill.clipCredit}</Text>}
             {drill.videoUrl && (
               <Pressable onPress={() => Linking.openURL(drill.videoUrl!)}>
-                <Text style={styles.tutorialLink}>Find tutorials ↗</Text>
+                <Text style={styles.tutorialLink}>{t("findTutorials")} ↗</Text>
               </Pressable>
             )}
           </View>
@@ -67,7 +68,7 @@ export default function DrillDetailScreen({ route }: Props) {
 
       <Text style={styles.desc}>{drill.desc}</Text>
 
-      <Text style={styles.sectionTitle}>Gym work</Text>
+      <Text style={styles.sectionTitle}>{t("gymWork")}</Text>
       <View style={styles.exerciseList}>
         {drill.exercises.map((e) => {
           const detail = e.detailId ? exerciseDetails[e.detailId] : undefined;
@@ -105,7 +106,7 @@ export default function DrillDetailScreen({ route }: Props) {
                   )}
                   {detail.muscles && detail.muscles.length > 0 && (
                     <Text style={styles.exerciseMeta}>
-                      <Text style={styles.exerciseMetaLabel}>Muscles: </Text>
+                      <Text style={styles.exerciseMetaLabel}>{t("muscles")}: </Text>
                       {detail.muscles.join(', ')}
                       {detail.secondaryMuscles?.length
                         ? `  ·  also ${detail.secondaryMuscles.join(', ')}`
@@ -114,7 +115,7 @@ export default function DrillDetailScreen({ route }: Props) {
                   )}
                   {detail.difficulty && (
                     <Text style={styles.exerciseMeta}>
-                      <Text style={styles.exerciseMetaLabel}>Difficulty: </Text>
+                      <Text style={styles.exerciseMetaLabel}>{t("difficulty")}: </Text>
                       {detail.difficulty}
                       {detail.equipment ? `  ·  ${detail.equipment}` : ''}
                       {detail.grips?.length ? `  ·  Grip: ${detail.grips.join(', ')}` : ''}
@@ -136,7 +137,7 @@ export default function DrillDetailScreen({ route }: Props) {
         })}
       </View>
 
-      <Text style={styles.sectionTitle}>Stretches</Text>
+      <Text style={styles.sectionTitle}>{t("stretches")}</Text>
       <View style={styles.stretchWrap}>
         {drill.stretches.map((s) => (
           <View key={s} style={styles.stretchChip}>
@@ -145,7 +146,7 @@ export default function DrillDetailScreen({ route }: Props) {
         ))}
       </View>
 
-      <Text style={styles.sectionTitle}>Watch out for</Text>
+      <Text style={styles.sectionTitle}>{t("watchOutFor")}</Text>
       <View style={styles.mistakeList}>
         {drill.mistakes.map((m) => (
           <View key={m} style={styles.mistakeRow}>

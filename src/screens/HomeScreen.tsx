@@ -11,6 +11,7 @@ import {
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { loadSport, searchIndex, sportIndex, SportMeta } from '../data/activities';
 import { track } from '../data/analytics';
+import { t } from '../i18n';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
 import { sportImages } from '../data/sportImages';
 import { RootStackParamList } from '../navigation';
@@ -118,15 +119,13 @@ export default function HomeScreen({ navigation }: Props) {
 
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content} stickyHeaderIndices={[]}>
-      <Text style={styles.kicker}>TRAIN FOR YOUR SPORT</Text>
-      <Text style={styles.title}>What are you working on?</Text>
-      <Text style={styles.subtitle}>
-        Pick your sport, choose a technique, and get the gym work and stretches that build it.
-      </Text>
+      <Text style={styles.kicker}>{t('kicker')}</Text>
+      <Text style={styles.title}>{t('homeTitle')}</Text>
+      <Text style={styles.subtitle}>{t('homeSubtitle')}</Text>
 
       <TextInput
         style={styles.search}
-        placeholder='Search "kick", "karate", "stretch"…'
+        placeholder={t('searchPlaceholder')}
         placeholderTextColor={colors.muted}
         value={query}
         onChangeText={setQuery}
@@ -134,7 +133,7 @@ export default function HomeScreen({ navigation }: Props) {
       />
 
       {needle.length > 0 && results.length === 0 && (
-        <Text style={styles.noResults}>No matches — try "kick", "karate", "stretch"…</Text>
+        <Text style={styles.noResults}>{t("noResults")}</Text>
       )}
 
       {results.length > 0 && (
@@ -163,7 +162,7 @@ export default function HomeScreen({ navigation }: Props) {
               style={[styles.chip, !activeCategory && styles.chipActive]}
               onPress={() => setActiveCategory(null)}
             >
-              <Text style={[styles.chipText, !activeCategory && styles.chipTextActive]}>All</Text>
+              <Text style={[styles.chipText, !activeCategory && styles.chipTextActive]}>{t("all")}</Text>
             </Pressable>
             {categories.map((c) => (
               <Pressable
@@ -196,7 +195,7 @@ export default function HomeScreen({ navigation }: Props) {
                       </View>
                     )}
                     <Text style={styles.activityName}>{sport.name}</Text>
-                    <Text style={styles.activityCount}>{sport.drillCount} drills</Text>
+                    <Text style={styles.activityCount}>{t("drillsCount").replace("{{count}}", String(sport.drillCount))}</Text>
                   </Pressable>
                 ))}
               </View>
