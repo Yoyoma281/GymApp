@@ -4,7 +4,9 @@ Small serverless backend for the things the app can't do on-device:
 holding the MuscleWiki API key, caching responses so the monthly quota
 isn't spent per user, and serving remote config.
 
-Deployed as the Vercel project **dojofit-token**. Required environment
+Deployed as the Vercel project **dojofit-api**. (The older **dojofit-token**
+project is still up and still serves `/api/token`; the app falls back to it,
+so don't delete it.) Required environment
 variable: `MUSCLEWIKI_API_KEY` (Project Settings → Environment
 Variables; redeploy after changing it).
 
