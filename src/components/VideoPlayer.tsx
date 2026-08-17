@@ -70,6 +70,20 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
     }).start();
   }, [isPlaying, scrubbing, overlay]);
 
+  // The scrubber fades out with the glyph so playback fills the frame, but
+  // on its own value: it has to stay up during a drag, which is exactly when
+  // the glyph is hidden.
+  const controlsOpacity = useRef(new Animated.Value(1)).current;
+  useEffect(() => {
+    const hide = isPlaying && !scrubbing;
+    Animated.timing(controlsOpacity, {
+      toValue: hide ? 0 : 1,
+      duration: hide ? 320 : 180,
+      delay: hide ? 260 : 0,
+      useNativeDriver: Platform.OS !== 'web',
+    }).start();
+  }, [isPlaying, scrubbing, controlsOpacity]);
+
   const toggle = () => {
     if (isPlaying) {
       player.pause();
@@ -161,7 +175,10 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
 
       {/* Controls: scrubber + mute + fullscreen. Always available while
           paused or scrubbing; a slim scrubber stays visible during play. */}
-      <View style={[styles.controls, showControls && styles.controlsSolid]}>
+      <Animated.View
+        style={[styles.controls, showControls && styles.controlsSolid, { opacity: controlsOpacity }]}
+        pointerEvents={showControls ? 'auto' : 'none'}
+      >
         <VideoScrubber
           currentTime={currentTime}
           duration={duration}
@@ -186,7 +203,7 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
             </View>
           </Pressable>
         </View>
-      </View>
+      </Animated.View>
     </View>
   );
 }

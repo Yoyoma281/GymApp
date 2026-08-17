@@ -46,10 +46,12 @@ export default function App() {
           headerShadowVisible: false,
           headerTintColor: colors.accent,
           headerTitleStyle: { color: colors.text, fontWeight: '700' },
-          // Android's default push is an abrupt vertical fade; a horizontal
-          // slide matches the drill-down and makes back feel like an undo.
-          animation: 'slide_from_right',
-          animationDuration: 260,
+          // ios_from_right, not slide_from_right: on Android the latter only
+          // animates the incoming screen and drops the outgoing one straight
+          // away, so a pop showed an empty frame sliding. ios_from_right runs
+          // a real push/pop, keeping the leaving screen painted the whole way
+          // out and parallaxing the one beneath it.
+          animation: 'simple_push',
           gestureEnabled: true,
           contentStyle: { backgroundColor: colors.bg },
         }}
