@@ -95,6 +95,12 @@ export default function DrillDetailScreen({ route }: Props) {
         <View>
           <VideoPlayer uri={drill.clipUrl} poster={drill.clipPoster} ambient />
           <View style={styles.clipFooter}>
+            {/* Most drills can only be given footage of the sport in general.
+                Where the clip really is this technique, say so — it changes
+                how closely the video is worth watching. */}
+            {drill.clipIsTechnique && (
+              <Text style={styles.techniqueBadge}>{t('thisTechnique')}</Text>
+            )}
             {drill.clipCredit && <Text style={styles.clipCredit}>{drill.clipCredit}</Text>}
             {drill.videoUrl && (
               <Pressable onPress={() => Linking.openURL(drill.videoUrl!)}>
@@ -298,7 +304,22 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  clipCredit: { fontSize: 11, color: colors.muted },
+  // The credit is the flexible one: it's the longest and the least urgent, so
+  // it gives up width to the badge and the link rather than pushing them out.
+  clipCredit: { fontSize: 11, color: colors.muted, flexShrink: 1, marginRight: 8 },
+  techniqueBadge: {
+    fontSize: 10,
+    fontWeight: '800',
+    letterSpacing: 0.4,
+    textTransform: 'uppercase',
+    color: colors.accent,
+    borderWidth: 1,
+    borderColor: colors.accent,
+    borderRadius: 4,
+    paddingHorizontal: 5,
+    paddingVertical: 2,
+    marginRight: 8,
+  },
   tutorialLink: { fontSize: 12.5, fontWeight: '700', color: colors.accent },
   title: {
     marginTop: 16,

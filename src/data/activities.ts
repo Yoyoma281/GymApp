@@ -66,6 +66,12 @@ export interface Drill {
   clipUrl?: string;
   clipPoster?: string;
   clipCredit?: string;
+  /**
+   * True when the clip demonstrates this exact technique rather than the
+   * sport in general — worth saying out loud, since most drills can only be
+   * given representative stock footage.
+   */
+  clipIsTechnique?: boolean;
   /** YouTube video id of a tutorial for this exact technique. */
   tutorialId?: string;
   tutorialTitle?: string;
