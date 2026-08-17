@@ -259,10 +259,8 @@
         "Slow retraction — leaves the leg exposed to catches."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=mae+geri+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-mae-geri.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-mae-geri.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-mae-geri"
     },
     {
       "id": "mawashi-geri",
@@ -336,10 +334,8 @@
         "Striking with the toes instead of instep or ball of foot."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=mawashi+geri+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-mawashi-geri.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-mawashi-geri.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-mawashi-geri"
     },
     {
       "id": "yoko-geri-kekomi",
@@ -407,10 +403,8 @@
         "No pivot of the support foot, which blocks hip turnover and torques the knee."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=yoko+geri+kekomi+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-yoko-geri-kekomi.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-yoko-geri-kekomi.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-yoko-geri-kekomi"
     },
     {
       "id": "ushiro-geri",
@@ -479,10 +473,8 @@
         "Over-rotating after impact and giving up the back."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=ushiro+geri+back+kick+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-ushiro-geri.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-ushiro-geri.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-ushiro-geri"
     },
     {
       "id": "mawashi-geri-jodan",
@@ -613,10 +605,8 @@
         "Overextending and losing the returning hand (hikite)."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=gyaku+zuki+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-gyaku-zuki.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-gyaku-zuki.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-gyaku-zuki"
     },
     {
       "id": "oi-zuki",
@@ -679,10 +669,8 @@
         "Shoulder hunching up at impact instead of staying packed down."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=oi+zuki+lunge+punch+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-oi-zuki.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-oi-zuki.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-oi-zuki"
     },
     {
       "id": "kizami-zuki",
@@ -752,10 +740,8 @@
         "Dropping the rear guard while the lead hand is out."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kizami+zuki+karate+jab+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-kizami-zuki.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-kizami-zuki.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-kizami-zuki"
     },
     {
       "id": "uraken-uchi",
@@ -957,10 +943,8 @@
         "No forearm rotation at contact, losing the jarring snap."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=age+uke+rising+block+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-age-uke.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-age-uke.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-age-uke"
     },
     {
       "id": "gedan-barai",
@@ -1023,10 +1007,8 @@
         "Blocking bone-on-bone at 90 degrees rather than deflecting at an angle."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=gedan+barai+low+block+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-gedan-barai.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-gedan-barai.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-gedan-barai"
     },
     {
       "id": "soto-uke",
@@ -1089,10 +1071,8 @@
         "Sweeping past the center line and dragging the guard wide open."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=soto+uke+outside+block+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-soto-uke.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-soto-uke.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-soto-uke"
     },
     {
       "id": "heian-shodan",
@@ -1152,10 +1132,8 @@
         "Eyes dropping to the floor on direction changes instead of looking before turning."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=heian+shodan+kata+tutorial",
-      "clipUrl": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-heian-shodan.mp4",
-      "clipPoster": "https://raw.githubusercontent.com/Yoyoma281/GymApp/main/assets/techniques/karate-heian-shodan.jpg",
       "clipCredit": "Sdcsabac / Wikimedia Commons, CC BY-SA 4.0",
-      "clipIsTechnique": true
+      "techniqueClip": "karate-heian-shodan"
     },
     {
       "id": "sanbon-renzuku-combo",
