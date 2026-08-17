@@ -16,11 +16,52 @@ import { track } from '../data/analytics';
 import { t } from '../i18n';
 import { tCategory, tSport } from '../i18n/taxonomy';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
-import { sportImages } from '../data/sportImages';
+import { sportThumbs } from '../data/sportThumbs';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
+
+// Memoized so returning to this screen re-attaches the existing cards
+// instead of rebuilding 40 photo-backed cells, which stalls the pop
+// animation behind a burst of image decoding.
+const SportCard = React.memo(function SportCard({
+  sport,
+  onPress,
+}: {
+  sport: SportMeta;
+  onPress: (id: string) => void;
+}) {
+  return (
+    <Pressable
+      style={({ pressed }) => [styles.activityCard, pressed && styles.activityCardPressed]}
+      onPress={() => onPress(sport.id)}
+    >
+      {sportThumbs[sport.id] ? (
+        <Image source={sportThumbs[sport.id]} style={styles.activityPhoto} />
+      ) : (
+        <View style={[styles.activityPhoto, styles.activityBadge]}>
+          <Text style={styles.activityEmoji}>{sport.emoji}</Text>
+        </View>
+      )}
+      {/* scrim so the label stays readable over any photo */}
+      <LinearGradient
+        colors={['transparent', 'rgba(0,0,0,0.35)', 'rgba(0,0,0,0.92)']}
+        locations={[0, 0.45, 1]}
+        style={styles.activityScrim}
+        pointerEvents="none"
+      />
+      <View style={styles.activityLabel}>
+        <Text style={styles.activityName} numberOfLines={2}>
+          {tSport(sport.name)}
+        </Text>
+        <Text style={styles.activityCount}>
+          {t("drillsCount").replace("{{count}}", String(sport.drillCount))}
+        </Text>
+      </View>
+    </Pressable>
+  );
+});
 
 const CATEGORY_ORDER = [
   'Striking arts',
@@ -153,41 +194,13 @@ export default function HomeScreen({ navigation }: Props) {
       initialNumToRender={6}
       maxToRenderPerBatch={6}
       windowSize={7}
-      removeClippedSubviews
       renderSectionHeader={({ section }) => (
         <Text style={styles.sectionTitle}>{tCategory(section.title)}</Text>
       )}
       renderItem={({ item: row }) => (
         <View style={styles.gridRow}>
           {row.map((sport) => (
-            <Pressable
-              key={sport.id}
-              style={({ pressed }) => [styles.activityCard, pressed && styles.activityCardPressed]}
-              onPress={() => openSport(sport.id)}
-            >
-              {sportImages[sport.id] ? (
-                <Image source={sportImages[sport.id]} style={styles.activityPhoto} />
-              ) : (
-                <View style={[styles.activityPhoto, styles.activityBadge]}>
-                  <Text style={styles.activityEmoji}>{sport.emoji}</Text>
-                </View>
-              )}
-              {/* scrim so the label stays readable over any photo */}
-              <LinearGradient
-                colors={['transparent', 'rgba(0,0,0,0.35)', 'rgba(0,0,0,0.92)']}
-                locations={[0, 0.45, 1]}
-                style={styles.activityScrim}
-                pointerEvents="none"
-              />
-              <View style={styles.activityLabel}>
-                <Text style={styles.activityName} numberOfLines={2}>
-                  {tSport(sport.name)}
-                </Text>
-                <Text style={styles.activityCount}>
-                  {t("drillsCount").replace("{{count}}", String(sport.drillCount))}
-                </Text>
-              </View>
-            </Pressable>
+            <SportCard key={sport.id} sport={sport} onPress={openSport} />
           ))}
           {/* keeps a lone trailing card at half width instead of stretching */}
           {row.length === 1 ? <View style={styles.cardSpacer} /> : null}
