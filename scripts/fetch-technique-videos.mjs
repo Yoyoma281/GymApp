@@ -40,7 +40,11 @@ let quotaExhausted = false;
 
 // Channels/titles that are compilations or highlight reels rather than
 // instruction — a tutorial should teach the movement.
-const BAD_TITLE = /highlight|knockout|compilation|best of|montage|edit|shorts? compilation|funny|fail/i;
+// Caught real mismatches on manual review: fight-promo hype clips ("before
+// fight", "vs"), video-game tutorials mistaken for the real sport (NBA 2K),
+// and stunt/trick channels riding the same keywords as real instruction.
+const BAD_TITLE =
+  /highlight|knockout|compilation|best of|montage|edit|shorts? compilation|funny|fail|vs\.?\s|before (the )?fight|workout before|nba 2k|2k\d\d|trick shot|around corners|#shorts$/i;
 const GOOD_TITLE = /tutorial|how to|technique|lesson|basics|step by step|explained|drill|guide|breakdown|learn/i;
 
 async function search(query) {
