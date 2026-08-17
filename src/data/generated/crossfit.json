@@ -24,18 +24,22 @@
         {
           "name": "Superman holds",
           "scheme": "4 × 30s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-880"
         },
         {
           "name": "Hanging beat swings",
           "scheme": "4 × 10",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
           "detailId": "mw-79"
         },
         {
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
-          "wgerId": 1726,
-          "imageUrl": "https://wger.de/media/exercise-images/1726/2e7e541b-5f55-405a-ae78-3e71b3f42db4.png",
+          "wgerId": 1971,
+          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
           "detailId": "mw-23"
         },
         {
@@ -80,18 +84,23 @@
         {
           "name": "Lat pulldowns",
           "scheme": "3 × 10",
-          "detailId": "mw-1659",
           "wgerId": 1972,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg",
+          "detailId": "mw-23"
         },
         {
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
           "detailId": "mw-79"
         },
         {
           "name": "Hollow body rocks",
-          "scheme": "3 × 15"
+          "scheme": "3 × 15",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Band pull-aparts",
@@ -130,8 +139,8 @@
           "name": "Weighted strict pull-ups",
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
-          "detailId": "mw-25",
-          "wgerId": 475
+          "wgerId": 475,
+          "detailId": "mw-25"
         },
         {
           "name": "Butterfly drills on low rings",
@@ -139,7 +148,10 @@
         },
         {
           "name": "Hollow body rocks",
-          "scheme": "3 × 15"
+          "scheme": "3 × 15",
+          "wgerId": 297,
+          "imageUrl": "https://wger.de/media/exercise-images/297/b10d3341-baa8-49ab-b462-5b3529389aac.png",
+          "detailId": "wger-297"
         },
         {
           "name": "Face pulls",
@@ -151,9 +163,9 @@
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         }
       ],
       "stretches": [
@@ -199,12 +211,14 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "detailId": "mw-248",
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png"
+          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
+          "detailId": "mw-35"
         },
         {
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
+          "wgerId": 960,
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
           "detailId": "mw-79"
         },
         {
@@ -250,14 +264,17 @@
         },
         {
           "name": "Wall handstand holds",
-          "scheme": "4 × 30s"
+          "scheme": "4 × 30s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-773"
+          "detailId": "mw-4"
         },
         {
           "name": "Hollow body holds",
@@ -363,14 +380,14 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-42"
+          "detailId": "mw-336"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 8",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-773"
+          "detailId": "mw-4"
         },
         {
           "name": "Medicine ball throws to target",
@@ -380,8 +397,8 @@
           "name": "Front plank",
           "scheme": "3 × 45s",
           "wgerId": 1307,
-          "detailId": "mw-2138",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "detailId": "mw-204"
         }
       ],
       "stretches": [
@@ -414,25 +431,27 @@
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-42"
+          "detailId": "mw-336"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-773"
+          "detailId": "mw-4"
         },
         {
           "name": "Barbell thrusters",
           "scheme": "4 × 8",
-          "detailId": "mw-1840",
-          "wgerId": 650
+          "wgerId": 650,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Thruster/0.jpg",
+          "detailId": "mw-1840"
         },
         {
           "name": "Dumbbell thrusters",
           "scheme": "3 × 10",
           "wgerId": 1684,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Thruster/0.jpg",
           "detailId": "mw-469"
         },
         {
@@ -472,9 +491,9 @@
         {
           "name": "Touch-and-go power cleans",
           "scheme": "5 × 5",
-          "detailId": "mw-481",
           "wgerId": 683,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "detailId": "mw-481"
         },
         {
           "name": "Romanian deadlifts",
@@ -486,13 +505,16 @@
         {
           "name": "Clean-grip high pulls",
           "scheme": "3 × 5",
-          "detailId": "mw-505",
           "wgerId": 289,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "detailId": "mw-1712"
         },
         {
           "name": "Timed barbell holds",
-          "scheme": "3 × 30s"
+          "scheme": "3 × 30s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         },
         {
           "name": "Kettlebell swings",
@@ -540,7 +562,7 @@
           "scheme": "3 × 6",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-335"
+          "detailId": "mw-8"
         },
         {
           "name": "Jump squats",
@@ -561,7 +583,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         }
       ],
       "stretches": [
@@ -652,14 +674,14 @@
           "scheme": "3 × 15",
           "wgerId": 583,
           "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
-          "detailId": "mw-193"
+          "detailId": "mw-182"
         },
         {
           "name": "Bodyweight squats",
           "scheme": "3 × 15",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg",
-          "detailId": "mw-192",
-          "wgerId": 615
+          "wgerId": 615,
+          "detailId": "mw-192"
         },
         {
           "name": "Burpees at steady tempo",
@@ -676,8 +698,8 @@
           "name": "Front plank",
           "scheme": "3 × 45s",
           "wgerId": 1307,
-          "detailId": "mw-2138",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "detailId": "mw-204"
         }
       ],
       "stretches": [
@@ -707,7 +729,9 @@
       "exercises": [
         {
           "name": "Zone 2 rowing with nasal breathing",
-          "scheme": "3 × 8 min"
+          "scheme": "3 × 8 min",
+          "wgerId": 1940,
+          "detailId": "wger-1940"
         },
         {
           "name": "Assault bike intervals",
@@ -719,7 +743,9 @@
         },
         {
           "name": "Front plank with slow breathing",
-          "scheme": "3 × 45s"
+          "scheme": "3 × 45s",
+          "wgerId": 1940,
+          "detailId": "wger-1940"
         }
       ],
       "stretches": [
@@ -806,14 +832,15 @@
         {
           "name": "Sled push sprints",
           "scheme": "4 × 15 m",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1200"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         },
         {
           "name": "Burpees at steady tempo",

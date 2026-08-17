@@ -33,6 +33,10 @@ export interface ExerciseDetail {
   description?: string | null;
   difficulty?: string | null;
   equipment?: string | null;
+  /** Push or pull — how the movement loads. */
+  force?: string | null;
+  /** Compound or isolation. */
+  mechanic?: string | null;
   grips?: string[];
   steps?: string[];
   source: 'wger' | 'musclewiki' | 'free-exercise-db';

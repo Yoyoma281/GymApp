@@ -123,12 +123,18 @@ export default function DrillDetailScreen({ route }: Props) {
                         : ''}
                     </Text>
                   )}
-                  {detail.difficulty && (
+                  {(detail.difficulty || detail.equipment || detail.mechanic) && (
                     <Text style={styles.exerciseMeta}>
-                      <Text style={styles.exerciseMetaLabel}>{t("difficulty")}: </Text>
-                      {detail.difficulty}
-                      {detail.equipment ? `  ·  ${detail.equipment}` : ''}
-                      {detail.grips?.length ? `  ·  Grip: ${detail.grips.join(', ')}` : ''}
+                      <Text style={styles.exerciseMetaLabel}>{t('difficulty')}: </Text>
+                      {[
+                        detail.difficulty,
+                        detail.equipment,
+                        detail.mechanic,
+                        detail.force,
+                        detail.grips?.length ? detail.grips.join(', ') : null,
+                      ]
+                        .filter(Boolean)
+                        .join('  ·  ')}
                     </Text>
                   )}
                   {detail.steps?.length ? (

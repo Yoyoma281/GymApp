@@ -18,7 +18,7 @@
           "name": "Wall sits",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         },
         {
           "name": "Goblet squats",
@@ -29,7 +29,10 @@
         },
         {
           "name": "Split squat isometric holds",
-          "scheme": "3 × 30s / leg"
+          "scheme": "3 × 30s / leg",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         },
         {
           "name": "Standing calf raises",
@@ -66,27 +69,31 @@
       "exercises": [
         {
           "name": "Agility ladder drills",
-          "scheme": "4 × 30s"
+          "scheme": "4 × 30s",
+          "wgerId": 1196,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
+          "detailId": "fed-Kneeling_Arm_Drill"
         },
         {
           "name": "Walking lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 206,
           "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
-          "detailId": "mw-537"
+          "detailId": "mw-1384"
         },
         {
           "name": "Single-leg calf raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-64"
+          "detailId": "mw-1163"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / direction",
           "wgerId": 1514,
-          "detailId": "mw-1269"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "detailId": "mw-1201"
         }
       ],
       "stretches": [
@@ -114,24 +121,30 @@
       "exercises": [
         {
           "name": "Agility ladder drills",
-          "scheme": "5 × 30s"
+          "scheme": "5 × 30s",
+          "wgerId": 1196,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
+          "detailId": "fed-Kneeling_Arm_Drill"
         },
         {
           "name": "Pogo jumps",
           "scheme": "3 × 20",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Jump rope",
           "scheme": "4 × 60s",
-          "wgerId": 993,
+          "wgerId": 1524,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/0.jpg",
           "detailId": "mw-1597"
         },
         {
@@ -139,7 +152,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "mw-1134"
+          "detailId": "mw-102"
         }
       ],
       "stretches": [
@@ -176,15 +189,16 @@
         {
           "name": "Pogo jumps",
           "scheme": "3 × 15",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Depth jumps",
           "scheme": "3 × 5",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Linear_Depth_Jump/0.jpg",
-          "detailId": "mw-701",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-701"
         },
         {
           "name": "Barbell jump squats (light)",
@@ -237,7 +251,10 @@
         },
         {
           "name": "Dumbbell front raise isometric hold",
-          "scheme": "3 × 20s"
+          "scheme": "3 × 20s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         }
       ],
       "stretches": [
@@ -267,13 +284,15 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         },
         {
           "name": "Dumbbell wrist rotations",
           "scheme": "3 × 12 / arm",
           "wgerId": 1429,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
           "detailId": "mw-1066"
         },
         {
@@ -286,9 +305,9 @@
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
-          "detailId": "mw-538",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+          "detailId": "mw-538"
         }
       ],
       "stretches": [
@@ -338,8 +357,8 @@
         {
           "name": "Med ball chest passes",
           "scheme": "3 × 8",
-          "detailId": "mw-1758",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "detailId": "mw-1758"
         }
       ],
       "stretches": [
@@ -368,7 +387,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         },
         {
@@ -376,20 +396,21 @@
           "scheme": "3 × 10 / arm",
           "wgerId": 1621,
           "imageUrl": "https://wger.de/media/exercise-images/1621/ca1bc68d-9c36-4dd3-8ec4-496c57b5c564.jpg",
-          "detailId": "mw-971"
+          "detailId": "mw-970"
         },
         {
           "name": "Dumbbell external rotations",
           "scheme": "3 × 12 / arm",
           "wgerId": 578,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
-          "detailId": "mw-1066"
+          "detailId": "mw-1611"
         },
         {
           "name": "Suitcase carries",
           "scheme": "3 × 30m / side",
-          "detailId": "mw-1625",
-          "wgerId": 1776
+          "wgerId": 1776,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/0.jpg",
+          "detailId": "mw-1625"
         }
       ],
       "stretches": [
@@ -428,13 +449,14 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-1671"
+          "detailId": "mw-69"
         },
         {
           "name": "Broad jumps",
           "scheme": "3 × 5",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Nordic hamstring curls",
@@ -446,7 +468,9 @@
         {
           "name": "Step-ups with dumbbells",
           "scheme": "3 × 8 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg"
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "wgerId": 75,
+          "detailId": "fed-Close-Grip_Push-Up_off_of_a_Dumbbell"
         }
       ],
       "stretches": [
@@ -477,12 +501,15 @@
         {
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
-          "wgerId": 206,
-          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
+          "wgerId": 75,
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "detailId": "wger-75"
         },
         {
           "name": "Sled sprints",
           "scheme": "4 × 15m",
+          "wgerId": 961,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1097"
         },
         {
@@ -534,14 +561,16 @@
         {
           "name": "Sled sprints",
           "scheme": "4 × 15m",
+          "wgerId": 961,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "mw-1097"
         },
         {
           "name": "Single-leg broad jumps",
           "scheme": "3 × 4 / leg",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
-          "detailId": "mw-703",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-703"
         },
         {
           "name": "Hill sprints (treadmill incline)",
@@ -638,7 +667,10 @@
         },
         {
           "name": "Reaction ball drills",
-          "scheme": "3 × 60s"
+          "scheme": "3 × 60s",
+          "wgerId": 1196,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
+          "detailId": "fed-Kneeling_Arm_Drill"
         },
         {
           "name": "Pallof press",
@@ -681,7 +713,8 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "wgerId": 1854,
           "detailId": "mw-1246"
         },
         {
@@ -692,7 +725,10 @@
         },
         {
           "name": "Dumbbell front raise isometric hold",
-          "scheme": "3 × 20s"
+          "scheme": "3 × 20s",
+          "wgerId": 31,
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "detailId": "wger-31"
         }
       ],
       "stretches": [
@@ -728,18 +764,20 @@
           "name": "Wall sits",
           "scheme": "3 × 45s",
           "wgerId": 1408,
-          "detailId": "mw-1595"
+          "detailId": "mw-1596"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
-          "detailId": "mw-329",
-          "wgerId": 993
+          "wgerId": 993,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
+          "detailId": "mw-329"
         },
         {
           "name": "Jump rope",
           "scheme": "4 × 60s",
-          "wgerId": 993,
+          "wgerId": 1524,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/0.jpg",
           "detailId": "mw-1597"
         }
       ],
@@ -772,17 +810,20 @@
           "scheme": "3 × 12",
           "wgerId": 1185,
           "imageUrl": "https://wger.de/media/exercise-images/1185/c5ca283d-8958-4fd8-9d59-a3f52a3ac66b.jpg",
-          "detailId": "mw-1681"
+          "detailId": "mw-241"
         },
         {
           "name": "Med ball chest passes",
           "scheme": "3 × 8",
-          "detailId": "mw-1758",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "detailId": "mw-1758"
         },
         {
           "name": "Reaction ball drills",
-          "scheme": "3 × 60s"
+          "scheme": "3 × 60s",
+          "wgerId": 1196,
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
+          "detailId": "fed-Kneeling_Arm_Drill"
         },
         {
           "name": "Plank shoulder taps",

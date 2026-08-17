@@ -307,7 +307,26 @@ function buildFedIndex(catalog) {
 // quota is only spent once per unique exercise name.
 
 const MW_CACHE = path.join(here, '.musclewiki-cache.json');
+const MW_CATALOG = path.join(here, '.musclewiki-catalog.json');
 const MW_BASE = 'https://api.musclewiki.com';
+
+// Downloading the whole catalog costs ~19 calls and lets every name be
+// matched locally — far cheaper and more accurate than 2-4 search calls
+// per name, and it sees exercises their literal search wouldn't return.
+async function fetchMuscleWikiCatalog(key) {
+  if (fs.existsSync(MW_CATALOG)) return JSON.parse(fs.readFileSync(MW_CATALOG, 'utf8'));
+  const all = [];
+  let offset = 0;
+  for (;;) {
+    const page = await mwGet(`/exercises?limit=100&offset=${offset}`, key);
+    all.push(...(page.results ?? []));
+    offset += 100;
+    if (all.length >= (page.total ?? 0) || !page.results?.length) break;
+  }
+  fs.writeFileSync(MW_CATALOG, JSON.stringify(all));
+  console.log(`  musclewiki catalog: ${all.length} exercises`);
+  return all;
+}
 
 async function mwGet(pathname, key) {
   const res = await fetch(`${MW_BASE}${pathname}`, { headers: { 'X-API-Key': key } });
@@ -319,45 +338,26 @@ async function mwGet(pathname, key) {
 async function fetchMuscleWikiDetails(uniqueNames, key) {
   const cache = fs.existsSync(MW_CACHE) ? JSON.parse(fs.readFileSync(MW_CACHE, 'utf8')) : {};
   let calls = 0;
-  // Score a candidate: movements must agree, qualifiers may differ.
-  const scoreMatch = (wanted, candidate) => {
-    const a = normalize(wanted);
-    const b = normalize(candidate);
-    if (!a || !b) return 0;
-    if (a === b) return 1;
-    if (headNoun(a) !== headNoun(b)) return 0;
-    const at = new Set(a.split(' '));
-    const bt = b.split(' ');
-    const overlap = bt.filter((t) => at.has(t)).length;
-    return overlap / Math.max(1, Math.min(at.size, bt.length));
-  };
 
-  // MuscleWiki's search is literal, so feed it progressively simpler
-  // queries: full name, singularized, then just the movement words.
-  const queryVariants = (name) => {
-    const norm = normalize(name);
-    const words = norm.split(' ');
-    const variants = [name, norm];
-    if (words.length > 2) variants.push(words.slice(-2).join(' '));
-    if (words.length > 1) variants.push(words.at(-1));
-    return [...new Set(variants.filter(Boolean))];
-  };
+  // Match against the full catalog locally rather than searching per name:
+  // their search is literal (it misses "Farmer's carries" -> "Farmers
+  // Carry"), and one download beats thousands of search calls.
+  const catalog = await fetchMuscleWikiCatalog(key);
+  const index = new Map();
+  for (const ex of catalog) {
+    const k = normalize(ex.name);
+    if (k && !index.has(k)) index.set(k, ex);
+  }
 
   for (const name of uniqueNames) {
-    if (name in cache) continue;
+    // Entries from an older run lack the equipment/force/mechanic fields.
+    if (name in cache && (cache[name] === null || 'equipment' in cache[name])) continue;
+    const hit = tokenMatch(index, name);
+    if (!hit) {
+      cache[name] = null;
+      continue;
+    }
     try {
-      let hit = null;
-      let bestScore = 0;
-      for (const q of queryVariants(name)) {
-        const search = await mwGet(`/exercises?search=${encodeURIComponent(q)}&limit=8`, key);
-        calls += 1;
-        for (const r of search.results ?? []) {
-          const s = scoreMatch(name, r.name);
-          if (s > bestScore) { bestScore = s; hit = r; }
-        }
-        if (bestScore >= 0.6) break; // good enough; stop spending calls
-      }
-      if (!hit || bestScore < 0.5) { cache[name] = null; continue; }
       const detail = await mwGet(`/exercises/${hit.id}`, key);
       calls += 1;
       cache[name] = {
@@ -368,6 +368,10 @@ async function fetchMuscleWikiDetails(uniqueNames, key) {
         difficulty: detail.difficulty ?? null,
         grips: detail.grips ?? [],
         steps: detail.steps ?? [],
+        // Previously discarded: what you need, and how the movement works.
+        equipment: detail.category ?? null,
+        force: detail.force ?? null,
+        mechanic: detail.mechanic ?? null,
       };
     } catch (err) {
       console.warn(`  musclewiki "${name}": ${err.message}`);
@@ -377,7 +381,7 @@ async function fetchMuscleWikiDetails(uniqueNames, key) {
     fs.writeFileSync(MW_CACHE, JSON.stringify(cache));
   }
   fs.writeFileSync(MW_CACHE, JSON.stringify(cache));
-  console.log(`  musclewiki: ${calls} API calls this run`);
+  console.log(`  musclewiki: ${calls} detail calls this run`);
   return cache;
 }
 
@@ -385,7 +389,7 @@ async function fetchMuscleWikiDetails(uniqueNames, key) {
 // mangled "crunches" -> "crunche" and "carries" -> "carrie" and made most
 // plural exercise names unmatchable.
 const singular = (w) => {
-  if (w.length <= 3) return w;
+  if (w.length <= 2) return w; // 'ups' must still singularize to 'up'
   if (/[^aeiou]ies$/.test(w)) return w.slice(0, -3) + 'y';
   if (/(ch|sh|ss|x|z)es$/.test(w)) return w.slice(0, -2);
   if (/[^s]s$/.test(w)) return w.slice(0, -1);
@@ -454,7 +458,7 @@ function tokenMatch(index, name) {
     const score = overlap / Math.max(1, Math.min(tokens.size, candTokens.length));
     if (score > bestScore) { bestScore = score; best = ex; }
   }
-  return bestScore >= 0.6 ? best : null;
+  return bestScore >= 0.5 ? best : null;
 }
 
 function enrichSportFile(file, index, fedIndex, mwByName, details) {
@@ -479,6 +483,9 @@ function enrichSportFile(file, index, fedIndex, mwByName, details) {
           difficulty: mw.difficulty,
           grips: mw.grips,
           steps: mw.steps,
+          equipment: mw.equipment ?? null,
+          force: mw.force ?? null,
+          mechanic: mw.mechanic ?? null,
           // body-map layers come from the wger match even when MuscleWiki wins
           muscleIds: hit?.muscleIds ?? [],
           secondaryMuscleIds: hit?.secondaryMuscleIds ?? [],
