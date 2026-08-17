@@ -25,7 +25,7 @@
           "name": "Med-ball chest pass",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "mw-1758"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Dumbbell overhead press",
@@ -94,7 +94,7 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-767"
         },
         {
           "name": "Rotational med-ball slams",
@@ -115,7 +115,7 @@
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
           "wgerId": 583,
-          "detailId": "mw-182"
+          "detailId": "fed-Plyo_Push_up"
         }
       ],
       "stretches": [
@@ -129,7 +129,7 @@
         },
         {
           "name": "Neck side flexion",
-          "detailId": "mw-167"
+          "detailId": "mw-1343"
         }
       ],
       "mistakes": [
@@ -165,13 +165,13 @@
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-743"
+          "detailId": "mw-764"
         },
         {
           "name": "Lateral med-ball throws",
           "scheme": "4 × 5 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "mw-720"
         },
         {
           "name": "Dumbbell lateral raises",
@@ -194,7 +194,8 @@
           "detailId": "mw-165"
         },
         {
-          "name": "Standing side bend"
+          "name": "Standing side bend",
+          "detailId": "mw-443"
         },
         {
           "name": "Doorway pec stretch",
@@ -232,7 +233,7 @@
           "scheme": "4 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Half-kneeling landmine press",
@@ -331,7 +332,8 @@
       ],
       "stretches": [
         {
-          "name": "Standing side bend"
+          "name": "Standing side bend",
+          "detailId": "mw-443"
         },
         {
           "name": "90/90 hip switch",
@@ -370,7 +372,7 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-303"
         },
         {
           "name": "Battle ropes alternating waves",
@@ -380,7 +382,7 @@
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "mw-720"
         },
         {
           "name": "Bent-over barbell rows",
@@ -394,7 +396,7 @@
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
           "wgerId": 583,
-          "detailId": "mw-182"
+          "detailId": "fed-Plyo_Push_up"
         }
       ],
       "stretches": [
@@ -460,14 +462,14 @@
           "scheme": "3 × 8 / direction",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg",
           "wgerId": 994,
-          "detailId": "mw-1075"
+          "detailId": "mw-495"
         },
         {
           "name": "Neck curls",
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         }
       ],
       "stretches": [
@@ -481,7 +483,7 @@
         },
         {
           "name": "Neck side flexion",
-          "detailId": "mw-132"
+          "detailId": "mw-1343"
         },
         {
           "name": "Child’s pose",
@@ -512,7 +514,7 @@
           "scheme": "3 × 12",
           "wgerId": 1473,
           "imageUrl": "https://wger.de/media/exercise-images/822/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
-          "detailId": "fed-Incline_Cable_Flye"
+          "detailId": "mw-228"
         },
         {
           "name": "Face pulls",
@@ -530,7 +532,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -575,14 +577,14 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-299"
         },
         {
           "name": "Side planks",
           "scheme": "3 × 40s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Band rotations",
@@ -596,12 +598,13 @@
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         }
       ],
       "stretches": [
         {
-          "name": "Standing side bend"
+          "name": "Standing side bend",
+          "detailId": "mw-443"
         },
         {
           "name": "Cat-cow",
@@ -635,7 +638,7 @@
           "scheme": "3 × 8 / side",
           "wgerId": 1779,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-743"
+          "detailId": "mw-764"
         },
         {
           "name": "Single-arm dumbbell lateral raises",
@@ -656,7 +659,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-299"
         },
         {
           "name": "Face pulls",
@@ -676,11 +679,12 @@
           "detailId": "mw-165"
         },
         {
-          "name": "Standing side bend"
+          "name": "Standing side bend",
+          "detailId": "mw-443"
         },
         {
           "name": "Neck side flexion",
-          "detailId": "mw-133"
+          "detailId": "mw-1343"
         }
       ],
       "mistakes": [
@@ -714,7 +718,7 @@
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-2210"
         },
         {
           "name": "Single-leg calf raises",
@@ -837,28 +841,28 @@
           "name": "Lateral sled drags",
           "scheme": "4 × 20m / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-2210"
         },
         {
           "name": "Front squats",
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-299"
         },
         {
           "name": "Agility ladder lateral shuffles",
@@ -931,7 +935,8 @@
       ],
       "stretches": [
         {
-          "name": "Arm circles"
+          "name": "Arm circles",
+          "detailId": "mw-1084"
         },
         {
           "name": "Cross-body shoulder stretch",
@@ -943,7 +948,7 @@
         },
         {
           "name": "Neck rolls",
-          "detailId": "mw-134"
+          "detailId": "mw-649"
         }
       ],
       "mistakes": [
@@ -973,7 +978,7 @@
           "name": "Med-ball chest pass",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "mw-1758"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Band-resisted punches",
@@ -1036,7 +1041,8 @@
         {
           "name": "Jump rope basic bounce",
           "scheme": "6 × 2min",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-1597"
         },
         {
           "name": "Single-leg calf raises",
@@ -1056,7 +1062,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -1065,7 +1071,8 @@
           "detailId": "mw-1204"
         },
         {
-          "name": "Wall ankle dorsiflexion stretch"
+          "name": "Wall ankle dorsiflexion stretch",
+          "detailId": "mw-1600"
         },
         {
           "name": "Wrist flexor stretch",
@@ -1097,7 +1104,8 @@
       "exercises": [
         {
           "name": "Assault bike intervals",
-          "scheme": "8 × 20s"
+          "scheme": "8 × 20s",
+          "detailId": "mw-1089"
         },
         {
           "name": "Kettlebell swings",
