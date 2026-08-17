@@ -63,7 +63,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+jab+technique+tutorial",
       "clipUrl": "https://videos.pexels.com/video-files/7314306/7314306-hd_1366_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/7314306/action-action-energy-adult-adverse-7314306.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "https://kaboompics.com/ / Pexels"
+      "clipCredit": "https://kaboompics.com/ / Pexels",
+      "tutorialId": "71nmi6nGcrY",
+      "tutorialTitle": "How to Throw the Perfect Jab in Boxing",
+      "tutorialChannel": "Tony Jeffries"
     },
     {
       "id": "cross",
@@ -114,7 +117,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+cross+technique",
       "clipUrl": "https://videos.pexels.com/video-files/8810052/8810052-hd_1280_720_24fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/8810052/adult-athlete-bar-battle-8810052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Los Muertos Crew / Pexels"
+      "clipCredit": "Los Muertos Crew / Pexels",
+      "tutorialId": "-hy2QLE567o",
+      "tutorialTitle": "How to punch - the right CROSS #boxing #boxingtraining",
+      "tutorialChannel": "Day One Martial Arts"
     },
     {
       "id": "lead-hook",
@@ -171,7 +177,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+lead+hook+technique",
       "clipUrl": "https://videos.pexels.com/video-files/3444517/3444517-hd_1280_720_30fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/3444517/free-video-3444517.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Curtis Adams / Pexels"
+      "clipCredit": "Curtis Adams / Pexels",
+      "tutorialId": "Z_xVXcn6pCw",
+      "tutorialTitle": "RYAN GARCIA DRILLING LEFT HOOK IN FINAL GERVONTA WORKOUT BEFORE FIGHT",
+      "tutorialChannel": "Little Giant Boxing"
     },
     {
       "id": "rear-uppercut",
@@ -231,7 +240,10 @@
       "videoUrl": "https://www.youtube.com/results?search_query=boxing+rear+uppercut+technique",
       "clipUrl": "https://videos.pexels.com/video-files/4804863/4804863-hd_1280_720_25fps.mp4",
       "clipPoster": "https://images.pexels.com/videos/4804863/pexels-photo-4804863.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ketut Subiyanto / Pexels"
+      "clipCredit": "Ketut Subiyanto / Pexels",
+      "tutorialId": "cHpUfBbdB0o",
+      "tutorialTitle": "How To Punch Faster (SNAP Your Punches)",
+      "tutorialChannel": "Glove Up"
     },
     {
       "id": "body-hook",

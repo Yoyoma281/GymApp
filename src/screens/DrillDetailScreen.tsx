@@ -6,6 +6,7 @@ import { track } from '../data/analytics';
 import { t } from '../i18n';
 import ExerciseMedia from '../components/ExerciseMedia';
 import VideoPlayer from '../components/VideoPlayer';
+import TutorialVideo from '../components/TutorialVideo';
 import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
@@ -25,7 +26,16 @@ export default function DrillDetailScreen({ route }: Props) {
 
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
-      {drill.clipUrl ? (
+      {/* A tutorial for this exact technique is the most useful thing to
+          show; the ambient sport clip is the fallback where none was found. */}
+      {drill.tutorialId ? (
+        <TutorialVideo
+          videoId={drill.tutorialId}
+          title={drill.tutorialTitle}
+          channel={drill.tutorialChannel}
+          searchUrl={drill.videoUrl}
+        />
+      ) : drill.clipUrl ? (
         <View>
           <VideoPlayer uri={drill.clipUrl} poster={drill.clipPoster} ambient />
           <View style={styles.clipFooter}>

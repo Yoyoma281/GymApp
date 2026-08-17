@@ -46,3 +46,5 @@ scripts/.fed-cache.json
 scripts/.pexels-cache.json
 scripts/.pexels-key
 scripts/.pexels-pool.json
+scripts/.youtube-key
+scripts/.youtube-cache.json

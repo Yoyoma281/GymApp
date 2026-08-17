@@ -56,6 +56,10 @@ export interface Drill {
   clipUrl?: string;
   clipPoster?: string;
   clipCredit?: string;
+  /** YouTube video id of a tutorial for this exact technique. */
+  tutorialId?: string;
+  tutorialTitle?: string;
+  tutorialChannel?: string;
 }
 
 export interface Activity {
