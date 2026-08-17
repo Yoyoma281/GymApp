@@ -46,6 +46,12 @@ export default function App() {
           headerShadowVisible: false,
           headerTintColor: colors.accent,
           headerTitleStyle: { color: colors.text, fontWeight: '700' },
+          // Android's default push is an abrupt vertical fade; a horizontal
+          // slide matches the drill-down and makes back feel like an undo.
+          animation: 'slide_from_right',
+          animationDuration: 260,
+          gestureEnabled: true,
+          contentStyle: { backgroundColor: colors.bg },
         }}
       >
         <Stack.Screen

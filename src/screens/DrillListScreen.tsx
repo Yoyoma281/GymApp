@@ -1,11 +1,13 @@
 import React, { useEffect, useMemo } from 'react';
-import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Image, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { Drill, loadSport } from '../data/activities';
 import { prefetchSportMedia, primeMediaToken } from '../data/prefetch';
+import { sportImages } from '../data/sportImages';
 import { t } from '../i18n';
 import { RootStackParamList } from '../navigation';
-import { colors } from '../theme';
+import { colors, levelColors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DrillList'>;
 
@@ -35,10 +37,33 @@ export default function DrillListScreen({ navigation, route }: Props) {
 
   if (!activity) return null;
 
+  const hero = sportImages[activity.id];
+
   return (
     <ScrollView style={styles.root} contentContainerStyle={styles.content}>
-      <Text style={styles.title}>{activity.name}</Text>
-      <Text style={styles.subtitle}>{t("drillListSubtitle")}</Text>
+      {hero ? (
+        <View style={styles.hero}>
+          <Image source={hero} style={styles.heroImage} />
+          {/* fades the photo into the page background so it reads as a
+              header rather than a banner stuck on top of the list */}
+          <LinearGradient
+            colors={['rgba(11,11,13,0.2)', 'rgba(11,11,13,0.78)', colors.bg]}
+            locations={[0, 0.55, 1]}
+            style={StyleSheet.absoluteFill}
+            pointerEvents="none"
+          />
+          <View style={styles.heroText}>
+            <Text style={styles.title}>{activity.name}</Text>
+            <Text style={styles.subtitle}>{t("drillListSubtitle")}</Text>
+          </View>
+        </View>
+      ) : (
+        <View style={styles.body}>
+          <Text style={styles.title}>{activity.name}</Text>
+          <Text style={styles.subtitle}>{t("drillListSubtitle")}</Text>
+        </View>
+      )}
+      <View style={styles.body}>
       {groups.map((group) => (
         <View key={group.name}>
           <Text style={styles.groupTitle}>{group.name}</Text>
@@ -58,26 +83,46 @@ export default function DrillListScreen({ navigation, route }: Props) {
                   <Text style={styles.drillName}>{drill.name}</Text>
                   <Text style={styles.drillAlt}>{drill.alt}</Text>
                 </View>
-                <View style={styles.levelPill}>
-                  <Text style={styles.levelText}>{drill.level.toUpperCase()}</Text>
+                <View style={[styles.levelPill, { backgroundColor: levelColors[drill.level].bg }]}>
+                  <Text style={[styles.levelText, { color: levelColors[drill.level].fg }]}>
+                    {drill.level.toUpperCase()}
+                  </Text>
                 </View>
               </Pressable>
             ))}
           </View>
         </View>
       ))}
+      </View>
     </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: colors.bg },
-  content: { padding: 20, paddingBottom: 40 },
+  // padding moved onto `body` so the hero photo can run edge to edge
+  content: { paddingBottom: 40 },
+  body: { paddingHorizontal: 20 },
+  hero: {
+    height: 220,
+    justifyContent: 'flex-end',
+    backgroundColor: colors.card,
+  },
+  heroImage: {
+    ...StyleSheet.absoluteFillObject,
+    width: '100%',
+    height: '100%',
+    resizeMode: 'cover' as const,
+  },
+  heroText: { paddingHorizontal: 20, paddingBottom: 12 },
   title: {
     fontSize: 32,
     fontWeight: '800',
     letterSpacing: -0.5,
     color: colors.text,
+    textShadowColor: 'rgba(0,0,0,0.6)',
+    textShadowRadius: 6,
+    textShadowOffset: { width: 0, height: 1 },
   },
   subtitle: { marginTop: 4, fontSize: 14, color: colors.secondary },
   groupTitle: {

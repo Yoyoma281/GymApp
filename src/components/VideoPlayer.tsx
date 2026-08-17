@@ -121,27 +121,30 @@ export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
 
   return (
     <View style={styles.frame}>
+      <VideoView
+        ref={viewRef}
+        player={player}
+        style={styles.fill}
+        contentFit="contain"
+        nativeControls={false}
+      />
+
+      {/* Keep the poster up until the video can actually render a frame,
+          otherwise tapping play shows black while it buffers. */}
+      {poster && (!started || status !== 'readyToPlay') ? (
+        <Image source={{ uri: poster }} style={styles.poster} />
+      ) : null}
+
+      {status === 'loading' && started ? (
+        <View style={styles.center} pointerEvents="none">
+          <ActivityIndicator color={colors.accent} size="large" />
+        </View>
+      ) : null}
+
+      {/* The tap target has to sit *above* VideoView rather than wrap it:
+          the native video surface consumes touches on Android, so a parent
+          Pressable never sees the press. */}
       <Pressable style={styles.fill} onPress={toggle}>
-        <VideoView
-          ref={viewRef}
-          player={player}
-          style={styles.fill}
-          contentFit="contain"
-          nativeControls={false}
-        />
-
-        {/* Keep the poster up until the video can actually render a frame,
-            otherwise tapping play shows black while it buffers. */}
-        {poster && (!started || status !== 'readyToPlay') ? (
-          <Image source={{ uri: poster }} style={styles.poster} />
-        ) : null}
-
-        {status === 'loading' && started ? (
-          <View style={styles.center} pointerEvents="none">
-            <ActivityIndicator color={colors.accent} size="large" />
-          </View>
-        ) : null}
-
         <Animated.View style={[styles.center, { opacity: overlay }]} pointerEvents="none">
           <View style={styles.playButton}>
             {isPlaying ? (

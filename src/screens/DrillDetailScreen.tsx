@@ -1,5 +1,17 @@
-import React, { useEffect, useMemo, useState } from 'react';
-import { Image, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import {
+  ActivityIndicator,
+  Animated,
+  Easing,
+  Image,
+  InteractionManager,
+  Linking,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { exerciseDetails, loadSport } from '../data/activities';
 import { track } from '../data/analytics';
@@ -8,9 +20,56 @@ import ExerciseMedia from '../components/ExerciseMedia';
 import VideoPlayer from '../components/VideoPlayer';
 import BodyMap from '../components/BodyMap';
 import { RootStackParamList } from '../navigation';
-import { colors } from '../theme';
+import { colors, levelColors, tagColors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DrillDetail'>;
+
+// The body mounts only while open, so a mount-time fade + short slide reads
+// as the panel opening. Height isn't animated: it would need a measure pass,
+// and LayoutAnimation is a no-op under the New Architecture.
+//
+// The contents are held back one interaction tick on purpose. BodyMap parses
+// raw SVG strings and ExerciseMedia can spin up a video player, both on the JS
+// thread — mounting them in the same frame as the toggle starves the animation
+// and the panel appears to jump open after a freeze.
+function AccordionBody({ children }: { children: React.ReactNode }) {
+  const anim = useRef(new Animated.Value(0)).current;
+  const [ready, setReady] = useState(false);
+
+  useEffect(() => {
+    Animated.timing(anim, {
+      toValue: 1,
+      duration: 190,
+      easing: Easing.out(Easing.quad),
+      useNativeDriver: true,
+    }).start();
+
+    const task = InteractionManager.runAfterInteractions(() => setReady(true));
+    return () => task.cancel();
+  }, [anim]);
+
+  return (
+    <Animated.View
+      style={[
+        styles.exerciseDetail,
+        {
+          opacity: anim,
+          transform: [
+            { translateY: anim.interpolate({ inputRange: [0, 1], outputRange: [-8, 0] }) },
+          ],
+        },
+      ]}
+    >
+      {ready ? (
+        children
+      ) : (
+        <View style={styles.exerciseDetailLoading}>
+          <ActivityIndicator color={colors.accent} />
+        </View>
+      )}
+    </Animated.View>
+  );
+}
 
 export default function DrillDetailScreen({ route }: Props) {
   const activity = useMemo(() => loadSport(route.params.activityId), [route.params.activityId]);
@@ -55,14 +114,20 @@ export default function DrillDetailScreen({ route }: Props) {
       <Text style={styles.alt}>{drill.alt}</Text>
 
       <View style={styles.pills}>
-        <View style={[styles.pill, styles.pillAccent]}>
-          <Text style={styles.pillAccentText}>{drill.level.toUpperCase()}</Text>
+        <View style={[styles.pill, { backgroundColor: levelColors[drill.level].bg }]}>
+          <Text style={[styles.pillText, { color: levelColors[drill.level].fg }]}>
+            {drill.level.toUpperCase()}
+          </Text>
         </View>
-        <View style={[styles.pill, styles.pillMuted]}>
-          <Text style={styles.pillMutedText}>{drill.group.toUpperCase()}</Text>
+        <View style={[styles.pill, { backgroundColor: tagColors.group.bg }]}>
+          <Text style={[styles.pillText, { color: tagColors.group.fg }]}>
+            {drill.group.toUpperCase()}
+          </Text>
         </View>
-        <View style={[styles.pill, styles.pillMuted]}>
-          <Text style={styles.pillMutedText}>{drill.muscles.toUpperCase()}</Text>
+        <View style={[styles.pill, { backgroundColor: tagColors.muscles.bg }]}>
+          <Text style={[styles.pillText, { color: tagColors.muscles.fg }]}>
+            {drill.muscles.toUpperCase()}
+          </Text>
         </View>
       </View>
 
@@ -96,7 +161,7 @@ export default function DrillDetailScreen({ route }: Props) {
                 {detail && <Text style={styles.exerciseChevron}>{isOpen ? '▾' : '▸'}</Text>}
               </View>
               {isOpen && detail && (
-                <View style={styles.exerciseDetail}>
+                <AccordionBody>
                   <ExerciseMedia detail={detail} />
                   {detail.muscleIds && detail.muscleIds.length > 0 && (
                     <BodyMap
@@ -130,7 +195,7 @@ export default function DrillDetailScreen({ route }: Props) {
                   ) : detail.description ? (
                     <Text style={styles.exerciseDescription}>{detail.description}</Text>
                   ) : null}
-                </View>
+                </AccordionBody>
               )}
             </Pressable>
           );
@@ -201,20 +266,7 @@ const styles = StyleSheet.create({
   alt: { marginTop: 4, fontSize: 15, color: colors.secondary },
   pills: { marginTop: 12, flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
   pill: { borderRadius: 999, paddingHorizontal: 12, paddingVertical: 6 },
-  pillAccent: { backgroundColor: colors.accentSoft },
-  pillAccentText: {
-    fontSize: 11,
-    fontWeight: '700',
-    letterSpacing: 0.8,
-    color: colors.accent,
-  },
-  pillMuted: { backgroundColor: colors.chipBg },
-  pillMutedText: {
-    fontSize: 11,
-    fontWeight: '700',
-    letterSpacing: 0.8,
-    color: colors.secondary,
-  },
+  pillText: { fontSize: 11, fontWeight: '700', letterSpacing: 0.8 },
   desc: { marginTop: 14, fontSize: 15, lineHeight: 23, color: colors.body },
   sectionTitle: {
     marginTop: 26,
@@ -239,6 +291,7 @@ const styles = StyleSheet.create({
   },
   exerciseChevron: { fontSize: 13, color: colors.muted },
   exerciseDetail: { marginTop: 12, gap: 8 },
+  exerciseDetailLoading: { paddingVertical: 28, alignItems: 'center' },
   exerciseDetailImage: {
     width: '100%',
     aspectRatio: 4 / 3,

@@ -8,20 +8,22 @@ import { bodySvg, mainMuscleSvg, secondaryMuscleSvg } from '../data/generated/bo
 // stack directly over the body silhouette. The SVGs are bundled
 // (see scripts/fetch-bodymap-svgs.mjs) because wger serves them
 // without CORS headers — fetching at runtime fails on web.
-function Layer({ xml }: { xml: string }) {
+const Layer = React.memo(function Layer({ xml }: { xml: string }) {
   return (
     <View style={StyleSheet.absoluteFill} pointerEvents="none">
       <SvgXml xml={xml} width="100%" height="100%" />
     </View>
   );
-}
+});
 
 interface Props {
   muscles: MuscleRef[];
   secondaryMuscles?: MuscleRef[];
 }
 
-export default function BodyMap({ muscles, secondaryMuscles = [] }: Props) {
+// Memoized: SvgXml re-parses its XML string on every render, and the drill
+// screen re-renders while a clip plays.
+export default React.memo(function BodyMap({ muscles, secondaryMuscles = [] }: Props) {
   const sides = [
     { key: 'front' as const, front: true },
     { key: 'back' as const, front: false },
@@ -45,7 +47,7 @@ export default function BodyMap({ muscles, secondaryMuscles = [] }: Props) {
       ))}
     </View>
   );
-}
+});
 
 const styles = StyleSheet.create({
   row: {
