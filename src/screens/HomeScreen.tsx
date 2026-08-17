@@ -3,11 +3,13 @@ import {
   Image,
   Pressable,
   ScrollView,
+  SectionList,
   StyleSheet,
   Text,
   TextInput,
   View,
 } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { loadSport, searchIndex, sportIndex, SportMeta } from '../data/activities';
 import { track } from '../data/analytics';
@@ -18,14 +20,6 @@ import { RootStackParamList } from '../navigation';
 import { colors } from '../theme';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
-
-interface SearchResult {
-  key: string;
-  title: string;
-  sub: string;
-  activityId: string;
-  drillId?: string;
-}
 
 const CATEGORY_ORDER = [
   'Striking arts',
@@ -42,12 +36,6 @@ export default function HomeScreen({ navigation }: Props) {
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
   const needle = query.trim().toLowerCase();
 
-  const sportById = useMemo(() => {
-    const map = new Map<string, SportMeta>();
-    for (const s of sportIndex) map.set(s.id, s);
-    return map;
-  }, []);
-
   const categories = useMemo(() => {
     const present = new Set(sportIndex.map((s) => s.category));
     const ordered = CATEGORY_ORDER.filter((c) => present.has(c));
@@ -55,45 +43,43 @@ export default function HomeScreen({ navigation }: Props) {
     return ordered;
   }, []);
 
+  // Search narrows the grid itself instead of swapping in a list of names.
+  // A sport survives on its own name, its category, or any drill it contains,
+  // so searching a technique still surfaces the sport that teaches it.
+  const matchIds = useMemo(() => {
+    if (!needle) return null;
+    const ids = new Set<string>();
+    for (const s of sportIndex) {
+      if (s.name.toLowerCase().includes(needle) || s.category.toLowerCase().includes(needle)) {
+        ids.add(s.id);
+      }
+    }
+    for (const row of searchIndex) {
+      if (ids.has(row.sportId)) continue;
+      if (`${row.name} ${row.alt} ${row.muscles}`.toLowerCase().includes(needle)) {
+        ids.add(row.sportId);
+      }
+    }
+    return ids;
+  }, [needle]);
+
+  // Rows of two, so the list virtualizes by row: 40 sports' worth of bundled
+  // photos mounted at once is what made this screen stutter.
   const sections = useMemo(
     () =>
       categories
         .filter((c) => !activeCategory || c === activeCategory)
-        .map((category) => ({
-          category,
-          sports: sportIndex.filter((s) => s.category === category),
-        })),
-    [categories, activeCategory],
+        .map((category) => {
+          const sports = sportIndex.filter(
+            (s) => s.category === category && (!matchIds || matchIds.has(s.id)),
+          );
+          const rows: SportMeta[][] = [];
+          for (let i = 0; i < sports.length; i += 2) rows.push(sports.slice(i, i + 2));
+          return { title: category, data: rows };
+        })
+        .filter((section) => section.data.length > 0),
+    [categories, activeCategory, matchIds],
   );
-
-  const results = useMemo<SearchResult[]>(() => {
-    if (!needle) return [];
-    const out: SearchResult[] = [];
-    for (const s of sportIndex) {
-      if (s.name.toLowerCase().includes(needle)) {
-        out.push({
-          key: s.id,
-          title: s.name,
-          sub: `${s.drillCount} drills · ${s.category}`,
-          activityId: s.id,
-        });
-      }
-    }
-    for (const row of searchIndex) {
-      const hay = `${row.name} ${row.alt} ${row.muscles}`.toLowerCase();
-      if (hay.includes(needle)) {
-        const sport = sportById.get(row.sportId);
-        out.push({
-          key: `${row.sportId}-${row.drillId}`,
-          title: row.name,
-          sub: `${sport?.name ?? row.sportId} · ${row.alt}`,
-          activityId: row.sportId,
-          drillId: row.drillId,
-        });
-      }
-    }
-    return out.slice(0, 10);
-  }, [needle, sportById]);
 
   // Start warming a sport's media on tap, so its first drill already has
   // a poster and buffered clip by the time the drill page opens.
@@ -107,18 +93,8 @@ export default function HomeScreen({ navigation }: Props) {
     navigation.navigate('DrillList', { activityId: id });
   };
 
-  const openResult = (r: SearchResult) => {
-    track('search', r.drillId ? `${r.activityId}/${r.drillId}` : r.activityId);
-    setQuery('');
-    if (r.drillId) {
-      navigation.navigate('DrillDetail', { activityId: r.activityId, drillId: r.drillId });
-    } else {
-      navigation.navigate('DrillList', { activityId: r.activityId });
-    }
-  };
-
-  return (
-    <ScrollView style={styles.root} contentContainerStyle={styles.content} stickyHeaderIndices={[]}>
+  const header = (
+    <>
       <Text style={styles.kicker}>{t('kicker')}</Text>
       <Text style={styles.title}>{t('homeTitle')}</Text>
       <Text style={styles.subtitle}>{t('homeSubtitle')}</Text>
@@ -132,78 +108,91 @@ export default function HomeScreen({ navigation }: Props) {
         autoCorrect={false}
       />
 
-      {needle.length > 0 && results.length === 0 && (
+      {/* chips stay put while searching — the grid below is what narrows */}
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        style={styles.chipRow}
+        contentContainerStyle={styles.chipRowContent}
+      >
+        <Pressable
+          style={[styles.chip, !activeCategory && styles.chipActive]}
+          onPress={() => setActiveCategory(null)}
+        >
+          <Text style={[styles.chipText, !activeCategory && styles.chipTextActive]}>{t("all")}</Text>
+        </Pressable>
+        {categories.map((c) => (
+          <Pressable
+            key={c}
+            style={[styles.chip, activeCategory === c && styles.chipActive]}
+            onPress={() => setActiveCategory(activeCategory === c ? null : c)}
+          >
+            <Text style={[styles.chipText, activeCategory === c && styles.chipTextActive]}>
+              {c}
+            </Text>
+          </Pressable>
+        ))}
+      </ScrollView>
+
+      {needle.length > 0 && sections.length === 0 && (
         <Text style={styles.noResults}>{t("noResults")}</Text>
       )}
+    </>
+  );
 
-      {results.length > 0 && (
-        <View style={styles.resultsWrap}>
-          {results.map((r) => (
-            <Pressable key={r.key} style={styles.resultCard} onPress={() => openResult(r)}>
-              <View style={styles.resultText}>
-                <Text style={styles.resultTitle}>{r.title}</Text>
-                <Text style={styles.resultSub}>{r.sub}</Text>
+  return (
+    <SectionList
+      style={styles.root}
+      contentContainerStyle={styles.content}
+      sections={sections}
+      keyExtractor={(row) => row.map((s) => s.id).join('-')}
+      ListHeaderComponent={header}
+      stickySectionHeadersEnabled={false}
+      keyboardShouldPersistTaps="handled"
+      initialNumToRender={6}
+      maxToRenderPerBatch={6}
+      windowSize={7}
+      removeClippedSubviews
+      renderSectionHeader={({ section }) => (
+        <Text style={styles.sectionTitle}>{section.title}</Text>
+      )}
+      renderItem={({ item: row }) => (
+        <View style={styles.gridRow}>
+          {row.map((sport) => (
+            <Pressable
+              key={sport.id}
+              style={({ pressed }) => [styles.activityCard, pressed && styles.activityCardPressed]}
+              onPress={() => openSport(sport.id)}
+            >
+              {sportImages[sport.id] ? (
+                <Image source={sportImages[sport.id]} style={styles.activityPhoto} />
+              ) : (
+                <View style={[styles.activityPhoto, styles.activityBadge]}>
+                  <Text style={styles.activityEmoji}>{sport.emoji}</Text>
+                </View>
+              )}
+              {/* scrim so the label stays readable over any photo */}
+              <LinearGradient
+                colors={['transparent', 'rgba(0,0,0,0.35)', 'rgba(0,0,0,0.92)']}
+                locations={[0, 0.45, 1]}
+                style={styles.activityScrim}
+                pointerEvents="none"
+              />
+              <View style={styles.activityLabel}>
+                <Text style={styles.activityName} numberOfLines={2}>
+                  {sport.name}
+                </Text>
+                <Text style={styles.activityCount}>
+                  {t("drillsCount").replace("{{count}}", String(sport.drillCount))}
+                </Text>
               </View>
-              <Text style={styles.resultArrow}>→</Text>
             </Pressable>
           ))}
+          {/* keeps a lone trailing card at half width instead of stretching */}
+          {row.length === 1 ? <View style={styles.cardSpacer} /> : null}
         </View>
       )}
-
-      {!needle && (
-        <>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            style={styles.chipRow}
-            contentContainerStyle={styles.chipRowContent}
-          >
-            <Pressable
-              style={[styles.chip, !activeCategory && styles.chipActive]}
-              onPress={() => setActiveCategory(null)}
-            >
-              <Text style={[styles.chipText, !activeCategory && styles.chipTextActive]}>{t("all")}</Text>
-            </Pressable>
-            {categories.map((c) => (
-              <Pressable
-                key={c}
-                style={[styles.chip, activeCategory === c && styles.chipActive]}
-                onPress={() => setActiveCategory(activeCategory === c ? null : c)}
-              >
-                <Text style={[styles.chipText, activeCategory === c && styles.chipTextActive]}>
-                  {c}
-                </Text>
-              </Pressable>
-            ))}
-          </ScrollView>
-
-          {sections.map((section) => (
-            <View key={section.category}>
-              <Text style={styles.sectionTitle}>{section.category}</Text>
-              <View style={styles.grid}>
-                {section.sports.map((sport) => (
-                  <Pressable
-                    key={sport.id}
-                    style={styles.activityCard}
-                    onPress={() => openSport(sport.id)}
-                  >
-                    {sportImages[sport.id] ? (
-                      <Image source={sportImages[sport.id]} style={styles.activityPhoto} />
-                    ) : (
-                      <View style={styles.activityBadge}>
-                        <Text style={styles.activityEmoji}>{sport.emoji}</Text>
-                      </View>
-                    )}
-                    <Text style={styles.activityName}>{sport.name}</Text>
-                    <Text style={styles.activityCount}>{t("drillsCount").replace("{{count}}", String(sport.drillCount))}</Text>
-                  </Pressable>
-                ))}
-              </View>
-            </View>
-          ))}
-        </>
-      )}
-    </ScrollView>
+    />
   );
 }
 
@@ -237,23 +226,6 @@ const styles = StyleSheet.create({
     color: colors.text,
   },
   noResults: { marginTop: 14, fontSize: 14, color: colors.muted },
-  resultsWrap: { marginTop: 14, gap: 8 },
-  resultCard: {
-    backgroundColor: colors.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: 12,
-    paddingHorizontal: 14,
-    paddingVertical: 12,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    gap: 10,
-  },
-  resultText: { flexShrink: 1 },
-  resultTitle: { fontWeight: '700', fontSize: 15, color: colors.text },
-  resultSub: { fontSize: 12.5, color: colors.muted, marginTop: 1 },
-  resultArrow: { color: colors.muted, fontSize: 14 },
   chipRow: { marginTop: 16, marginHorizontal: -20 },
   chipRowContent: { paddingHorizontal: 20, gap: 8 },
   chip: {
@@ -275,41 +247,64 @@ const styles = StyleSheet.create({
     letterSpacing: -0.2,
     color: colors.text,
   },
-  grid: {
+  gridRow: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
     gap: 12,
+    marginBottom: 12,
   },
+  cardSpacer: { flex: 1 },
+  // flex:1 per card, not flexBasis:'47%' — the percentage failed to resolve
+  // against the list row and every sport in a category landed on one line.
+  // The photo is absolutely positioned, so it can no longer drive card
+  // height the way the old intrinsic-size layout did.
   activityCard: {
-    flexBasis: '47%',
-    flexGrow: 1,
+    flex: 1,
+    aspectRatio: 3 / 4,
+    borderRadius: 16,
+    overflow: 'hidden',
     backgroundColor: colors.card,
     borderWidth: 1,
     borderColor: colors.border,
-    borderRadius: 16,
-    padding: 16,
-    gap: 10,
+    justifyContent: 'flex-end',
   },
-  // Fixed height, not aspectRatio: a bundled require() image reports its
-  // own intrinsic size, and aspectRatio can lose to it on native, which
-  // stretched cards to the height of the source photo.
-  activityBadge: {
+  activityCardPressed: { opacity: 0.85 },
+  // cover, not contain: the photo is the whole card now, so filling the
+  // frame matters more than keeping every subject uncropped.
+  activityPhoto: {
+    ...StyleSheet.absoluteFillObject,
     width: '100%',
-    height: 104,
-    borderRadius: 12,
+    height: '100%',
+    resizeMode: 'cover' as const,
+  },
+  activityBadge: {
     backgroundColor: colors.accentSoft,
     alignItems: 'center',
     justifyContent: 'center',
   },
-  // contain (not cover) so subjects aren't cropped out of the frame
-  activityPhoto: {
-    width: '100%',
-    height: 104,
-    borderRadius: 12,
-    resizeMode: 'contain' as const,
-    backgroundColor: '#000',
+  activityScrim: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
+    height: '70%',
   },
-  activityEmoji: { fontSize: 30 },
-  activityName: { fontWeight: '700', fontSize: 16.5, color: colors.text },
-  activityCount: { fontSize: 13, color: colors.muted, marginTop: -6 },
+  activityLabel: { padding: 12, gap: 3 },
+  activityEmoji: { fontSize: 34 },
+  activityName: {
+    fontSize: 15,
+    fontWeight: '800',
+    lineHeight: 18,
+    letterSpacing: -0.2,
+    color: '#fff',
+    textShadowColor: 'rgba(0,0,0,0.55)',
+    textShadowRadius: 4,
+    textShadowOffset: { width: 0, height: 1 },
+  },
+  activityCount: {
+    fontSize: 10.5,
+    fontWeight: '700',
+    letterSpacing: 0.9,
+    textTransform: 'uppercase',
+    color: 'rgba(255,255,255,0.72)',
+  },
 });

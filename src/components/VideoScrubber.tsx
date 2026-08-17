@@ -77,10 +77,15 @@ export default function VideoScrubber({ currentTime, duration, onSeek, onScrubbi
     <View style={styles.wrap}>
       <Text style={styles.time}>{fmt(shown)}</Text>
       <View style={styles.trackArea} onLayout={onLayout} {...pan.panHandlers}>
-        <View style={styles.track}>
+        {/* Both are pointerEvents="none" so the touch target is always
+            trackArea. Otherwise locationX on grant comes back relative to
+            whichever child was hit — grabbing the thumb measured against the
+            thumb's own 14px box and jumped playback to the start. */}
+        <View style={styles.track} pointerEvents="none">
           <View style={[styles.fill, { width: ratio * width }]} />
         </View>
         <View
+          pointerEvents="none"
           style={[
             styles.thumb,
             scrubbing && styles.thumbActive,
