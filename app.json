@@ -3,6 +3,9 @@
     "name": "DojoFit",
     "slug": "dojo-fit",
     "version": "1.0.0",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -18,7 +21,6 @@
     },
     "android": {
       "package": "com.yoyoma281.dojofit",
-      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#0b0b0d",
         "foregroundImage": "./assets/adaptive-icon.png",

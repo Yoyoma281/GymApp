@@ -17,6 +17,10 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
+play-key.json
+
+# Vercel
+.vercel/
 
 # Metro
 .metro-health-check*
@@ -52,3 +56,5 @@ scripts/.musclewiki-stretch-cache.json
 scripts/.musclewiki-catalog.json
 scripts/.pexels-slug-cache.json
 .review/
+.vercel
+.env*
