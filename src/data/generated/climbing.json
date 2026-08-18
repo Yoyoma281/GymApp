@@ -24,7 +24,8 @@
         {
           "name": "Pistol squat progressions",
           "scheme": "3 × 5 / leg",
-          "detailId": "fed-Kettlebell_Pistol_Squat"
+          "detailId": "fed-Kettlebell_Pistol_Squat",
+          "imageUrl": "https://wger.de/media/exercise-images/456/3b681e59-377b-40db-9113-ca5873ce084b.jpg"
         },
         {
           "name": "Plank shoulder taps",
@@ -81,7 +82,7 @@
         {
           "name": "Lying leg curls",
           "scheme": "3 × 10",
-          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
           "wgerId": 1530,
           "detailId": "fed-Lying_Leg_Curls"
         },
@@ -207,7 +208,6 @@
         {
           "name": "Side plank with leg raise",
           "scheme": "3 × 20s / side",
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "wgerId": 348
         },
         {
@@ -226,8 +226,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         }
       ],
       "stretches": [
@@ -269,14 +268,12 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
           "detailId": "fed-Thigh_Adductor"
         },
         {
@@ -352,7 +349,7 @@
           "name": "Pike push-ups",
           "scheme": "3 × 8",
           "wgerId": 454,
-          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
           "detailId": "fed-Handstand_Push_Ups"
         },
         {
@@ -415,7 +412,6 @@
         {
           "name": "Grip crushers",
           "scheme": "3 × 12",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
           "wgerId": 1468
         },
         {
@@ -563,7 +559,7 @@
           "name": "Scapular pulls",
           "scheme": "3 × 8",
           "wgerId": 1970,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
           "detailId": "fed-Scapular_Pull_Up"
         }
       ],
@@ -610,27 +606,24 @@
           "name": "Dead hangs on bar",
           "scheme": "4 × 20s",
           "wgerId": 1529,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
           "detailId": "mw-1639"
         },
         {
           "name": "Barbell finger rolls",
           "scheme": "3 × 10",
-          "wgerId": 1864,
-          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png"
+          "wgerId": 1864
         },
         {
           "name": "Scapular pulls",
           "scheme": "3 × 8",
           "wgerId": 1970,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
           "detailId": "fed-Scapular_Pull_Up"
         },
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         }
       ],
       "stretches": [
@@ -694,7 +687,6 @@
           "name": "Dead hangs on bar",
           "scheme": "3 × 20s",
           "wgerId": 1529,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
           "detailId": "mw-1639"
         },
         {
@@ -830,7 +822,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -886,7 +878,6 @@
           "name": "Dead hangs on bar",
           "scheme": "3 × 30s",
           "wgerId": 1529,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
           "detailId": "mw-1639"
         },
         {
@@ -1033,7 +1024,6 @@
           "name": "Dead hangs on bar",
           "scheme": "4 × 30s",
           "wgerId": 1529,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
           "detailId": "mw-1639"
         },
         {

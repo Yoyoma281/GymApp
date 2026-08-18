@@ -38,7 +38,6 @@
           "name": "V-ups",
           "scheme": "3 × 12",
           "wgerId": 1964,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/0.jpg",
           "detailId": "mw-1758"
         }
       ],
@@ -153,7 +152,6 @@
           "name": "Turkish get-ups",
           "scheme": "3 × 3 / side",
           "wgerId": 675,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
           "detailId": "fed-Kettlebell_Turkish_Get_Up_Lunge_style_"
         },
         {
@@ -173,7 +171,7 @@
         {
           "name": "Bear crawls",
           "scheme": "3 × 15m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
           "detailId": "fed-Bear_Crawl_Sled_Drags"
         }
       ],
@@ -222,8 +220,7 @@
         {
           "name": "Wall walks",
           "scheme": "3 × 3",
-          "wgerId": 1391,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
+          "wgerId": 1391
         },
         {
           "name": "Hollow body holds",
@@ -236,7 +233,6 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
           "detailId": "fed-Cable_Crunch"
         },
         {
@@ -288,20 +284,17 @@
           "name": "Lying leg raises",
           "scheme": "3 × 15",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "detailId": "mw-37"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Seated leg press (single leg)",
           "scheme": "3 × 10 / leg",
           "wgerId": 2497,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "detailId": "mw-1671"
         },
         {
@@ -360,14 +353,12 @@
         {
           "name": "Side plank with leg lift",
           "scheme": "3 × 8 / side",
-          "wgerId": 1410,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg"
+          "wgerId": 1410
         },
         {
           "name": "Lying hip adduction machine",
           "scheme": "3 × 12",
           "wgerId": 1093,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-1504"
         },
         {
@@ -437,7 +428,6 @@
         {
           "name": "Medicine ball sit-up throws",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
           "detailId": "mw-721"
         }
       ],
@@ -495,20 +485,17 @@
           "name": "One-arm dumbbell rows",
           "scheme": "3 × 10 / arm",
           "wgerId": 508,
-          "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg",
           "detailId": "fed-One_Arm_Dumbbell_Row"
         },
         {
           "name": "Cable hip flexions",
           "scheme": "3 × 12 / leg",
           "wgerId": 2495,
-          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "detailId": "fed-Hip_Flexion_with_Band"
         },
         {
           "name": "Rowing machine sprints",
-          "scheme": "4 × 250m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg"
+          "scheme": "4 × 250m"
         }
       ],
       "stretches": [
@@ -567,8 +554,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Cable adductions",
@@ -622,21 +608,19 @@
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         },
         {
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
-          "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
+          "wgerId": 1196
         },
         {
           "name": "Push-ups",
@@ -695,7 +679,7 @@
         {
           "name": "Heavy sled drags",
           "scheme": "4 × 20m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
           "detailId": "fed-Sled_Drag_Harness"
         },
         {
@@ -899,7 +883,6 @@
           "name": "Lying hip adduction machine",
           "scheme": "3 × 12",
           "wgerId": 1093,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-1504"
         },
         {
@@ -955,7 +938,7 @@
         {
           "name": "Lying leg curls",
           "scheme": "3 × 10",
-          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
+          "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
           "wgerId": 1530,
           "detailId": "fed-Lying_Leg_Curls"
         },
@@ -963,7 +946,6 @@
           "name": "Lying hip adduction machine",
           "scheme": "3 × 12",
           "wgerId": 1093,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-1504"
         },
         {
@@ -1049,7 +1031,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         }
@@ -1100,7 +1082,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         },
         {
@@ -1166,7 +1147,7 @@
         {
           "name": "Trap-bar deadlifts",
           "scheme": "3 × 6",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -1187,8 +1168,7 @@
         {
           "name": "Broad jumps",
           "scheme": "3 × 5",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         }
       ],
       "stretches": [
@@ -1244,14 +1224,13 @@
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1651/04ab2679-a04d-4d05-9c85-0d36e898328c.webp",
           "detailId": "fed-Dumbbell_Lunges"
         },
         {
           "name": "Power cleans",
           "scheme": "4 × 3",
           "wgerId": 683,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
           "detailId": "fed-Power_Clean"
         }
       ],

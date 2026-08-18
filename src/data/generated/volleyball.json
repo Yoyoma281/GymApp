@@ -159,14 +159,13 @@
         {
           "name": "Lateral sled drags",
           "scheme": "4 × 15m / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
           "detailId": "fed-Sled_Drag_Harness"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-1118"
         },
         {
@@ -381,7 +380,6 @@
           "name": "Close-grip dumbbell press",
           "scheme": "3 × 10",
           "wgerId": 1228,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Dumbbell_Press/0.jpg",
           "detailId": "fed-Close_Grip_Dumbbell_Press"
         },
         {
@@ -394,7 +392,6 @@
         {
           "name": "Finger-tip push-up holds",
           "scheme": "3 × 20s",
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "wgerId": 31
         }
       ],
@@ -511,7 +508,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -669,7 +666,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 up-downs",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         },
@@ -734,8 +731,7 @@
         {
           "name": "Broad jumps",
           "scheme": "4 × 4",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Single-leg bounds",
@@ -825,8 +821,7 @@
         {
           "name": "Wall shoulder taps in plank",
           "scheme": "3 × 12 / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         }
       ],
       "stretches": [
@@ -869,7 +864,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -895,8 +890,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         }
       ],
       "stretches": [
@@ -1082,7 +1076,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
