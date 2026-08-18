@@ -17,10 +17,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yoyoma281.dojofit"
+      "bundleIdentifier": "com.kihonlabs.dojofit"
     },
     "android": {
-      "package": "com.yoyoma281.dojofit",
+      "package": "com.kihonlabs.dojofit",
       "adaptiveIcon": {
         "backgroundColor": "#0b0b0d",
         "foregroundImage": "./assets/adaptive-icon.png",
