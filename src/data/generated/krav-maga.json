@@ -19,13 +19,13 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-745"
         },
         {
           "name": "Med-ball chest pass",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "mw-1758"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Push-ups",
@@ -84,7 +84,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Med-ball overhead slams",
@@ -227,8 +227,7 @@
         {
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Cable face pulls",
@@ -371,14 +370,14 @@
           "scheme": "3 × 30s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-46"
         },
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -441,7 +440,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         }
       ],
       "stretches": [
@@ -486,13 +485,13 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-446"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Isometric overhead plate hold",
           "scheme": "3 × 30s",
           "wgerId": 1430,
-          "detailId": "wger-1430"
+          "detailId": "mw-535"
         },
         {
           "name": "Towel pull-ups",
@@ -506,7 +505,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 984,
           "imageUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
-          "detailId": "mw-189"
+          "detailId": "mw-1076"
         },
         {
           "name": "Band external rotations",
@@ -630,7 +629,7 @@
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         },
         {
           "name": "Landmine rotations",
@@ -651,7 +650,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 981,
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
-          "detailId": "mw-99"
+          "detailId": "mw-1270"
         }
       ],
       "stretches": [
@@ -698,7 +697,8 @@
         },
         {
           "name": "Goblet squat pulses",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-428"
         },
         {
           "name": "Hip thrusts",
@@ -710,8 +710,7 @@
         {
           "name": "Isometric bear-hug plate holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430,
-          "detailId": "wger-1430"
+          "wgerId": 1430
         },
         {
           "name": "Standing calf raises",
@@ -826,7 +825,7 @@
           "name": "Med-ball slam to sprint",
           "scheme": "5 × 1",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-731"
         },
         {
           "name": "Burpees",
@@ -895,20 +894,20 @@
           "scheme": "3 × 3 / side",
           "wgerId": 675,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
-          "detailId": "mw-1587"
+          "detailId": "fed-Kettlebell_Turkish_Get_Up_Lunge_style_"
         },
         {
           "name": "Single-leg balance-board stands",
           "scheme": "3 × 30s / leg",
           "wgerId": 1238,
-          "detailId": "wger-1238"
+          "detailId": "mw-1461"
         },
         {
           "name": "Neck curls",
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         }
       ],
       "stretches": [
@@ -950,11 +949,13 @@
       "exercises": [
         {
           "name": "Assault bike intervals",
-          "scheme": "8 × 20s"
+          "scheme": "8 × 20s",
+          "detailId": "mw-1089"
         },
         {
           "name": "Burpee sprawls",
-          "scheme": "4 × 10"
+          "scheme": "4 × 10",
+          "detailId": "mw-475"
         },
         {
           "name": "Kettlebell swings",
@@ -1023,21 +1024,19 @@
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-          "detailId": "fed-Kneeling_Arm_Drill"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Shuttle sprints",
@@ -1051,7 +1050,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         }
       ],
       "stretches": [

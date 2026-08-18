@@ -88,7 +88,7 @@
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Nordic hamstring curls",
@@ -151,8 +151,7 @@
         {
           "name": "Pogo hops",
           "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Box step-ups",
@@ -224,7 +223,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Nordic hamstring curls",
@@ -237,13 +236,12 @@
           "name": "Cable straight-leg pull-downs",
           "scheme": "3 × 10 / leg",
           "wgerId": 1795,
-          "detailId": "mw-17"
+          "detailId": "mw-224"
         },
         {
           "name": "Pogo hops",
           "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Hanging knee raises",
@@ -299,8 +297,7 @@
         {
           "name": "Pogo hops",
           "scheme": "3 × 25",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Seated calf raises",
@@ -354,7 +351,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Calf raises",
@@ -366,8 +363,7 @@
         {
           "name": "A-skips",
           "scheme": "3 × 20m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg",
-          "detailId": "fed-Box_Skip"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg"
         },
         {
           "name": "Hamstring curls",
@@ -428,7 +424,7 @@
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Standing calf raises",
@@ -487,7 +483,7 @@
           "scheme": "4 × 4",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Nordic hamstring curls",
@@ -572,8 +568,7 @@
         {
           "name": "Pogo hops",
           "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Glute bridges",
@@ -640,14 +635,14 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "mw-202"
+          "detailId": "mw-1442"
         },
         {
           "name": "Reverse lunges",
           "scheme": "3 × 10 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "mw-102"
+          "detailId": "mw-373"
         }
       ],
       "stretches": [
@@ -712,7 +707,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Glute bridges",
@@ -775,7 +770,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Walking lunges",
@@ -862,7 +857,7 @@
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Mountain climbers",
@@ -914,7 +909,7 @@
           "scheme": "3 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Hip thrusts",
@@ -942,7 +937,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         }
       ],
       "stretches": [
@@ -993,7 +988,7 @@
           "scheme": "3 × 6",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Bulgarian split squats",
@@ -1059,7 +1054,7 @@
           "scheme": "3 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Hip thrusts",

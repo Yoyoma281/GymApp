@@ -32,7 +32,7 @@
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-1269"
         },
         {
           "name": "Plank",
@@ -150,7 +150,7 @@
           "scheme": "3 × 30m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         },
         {
           "name": "Towel pull-ups",
@@ -236,7 +236,7 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Barbell reverse lunges",
@@ -302,7 +302,7 @@
           "scheme": "3 × 30m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         },
         {
           "name": "Hanging knee raises",
@@ -354,14 +354,14 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "One-arm dumbbell rows",
           "scheme": "3 × 10 / arm",
           "wgerId": 508,
           "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg",
-          "detailId": "mw-319"
+          "detailId": "fed-One_Arm_Dumbbell_Row"
         },
         {
           "name": "Kettlebell swings",
@@ -374,8 +374,7 @@
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
           "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-8"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
         }
       ],
       "stretches": [
@@ -492,14 +491,13 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Side planks with rotation",
           "scheme": "3 × 10 / side",
           "wgerId": 1966,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-1039"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg"
         },
         {
           "name": "Landmine rotations",
@@ -551,7 +549,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Kettlebell swings",
@@ -638,7 +636,7 @@
           "scheme": "3 × 30m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -689,7 +687,7 @@
           "scheme": "3 × 20",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-1392"
         },
         {
           "name": "Mountain climbers",
@@ -755,7 +753,7 @@
           "scheme": "3 × 8 / arm",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-765"
         },
         {
           "name": "Walking lunges",
@@ -821,20 +819,19 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "fed-Cable_Internal_Rotation"
+          "detailId": "mw-247"
         },
         {
           "name": "Medicine ball rotational throws",
           "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         }
       ],
       "stretches": [
@@ -945,7 +942,7 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Dumbbell jump squats",

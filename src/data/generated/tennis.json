@@ -24,15 +24,14 @@
         {
           "name": "Pogo hops",
           "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Barbell jump squats",
           "scheme": "4 × 5 (light)",
           "wgerId": 615,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-8"
+          "detailId": "mw-191"
         },
         {
           "name": "Standing calf raises",
@@ -95,7 +94,7 @@
           "name": "Lateral sled drags",
           "scheme": "4 × 15m / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         },
         {
           "name": "Mini-band lateral walks",
@@ -115,8 +114,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -168,21 +166,21 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Sled sprints",
           "scheme": "6 × 15m",
           "wgerId": 961,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1097"
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Cable hip flexor march",
@@ -235,8 +233,7 @@
         {
           "name": "Medicine ball rotational throws",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Goblet squats",
@@ -302,7 +299,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 145,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
-          "detailId": "fed-Standing_Cable_Wood_Chop"
+          "detailId": "mw-1850"
         },
         {
           "name": "Seated cable rows",
@@ -327,7 +324,7 @@
           "scheme": "3 × 30m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -379,14 +376,14 @@
           "scheme": "3 × 12",
           "wgerId": 1473,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Flyes/0.jpg",
-          "detailId": "fed-Dumbbell_Flyes"
+          "detailId": "mw-407"
         },
         {
           "name": "Single-arm lat pulldowns",
           "scheme": "3 × 10 / side",
           "wgerId": 1972,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/0.jpg",
-          "detailId": "mw-264"
+          "detailId": "fed-One_Arm_Lat_Pulldown"
         },
         {
           "name": "Dumbbell wrist curls",
@@ -445,7 +442,7 @@
           "scheme": "3 × 12 / side",
           "wgerId": 1473,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Flyes/0.jpg",
-          "detailId": "fed-Reverse_Flyes"
+          "detailId": "mw-1036"
         },
         {
           "name": "Face pulls",
@@ -600,8 +597,7 @@
         {
           "name": "Medicine ball rotational throws",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Jump squats",
@@ -662,7 +658,8 @@
       "exercises": [
         {
           "name": "Cable woodchoppers (high to low)",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "detailId": "mw-1849"
         },
         {
           "name": "Half-kneeling landmine press",
@@ -682,7 +679,7 @@
           "name": "Dumbbell wrist pronation/supination",
           "scheme": "3 × 12 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lying_Supination/0.jpg",
-          "detailId": "fed-Dumbbell_Lying_Supination"
+          "detailId": "mw-1225"
         },
         {
           "name": "Medicine ball overhead throws",
@@ -738,7 +735,8 @@
         {
           "name": "Overhead medicine ball throws (backward)",
           "scheme": "4 × 5",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+          "detailId": "fed-Backward_Medicine_Ball_Throw"
         },
         {
           "name": "Barbell hip thrusts",
@@ -808,7 +806,7 @@
           "scheme": "3 × 10",
           "wgerId": 378,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Chest_Press/0.jpg",
-          "detailId": "wger-378"
+          "detailId": "fed-Standing_Cable_Chest_Press"
         },
         {
           "name": "Dumbbell wrist curls",
@@ -960,13 +958,12 @@
           "scheme": "3 × 8 / side",
           "wgerId": 985,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation/0.jpg",
-          "detailId": "mw-1131"
+          "detailId": "fed-Bodyweight_Walking_Lunge"
         },
         {
           "name": "Medicine ball rotational throws",
           "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Single-leg Romanian deadlifts",
@@ -1022,7 +1019,8 @@
       "exercises": [
         {
           "name": "Goblet squats (deep pause)",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-11"
         },
         {
           "name": "Bulgarian split squats",

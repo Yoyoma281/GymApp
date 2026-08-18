@@ -25,7 +25,7 @@
           "scheme": "3 × 12",
           "wgerId": 167,
           "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
-          "detailId": "mw-35"
+          "detailId": "fed-Cable_Crunch"
         },
         {
           "name": "Hanging knee raises",
@@ -90,7 +90,7 @@
           "name": "Back extensions (45° bench)",
           "scheme": "3 × 12",
           "wgerId": 445,
-          "detailId": "wger-445"
+          "detailId": "mw-40"
         },
         {
           "name": "Barbell Romanian deadlifts",
@@ -104,7 +104,7 @@
           "scheme": "3 × 12",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "fed-Side_Leg_Raises"
+          "detailId": "mw-1285"
         },
         {
           "name": "Glute bridges",
@@ -162,28 +162,28 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
           "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
-          "detailId": "mw-35"
+          "detailId": "fed-Cable_Crunch"
         },
         {
           "name": "V-ups",
           "scheme": "3 × 12",
           "wgerId": 1964,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/0.jpg",
-          "detailId": "mw-1587"
+          "detailId": "mw-1758"
         },
         {
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         }
       ],
       "stretches": [
@@ -234,14 +234,14 @@
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "mw-182"
+          "detailId": "fed-Handstand_Push_Ups"
         },
         {
           "name": "Barbell overhead shrugs",
           "scheme": "3 × 10",
           "wgerId": 1925,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
-          "detailId": "mw-351"
+          "detailId": "mw-536"
         },
         {
           "name": "Plank shoulder taps",
@@ -254,8 +254,7 @@
           "name": "Wall walks",
           "scheme": "3 × 4",
           "wgerId": 1391,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "fed-Farmers_Walk"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg"
         }
       ],
       "stretches": [
@@ -306,8 +305,7 @@
           "name": "Handstand wall holds",
           "scheme": "4 × 30s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png"
         },
         {
           "name": "Wrist curls & reverse wrist curls",
@@ -321,14 +319,14 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Dumbbell Z-press",
           "scheme": "3 × 8",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-45"
+          "detailId": "mw-366"
         }
       ],
       "stretches": [
@@ -371,8 +369,7 @@
         {
           "name": "Seated straddle leg lifts",
           "scheme": "4 × 8",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
-          "detailId": "fed-Leg_Lift"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg"
         },
         {
           "name": "Pike compression pulses on box",
@@ -396,7 +393,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         }
       ],
       "stretches": [
@@ -444,28 +441,27 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 75,
           "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
-          "detailId": "wger-75"
+          "detailId": "fed-Dumbbell_Lunges"
         },
         {
           "name": "Handstand wall holds",
           "scheme": "3 × 30s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png"
         },
         {
           "name": "Side plank with hip dips",
           "scheme": "3 × 10 / side",
           "wgerId": 194,
           "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
-          "detailId": "mw-5"
+          "detailId": "mw-322"
         },
         {
           "name": "Pike push-ups",
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "mw-182"
+          "detailId": "fed-Handstand_Push_Ups"
         }
       ],
       "stretches": [
@@ -513,21 +509,21 @@
           "scheme": "3 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
           "wgerId": 993,
-          "detailId": "mw-700"
+          "detailId": "fed-Standing_Long_Jump"
         },
         {
           "name": "Barbell push press",
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-446"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Nordic hamstring curls",
@@ -599,7 +595,7 @@
           "name": "Back extensions (45° bench)",
           "scheme": "3 × 12",
           "wgerId": 445,
-          "detailId": "wger-445"
+          "detailId": "mw-40"
         },
         {
           "name": "Wall bridge push-aways",
@@ -651,7 +647,7 @@
           "scheme": "4 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
           "wgerId": 1529,
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1493"
         },
         {
           "name": "Ring support hold practice",
@@ -670,7 +666,7 @@
           "scheme": "3 × 10",
           "wgerId": 194,
           "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
-          "detailId": "mw-5"
+          "detailId": "mw-1301"
         }
       ],
       "stretches": [
@@ -713,15 +709,14 @@
           "name": "Seated leg lifts over dumbbell",
           "scheme": "4 × 8",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
-          "detailId": "wger-75"
+          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png"
         },
         {
           "name": "Dips (parallel bars)",
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Parallel_Bar_Dip/0.jpg",
           "wgerId": 1529,
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1493"
         },
         {
           "name": "Hanging knee-to-L raises",
@@ -735,7 +730,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Tuck L-sit on parallettes",
@@ -802,7 +797,8 @@
         },
         {
           "name": "Muscle-up negatives",
-          "scheme": "3 × 3"
+          "scheme": "3 × 3",
+          "detailId": "fed-Muscle_Up"
         },
         {
           "name": "Explosive chest-to-bar pull-ups",
@@ -867,8 +863,7 @@
           "name": "Dumbbell pullovers on bench",
           "scheme": "3 × 10",
           "wgerId": 239,
-          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png",
-          "detailId": "fed-Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
+          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png"
         },
         {
           "name": "Wall-facing shoulder flexion slides",
@@ -921,7 +916,8 @@
           "name": "Bulgarian split squats (deep)",
           "scheme": "3 × 8 / leg",
           "wgerId": 988,
-          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png"
+          "imageUrl": "https://wger.de/media/exercise-images/988/6283b258-a4d7-4833-84f7-a38987022d3d.png",
+          "detailId": "mw-42"
         },
         {
           "name": "Barbell Romanian deadlifts",
@@ -935,7 +931,7 @@
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "fed-Side_Leg_Raises"
+          "detailId": "mw-1483"
         },
         {
           "name": "Sliding split negatives",
@@ -997,28 +993,25 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         },
         {
           "name": "Seated straddle pancake lifts",
           "scheme": "3 × 8",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
-          "detailId": "fed-Leg_Lift"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg"
         },
         {
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
-          "detailId": "fed-Ab_Crunch_Machine"
+          "detailId": "fed-Thigh_Adductor"
         },
         {
           "name": "Side lunges with dumbbell",
           "scheme": "3 × 8 / side",
           "wgerId": 1192,
-          "imageUrl": "https://wger.de/media/exercise-images/1192/651a4535-8210-4dbd-8f06-61d95fdd9963.png",
-          "detailId": "fed-Calf_Raise_On_A_Dumbbell"
+          "imageUrl": "https://wger.de/media/exercise-images/1192/651a4535-8210-4dbd-8f06-61d95fdd9963.png"
         }
       ],
       "stretches": [
@@ -1065,7 +1058,7 @@
           "scheme": "4 × 10",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Skin the cat on rings",
@@ -1075,8 +1068,7 @@
           "name": "Dumbbell pullovers on bench",
           "scheme": "3 × 10",
           "wgerId": 239,
-          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png",
-          "detailId": "fed-Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
+          "imageUrl": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png"
         },
         {
           "name": "Weighted pull-ups",
@@ -1089,7 +1081,7 @@
           "name": "Ring rows (feet elevated)",
           "scheme": "3 × 10",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Ups_With_Feet_Elevated/0.jpg",
-          "detailId": "fed-Push-Ups_With_Feet_Elevated"
+          "detailId": "fed-Elevated_Cable_Rows"
         }
       ],
       "stretches": [

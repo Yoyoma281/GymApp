@@ -26,7 +26,7 @@
           "scheme": "3 × 12",
           "wgerId": 2495,
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
-          "detailId": "wger-2495"
+          "detailId": "mw-1346"
         },
         {
           "name": "Hollow body holds",
@@ -85,7 +85,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Hollow body holds",
@@ -99,7 +99,7 @@
           "scheme": "3 × 12",
           "wgerId": 2495,
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
-          "detailId": "wger-2495"
+          "detailId": "mw-1346"
         },
         {
           "name": "Cable lateral raises",
@@ -151,7 +151,7 @@
           "scheme": "3 × 20",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-1392"
         },
         {
           "name": "Goblet squats",
@@ -172,7 +172,7 @@
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "mw-182"
+          "detailId": "fed-Handstand_Push_Ups"
         }
       ],
       "stretches": [
@@ -243,7 +243,7 @@
           "scheme": "3 × 2 up-downs",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -367,8 +367,7 @@
           "name": "Band-resisted rotational pulls",
           "scheme": "3 × 15 / side",
           "wgerId": 222,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
-          "detailId": "fed-Clean_Pull"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg"
         },
         {
           "name": "Kettlebell swings",
@@ -493,14 +492,14 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Lying leg curls",
           "scheme": "3 × 12",
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "wgerId": 1530,
-          "detailId": "mw-1"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Single-leg RDL",
@@ -559,7 +558,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 145,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "fed-Cable_Internal_Rotation"
+          "detailId": "mw-247"
         },
         {
           "name": "Lateral lunges",
@@ -573,14 +572,13 @@
           "scheme": "3 × 10 / arm",
           "wgerId": 508,
           "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg",
-          "detailId": "mw-319"
+          "detailId": "fed-One_Arm_Dumbbell_Row"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -625,7 +623,7 @@
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Pull-ups",
@@ -711,12 +709,12 @@
           "name": "Cable hip extensions",
           "scheme": "3 × 12 / leg",
           "wgerId": 369,
-          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "mw-231"
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
         },
         {
           "name": "Single-leg balance on BOSU",
-          "scheme": "3 × 30s / leg"
+          "scheme": "3 × 30s / leg",
+          "detailId": "mw-1461"
         },
         {
           "name": "Nordic hamstring curls",
@@ -772,7 +770,7 @@
           "scheme": "4 × 6",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Single-leg RDL",
@@ -785,8 +783,7 @@
           "name": "Cable hip extensions",
           "scheme": "3 × 12 / leg",
           "wgerId": 369,
-          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "mw-231"
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png"
         },
         {
           "name": "Pallof press",
@@ -838,7 +835,7 @@
           "scheme": "3 × 45s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Dumbbell bench press",
@@ -858,8 +855,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -977,14 +973,14 @@
           "scheme": "3 × 12",
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "wgerId": 1530,
-          "detailId": "mw-1"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Towel pull-ups",

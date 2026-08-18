@@ -93,14 +93,14 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-69"
+          "detailId": "mw-1671"
         },
         {
           "name": "Lying hamstring curls",
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Step-ups",
@@ -163,8 +163,7 @@
         {
           "name": "Pogo hops",
           "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Hanging knee raises",
@@ -178,7 +177,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         }
       ],
       "stretches": [
@@ -229,7 +228,7 @@
           "scheme": "3 × 10",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Walking lunges",
@@ -306,14 +305,14 @@
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Weighted plank",
@@ -393,7 +392,7 @@
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Weighted plank",
@@ -445,7 +444,7 @@
           "scheme": "4 × 5",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Kettlebell swings",
@@ -470,7 +469,7 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         }
       ],
       "stretches": [
@@ -522,7 +521,7 @@
           "scheme": "4 × 8",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Hip thrusts",
@@ -588,14 +587,14 @@
           "scheme": "4 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Back extensions",
@@ -616,7 +615,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         }
       ],
       "stretches": [
@@ -675,7 +674,7 @@
           "scheme": "3 × 10",
           "wgerId": 310,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Row/0.jpg",
-          "detailId": "mw-319"
+          "detailId": "mw-26"
         },
         {
           "name": "Box jumps",
@@ -689,7 +688,7 @@
           "scheme": "3 × 40m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -734,7 +733,7 @@
           "scheme": "4 × 4",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Jump squats",
@@ -762,7 +761,7 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         }
       ],
       "stretches": [
@@ -814,7 +813,7 @@
           "scheme": "4 × 3",
           "wgerId": 683,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
-          "detailId": "mw-481"
+          "detailId": "fed-Power_Clean"
         },
         {
           "name": "Depth jumps",
@@ -828,7 +827,7 @@
           "scheme": "3 × 10",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Standing calf raises",
@@ -885,21 +884,22 @@
         {
           "name": "Single-leg squats to box",
           "scheme": "3 × 6 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_High_Box_Squat/0.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_High_Box_Squat/0.jpg",
+          "detailId": "fed-Single_Leg_High_Box_Squat"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -963,7 +963,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -1015,7 +1015,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Plank",

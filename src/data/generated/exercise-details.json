@@ -17045,5 +17045,5912 @@
       }
     ],
     "secondaryMuscleIds": []
+  },
+  "mw-1461": {
+    "name": "Bosu Ball Single Leg Balance",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-3-single-leg-bosu-ball-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-3-single-leg-bosu-ball-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-3-single-leg-bosu-ball-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-balance-3-single-leg-bosu-ball-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-balance-3-single-leg-bosu-ball-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [],
+    "steps": [
+      "Place the supporting leg on the middle of a bosu ball.",
+      "Keep the knee of the suspended leg slightly bent.",
+      "Try to maintain your balance on the bosu ball."
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1269": {
+    "name": "Banded Side Walks",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-side-walks-resisted-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-side-walks-resisted-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-side-walks-resisted-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-side-walks-resisted-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-side-walks-resisted-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Place a band either just below or above your knees.",
+      "Get into a quarter squat position.",
+      "Step side to side without letting there be any slack in the band to keep tension on the band."
+    ],
+    "equipment": "Band",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1392": {
+    "name": "Core Stability 2 Opposite Shoulder Tap 4Pt Position",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Biceps",
+      "Abdominals",
+      "Shoulders",
+      "Anterior Deltoid",
+      "Triceps",
+      "Obliques",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Bring yourself to the 4 point position (on all fours). 90° angles at hips and shoulder and neutral spine.",
+      "Lift your knees slightly off the ground supporting your weight on palms and toes.",
+      "Maintain a toe placement roughly at shoulder width (the wider the leg stance the easier the exercise - the narrower the stance the more difficult it becomes.",
+      "Tap your opposite shoulder with your fingertips."
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      },
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Handstand_Push_Ups": {
+    "name": "Handstand Push-Ups",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "difficulty": "expert",
+    "equipment": "body only",
+    "steps": [
+      "With your back to the wall bend at the waist and place both hands on the floor at shoulder width.",
+      "Kick yourself up against the wall with your arms straight. Your body should be upside down with the arms and legs fully extended. Keep your whole body as straight as possible. Tip: If doing this for the first time, have a spotter help you. Also, make sure that you keep facing the wall with your head, rather than looking down.",
+      "Slowly lower yourself to the ground as you inhale until your head almost touches the floor. Tip: It is of utmost importance that you come down slow in order to avoid head injury.",
+      "Push yourself back up slowly as you exhale until your elbows are nearly locked.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Farmer_s_Walk": {
+    "name": "Farmer's Walk",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "glutes",
+      "hamstrings",
+      "lower back",
+      "quadriceps",
+      "traps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "other",
+    "steps": [
+      "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
+      "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+      "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "mw-994": {
+    "name": "Cable Bench Chest Fly",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-bench-chest-fly-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-bench-chest-fly-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-bench-chest-fly-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-bench-chest-fly-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-bench-chest-fly-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Bring a bench over to the cables, set the cables just below shoulder height.",
+      "Bring both of the handles to your chest and make sure you are in the center of the cable crossover.",
+      "Press the weight forward. From there, your shoulders should horizontally abduct and adduct while your elbows stay in a fixed position."
+    ],
+    "equipment": "Cables",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-247": {
+    "name": "Cable Wood Chopper",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-cable-woodchopper-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-cable-woodchopper-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-cable-woodchopper-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-cable-woodchopper-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-cable-woodchopper-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Set the cable at about nipple level. Use a handle attachment.",
+      "Face sideways, then rotate your torso with your arms extended against the resistance.",
+      "After completing your given number of reps, face the opposite direction and repeat."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Romanian_Deadlift": {
+    "name": "Romanian Deadlift",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "lower back"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Put a barbell in front of you on the ground and grab it using a pronated (palms facing down) grip that a little wider than shoulder width. Tip: Depending on the weight used, you may need wrist wraps to perform the exercise and also a raised platform in order to allow for better range of motion.",
+      "Bend the knees slightly and keep the shins vertical, hips back and back straight. This will be your starting position.",
+      "Keeping your back and arms completely straight at all times, use your hips to lift the bar as you exhale. Tip: The movement should not be fast but steady and under control.",
+      "Once you are standing completely straight up, lower the bar by pushing the hips back, only slightly bending the knees, unlike when squatting. Tip: Take a deep breath at the start of the movement and keep your chest up. Hold your breath as you lower and exhale as you complete the movement.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ]
+  },
+  "mw-52": {
+    "name": "Barbell Wrist Curl",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-curl-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-curl-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-wrist-curl-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-wrist-curl-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-wrist-curl-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [],
+    "steps": [
+      "Grab a straight bar with a supinated (underhand) grip.",
+      "Kneel down next to a flat bench and place your forearms on the bench with your wrists just off the bench.",
+      "Let the barbell pull down on your wrists until they are extended.",
+      "Curl the barbell until your wrists are fully flexed.",
+      "Lower in a controlled manner and repeat."
+    ],
+    "equipment": "Barbell",
+    "force": "",
+    "mechanic": null,
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "fed-Standing_Olympic_Plate_Hand_Squeeze": {
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "To begin, stand straight while holding a weight plate by the ridge at arm's length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.",
+      "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",
+      "Now raise the plates back to the starting position as you exhale by closing your hands.",
+      "Repeat for the recommended amount of repetitions prescribed in your program."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ]
+  },
+  "mw-972": {
+    "name": "Cable Single Arm Neutral Grip Row",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-neutral-grip-row-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-neutral-grip-row-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-neutral-grip-row-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-single-arm-neutral-grip-row-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-single-arm-neutral-grip-row-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lats"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Place the cable at shoulder height. Use a handle attachment. Face your palm toward the midline of your body.",
+      "Pull the handle back using your arms. Push out your chest.",
+      "Pull the handle towards your body until your hands are beside your abdomen."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Bent_Over_Two_Dumbbell_Row": {
+    "name": "Bent Over Two-Dumbbell Row",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "lats",
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "equipment": "dumbbell",
+    "steps": [
+      "With a dumbbell in each hand (palms facing your torso), bend your knees slightly and bring your torso forward by bending at the waist; as you bend make sure to keep your back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+      "While keeping the torso stationary, lift the dumbbells to your side (as you breathe out), keeping the elbows close to the body (do not exert any force with the forearm other than holding the weights). On the top contracted position, squeeze the back muscles and hold for a second.",
+      "Slowly lower the weight again to the starting position as you inhale.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "mw-1285": {
+    "name": "Band Shoulder Y Raise",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-shoulder-d2-raise-standing-theraband-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-shoulder-d2-raise-standing-theraband-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-shoulder-d2-raise-standing-theraband-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-shoulder-d2-raise-standing-theraband-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-shoulder-d2-raise-standing-theraband-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Hold one end of a band with your arm to the side and behind your body.",
+      "Hold the other end in front of your body (overhand grip).",
+      "Move your arm away from your body and upward while externally rotating your shoulder.",
+      "Finish with your arm over your head and thumb up"
+    ],
+    "equipment": "Recovery",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1412": {
+    "name": "Laying Chin Tucks",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-chin-tucks-supine-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-chin-tucks-supine-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-chin-tucks-supine-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-chin-tucks-supine-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-chin-tucks-supine-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Lie on your back with your knees bent and your feet on the ground to allow for a flat lower back.",
+      "Elongate your neck as much as possible",
+      "Tuck the chin in and press the back of your head into the ground",
+      "It helps having a folded towel under the head."
+    ],
+    "equipment": "Recovery",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "fed-Bodyweight_Mid_Row": {
+    "name": "Bodyweight Mid Row",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "other",
+    "steps": [
+      "Begin by taking a medium to wide grip on a pull-up apparatus with your palms facing away from you. From a hanging position, tuck your knees to your chest, leaning back and getting your legs over your side of the pull-up apparatus. This will be your starting position.",
+      "Beginning with your arms straight, flex the elbows and retract the shoulder blades to raise your body up until your legs contact the pull-up apparatus.",
+      "After a brief pause, return to the starting position."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 12,
+        "front": false
+      }
+    ]
+  },
+  "mw-1465": {
+    "name": "I's Prone",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-is-prone-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-is-prone-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-is-prone-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-is-prone-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-is-prone-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Anterior Deltoid",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Lie on your front with your arms extended and above your head.",
+      "Point the thumbs up.",
+      "Try to raise your arms off the ground keeping them straight."
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Scapular_Pull_Up": {
+    "name": "Scapular Pull-Up",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "middle back"
+    ],
+    "difficulty": "beginner",
+    "equipment": null,
+    "steps": [
+      "Take a pronated grip on a pull-up bar.",
+      "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
+      "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ]
+  },
+  "mw-1573": {
+    "name": "Bodyweight Single Leg Balance Stable",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-single-leg-balance-stable-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-single-leg-balance-stable-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-single-leg-balance-stable-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-single-leg-balance-stable-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-single-leg-balance-stable-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Hold on to something stable and pull the leg on the opposing side straight up. Hold this position."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Isometric_Neck_Exercise_Front_And_Back": {
+    "name": "Isometric Neck Exercise - Front And Back",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "With your head and neck in a neutral position (normal position with head erect facing forward), place both of your hands on the front side of your head.",
+      "Now gently push forward as you contract the neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+      "Hold for the recommended number of seconds.",
+      "Now release the tension slowly.",
+      "Rest for the recommended amount of time and repeat with your hands placed on the back side of your head."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "fed-Dumbbell_Lunges": {
+    "name": "Dumbbell Lunges",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "dumbbell",
+    "steps": [
+      "Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.",
+      "Step forward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground.",
+      "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
+      "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-373": {
+    "name": "Bodyweight Reverse Lunge",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-reverse-lunge-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-reverse-lunge-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-reverse-lunge-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-reverse-lunge-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-reverse-lunge-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Take a big step backwards with your left leg, lowering your body until your left thigh is parallel to the ground and your right knee is bent at a 90-degree angle.",
+      "Push through your right heel to return to standing, bringing your left leg back to starting position.",
+      "Repeat the movement on the other side, stepping backwards with your right leg and lowering your body until your right thigh is parallel to the ground and your left knee is bent at a 90-degree angle."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Thigh_Adductor": {
+    "name": "Thigh Adductor",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "machine",
+    "steps": [
+      "To begin, sit down on the adductor machine and select a weight you are comfortable with. When your legs are positioned properly on the leg pads of the machine, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
+      "Slowly press against the machine with your legs to move them towards each other while exhaling.",
+      "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary and avoid fast jerking motions in order to prevent any injuries from occurring.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-298": {
+    "name": "Barbell Front Squat Olympic",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-olympic-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-olympic-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-front-squat-olympic-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-front-squat-olympic-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-front-squat-olympic-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Measure your hands by the markings on the bar to make sure you're even. Then throw your elbows underneath the bar.",
+      "The bar should be set so high on your shoulders it digs into your neck a bit. Make sure to push your elbows up to the ceiling for the entire rep. To make sure you don't get too pitched forward.",
+      "Use the squat stance you would use for a back or goblet squat. Push your hips back to initiate the squat. Break at the knees until you hit parallel depth.",
+      "Squat back up to a standing position."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1850": {
+    "name": "Cable Standing Low To High Wood Chopper",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-low-to-high-wood-chopper-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-low-to-high-wood-chopper-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-low-to-high-wood-chopper-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-low-to-high-wood-chopper-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-low-to-high-wood-chopper-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Stand sideways to cable and grasp handle near hip level with both hands.",
+      "Rotate torso and pull handle diagonally upward toward opposite shoulder.",
+      "Control the return, keeping core braced and hips stable."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Dumbbell_Shoulder_Press": {
+    "name": "Dumbbell Shoulder Press",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "dumbbell",
+    "steps": [
+      "While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.",
+      "Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.",
+      "Make sure to rotate your wrists so that the palms of your hands are facing forward. This is your starting position.",
+      "Now, exhale and push the dumbbells upward until they touch at the top.",
+      "Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Dumbbell_Lying_Pronation": {
+    "name": "Dumbbell Lying Pronation",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "intermediate",
+    "equipment": "dumbbell",
+    "steps": [
+      "Lie on a flat bench face down with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
+      "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",
+      "Now raise the upper arm so that the forearm is perpendicular to the floor and the upper arm is perpendicular to your torso. Tip: The upper arm should be parallel to the floor and also creating a 90-degree angle with your torso. This will be your starting position.",
+      "As you breathe out, externally rotate your forearm so that the dumbbell is lifted forward as you maintain the 90 degree angle bend between the upper arms and the forearm. You will continue this external rotation until the forearm is parallel to the floor. At this point you will hold the contraction for a second.",
+      "As you breathe in, slowly go back to the starting position.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1849": {
+    "name": "Cable Standing High To Low Wood Chopper",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-high-to-low-wood-chopper-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-high-to-low-wood-chopper-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-high-to-low-wood-chopper-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-high-to-low-wood-chopper-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-high-to-low-wood-chopper-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Stand sideways to cable and grasp handle with both hands overhead.",
+      "Rotate torso and pull handle diagonally down toward opposite hip.",
+      "Control the return, keeping core braced and hips stable."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-725": {
+    "name": "Medicine Ball Rainbow Slam",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-rainbow-slam-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-rainbow-slam-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-rainbow-slam-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-rainbow-slam-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-rainbow-slam-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Lift medicine ball overhead.",
+      "Slam ball down to one side.",
+      "Catch and repeat slam to the other side."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1225": {
+    "name": "Dumbbell Wrist Supinations Pronations",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-wrist-supinations-pronations-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-wrist-supinations-pronations-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-wrist-supinations-pronations-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-wrist-supinations-pronations-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-wrist-supinations-pronations-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Rotating"
+    ],
+    "steps": [
+      "Sit by a bench or table and lean your arm on it.",
+      "Hold a dumbbell/weight/lever on one end.",
+      "Rotate the wrist so the palm faces down and up in succession."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1464": {
+    "name": "Single Leg Balance 2",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-2-single-leg-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-2-single-leg-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-balance-2-single-leg-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-balance-2-single-leg-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-balance-2-single-leg-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Feet"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stand upright with a braced core.",
+      "Choose the supporting leg and shift your weight on that, while lifting the other slightly off the ground.",
+      "Try to maintain your balance while bouncing a tennis ball off the wall or ground."
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1803": {
+    "name": "Cable Kneeling Pallof Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-kneeling-pallof-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-kneeling-pallof-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-kneeling-pallof-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-kneeling-pallof-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-kneeling-pallof-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Kneel sideways to cable and hold handle at chest, elbows tucked.",
+      "Brace core and press handle straight forward without rotating torso.",
+      "Hold briefly, then return handle to chest under full control."
+    ],
+    "equipment": "Cables",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1452": {
+    "name": "Jump Into Single Leg Landing",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-bilateral-into-unilateral-landing-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-bilateral-into-unilateral-landing-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-bilateral-into-unilateral-landing-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-jump-bilateral-into-unilateral-landing-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-jump-bilateral-into-unilateral-landing-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Start from the standing position. Lower your body into a semi-squatted position.",
+      "Push off the ground with two legs to perform the jump.",
+      "Land on one leg, making sure to absorb the impact by bending the knee as much as needed."
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-430": {
+    "name": "Dumbbell Heels Up Goblet Squat",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-heels-up-goblet-squat-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-heels-up-goblet-squat-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-heels-up-goblet-squat-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-heels-up-goblet-squat-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-heels-up-goblet-squat-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Take a half kneeling stance. The dumbbell should start over your knee that is up.",
+      "Rotate at the spine and point the dumbbell to the opposing side."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-78": {
+    "name": "Kettlebell Deadlift (Single)",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-romanian-deadlift-single-front_VRxcefY.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-romanian-deadlift-single-front_VRxcefY.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-romanian-deadlift-single-side_cdM5Jjj.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Kettlebells-kettlebell-romanian-deadlift-single-front_LLQ00DH.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Kettlebells-kettlebell-romanian-deadlift-single-side_4SMG6dA.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps (mid-back)",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
+      "Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees, keeping your back straight.",
+      "Return to standing position and repeat."
+    ],
+    "equipment": "Kettlebells",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1193": {
+    "name": "Dumbbell Step Up",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-step-up-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-step-up-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-step-up-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-step-up-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-step-up-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand",
+      "Underhand",
+      "None"
+    ],
+    "steps": [
+      "Stand in front of a step or bench with your feet shoulder-width apart and hold two dumbbells on your side with a neutral grip.",
+      "Step up onto the bench with your right foot, pushing off your foot to raise your body up onto the bench.",
+      "Bring your left foot up onto the bench and stand up straight, keeping the barbell at your shoulders.",
+      "Step back down with your left foot, followed by your right foot, to return to the starting position."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Cable_Crunch": {
+    "name": "Cable Crunch",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "cable",
+    "steps": [
+      "Kneel below a high pulley that contains a rope attachment.",
+      "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
+      "Flex your hips slightly and allow the weight to hyperextend the lower back. This will be your starting position.",
+      "With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second.",
+      "Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1583": {
+    "name": "Dumbbell Alternating Lateral Lunge",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-alternating-lateral-lunge-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-alternating-lateral-lunge-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-alternating-lateral-lunge-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-alternating-lateral-lunge-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-alternating-lateral-lunge-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Hold one dumbbell with one or both hands, feet hip-width apart.",
+      "Step out to one side, bending the knee.",
+      "Push off, return to center, then switch sides."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Standing_Long_Jump": {
+    "name": "Standing Long Jump",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
+      "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
+      "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
+      "Measure the distance from your landing point to the starting point and track results."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "fed-Wind_Sprints": {
+    "name": "Wind Sprints",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
+      "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",
+      "Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.",
+      "Continue alternating between legs until the set is complete."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Standing_Calf_Raises": {
+    "name": "Standing Calf Raises",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "machine",
+    "steps": [
+      "Adjust the padded lever of the calf raise machine to fit your height.",
+      "Place your shoulders under the pads provided and position your toes facing forward (or using any of the two other positions described at the beginning of the chapter). The balls of your feet should be secured on top of the calf block with the heels extending off it. Push the lever up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.",
+      "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+      "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Kettlebell_Turkish_Get_Up_Lunge_style_": {
+    "name": "Kettlebell Turkish Get-Up (Lunge style)",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "hamstrings",
+      "quadriceps",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "kettlebells",
+    "steps": [
+      "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
+      "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position. Using your free hand, push yourself to a seated position, then progressing to one knee.",
+      "While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "mw-454": {
+    "name": "Dumbbell Single Arm Overhead Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-overhead-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-overhead-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-overhead-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-single-arm-overhead-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-single-arm-overhead-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Anterior Deltoid",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Start by standing with your feet shoulder-width apart and holding a dumbbell in one hand.",
+      "Bring the dumbbell to your shoulder, with your palm facing forward and your elbow bent.",
+      "From this starting position, extend your arm upwards so that the dumbbell is overhead.",
+      "Make sure to keep your core engaged and your back straight throughout the movement."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-37": {
+    "name": "Laying Leg Raises",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-laying-leg-raises-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-laying-leg-raises-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-laying-leg-raises-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-laying-leg-raises-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-laying-leg-raises-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Abdominals"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Lay on your back with your arms palms down on either side.",
+      "Keep your legs together and as straight as possible.",
+      "Slowly raise your legs to a 90° angle, pause at this position, or as high as you can reach your legs, and then slowly lower your legs back down.",
+      "Duration of these movements should be slow so that you do not utilize momentum, enabling you to get the most out of the exercise."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-721": {
+    "name": "Medicine Ball Partner Situp Toss",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-situp-toss-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-situp-toss-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-partner-situp-toss-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-partner-situp-toss-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-partner-situp-toss-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Upper Abdominals"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Lie facing partner, knees bent.",
+      "Sit up, toss medicine ball to partner.",
+      "Catch and lower down. Repeat for desired reps."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-One_Arm_Dumbbell_Row": {
+    "name": "One-Arm Dumbbell Row",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "middle back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "lats",
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "equipment": "dumbbell",
+    "steps": [
+      "Choose a flat bench and place a dumbbell on each side of it.",
+      "Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.",
+      "Use the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position.",
+      "Pull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms.",
+      "Lower the resistance straight down to the starting position. Breathe in as you perform this step.",
+      "Repeat the movement for the specified amount of repetitions.",
+      "Switch sides and repeat again with the other arm."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 12,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "fed-Hip_Flexion_with_Band": {
+    "name": "Hip Flexion with Band",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "bands",
+    "steps": [
+      "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+      "Face away from the attachment point of the band.",
+      "Keeping your head and your chest up, raise your knee up to 90 degrees and pause.",
+      "Return the leg to the starting position."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Lying_Leg_Curls": {
+    "name": "Lying Leg Curls",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "beginner",
+    "equipment": "machine",
+    "steps": [
+      "Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.",
+      "Keeping the torso flat on the bench, ensure your legs are fully stretched and grab the side handles of the machine. Position your toes straight (or you can also use any of the other two stances described on the foot positioning section). This will be your starting position.",
+      "As you exhale, curl your legs up as far as possible without lifting the upper legs from the pad. Once you hit the fully contracted position, hold it for a second.",
+      "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Power_Clean": {
+    "name": "Power Clean",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "forearms",
+      "glutes",
+      "lower back",
+      "middle back",
+      "quadriceps",
+      "shoulders",
+      "traps",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Stand with your feet slightly wider than shoulder width apart and toes pointing out slightly.",
+      "Squat down and grasp bar with a closed, pronated grip. Your hands should be slightly wider than shoulder width apart outside knees with elbows fully extended.",
+      "Place the bar about 1 inch in front of your shins and over the balls of your feet.",
+      "Your back should be flat or slightly arched, your chest held up and out and your shoulder blades should be retracted.",
+      "Keep your head in a neutral position (in line with vertebral column and not tilted or rotated) with your eyes focused straight ahead. Inhale during this phase.",
+      "Lift the bar from the floor by forcefully extending the hips and the knees as you exhale. Tip: The upper torso should maintain the same angle. Do not bend at the waist yet and do not let the hips rise before the shoulders (this would have the effect of pushing the glutes in the air and stretching the hamstrings.",
+      "Keep elbows fully extended with the head in a neutral position and the shoulders over the bar.",
+      "As the bar raises keep it as close to the shins as possible.",
+      "As the bar passes the knees, thrust your hips forward and slightly bend the knees to avoid locking them. Tip: At this point your thighs should be against the bar.",
+      "Keep the back flat or slightly arched, elbows fully extended and your head neutral. Tip: You will hold your breath until the next phase.",
+      "Inhale and then forcefully and quickly extend your hips and knees and stand on your toes.",
+      "Keep the bar as close to your body as possible. Tip: Your back should be flat with the elbows pointed out to the sides and your head in a neutral position. Also, keep your shoulders over the bar and arms straight as long as possible.",
+      "When your lower body joints are fully extended, shrug the shoulders upward rapidly without letting the elbows flex yet. Exhale during this portion of the movement.",
+      "As the shoulders reach their highest elevation flex your elbows to begin pulling your body under the bar.",
+      "Continue to pull the arms as high and as long as possible. Tip: Due to the explosive nature of this phase, your torso will be erect or with an arched back, your head will be tilted back slightly and your feet may lose contact with the floor.",
+      "After the lower body has fully extended and the bar reaches near maximal height, pull your body under the bar and rotate the arms around and under the bar.",
+      "Simultaneously, flex the hips and knees into a quarter squat position.",
+      "Once the arms are under the bar, inhale and then lift your elbows to position the upper arms parallel to the floor. Rack the bar across the front of your collar bones and front shoulder muscles.",
+      "Catch the bar with an erect and tight torso, a neutral head position and flat feet. Exhale during this movement.",
+      "Stand up by extending the hips and knees to a fully erect position.",
+      "Lower the bar by gradually reducing the muscular tension of the arms to allow a controlled descent of the bar to the thighs. Inhale during this movement.",
+      "Simultaneously flex the hips and knees to cushion the impact of the bar on the thighs.",
+      "Squat down with the elbows fully extended until the bar touches the floor.",
+      "Start over at Phase 1 and repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "mw-745": {
+    "name": "Landmine Alternating Single Arm Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-alternating-single-arm-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-alternating-single-arm-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-alternating-single-arm-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-alternating-single-arm-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-alternating-single-arm-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Lateral Deltoid",
+      "Anterior Deltoid",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Stand facing the landmine leaning forward slightly with the end of the barbell held in one hand at your shoulder with your elbow positioned beneath your wrist.",
+      "While keeping your elbow pointed forward, drive the bar directly overhead, switching hands at the top of the movement. Lower the bar back down to the other side of your body, mirroring the starting position.",
+      "Repeat for desired number of reps, switching hands at the top of each rep."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1480": {
+    "name": "Band Straight Leg Hip Flexions",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-hip-flexions-straight-leg-standing-resisted-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-hip-flexions-straight-leg-standing-resisted-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Rectus Femoris"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Attach a band to a fixed point.",
+      "Wrap the loose end of the band around your ankle.",
+      "Face away from the attachment point.",
+      "Raise your working leg against the resistance."
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-633": {
+    "name": "Crow Pose",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-yoga-crow-pose-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-yoga-crow-pose-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-yoga-crow-pose-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-yoga-crow-pose-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-yoga-crow-pose-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Biceps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [],
+    "steps": [
+      "Begin in a squatting position with your feet together and your knees apart.",
+      "Place your hands on the floor in front of you, shoulder-width apart. Keep your arms straight and engage your core.",
+      "Slowly shift your weight forward and lift your feet off the ground, coming onto your tiptoes.",
+      "Bend your elbows and lean your weight onto your hands, shifting your knees towards your upper arms.",
+      "Gently lift one foot off the ground, and then the other, balancing on your hands. Hold the pose for a few breaths before releasing back to the ground."
+    ],
+    "equipment": "Yoga",
+    "force": "Hold",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 1,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-18": {
+    "name": "Bench Dips",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bench-dips-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bench-dips-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bench-dips-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bench-dips-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bench-dips-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Triceps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Grip the edge of the bench with your hands, Keep your feet together and legs straight.",
+      "Lower your body straight down.",
+      "Slowly press back up to the starting point.",
+      "TIP: Make this harder by raising your feet off the floor and adding weight."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Kettlebell_Pistol_Squat": {
+    "name": "Kettlebell Pistol Squat",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "shoulders"
+    ],
+    "difficulty": "expert",
+    "equipment": "kettlebells",
+    "steps": [
+      "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
+      "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",
+      "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
+      "Lower yourself again and repeat."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "mw-1639": {
+    "name": "Plate Weighted Dead Hang",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Plate-plate-weighted-dead-hang-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Plate-plate-weighted-dead-hang-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Plate-plate-weighted-dead-hang-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Plate-plate-weighted-dead-hang-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Plate-plate-weighted-dead-hang-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Attach weight to yourself using a dip belt. Grip a pull-up bar with palms facing forward.",
+      "Hang with arms fully extended.",
+      "Hold for recommended amount of time, keeping your core engaged."
+    ],
+    "equipment": "Plate",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1707": {
+    "name": "Barbell High Pull",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-pull-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-pull-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-pull-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-high-pull-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-high-pull-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps (mid-back)",
+      "Lower back",
+      "Glutes",
+      "Traps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Stand with feet hip-width apart, grip the barbell slightly wider than shoulder-width, and keep your back straight.",
+      "Drive through your legs, extending your hips, knees, and ankles explosively while pulling the barbell upward.",
+      "As the bar rises, pull it close to your body, leading with your elbows until it reaches chest level."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-2138": {
+    "name": "Control Front Plank Position",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Pilates-control-front-plank-position-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Pilates-control-front-plank-position-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Pilates-control-front-plank-position-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Pilates-control-front-plank-position-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Pilates-control-front-plank-position-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lower back",
+      "Abdominals",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Place hands on the shoulder rests on feet on the footbar.",
+      "Engage core, glutes tight, body forming a straight line.",
+      "Press arms forward, protract shoulders slightly, keep neck neutral.",
+      "Hold position with steady breathing and full-body tension."
+    ],
+    "equipment": "Pilates",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Rowing_Stationary": {
+    "name": "Rowing, Stationary",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "calves",
+      "glutes",
+      "hamstrings",
+      "lower back",
+      "middle back"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "machine",
+    "steps": [
+      "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",
+      "There are three phases of movement when using a rower. The first phase is when you come forward on the rower. Your knees are bent and against your chest. Your upper body is leaning slightly forward while still maintaining good posture. Next, push against the foot pedals and extend your legs while bringing your hands to your upper abdominal area, squeezing your shoulders back as you do so. To avoid straining your back, use primarily your leg and hip muscles.",
+      "The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "mw-734": {
+    "name": "Medicine Ball Wall Ball",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-wall-ball-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-wall-ball-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-wall-ball-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-wall-ball-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-wall-ball-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Hold medicine ball at chest, facing wall.",
+      "Squat down, then throw ball at wall.",
+      "Catch and repeat for desired reps."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-26": {
+    "name": "Dumbbell Row Bilateral",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-row-bilateral-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-row-bilateral-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-row-bilateral-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-row-bilateral-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-row-bilateral-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps (mid-back)",
+      "Lats"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Grab both dumbbells and hinge forward at the hips. Make sure you keep a flat back.",
+      "The closer your torso is to parallel with the ground the longer the range of motion will be at your shoulder. The better the results you'll get from the exercise.",
+      "Let your arms hang freely, and then pull your elbow joint straight back toward the ceiling."
+    ],
+    "equipment": "Dumbbells",
+    "force": "",
+    "mechanic": null,
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Single_Leg_High_Box_Squat": {
+    "name": "Single-Leg High Box Squat",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "Position a box in a rack. Secure a band or rope in place above the box.",
+      "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
+      ". Continue stepping up and down on the same leg before switching to the opposite side."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-395": {
+    "name": "Dumbbell Goblet Split Squat",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-split-squat-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-split-squat-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-split-squat-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-goblet-split-squat-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-goblet-split-squat-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Hold a dumbbell in a goblet position.",
+      "Take a large step forward with one leg, and lower your body until your back knee nearly touches the ground. Your front knee should be bent at a 90-degree angle, and your back leg should be straight.",
+      "Push through the heel of your front foot to raise your body back to the starting position."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Dumbbell_Step_Ups": {
+    "name": "Dumbbell Step Ups",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "dumbbell",
+    "steps": [
+      "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
+      "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+      "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+      "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "fed-Single_Leg_Stride_Jump": {
+    "name": "Single-Leg Stride Jump",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "adductors",
+      "calves",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+      "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+      "Land in the same position that you started, using your inside leg to decelerate the impact."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-230": {
+    "name": "Cable Wrist Curl",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-cable-wrist-curl-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-cable-wrist-curl-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-cable-wrist-curl-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-cable-wrist-curl-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-cable-wrist-curl-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Underhand"
+    ],
+    "steps": [
+      "Use a handle attachment. The cable should be set all the way to the bottom of the machine.",
+      "Face away from the cable machine. Stagger your stance so you have a better base of support.",
+      "Start with your elbow at a 90° angle with your palm facing up. Flex and extend at the wrist."
+    ],
+    "equipment": "Cables",
+    "force": "",
+    "mechanic": null,
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-300": {
+    "name": "Barbell High Bar Good Morning",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-bar-good-morning-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-bar-good-morning-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-high-bar-good-morning-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-high-bar-good-morning-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-high-bar-good-morning-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Hamstrings",
+      "Lateral Hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [],
+    "steps": [
+      "Place the bar on your traps. You may need a pad so the bar doesn't dig into your cervical spine.",
+      "Push your hips straight back. Your knees should stay MOSTLY extended (think soft knees). Also make sure to",
+      "Look for what feels like a stretch in your hamstrings. The stretch feeling means you're likely nearing the end of your Range of Motion without rounding your spine.",
+      "When you feel the stretch push your hips forward until you're in a standing position."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-977": {
+    "name": "Cable Half Kneeling Wood Chopper",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-half-kneeling-wood-chopper-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-half-kneeling-wood-chopper-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-half-kneeling-wood-chopper-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-half-kneeling-wood-chopper-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-half-kneeling-wood-chopper-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Set the cable at nipple level. Take a half kneeling position. Use a handle attachment.",
+      "Face sideways, then rotate your torso with your arms extended against the resistance.",
+      "After completing your given number of reps, face the opposite direction and repeat."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-536": {
+    "name": "Plate Overhead Shrug",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-plate-overhead-shrug-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-plate-overhead-shrug-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-plate-overhead-shrug-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-plate-overhead-shrug-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-plate-overhead-shrug-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Stand tall with a weight plate overhead.",
+      "Elevated and depress your scapula.",
+      "Avoid leaning forward or backwards to keep pressure off of your lumbar spine."
+    ],
+    "equipment": "Plate",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-322": {
+    "name": "Side Plank Up Down",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-side-plank-up-down-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-side-plank-up-down-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-bodyweight-side-plank-up-down-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-bodyweight-side-plank-up-down-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-bodyweight-side-plank-up-down-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Start with your elbow and hip on the ground. Either neutral fist or flat hand on the ground.",
+      "Begin in a side plank position, and then drop your hips to the floor.",
+      "Pull your hips back to the ceiling to finish the rep."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1493": {
+    "name": "Parallel Bar Dips",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-parralel-bar-dips-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-parralel-bar-dips-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-parralel-bar-dips-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-parralel-bar-dips-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-parralel-bar-dips-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [],
+    "steps": [
+      "Grip bars with arms straight, shoulders above hands. Keep legs straight or bent.",
+      "Lower slowly until elbows are at 90 degrees.",
+      "Push back up to start position, extending arms fully."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1301": {
+    "name": "Scapular Depression",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-depression-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-depression-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-depression-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-scapular-depression-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-scapular-depression-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lower Traps"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "From the standing or seated position straighten your back.",
+      "Pull the shoulders back but keep them relaxed.",
+      "Move shoulders away from your ears and return to the starting, relaxed position."
+    ],
+    "equipment": "Recovery",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "fed-Muscle_Up": {
+    "name": "Muscle Up",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "biceps",
+      "forearms",
+      "middle back",
+      "shoulders",
+      "traps",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "other",
+    "steps": [
+      "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.",
+      "As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
+      "Maintaining control and stability, extend through the elbow to complete the motion.",
+      "Use care when lowering yourself to the ground."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 1,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Elevated_Cable_Rows": {
+    "name": "Elevated Cable Rows",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "middle back",
+      "traps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "cable",
+    "steps": [
+      "Get a platform of some sort (it can be an aerobics or calf raise platform) that is around 4-6 inches in height.",
+      "Place it on the seat of the cable row machine.",
+      "Sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+      "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
+      "With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
+      "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 12,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "fed-Walking_Treadmill": {
+    "name": "Walking, Treadmill",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "machine",
+    "steps": [
+      "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+      "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than walking outside. When walking, you should move at a moderate to fast pace, not a leisurely one. Being an activity of lower intensity, walking doesn't burn as many calories as some other activities, but still provides great benefit. A 150 lb person will burn about 175 calories walking 4 miles per hour for 30 minutes, compared to 450 calories running twice as fast. Maintain proper posture as you walk, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-317": {
+    "name": "Dumbbell Bulgarian Split Squat",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-bulgarian-split-squat-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-bulgarian-split-squat-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-bulgarian-split-squat-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-bulgarian-split-squat-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-bulgarian-split-squat-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Find a box or bench that is roughly knee height or a few inches lower. (The lower the box is the lower the mobility requirement).",
+      "You can either place your toes or the top of your foot on the box. Point your front foot forward or slightly turned outwards and break at the knees and hips simultaneously.",
+      "Aim to get your front leg to hit parallel depth (hamstring parallel with the ground) or lower.",
+      "The further forward your front foot is, the longer the Range of Motion is at your hips. The further back your front foot is, the longer the ROM at your knees."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-2179": {
+    "name": "Stair Climber",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stair-climber-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stair-climber-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stair-climber-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-stair-climber-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-stair-climber-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Step onto step, grip handles lightly, maintain tall posture and neutral spine.",
+      "Drive through midfoot, alternate steps smoothly, avoid leaning heavily on handles.",
+      "Set moderate pace, breathe rhythmically, keep knees tracking over toes."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1974": {
+    "name": "Bodyweight Step Down",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-step-down-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-step-down-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-step-down-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-step-down-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-step-down-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Stand on platform with one foot off edge and torso tall.",
+      "Lower hanging foot toward floor by bending standing knee under control.",
+      "Drive through standing heel to stand tall again without pushing off bottom foot."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1445": {
+    "name": "Jump On And Off Box",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-on-and-off-box-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-on-and-off-box-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-jump-on-and-off-box-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-jump-on-and-off-box-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-jump-on-and-off-box-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Start from the standing position. Lower your body into a semi-squatted position",
+      "Push off the ground with two legs to perform the jump and land on the box. Jump off the box in the same manner",
+      "Land on one leg, on the ground, making sure to absorb the impact by bending the knee as much as needed.",
+      "Absorb the impact by bending the knees when landing. Try to maintain your balance"
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1872": {
+    "name": "Cable Standing Single Arm Chest Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-single-arm-chest-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-single-arm-chest-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-standing-single-arm-chest-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-single-arm-chest-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-standing-single-arm-chest-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Stand sideways to cable and hold handle at chest height with elbow bent.",
+      "Brace core and press handle straight forward without rotating torso.",
+      "Squeeze chest at extension, then return handle slowly to starting position."
+    ],
+    "equipment": "Cables",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-428": {
+    "name": "Dumbbell Goblet Pulse Squat",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-pulse-squat-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-pulse-squat-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-goblet-pulse-squat-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-goblet-pulse-squat-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-goblet-pulse-squat-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Hold a dumbbell in goblet position.",
+      "Squat down to parallel depth and then halfway back up.",
+      "Stay in this short range of motion for the duration of the set."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Bodyweight_Walking_Lunge": {
+    "name": "Bodyweight Walking Lunge",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": null,
+    "steps": [
+      "Begin standing with your feet shoulder width apart and your hands on your hips.",
+      "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
+      "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
+      "Step forward with your rear foot, repeating the lunge on the opposite leg."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "fed-Push_Press": {
+    "name": "Push Press",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "triceps"
+    ],
+    "difficulty": "expert",
+    "equipment": "barbell",
+    "steps": [],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Scissors_Jump": {
+    "name": "Scissors Jump",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+      "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+      "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
+      "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "fed-Seated_Head_Harness_Neck_Resistance": {
+    "name": "Seated Head Harness Neck Resistance",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "intermediate",
+    "equipment": "other",
+    "steps": [
+      "Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.",
+      "Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.",
+      "Now place both hands on top of your knees. This is the starting position.",
+      "Slowly lower your neck down until your chin touches the upper part of your chest while breathing in.",
+      "While exhaling, bring your neck back to the starting position.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1076": {
+    "name": "Bodyweight Alternating Jump Lunge",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-alternating-jump-lunge-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-alternating-jump-lunge-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-alternating-jump-lunge-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-alternating-jump-lunge-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-alternating-jump-lunge-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Overhand",
+      "Neutral"
+    ],
+    "steps": [
+      "Start in a standing position.",
+      "Lunge forward, switch legs mid-air.",
+      "Land and repeat."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-224": {
+    "name": "Cable Standing Straight Leg Glute Kickback",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-glute-kickback-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-glute-kickback-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-glute-kickback-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-glute-kickback-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-glute-kickback-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lower back",
+      "Glutes"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Use an ankle attachment. The cable should be set to the bottom of the crossover machine.",
+      "Push your ankle straight back, extending at the hip. Hold for a one count when you feel a contraction in your glutes.",
+      "Then flex at the hips until you are back into your original position."
+    ],
+    "equipment": "Cables",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Seated_Good_Mornings": {
+    "name": "Seated Good Mornings",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Set up a box in a power rack. The pins should be set at an appropriate height. Begin by stepping under the bar and placing it across the back of the shoulders, not on top of your traps. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders.",
+      "Remove the bar from the rack, creating a tight arch in your lower back. Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. This will be your starting position.",
+      "Keeping the bar tight, bend forward at the hips as much as possible. If you set the pins to what would be parallel, you not only have a safety if you fail, but know when to stop.",
+      "Pause just above the pins and reverse the motion until your torso it upright."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ]
+  },
+  "mw-757": {
+    "name": "Landmine Kneeling Overhead Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-kneeling-overhead-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-kneeling-overhead-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-landmine-kneeling-overhead-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-kneeling-overhead-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-landmine-kneeling-overhead-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Anterior Deltoid",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Start kneeling in front of the landmine, facing towards it, with your knees hip-width apart and your back straight while holding the end of the bar in both hands in front of your chest.",
+      "Push the landmine up overhead by fully extending your arms until the weight is directly over your head. Pause briefly at the top of the movement, then slowly lower the landmine back down to the starting position.",
+      "Repeat for the desired number of reps."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Overhead_Squat": {
+    "name": "Overhead Squat",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "calves",
+      "glutes",
+      "hamstrings",
+      "lower back",
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "expert",
+    "equipment": "barbell",
+    "steps": [
+      "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",
+      "Bend the knees and use a pronated grip (palms facing you) to grab the barbell. Your hands should be at a wider than shoulder width apart from each other before lifting. Once you are positioned, lift the barbell up until you can rest it on your chest.",
+      "Move the barbell over and slightly behind your head and make sure your arms are fully extended. Keep your head up at all times and also maintain a straight back. Retract your shoulder blades. This is your starting position.",
+      "Slowly lower the weight by bending your knees until your thighs are parallel to the ground while inhaling. Tip: Keep your back straight while performing this exercise to avoid any injuries and your arms should remain extended and over your head at all times.",
+      "Now use your feet and legs to help bring the weight back up to the starting position while exhaling.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Hang_Snatch": {
+    "name": "Hang Snatch",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "calves",
+      "forearms",
+      "glutes",
+      "lower back",
+      "quadriceps",
+      "shoulders",
+      "traps"
+    ],
+    "difficulty": "expert",
+    "equipment": "barbell",
+    "steps": [
+      "Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be at the hips. This will be your starting position.",
+      "Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+      "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+      "Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "fed-Snatch_Balance": {
+    "name": "Snatch Balance",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",
+      "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",
+      "Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.",
+      "Continue to descend to full depth, and return to a standing position. Carefully lower the weight."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "mw-1711": {
+    "name": "Barbell Snatch",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-snatch-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-snatch-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-snatch-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-snatch-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-snatch-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lower back",
+      "Glutes",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [],
+    "steps": [
+      "Stand with feet shoulder-width apart, barbell over midfoot. Grip the bar wide with an overhand grip, chest up, and back straight.",
+      "Lift the bar by driving through your legs, keeping it close to your body. Extend your hips and knees while maintaining a straight back.",
+      "Explosively extend your hips, knees, and ankles while shrugging your shoulders. Pull yourself under the bar as it moves upward.",
+      "Drop into a deep squat while locking the bar overhead. Stabilize, then stand up fully to complete the lift."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Hang_Clean": {
+    "name": "Hang Clean",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "forearms",
+      "glutes",
+      "hamstrings",
+      "lower back",
+      "shoulders",
+      "traps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+      "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears.",
+      "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 9,
+        "front": false
+      }
+    ]
+  },
+  "fed-Clean_Deadlift": {
+    "name": "Clean Deadlift",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "forearms",
+      "glutes",
+      "lower back",
+      "middle back",
+      "quadriceps",
+      "traps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "barbell",
+    "steps": [
+      "Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.",
+      "Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.",
+      "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 9,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ]
+  },
+  "fed-Jerk_Dip_Squat": {
+    "name": "Jerk Dip Squat",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "calves"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
+      "Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 6,
+        "front": true
+      },
+      {
+        "id": 7,
+        "front": false
+      }
+    ]
+  },
+  "fed-Split_Jump": {
+    "name": "Split Jump",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+      "Ensure that the front knee is over the midline of the foot.",
+      "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+      "As you jump, bring your feet together, and move them back to their initial positions as you land.",
+      "Absorb the impact by reverting back to the starting position."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-1708": {
+    "name": "Barbell Split Jerk",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-split-jerk-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-split-jerk-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-split-jerk-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-split-jerk-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-split-jerk-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Start with the barbell on your shoulders in a front rack position, feet hip-width apart. Slightly bend your knees and dip straight down.",
+      "Explosively extend your legs and push the barbell upward, generating momentum with your legs.",
+      "As the bar rises, quickly split your legs (one forward, one back) and drop under the bar, locking your arms overhead.",
+      "Bring your front foot back, then your back foot forward to a stable standing position with the bar locked overhead."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Push_Press_Behind_the_Neck": {
+    "name": "Push Press - Behind the Neck",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "quadriceps",
+      "triceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
+      "Using the momentum generated, finish pressing the weight overhead be extending through the arms.",
+      "Return to the starting position, using your legs to absorb the impact."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "mw-1710": {
+    "name": "Barbell Clean And Jerk",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-clean-and-jerk-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-clean-and-jerk-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-clean-and-jerk-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-clean-and-jerk-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-clean-and-jerk-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Lower back",
+      "Glutes",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Stand with feet hip-width apart, grip the bar just outside your knees. Pull the bar from the floor by driving through your legs, keeping your back straight.",
+      "As the bar reaches your hips, extend explosively, shrug, and drop under to catch it in a front squat position with elbows high. Stand up tall.",
+      "Dip slightly, then drive through your legs to push the bar overhead.",
+      "Stabilize the bar overhead, lock arms, then bring feet together before lowering the bar safely."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1644": {
+    "name": "Medicine Ball Dead Bug",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-ball-medicine-ball-dead-bug-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-ball-medicine-ball-dead-bug-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-ball-medicine-ball-dead-bug-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-ball-medicine-ball-dead-bug-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-ball-medicine-ball-dead-bug-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Abdominals"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Lie on your back, place a medicine ball between your extended arms and bent knees.",
+      "Lower opposite arm and leg to floor, keeping back pressed against ground and medicine ball in place.",
+      "Alternate sides, maintain core engagement, and repeat for desired reps or time."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 6,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1503": {
+    "name": "Machine Horizontal Leg Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-horizontal-leg-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-horizontal-leg-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-horizontal-leg-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-horizontal-leg-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-horizontal-leg-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Place your legs on the platform with your feet at shoulder width.",
+      "Release the weight and extend your legs fully, without locking your knees.",
+      "Lower the weight until your legs are at a 90° angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)",
+      "Raise the weight back to starting position."
+    ],
+    "equipment": "Machine",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-343": {
+    "name": "Barbell Pause Box Squat",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-barbell-pause-box-squat-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-barbell-pause-box-squat-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-barbell-pause-box-squat-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-barbell-pause-box-squat-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-barbell-pause-box-squat-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Stand in front of a box or bench with your feet shoulder-width apart and a barbell resting on your upper back.",
+      "Lower your body into a squat position, sitting back onto the box and pausing for a moment before standing back up.",
+      "Push through your heels to return to the standing position."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1298": {
+    "name": "Scapular Retraction",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-retraction-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-retraction-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-scapular-retraction-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-scapular-retraction-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-scapular-retraction-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Traps (mid-back)"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "From the standing or seated position straighten your back.",
+      "Pull the shoulders back but keep them relaxed.",
+      "Move shoulders backwards and return to the starting, relaxed position."
+    ],
+    "equipment": "Recovery",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 9,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-JM_Press": {
+    "name": "JM Press",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "equipment": "barbell",
+    "steps": [
+      "Start the exercise the same way you would a close grip bench press. You will lie on a flat bench while holding a barbell at arms length (fully extended) with the elbows in. However, instead of having the arms perpendicular to the torso, make sure the bar is set in a direct line above the upper chest. This will be your starting position.",
+      "Now beginning from a fully extended position lower the bar down as if performing a lying triceps extension. Inhale as you perform this movement. When you reach the half way point, let the bar roll back about one inch by moving the upper arms towards your legs until they are perpendicular to the torso. Tip: Keep the bend at the elbows constant as you bring the upper arms forward.",
+      "As you exhale, press the bar back up by using the triceps to perform a close grip bench press.",
+      "Now go back to the starting position and start over.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "mw-74": {
+    "name": "Kettlebell Glute Bridge",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-glute-bridge-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-glute-bridge-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Kettlebells-kettlebell-glute-bridge-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Kettlebells-kettlebell-glute-bridge-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Kettlebells-kettlebell-glute-bridge-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [],
+    "steps": [
+      "Laying on the floor with your knees bent and feet firmly on the floor, rest the kettlebell on your pelvis.",
+      "Pushing through the legs and keeping the core muscles engaged, raise your pelvis off the floor until your stomach, pelvis and thighs make a straight line.",
+      "Slowly lower to the ground to the starting position and repeat."
+    ],
+    "equipment": "Kettlebells",
+    "force": "",
+    "mechanic": null,
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-2233": {
+    "name": "Ez Bar Romanian Deadlift",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-ez-bar-romanian-deadlift-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-ez-bar-romanian-deadlift-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-ez-bar-romanian-deadlift-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-ez-bar-romanian-deadlift-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-ez-bar-romanian-deadlift-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Hamstrings",
+      "Lateral Hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [],
+    "steps": [
+      "Take a shoulder width, double overhand or mixed grip.",
+      "Push your hips back while leaving your knees mostly extended. Look for a stretch in your hamstrings.",
+      "When you feel the stretch, push your hips forward until you're back in a standing position."
+    ],
+    "equipment": "Barbell",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Hyperextensions_Back_Extensions_": {
+    "name": "Hyperextensions (Back Extensions)",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "Lie face down on a hyperextension bench, tucking your ankles securely under the footpads.",
+      "Adjust the upper pad if possible so your upper thighs lie flat across the wide pad, leaving enough room for you to bend at the waist without any restriction.",
+      "With your body straight, cross your arms in front of you (my preference) or behind your head. This will be your starting position. Tip: You can also hold a weight plate for extra resistance in front of you under your crossed arms.",
+      "Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you feel a nice stretch on the hamstrings and you can no longer keep going without a rounding of the back. Tip: Never round the back as you perform this exercise. Also, some people can go farther than others. The key thing is that you go as far as your body allows you to without rounding the back.",
+      "Slowly raise your torso back to the initial position as you inhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-1945": {
+    "name": "Dumbbell Single Arm Chest Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-single-arm-chest-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-single-arm-chest-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Dumbbells-dumbbell-single-arm-chest-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-single-arm-chest-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Dumbbells-dumbbell-single-arm-chest-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Lie on bench holding one dumbbell above chest with arm extended.",
+      "Lower dumbbell toward chest while keeping torso stable and level.",
+      "Press upward, squeezing chest at the top without twisting."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-729": {
+    "name": "Medicine Ball Self Toss",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-self-toss-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-self-toss-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Medicine-Ball-self-toss-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-self-toss-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Medicine-Ball-self-toss-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Quads",
+      "Inner Quadriceps",
+      "Outer Quadricep"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [],
+    "steps": [
+      "Toss medicine ball up, catch with both hands.",
+      "Repeat toss and catch for desired reps."
+    ],
+    "equipment": "Medicine-Ball",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-453": {
+    "name": "Dumbbell Single Arm Neutral Overhead Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-neutral-overhead-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-neutral-overhead-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-dumbbell-single-arm-neutral-overhead-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-single-arm-neutral-overhead-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-dumbbell-single-arm-neutral-overhead-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Anterior Deltoid",
+      "Front Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Start by standing with your feet shoulder-width apart and holding a dumbbell in one hand.",
+      "Bring the dumbbell to your shoulder, with your palm facing your body and your elbow bent.",
+      "From this starting position, press the dumbbell upwards so that it is directly above your shoulder."
+    ],
+    "equipment": "Dumbbells",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1372": {
+    "name": "Kettlebell Single Arm Farmers Walk",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-farmers-walk-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-farmers-walk-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-farmers-walk-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-farmers-walk-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-farmers-walk-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Forearms",
+      "Obliques"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Neutral"
+    ],
+    "steps": [
+      "Standing straight with a kettlebell in one hand, walk for a specified distance or duration.",
+      "Stay upright and don't lean to one side."
+    ],
+    "equipment": "Kettlebells",
+    "force": "Pull",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 14,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Front_Barbell_Squat": {
+    "name": "Front Barbell Squat",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "difficulty": "expert",
+    "equipment": "barbell",
+    "steps": [
+      "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, bring your arms up under the bar while keeping the elbows high and the upper arm slightly above parallel to the floor. Rest the bar on top of the deltoids and cross your arms while grasping the bar for total control.",
+      "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso.",
+      "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances described in the foot positioning section).",
+      "Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+      "Begin to raise the bar as you exhale by pushing the floor mainly with the middle of your foot as you straighten the legs again and go back to the starting position.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "mw-55": {
+    "name": "Barbell Incline Bench Press",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-incline-bench-press-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-incline-bench-press-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Barbell-barbell-incline-bench-press-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-incline-bench-press-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Barbell-barbell-incline-bench-press-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Position the bench between 30 and 45 degrees.",
+      "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar.",
+      "Lower the bar to your mid chest",
+      "Raise the bar (slowly and controlled) until you've locked your elbows."
+    ],
+    "equipment": "Barbell",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Split_Squats": {
+    "name": "Split Squats",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "quadriceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": null,
+    "steps": [
+      "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
+      "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ]
+  },
+  "mw-1442": {
+    "name": "Calf Raise 2A Eccentric Unilateral Floor",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-calf-raise-2a-eccentric-unilateral-floor-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-calf-raise-2a-eccentric-unilateral-floor-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-calf-raise-2a-eccentric-unilateral-floor-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-calf-raise-2a-eccentric-unilateral-floor-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-calf-raise-2a-eccentric-unilateral-floor-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Calves"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Raise both heels off the ground, shift your weight onto the working leg while the opposite leg is suspended.",
+      "Hold the top position for a split second and then very slowly lower your heel to the ground",
+      "Try to avoid muscular (calf) contraction while raising the heel and then exert muscular contraction on the eccentric phase"
+    ],
+    "equipment": "Recovery",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Knee_Tuck_Jump": {
+    "name": "Knee Tuck Jump",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "adductors",
+      "calves",
+      "glutes",
+      "quadriceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "body only",
+    "steps": [
+      "Begin in a comfortable standing position with your knees slightly bent. Hold your hands in front of you, palms down with your fingertips together at chest height. This will be your starting position.",
+      "Rapidly dip down into a quarter squat and immediately explode upward. Drive the knees towards the chest, attempting to touch them to the palms of the hands.",
+      "Jump as high as you can, raising your knees up, and then ensure a good land be re-extending your legs, absorbing impact through be allowing the knees to rebend."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 11,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ]
+  },
+  "fed-Lateral_Cone_Hops": {
+    "name": "Lateral Cone Hops",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "calves",
+      "glutes",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "other",
+    "steps": [
+      "Position a number of cones in a row several feet apart.",
+      "Stand next to the end of the cones, facing 90 degrees to the direction of travel. This will be your starting position.",
+      "Begin the jump by dipping with the knees to initiate a stretch reflex, and immediately reverse direction to push off the ground, jumping up and sideways over the cone.",
+      "Use your legs to absorb impact upon landing, and rebound into the next jump, continuing down the row of cones."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ]
+  },
+  "mw-1569": {
+    "name": "Stationary Bike",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stationary-bike-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stationary-bike-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-stationary-bike-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-stationary-bike-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-stationary-bike-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "Overhand",
+      "Neutral"
+    ],
+    "steps": [
+      "Hold the handles and maintain a neutral spine.",
+      "Pedal at a moderate pace and try to minimise rocking back and forth."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1101": {
+    "name": "Cardio In In Out Out Shuffle",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-in-in-out-out-shuffle-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-in-in-out-out-shuffle-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cardio-cardio-in-in-out-out-shuffle-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-in-in-out-out-shuffle-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cardio-cardio-in-in-out-out-shuffle-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Calves",
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Start with your feet side by side.",
+      "Bring one foot laterally, then the other.",
+      "Return the first foot to its starting position, then the other."
+    ],
+    "equipment": "Cardio",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Lying_Face_Up_Plate_Neck_Resistance": {
+    "name": "Lying Face Up Plate Neck Resistance",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "intermediate",
+    "equipment": "other",
+    "steps": [
+      "Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
+      "While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.",
+      "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [],
+    "secondaryMuscleIds": []
+  },
+  "mw-1139": {
+    "name": "Bodyweight Explosive Push Up",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-explosive-push-up-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-explosive-push-up-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-explosive-push-up-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-explosive-push-up-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-explosive-push-up-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Advanced",
+    "grips": [],
+    "steps": [
+      "Start in a push-up position.",
+      "Lower your chest, explode up.",
+      "Land softly, repeat for reps."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1136": {
+    "name": "Bodyweight Clapping Push Up",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-clapping-push-up-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-clapping-push-up-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Bodyweight-bodyweight-clapping-push-up-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-clapping-push-up-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Bodyweight-bodyweight-clapping-push-up-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Chest"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Intermediate",
+    "grips": [],
+    "steps": [
+      "Start in a push-up position.",
+      "Lower your chest, explode up, clap hands.",
+      "Land softly, repeat for reps."
+    ],
+    "equipment": "Bodyweight",
+    "force": "Push",
+    "mechanic": "Compound",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1036": {
+    "name": "Cable Single Arm Internally Rotated High Reverse Fly",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-internally-rotated-high-reverse-fly-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-internally-rotated-high-reverse-fly-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Cables-cable-single-arm-internally-rotated-high-reverse-fly-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-single-arm-internally-rotated-high-reverse-fly-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Cables-cable-single-arm-internally-rotated-high-reverse-fly-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Shoulders",
+      "Posterior Deltoid",
+      "Rear Shoulders"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "Overhand"
+    ],
+    "steps": [
+      "Use a handle attachment or no attachment at all. The cable should be set to the top.",
+      "Walk a few steps away with the cable coming from the opposing side of the working arms. Internally rotate the shoulders.",
+      "From there, your shoulder should horizontally abduct and adduct, while your elbows stay in a fixed position."
+    ],
+    "equipment": "Cables",
+    "force": "Pull",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 2,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "fed-Standing_Cable_Chest_Press": {
+    "name": "Standing Cable Chest Press",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "difficulty": "beginner",
+    "equipment": "cable",
+    "steps": [
+      "Position dual pulleys to chest height and select an appropriate weight. Stand a foot or two in front of the cables, holding one in each hand. You can stagger your stance for better stability.",
+      "Position the upper arm at a 90 degree angle with the shoulder blades together. This will be your starting position.",
+      "Keeping the rest of the body stationary, extend through the elbows to press the handles forward, drawing them together in front of you.",
+      "Pause at the top of the motion, and return to the starting position."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 4,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 2,
+        "front": true
+      },
+      {
+        "id": 5,
+        "front": false
+      }
+    ]
+  },
+  "fed-Barbell_Step_Ups": {
+    "name": "Barbell Step Ups",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "barbell",
+    "steps": [
+      "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
+      "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+      "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+      "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 10,
+        "front": true
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 7,
+        "front": false
+      },
+      {
+        "id": 8,
+        "front": false
+      },
+      {
+        "id": 11,
+        "front": false
+      }
+    ]
+  },
+  "fed-Close_Grip_Dumbbell_Press": {
+    "name": "Close-Grip Dumbbell Press",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "difficulty": "beginner",
+    "equipment": "dumbbell",
+    "steps": [
+      "Place a dumbbell standing up on a flat bench.",
+      "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",
+      "Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.",
+      "Initiate the movement by lowering the dumbbell to your chest.",
+      "Return to the starting position by extending the elbows."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "fed-Push_Ups_Close_Triceps_Position": {
+    "name": "Push-Ups - Close Triceps Position",
+    "imageUrl": null,
+    "videoUrl": null,
+    "muscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "difficulty": "intermediate",
+    "equipment": "body only",
+    "steps": [
+      "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.",
+      "Lower yourself until your chest almost touches the floor as you inhale.",
+      "Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+      "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+    ],
+    "source": "free-exercise-db",
+    "muscleIds": [
+      {
+        "id": 5,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": [
+      {
+        "id": 4,
+        "front": true
+      },
+      {
+        "id": 2,
+        "front": true
+      }
+    ]
+  },
+  "mw-1323": {
+    "name": "Hip Extension External Rotation 4Pt Position",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-extension-external-rotation-4pt-position-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-extension-external-rotation-4pt-position-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Recovery-hip-extension-external-rotation-4pt-position-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-hip-extension-external-rotation-4pt-position-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Recovery-hip-extension-external-rotation-4pt-position-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Beginner",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Start on the 4 point position (on all fours).",
+      "Straighten and raise one leg till it is parallel to the ground.",
+      "Maintain the position but externally rotate the leg (knee aims out)",
+      "If you feel your lower back stiff or sore when performing this exercise, ask a trainer or therapist to guide you through."
+    ],
+    "equipment": "Recovery",
+    "force": "Hold",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
+  },
+  "mw-1505": {
+    "name": "Machine Hip Abduction",
+    "videoUrl": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-hip-abduction-front.mp4",
+    "videos": [
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-hip-abduction-front.mp4",
+        "gender": "male",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/male-Machine-machine-hip-abduction-side.mp4",
+        "gender": "male",
+        "angle": "side"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-hip-abduction-front.mp4",
+        "gender": "female",
+        "angle": "front"
+      },
+      {
+        "url": "https://api.musclewiki.com/stream/videos/branded/female-Machine-machine-hip-abduction-side.mp4",
+        "gender": "female",
+        "angle": "side"
+      }
+    ],
+    "muscles": [
+      "Glutes",
+      "Gluteus Medius"
+    ],
+    "secondaryMuscles": [],
+    "difficulty": "Novice",
+    "grips": [
+      "None"
+    ],
+    "steps": [
+      "Adjust machine settings to fit your height. Sit with back flat against pad, legs together.",
+      "Slowly press legs apart against resistance. Pause at peak.",
+      "Slowly return legs to starting position. Repeat for desired reps."
+    ],
+    "equipment": "Machine",
+    "force": "Push",
+    "mechanic": "Isolation",
+    "source": "musclewiki",
+    "muscleIds": [
+      {
+        "id": 8,
+        "front": false
+      }
+    ],
+    "secondaryMuscleIds": []
   }
 }

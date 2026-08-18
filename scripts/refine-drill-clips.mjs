@@ -35,16 +35,23 @@ if (!KEY) {
 }
 
 const args = process.argv.slice(2);
+const argVal = (flag, dflt) => {
+  const i = args.indexOf(flag);
+  return i >= 0 ? args[i + 1] : dflt;
+};
 const onlyArg = args.indexOf('--only');
 const only = onlyArg >= 0 ? args[onlyArg + 1].split(',') : null;
 const DRY = args.includes('--dry');
 
-// What each sport's footage should and shouldn't look like. The bans matter
-// more than the boosts: stock libraries tag every martial art as "martial
-// arts", so a karate search happily returns taekwondo and a boxing search
-// returns muay thai. Showing the wrong art on a named technique is the single
-// most visible way this can be wrong.
+// What each sport's footage should and shouldn't look like, per sport.
+//
+// The bans matter more than the boosts. Stock libraries tag every martial art
+// as "martial arts" and every racket sport as "racket", so a karate search
+// happily returns taekwondo and a tennis search returns padel. Showing the
+// wrong discipline on a named technique is the most visible way this can be
+// wrong, so each sport explicitly names the ones it gets confused with.
 const SPORT_RULES = {
+  // Striking arts.
   boxing: {
     want: ['boxing', 'boxer', 'punch', 'punching', 'glove', 'ring', 'sparring'],
     ban: [
@@ -58,6 +65,172 @@ const SPORT_RULES = {
       'taekwondo', 'boxing', 'boxer', 'judo', 'jujitsu', 'kickboxing', 'kick-boxing',
       'muay', 'glove', 'ring', 'punching-bag',
     ],
+  },
+  'muay-thai': {
+    want: ['muay', 'thai', 'kick', 'knee', 'elbow', 'clinch', 'martial', 'boxing'],
+    ban: ['karate', 'taekwondo', 'judo', 'kimono', 'wrestling', 'jiu'],
+  },
+  taekwondo: {
+    want: ['taekwondo', 'kick', 'kicking', 'martial', 'dobok'],
+    ban: ['karate', 'boxing', 'boxer', 'judo', 'muay', 'glove', 'wrestling'],
+  },
+  kickboxing: {
+    want: ['kickboxing', 'kick-boxing', 'kick', 'boxing', 'punch', 'glove', 'bag'],
+    ban: ['karate', 'taekwondo', 'judo', 'kimono', 'wrestling', 'jiu'],
+  },
+  mma: {
+    want: ['mma', 'mixed', 'cage', 'octagon', 'grappl', 'sparring', 'fighter', 'martial'],
+    ban: ['karate', 'taekwondo', 'kimono', 'kata'],
+  },
+  'krav-maga': {
+    want: ['krav', 'self-defense', 'self-defence', 'defense', 'martial', 'combat', 'training'],
+    ban: ['karate', 'taekwondo', 'judo', 'kimono', 'kata', 'boxing-ring'],
+  },
+  capoeira: {
+    want: ['capoeira', 'roda', 'martial', 'dance', 'acrobat'],
+    ban: ['karate', 'taekwondo', 'judo', 'boxing', 'kimono'],
+  },
+  'kung-fu': {
+    want: ['kung', 'fu', 'wushu', 'shaolin', 'martial', 'tai-chi'],
+    ban: ['karate', 'taekwondo', 'judo', 'boxing', 'glove'],
+  },
+
+  // Grappling. "Martial arts" is far too broad to accept here — a standing
+  // striking clip on a guard-retention drill is exactly the failure mode.
+  bjj: {
+    want: ['jiu', 'jitsu', 'bjj', 'grappl', 'ground', 'submission', 'roll', 'mat'],
+    ban: ['karate', 'taekwondo', 'boxing', 'kick', 'punch', 'striking'],
+  },
+  judo: {
+    want: ['judo', 'throw', 'grappl', 'gi', 'kimono', 'mat', 'dojo'],
+    ban: ['karate', 'taekwondo', 'boxing', 'kick', 'punch', 'jiu'],
+  },
+  wrestling: {
+    want: ['wrestl', 'grappl', 'takedown', 'mat', 'singlet'],
+    ban: ['karate', 'taekwondo', 'boxing', 'kick', 'punch', 'judo', 'arm-wrestl'],
+  },
+  aikido: {
+    want: ['aikido', 'martial', 'dojo', 'throw', 'hakama', 'kimono'],
+    ban: ['karate', 'taekwondo', 'boxing', 'kick', 'punch', 'judo', 'jiu'],
+  },
+
+  // Weapon and traditional.
+  fencing: {
+    want: ['fencing', 'fencer', 'sword', 'foil', 'epee', 'sabre', 'saber', 'lunge', 'mask'],
+    ban: ['kendo', 'karate', 'boxing', 'wooden'],
+  },
+  kendo: {
+    want: ['kendo', 'shinai', 'bamboo', 'armor', 'armour', 'sword', 'martial', 'dojo'],
+    ban: ['fencing', 'foil', 'epee', 'karate', 'boxing'],
+  },
+  archery: {
+    want: ['arch', 'bow', 'arrow', 'target', 'quiver', 'shooting'],
+    ban: ['gun', 'rifle', 'pistol', 'crossbow-hunt'],
+  },
+
+  // Endurance.
+  running: {
+    want: ['run', 'runner', 'jog', 'sprint', 'marathon', 'track'],
+    ban: ['treadmill-empty', 'cycl', 'swim'],
+  },
+  swimming: {
+    want: ['swim', 'swimmer', 'pool', 'stroke', 'freestyle', 'water', 'dive', 'lane'],
+    ban: ['surf', 'beach-walk'],
+  },
+  cycling: {
+    want: ['cycl', 'bike', 'bicycle', 'rider', 'pedal', 'peloton'],
+    ban: ['motorcycle', 'motorbike', 'stationary-empty'],
+  },
+  rowing: {
+    want: ['row', 'rower', 'oar', 'boat', 'scull', 'regatta', 'erg'],
+    ban: ['canoe', 'kayak', 'paddleboard'],
+  },
+  triathlon: {
+    want: ['triathlon', 'ironman', 'swim', 'cycl', 'bike', 'run', 'transition'],
+    ban: [],
+  },
+
+  // Strength and fitness.
+  powerlifting: {
+    want: ['powerlift', 'squat', 'deadlift', 'bench', 'barbell', 'lifting', 'gym', 'weight'],
+    ban: ['snatch', 'clean-and-jerk', 'yoga'],
+  },
+  'olympic-weightlifting': {
+    want: ['weightlift', 'snatch', 'clean', 'jerk', 'barbell', 'lifting', 'platform'],
+    ban: ['yoga', 'treadmill'],
+  },
+  crossfit: {
+    want: ['crossfit', 'wod', 'box-jump', 'kettlebell', 'burpee', 'rope', 'gym', 'workout'],
+    ban: ['yoga', 'pilates'],
+  },
+  gymnastics: {
+    want: ['gymnast', 'rings', 'bars', 'beam', 'vault', 'tumbl', 'somersault', 'handstand'],
+    ban: ['yoga', 'dance-class'],
+  },
+  yoga: {
+    want: ['yoga', 'pose', 'asana', 'mat', 'meditat', 'stretch', 'breath'],
+    ban: ['pilates-reformer', 'gym', 'barbell'],
+  },
+
+  // Ball and team. The ban lists here mostly keep one ball sport out of
+  // another's results — "court" and "ball" alone are ambiguous.
+  soccer: {
+    want: ['soccer', 'football', 'ball', 'pitch', 'goal', 'dribbl', 'kick'],
+    ban: ['american-football', 'rugby', 'basketball', 'volleyball', 'handball'],
+  },
+  basketball: {
+    want: ['basketball', 'hoop', 'dribbl', 'court', 'dunk', 'shoot', 'jump-shot'],
+    ban: ['volleyball', 'soccer', 'handball', 'netball'],
+  },
+  tennis: {
+    want: ['tennis', 'racket', 'racquet', 'court', 'serve', 'forehand', 'backhand'],
+    ban: ['badminton', 'squash', 'table-tennis', 'ping-pong', 'padel'],
+  },
+  volleyball: {
+    want: ['volleyball', 'spike', 'serve', 'net', 'court', 'block', 'dig'],
+    ban: ['basketball', 'tennis', 'badminton', 'handball'],
+  },
+  baseball: {
+    want: ['baseball', 'bat', 'pitch', 'glove', 'catcher', 'batter', 'diamond', 'field'],
+    ban: ['softball-empty', 'cricket', 'basketball'],
+  },
+  rugby: {
+    want: ['rugby', 'scrum', 'tackle', 'pitch', 'ball', 'try'],
+    ban: ['american-football', 'soccer', 'basketball'],
+  },
+  golf: {
+    want: ['golf', 'swing', 'club', 'tee', 'putt', 'fairway', 'green', 'course'],
+    ban: ['mini-golf', 'disc-golf'],
+  },
+  badminton: {
+    want: ['badminton', 'shuttlecock', 'shuttle', 'racket', 'racquet', 'net', 'court', 'smash'],
+    ban: ['tennis', 'squash', 'table-tennis', 'volleyball'],
+  },
+
+  // Outdoor and adventure.
+  climbing: {
+    want: ['climb', 'boulder', 'crag', 'rock', 'wall', 'rope', 'harness', 'belay'],
+    ban: ['stair', 'ladder', 'tree-cut'],
+  },
+  hiking: {
+    want: ['hik', 'trail', 'trek', 'mountain', 'backpack', 'walk', 'summit'],
+    ban: ['climb-rope', 'ski'],
+  },
+  surfing: {
+    want: ['surf', 'surfer', 'wave', 'board', 'ocean', 'paddl', 'beach'],
+    ban: ['windsurf', 'kitesurf', 'skateboard', 'snowboard', 'wakeboard'],
+  },
+  skiing: {
+    want: ['ski', 'skier', 'slope', 'snow', 'piste', 'alpine', 'mountain'],
+    ban: ['snowboard', 'water-ski', 'jet-ski', 'skate'],
+  },
+  snowboarding: {
+    want: ['snowboard', 'board', 'snow', 'slope', 'piste', 'mountain'],
+    ban: ['ski', 'skateboard', 'surf', 'wakeboard'],
+  },
+  skateboarding: {
+    want: ['skateboard', 'skater', 'skate', 'ramp', 'skatepark', 'board', 'trick', 'ollie'],
+    ban: ['ice-skat', 'roller', 'snowboard', 'surf'],
   },
 };
 
@@ -80,12 +253,27 @@ const MOVEMENT = [
 const cache = fs.existsSync(CACHE) ? JSON.parse(fs.readFileSync(CACHE, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+
+// Pexels allows 200 requests an hour. A full 38-sport run needs ~380 fresh
+// queries, so it is paced rather than raced — and a 429 is waited out instead
+// of dropped, because a dropped query silently leaves a drill on the clip it
+// already had and the run looks like it succeeded.
+const DELAY = Number(argVal('--delay', 18000));
+
 async function search(query) {
   if (query in cache) return cache[query];
   const url =
     'https://api.pexels.com/videos/search?orientation=landscape&size=medium&per_page=40' +
     `&query=${encodeURIComponent(query)}`;
-  const res = await fetch(url, { headers: { Authorization: KEY } });
+  let res;
+  for (let attempt = 0; ; attempt++) {
+    res = await fetch(url, { headers: { Authorization: KEY } });
+    if (res.status !== 429) break;
+    if (attempt >= 4) throw new Error('pexels 429 after retries');
+    const wait = 10 * 60 * 1000; // the quota window is hourly; short waits don't help
+    console.log(`  429 — waiting ${wait / 60000}min`);
+    await sleep(wait);
+  }
   if (!res.ok) throw new Error(`pexels ${res.status}`);
   const data = await res.json();
   cache[query] = (data.videos ?? []).map((v) => ({
@@ -100,7 +288,7 @@ async function search(query) {
       .sort((a, b) => Math.abs((a.height ?? 0) - 720) - Math.abs((b.height ?? 0) - 720))[0]?.link,
   }));
   fs.writeFileSync(CACHE, JSON.stringify(cache, null, 1));
-  await sleep(400); // Pexels allows 200 req/hour; stay polite
+  await sleep(DELAY);
   return cache[query];
 }
 

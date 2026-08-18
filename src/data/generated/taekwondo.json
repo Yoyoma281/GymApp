@@ -24,8 +24,7 @@
         {
           "name": "Pogo hops",
           "scheme": "4 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Seated calf raises",
@@ -82,19 +81,19 @@
           "scheme": "4 × 12",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scissors_Jump/0.jpg",
           "wgerId": 993,
-          "detailId": "mw-329"
+          "detailId": "fed-Scissors_Jump"
         },
         {
           "name": "Jump rope double unders",
           "scheme": "4 × 30s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-1597"
         },
         {
           "name": "Split squat jumps",
           "scheme": "3 × 8 / leg",
           "wgerId": 614,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg",
-          "detailId": "mw-700"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg"
         },
         {
           "name": "Agility ladder in-and-outs",
@@ -162,8 +161,7 @@
           "name": "Ankle dorsiflexion raises",
           "scheme": "3 × 15",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "detailId": "fed-Side_Leg_Raises"
+          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png"
         }
       ],
       "stretches": [
@@ -233,8 +231,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 30s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -289,28 +286,26 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-69"
+          "detailId": "mw-1671"
         },
         {
           "name": "Side plank with top-leg raise",
           "scheme": "3 × 30s / side",
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "wgerId": 348,
-          "detailId": "fed-Side_Leg_Raises"
+          "wgerId": 348
         },
         {
           "name": "Banded lateral walks",
           "scheme": "3 × 12 / direction",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "fed-Monster_Walk"
+          "detailId": "mw-1269"
         },
         {
           "name": "Slow motion side kick holds",
           "scheme": "3 × 5 × 5s / leg",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png"
         }
       ],
       "stretches": [
@@ -354,14 +349,14 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Cable straight-leg kickbacks",
           "scheme": "3 × 12 / leg",
           "wgerId": 1509,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Legged_Cable_Kickback/0.jpg",
-          "detailId": "mw-196"
+          "detailId": "mw-224"
         },
         {
           "name": "Hanging straight-leg raises",
@@ -435,7 +430,7 @@
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Single-leg glute bridges",
@@ -501,26 +496,25 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Cable glute kickbacks",
           "scheme": "3 × 12 / leg",
           "wgerId": 1509,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
-          "detailId": "mw-196"
+          "detailId": "mw-1012"
         },
         {
           "name": "Medicine ball rotational throws",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Reverse sled drag",
           "scheme": "4 × 20 m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         }
       ],
       "stretches": [
@@ -572,7 +566,7 @@
           "scheme": "3 × 10",
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "wgerId": 1530,
-          "detailId": "mw-1"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Cable hip abductions",
@@ -592,7 +586,7 @@
           "scheme": "3 × 30s / leg",
           "wgerId": 1007,
           "imageUrl": "https://wger.de/media/exercise-images/1007/757846d3-78e4-4068-bbca-62e567372c94.png",
-          "detailId": "wger-1007"
+          "detailId": "mw-1573"
         }
       ],
       "stretches": [
@@ -646,22 +640,21 @@
           "name": "Split squat jumps",
           "scheme": "3 × 8 / leg",
           "wgerId": 614,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg",
-          "detailId": "mw-700"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg"
         },
         {
           "name": "Medicine ball rotational slams",
           "scheme": "3 × 8 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
           "wgerId": 1525,
-          "detailId": "mw-731"
+          "detailId": "mw-725"
         },
         {
           "name": "Hanging knee raises with twist",
           "scheme": "3 × 10 / side",
           "wgerId": 1193,
           "imageUrl": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
-          "detailId": "fed-Plate_Twist"
+          "detailId": "mw-206"
         },
         {
           "name": "Single-leg bounding",
@@ -740,8 +733,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -789,13 +781,13 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-765"
         },
         {
           "name": "Medicine ball chest throws",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Push-ups",
@@ -872,7 +864,8 @@
         },
         {
           "name": "Goblet squat with pause",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-428"
         }
       ],
       "stretches": [
@@ -921,7 +914,8 @@
         },
         {
           "name": "Goblet squat with pause",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-428"
         },
         {
           "name": "Plank shoulder taps",
@@ -977,14 +971,13 @@
           "name": "Hanging knee raise sprints",
           "scheme": "4 × 15s",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-206"
         },
         {
           "name": "Split squat jumps",
           "scheme": "3 × 8 / leg",
           "wgerId": 614,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg",
-          "detailId": "mw-700"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg"
         },
         {
           "name": "Standing cable hip flexions",
@@ -997,14 +990,13 @@
           "name": "Assault bike sprints",
           "scheme": "6 × 15s hard / 45s easy",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-1089"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -1049,13 +1041,12 @@
           "scheme": "3 × 10 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Pogo hops",
           "scheme": "4 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Reactive ball drops with partner",

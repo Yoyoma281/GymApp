@@ -23,7 +23,8 @@
         },
         {
           "name": "Pistol squat progressions",
-          "scheme": "3 × 5 / leg"
+          "scheme": "3 × 5 / leg",
+          "detailId": "fed-Kettlebell_Pistol_Squat"
         },
         {
           "name": "Plank shoulder taps",
@@ -82,7 +83,7 @@
           "scheme": "3 × 10",
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "wgerId": 1530,
-          "detailId": "mw-1"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Single-leg Romanian deadlifts",
@@ -207,8 +208,7 @@
           "name": "Side plank with leg raise",
           "scheme": "3 × 20s / side",
           "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
-          "wgerId": 348,
-          "detailId": "fed-Side_Leg_Raises"
+          "wgerId": 348
         },
         {
           "name": "Cable hip abductions",
@@ -227,8 +227,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -271,15 +270,14 @@
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
           "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-8"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
         },
         {
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
-          "detailId": "fed-Ab_Crunch_Machine"
+          "detailId": "fed-Thigh_Adductor"
         },
         {
           "name": "Hip airplanes",
@@ -347,14 +345,15 @@
         },
         {
           "name": "Bench dips (deep)",
-          "scheme": "3 × 10"
+          "scheme": "3 × 10",
+          "detailId": "mw-18"
         },
         {
           "name": "Pike push-ups",
           "scheme": "3 × 8",
           "wgerId": 454,
           "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
-          "detailId": "mw-182"
+          "detailId": "fed-Handstand_Push_Ups"
         },
         {
           "name": "Dumbbell overhead press",
@@ -417,8 +416,7 @@
           "name": "Grip crushers",
           "scheme": "3 × 12",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
-          "wgerId": 1468,
-          "detailId": "mw-56"
+          "wgerId": 1468
         },
         {
           "name": "Farmer carries",
@@ -559,14 +557,14 @@
           "scheme": "3 × 15",
           "wgerId": 48,
           "imageUrl": "https://wger.de/media/exercise-images/51/f1730f56-7aca-4566-8338-3e42b1bee6e1.webp",
-          "detailId": "mw-31"
+          "detailId": "mw-52"
         },
         {
           "name": "Scapular pulls",
           "scheme": "3 × 8",
           "wgerId": 1970,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
-          "detailId": "mw-22"
+          "detailId": "fed-Scapular_Pull_Up"
         }
       ],
       "stretches": [
@@ -613,28 +611,26 @@
           "scheme": "4 × 20s",
           "wgerId": 1529,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1639"
         },
         {
           "name": "Barbell finger rolls",
           "scheme": "3 × 10",
           "wgerId": 1864,
-          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png",
-          "detailId": "wger-1864"
+          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png"
         },
         {
           "name": "Scapular pulls",
           "scheme": "3 × 8",
           "wgerId": 1970,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
-          "detailId": "mw-22"
+          "detailId": "fed-Scapular_Pull_Up"
         },
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
           "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-          "detailId": "mw-31"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         }
       ],
       "stretches": [
@@ -699,7 +695,7 @@
           "scheme": "3 × 20s",
           "wgerId": 1529,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1639"
         },
         {
           "name": "Cable face pulls",
@@ -764,7 +760,7 @@
           "name": "Medicine ball chest passes",
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "mw-1758"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Hollow body rocks",
@@ -836,14 +832,14 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Hanging leg raises",
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         }
       ],
       "stretches": [
@@ -891,7 +887,7 @@
           "scheme": "3 × 30s",
           "wgerId": 1529,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1639"
         },
         {
           "name": "Farmer carries",
@@ -1038,7 +1034,7 @@
           "scheme": "4 × 30s",
           "wgerId": 1529,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
-          "detailId": "fed-Knee_Hip_Raise_On_Parallel_Bars"
+          "detailId": "mw-1639"
         },
         {
           "name": "Rowing machine intervals",

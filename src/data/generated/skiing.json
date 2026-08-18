@@ -32,7 +32,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Plank",
@@ -91,7 +91,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Lateral lunges",
@@ -111,7 +111,7 @@
           "scheme": "3 × 30s / leg",
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "wgerId": 31,
-          "detailId": "wger-31"
+          "detailId": "mw-1573"
         }
       ],
       "stretches": [
@@ -178,7 +178,8 @@
         },
         {
           "name": "Stationary bike intervals",
-          "scheme": "6 × 90s"
+          "scheme": "6 × 90s",
+          "detailId": "mw-1569"
         }
       ],
       "stretches": [
@@ -221,15 +222,14 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         },
         {
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
-          "detailId": "fed-Ab_Crunch_Machine"
+          "detailId": "fed-Thigh_Adductor"
         },
         {
           "name": "Sumo squats",
@@ -309,7 +309,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 981,
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
-          "detailId": "mw-99"
+          "detailId": "mw-1270"
         },
         {
           "name": "Pallof press",
@@ -375,7 +375,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 1194,
           "imageUrl": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
-          "detailId": "mw-754"
+          "detailId": "mw-1803"
         },
         {
           "name": "Face pulls",
@@ -498,22 +498,21 @@
         {
           "name": "Ankle eversion with resistance band",
           "scheme": "3 × 12 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
-          "detailId": "fed-Deadlift_with_Bands"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg"
         },
         {
           "name": "Single-leg balance board holds",
           "scheme": "3 × 30s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-1269"
         },
         {
           "name": "Tibialis raises",
@@ -567,21 +566,22 @@
         },
         {
           "name": "Goblet squat pulses",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-428"
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "fed-Cable_Internal_Rotation"
+          "detailId": "mw-247"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         }
       ],
       "stretches": [
@@ -639,22 +639,20 @@
           "name": "Side plank with leg lift",
           "scheme": "3 × 20s / side",
           "wgerId": 1410,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
-          "detailId": "mw-1593"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 25s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -705,21 +703,20 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 1968,
           "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
-          "detailId": "mw-69"
+          "detailId": "mw-1671"
         },
         {
           "name": "Side plank with hip dips",
           "scheme": "3 × 12 / side",
           "wgerId": 194,
           "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
-          "detailId": "mw-5"
+          "detailId": "mw-322"
         },
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
           "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-8"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
         },
         {
           "name": "Nordic hamstring curls",
@@ -782,13 +779,12 @@
         {
           "name": "Tempo squats (3s down)",
           "scheme": "3 × 8",
-          "wgerId": 1399,
-          "detailId": "wger-1399"
+          "wgerId": 1399
         },
         {
           "name": "Box jumps with soft landing",
           "scheme": "4 × 6",
-          "detailId": "mw-1448"
+          "detailId": "mw-1445"
         },
         {
           "name": "Hollow body holds",
@@ -852,8 +848,7 @@
         {
           "name": "Rotational medicine ball throws",
           "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Standing calf raises",
@@ -909,7 +904,8 @@
         },
         {
           "name": "Jump squats with pause",
-          "scheme": "3 × 8"
+          "scheme": "3 × 8",
+          "detailId": "mw-191"
         },
         {
           "name": "Dead bugs",
@@ -925,7 +921,8 @@
         },
         {
           "name": "Stationary bike intervals",
-          "scheme": "6 × 90s"
+          "scheme": "6 × 90s",
+          "detailId": "mw-1569"
         }
       ],
       "stretches": [
@@ -970,7 +967,7 @@
           "scheme": "3 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "wgerId": 257,
-          "detailId": "mw-8"
+          "detailId": "fed-Front_Barbell_Squat"
         },
         {
           "name": "Single-leg Romanian deadlifts",

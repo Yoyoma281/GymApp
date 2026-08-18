@@ -26,14 +26,14 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-745"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-1269"
         },
         {
           "name": "Plank shoulder taps",
@@ -168,33 +168,32 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-446"
         },
         {
           "name": "Med-ball slam to sprint",
           "scheme": "5 × 1",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-731"
         },
         {
           "name": "Trap-bar deadlifts",
           "scheme": "4 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Split-stance jump lunges",
           "scheme": "3 × 8 / leg",
           "wgerId": 984,
           "imageUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
-          "detailId": "mw-189"
+          "detailId": "mw-1076"
         },
         {
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         }
       ],
       "stretches": [
@@ -239,7 +238,7 @@
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Box jumps",
@@ -300,7 +299,8 @@
       "exercises": [
         {
           "name": "Burpee sprawls",
-          "scheme": "4 × 10"
+          "scheme": "4 × 10",
+          "detailId": "mw-475"
         },
         {
           "name": "Kettlebell swings",
@@ -314,7 +314,7 @@
           "scheme": "3 × 10",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Mountain climbers",
@@ -370,7 +370,7 @@
           "scheme": "4 × 6",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Sled pushes",
@@ -397,8 +397,7 @@
           "name": "Broad jumps",
           "scheme": "3 × 5",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -455,8 +454,7 @@
         {
           "name": "Isometric bear-hug plate holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430,
-          "detailId": "wger-1430"
+          "wgerId": 1430
         },
         {
           "name": "Landmine rotations",
@@ -659,8 +657,7 @@
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
           "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
-          "detailId": "mw-8"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
         },
         {
           "name": "Cable hip adductions",
@@ -680,7 +677,7 @@
           "name": "Balance-board single-leg stands",
           "scheme": "3 × 30s / leg",
           "wgerId": 1238,
-          "detailId": "wger-1238"
+          "detailId": "mw-1461"
         }
       ],
       "stretches": [
@@ -739,7 +736,7 @@
           "scheme": "3 × 40s",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Hanging knee raises",
@@ -791,14 +788,14 @@
           "scheme": "4 × 8",
           "wgerId": 1525,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
-          "detailId": "mw-708"
+          "detailId": "mw-731"
         },
         {
           "name": "Kneeling landmine press",
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-754"
+          "detailId": "mw-757"
         },
         {
           "name": "Weighted planks",
@@ -883,14 +880,13 @@
           "name": "Isometric wall push",
           "scheme": "3 × 20s",
           "wgerId": 1523,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/0.jpg",
-          "detailId": "fed-Drop_Push"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drop_Push/0.jpg"
         },
         {
           "name": "Reverse sled drags",
           "scheme": "4 × 15m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         }
       ],
       "stretches": [
@@ -935,13 +931,13 @@
           "scheme": "3 × 3 / side",
           "wgerId": 675,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
-          "detailId": "mw-1587"
+          "detailId": "fed-Kettlebell_Turkish_Get_Up_Lunge_style_"
         },
         {
           "name": "Bear crawls",
           "scheme": "3 × 15m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/0.jpg",
-          "detailId": "fed-Spider_Crawl"
+          "detailId": "fed-Bear_Crawl_Sled_Drags"
         },
         {
           "name": "Kettlebell snatches",
@@ -952,7 +948,8 @@
         },
         {
           "name": "Burpee sprawls",
-          "scheme": "4 × 10"
+          "scheme": "4 × 10",
+          "detailId": "mw-475"
         },
         {
           "name": "Hollow-body rocks",
@@ -1005,7 +1002,8 @@
       "exercises": [
         {
           "name": "Assault bike intervals",
-          "scheme": "8 × 20s"
+          "scheme": "8 × 20s",
+          "detailId": "mw-1089"
         },
         {
           "name": "Battle ropes",
@@ -1030,7 +1028,8 @@
         },
         {
           "name": "Burpee sprawls",
-          "scheme": "4 × 10"
+          "scheme": "4 × 10",
+          "detailId": "mw-475"
         }
       ],
       "stretches": [
@@ -1095,7 +1094,7 @@
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         },
         {
           "name": "Neck harness extensions",
