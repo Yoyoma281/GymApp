@@ -237,6 +237,10 @@ const styles = StyleSheet.create({
     width: '100%',
     height: '100%',
     resizeMode: 'contain' as const,
+    // Opaque, because 'contain' letterboxes anything that isn't 16:9 and the
+    // video frame underneath was showing through the bars — an illustrated
+    // exercise diagram composited over a photo of the demonstrator.
+    backgroundColor: '#000',
   },
   center: {
     position: 'absolute',
