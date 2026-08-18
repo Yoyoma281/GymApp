@@ -28,7 +28,13 @@ export default function ExerciseMedia({ detail }: { detail: ExerciseDetail }) {
   }, [detail.videoUrl]);
 
   if (state.kind === 'video') {
-    return <VideoPlayer uri={state.uri} poster={detail.imageUrl ?? undefined} />;
+    // Only use the still as a poster when it depicts the same thing the video
+    // does. A MuscleWiki entry never carries its own image, so its imageUrl is
+    // a wger or free-exercise-db *illustration* matched by name — showing that
+    // over a real filmed demonstration means the preview is an anatomy diagram
+    // and the person only appears once you hit play.
+    const poster = detail.source === 'musclewiki' ? undefined : detail.imageUrl ?? undefined;
+    return <VideoPlayer uri={state.uri} poster={poster} />;
   }
 
   const image = detail.imageUrl ? (
