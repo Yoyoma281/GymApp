@@ -19,13 +19,13 @@
           "scheme": "3 × 8 / side",
           "wgerId": 346,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
-          "detailId": "mw-744"
+          "detailId": "mw-745"
         },
         {
           "name": "Med-ball chest pass",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
-          "detailId": "mw-1758"
+          "detailId": "fed-Medicine_Ball_Chest_Pass"
         },
         {
           "name": "Push-ups",
@@ -84,7 +84,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Med-ball overhead slams",
@@ -204,9 +204,9 @@
         "Dropping both hands while kicking."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+front+kick+groin+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6296578/6296578-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296578/pexels-photo-6296578.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Pavel Danilyuk / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/4806531/4806531-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/4806531/pexels-photo-4806531.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Ketut Subiyanto / Pexels"
     },
     {
       "id": "elbow-strikes",
@@ -227,8 +227,7 @@
         {
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Cable face pulls",
@@ -371,14 +370,14 @@
           "scheme": "3 × 30s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-46"
         },
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -405,9 +404,9 @@
         "Chasing the attack with the eyes and turning the head away from the attacker."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+360+defense+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/8612179/8612179-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8612179/pexels-photo-8612179.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "RDNE Stock project / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6296573/6296573-hd_2048_864_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296573/pexels-photo-6296573.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
       "id": "inside-defense",
@@ -441,7 +440,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         }
       ],
       "stretches": [
@@ -468,8 +467,8 @@
         "Waiting to see the punch fully before committing the defense."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+inside+defense+straight+punch",
-      "clipUrl": "https://videos.pexels.com/video-files/6296577/6296577-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296577/pexels-photo-6296577.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6296653/6296653-hd_1366_576_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296653/bandages-battle-blood-bottom-kick-6296653.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
@@ -486,13 +485,13 @@
           "scheme": "4 × 5",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-446"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Isometric overhead plate hold",
           "scheme": "3 × 30s",
           "wgerId": 1430,
-          "detailId": "wger-1430"
+          "detailId": "mw-535"
         },
         {
           "name": "Towel pull-ups",
@@ -506,7 +505,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 984,
           "imageUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
-          "detailId": "mw-189"
+          "detailId": "mw-1076"
         },
         {
           "name": "Band external rotations",
@@ -540,8 +539,8 @@
         "Releasing the weapon arm after the first counter."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+overhead+knife+defense",
-      "clipUrl": "https://videos.pexels.com/video-files/6296579/6296579-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296579/pexels-photo-6296579.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6296453/6296453-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296453/pexels-photo-6296453.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
@@ -605,8 +604,8 @@
         "Escaping the choke without striking back immediately."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+choke+defense+pluck+front",
-      "clipUrl": "https://videos.pexels.com/video-files/6296584/6296584-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296584/pexels-photo-6296584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6296587/6296587-hd_2048_864_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296587/pexels-photo-6296587.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
@@ -630,7 +629,7 @@
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         },
         {
           "name": "Landmine rotations",
@@ -651,7 +650,7 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 981,
           "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
-          "detailId": "mw-99"
+          "detailId": "mw-1270"
         }
       ],
       "stretches": [
@@ -676,9 +675,9 @@
         "Staying square and pulling forward — that tightens the choke."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+rear+naked+choke+defense+standing",
-      "clipUrl": "https://videos.pexels.com/video-files/38631563/16407985_1280_720_60fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/38631563/mma-muay-thai-sparring-partner-38631563.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Uriel Lu / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6296541/6296541-hd_2048_864_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296541/pexels-photo-6296541.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
       "id": "bearhug-escape",
@@ -698,7 +697,8 @@
         },
         {
           "name": "Goblet squat pulses",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-428"
         },
         {
           "name": "Hip thrusts",
@@ -710,8 +710,7 @@
         {
           "name": "Isometric bear-hug plate holds",
           "scheme": "3 × 30s",
-          "wgerId": 1430,
-          "detailId": "wger-1430"
+          "wgerId": 1430
         },
         {
           "name": "Standing calf raises",
@@ -745,9 +744,9 @@
         "Stopping after one strike instead of chaining attacks until space opens."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+bear+hug+defense+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/8689848/8689848-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8689848/adult-battle-business-child-8689848.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Mikael Blomkvist / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6296577/6296577-hd_1366_576_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296577/pexels-photo-6296577.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
       "id": "headlock-escape",
@@ -826,7 +825,7 @@
           "name": "Med-ball slam to sprint",
           "scheme": "5 × 1",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-731"
         },
         {
           "name": "Burpees",
@@ -895,20 +894,20 @@
           "scheme": "3 × 3 / side",
           "wgerId": 675,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Body-Up/0.jpg",
-          "detailId": "mw-1587"
+          "detailId": "fed-Kettlebell_Turkish_Get_Up_Lunge_style_"
         },
         {
           "name": "Single-leg balance-board stands",
           "scheme": "3 × 30s / leg",
           "wgerId": 1238,
-          "detailId": "wger-1238"
+          "detailId": "mw-1461"
         },
         {
           "name": "Neck curls",
           "scheme": "3 × 15",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-1"
+          "detailId": "mw-1346"
         }
       ],
       "stretches": [
@@ -950,11 +949,13 @@
       "exercises": [
         {
           "name": "Assault bike intervals",
-          "scheme": "8 × 20s"
+          "scheme": "8 × 20s",
+          "detailId": "mw-1089"
         },
         {
           "name": "Burpee sprawls",
-          "scheme": "4 × 10"
+          "scheme": "4 × 10",
+          "detailId": "mw-475"
         },
         {
           "name": "Kettlebell swings",
@@ -1006,8 +1007,8 @@
         "Holding the breath under stress instead of breathing deliberately."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=krav+maga+fatigue+stress+training+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/6296552/6296552-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296552/bandages-battle-blood-bottom-kick-6296552.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6296584/6296584-hd_1366_576_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6296584/pexels-photo-6296584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
@@ -1023,21 +1024,19 @@
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-          "detailId": "fed-Kneeling_Arm_Drill"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "detailId": "mw-1118"
         },
         {
           "name": "Rotational med-ball throws",
           "scheme": "4 × 5 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Shuttle sprints",
@@ -1051,7 +1050,7 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         }
       ],
       "stretches": [

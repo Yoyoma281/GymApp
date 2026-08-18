@@ -26,7 +26,7 @@
           "scheme": "3 × 30s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-46"
         },
         {
           "name": "Plank",
@@ -67,8 +67,8 @@
         "Leaning back with the weight on the heels."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kendo+chudan+no+kamae+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/8097569/8097569-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8097569/action-action-energy-active-adult-8097569.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/7045141/7045141-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7045141/pexels-photo-7045141.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "RDNE Stock project / Pexels"
     },
     {
@@ -89,7 +89,7 @@
           "scheme": "3 × 12",
           "wgerId": 48,
           "imageUrl": "https://wger.de/media/exercise-images/51/f1730f56-7aca-4566-8338-3e42b1bee6e1.webp",
-          "detailId": "mw-31"
+          "detailId": "mw-52"
         },
         {
           "name": "Plate pinch holds",
@@ -99,7 +99,8 @@
         },
         {
           "name": "Hand gripper squeezes",
-          "scheme": "3 × 12 / hand"
+          "scheme": "3 × 12 / hand",
+          "detailId": "fed-Standing_Olympic_Plate_Hand_Squeeze"
         }
       ],
       "stretches": [
@@ -145,15 +146,14 @@
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-          "detailId": "fed-Kneeling_Arm_Drill"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
         },
         {
           "name": "Lateral band walks",
           "scheme": "3 × 12 / direction",
           "wgerId": 1514,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
-          "detailId": "mw-1201"
+          "detailId": "mw-1269"
         },
         {
           "name": "Wall sits",
@@ -184,9 +184,9 @@
         "Bouncing tall with each step rather than gliding level."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kendo+okuri+ashi+footwork+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/855596/855596-hd_1280_720_50fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/855596/free-video-855596.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Pixabay / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6266899/6266899-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6266899/active-activity-adventure-athlete-6266899.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Artem Podrez / Pexels"
     },
     {
       "id": "fumikomi",
@@ -201,8 +201,7 @@
           "name": "Broad jumps",
           "scheme": "3 × 5",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         },
         {
           "name": "Single-leg bounds",
@@ -212,7 +211,8 @@
         },
         {
           "name": "Barbell jump squats (light)",
-          "scheme": "3 × 6"
+          "scheme": "3 × 6",
+          "detailId": "mw-191"
         },
         {
           "name": "Seated calf raises",
@@ -270,7 +270,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Overhead med ball slams",
@@ -341,8 +341,7 @@
           "name": "Reverse wrist curls",
           "scheme": "3 × 12",
           "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-          "detailId": "mw-31"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         },
         {
           "name": "Lat pulldowns",
@@ -398,7 +397,8 @@
         {
           "name": "Jump rope (double unders)",
           "scheme": "4 × 45s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-1597"
         },
         {
           "name": "Battle rope slams",
@@ -411,8 +411,7 @@
           "name": "Pogo jumps",
           "scheme": "3 × 20",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         },
         {
           "name": "Dumbbell push presses",
@@ -451,8 +450,8 @@
         "Posture folding forward at the hips under fatigue."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kendo+haya+suburi+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/7045202/7045202-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045202/pexels-photo-7045202.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/7045187/7045187-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7045187/pexels-photo-7045187.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "RDNE Stock project / Pexels"
     },
     {
@@ -469,7 +468,7 @@
           "scheme": "3 × 8",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-446"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Overhead med ball slams",
@@ -482,8 +481,7 @@
           "name": "Broad jumps",
           "scheme": "3 × 5",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         },
         {
           "name": "Plank",
@@ -534,14 +532,13 @@
           "scheme": "3 × 15",
           "wgerId": 48,
           "imageUrl": "https://wger.de/media/exercise-images/51/f1730f56-7aca-4566-8338-3e42b1bee6e1.webp",
-          "detailId": "mw-31"
+          "detailId": "mw-52"
         },
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 12",
           "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-          "detailId": "mw-31"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         },
         {
           "name": "Cable rope hammer curls",
@@ -554,8 +551,7 @@
           "name": "Pogo jumps",
           "scheme": "3 × 15",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -606,7 +602,7 @@
           "scheme": "3 × 10 / arm",
           "wgerId": 508,
           "imageUrl": "https://wger.de/media/exercise-images/1186/1987a039-cf35-437e-bbdc-40c53dd7d053.jpg",
-          "detailId": "mw-319"
+          "detailId": "fed-One_Arm_Dumbbell_Row"
         },
         {
           "name": "Russian twists",
@@ -620,7 +616,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         }
       ],
       "stretches": [
@@ -668,7 +664,8 @@
         {
           "name": "Jump rope (double unders)",
           "scheme": "4 × 45s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-1597"
         },
         {
           "name": "Dumbbell push presses",
@@ -707,8 +704,8 @@
         "The left foot failing to snap up between strikes, leaving the men flat-footed."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=kendo+kote+men+combination",
-      "clipUrl": "https://videos.pexels.com/video-files/7045128/7045128-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7045128/pexels-photo-7045128.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/7045342/7045342-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7045342/aikido-arawaza-black-belt-blue-belt-7045342.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "RDNE Stock project / Pexels"
     },
     {
@@ -785,7 +782,7 @@
           "scheme": "4 × 15m",
           "wgerId": 961,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1097"
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Box jumps",
@@ -799,13 +796,13 @@
           "scheme": "3 × 8",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-446"
+          "detailId": "fed-Push_Press"
         },
         {
           "name": "Shuttle runs",
           "scheme": "4 × 20m",
           "wgerId": 527,
-          "detailId": "wger-527"
+          "detailId": "mw-1115"
         }
       ],
       "stretches": [
@@ -848,7 +845,7 @@
           "name": "Assault bike sprints",
           "scheme": "6 × 20s",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "mw-1089"
         },
         {
           "name": "Burpees",
@@ -911,7 +908,7 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Depth jumps",
@@ -925,7 +922,7 @@
           "scheme": "3 × 4 / leg",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 993,
-          "detailId": "mw-703"
+          "detailId": "fed-Single_Leg_Stride_Jump"
         },
         {
           "name": "Standing calf raises",

@@ -19,14 +19,14 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Barbell good mornings",
           "scheme": "3 × 10",
           "wgerId": 1392,
           "imageUrl": "https://wger.de/media/exercise-images/1392/a02c9c7d-f42d-43e0-9946-1b99b014daee.png",
-          "detailId": "mw-194"
+          "detailId": "mw-300"
         },
         {
           "name": "Bird dogs",
@@ -73,9 +73,9 @@
         "Standing too far from the ball, forcing an over-the-top downswing."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=golf+setup+posture+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6541964/6541964-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6541964/pexels-photo-6541964.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/9362313/9362313-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/9362313/pexels-photo-9362313.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Mikhail Nilov / Pexels"
     },
     {
       "id": "swing-tempo",
@@ -88,13 +88,13 @@
       "exercises": [
         {
           "name": "Cable woodchoppers (slow eccentric)",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "detailId": "mw-247"
         },
         {
           "name": "Medicine ball rotational throws",
           "scheme": "3 × 8 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Dead bugs",
@@ -133,9 +133,9 @@
         "Rushing the transition at the top instead of letting the lower body start the downswing."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=golf+swing+tempo+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/38025678/16139323_1366_720_24fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/38025678/golf-golf-architecture-golf-course-golf-travel-38025678.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ryan Parkland / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6573610/6573610-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573610/athlete-driving-range-golf-golf-ball-6573610.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kindel Media / Pexels"
     },
     {
       "id": "backswing-coil",
@@ -151,7 +151,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-1700"
+          "detailId": "mw-977"
         },
         {
           "name": "Lat pulldowns",
@@ -205,9 +205,9 @@
         "Letting the hips turn as far as the shoulders — no coil, no stored power."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=golf+backswing+coil+x+factor+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/37995798/16124061_1366_720_24fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/37995798/golf-golf-club-37995798.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ryan Parkland / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6573474/6573474-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573474/activity-athlete-chip-drive-6573474.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kindel Media / Pexels"
     },
     {
       "id": "iron-play",
@@ -223,7 +223,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Dumbbell wrist curls",
@@ -270,9 +270,9 @@
         "Hanging back on the trail foot at impact — leads to fat and thin strikes."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=iron+play+ball+first+contact+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/6541855/6541855-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6541855/pexels-photo-6541855.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kampus Production / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6573456/6573456-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573456/activity-exercise-fun-game-6573456.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kindel Media / Pexels"
     },
     {
       "id": "driver-swing",
@@ -288,17 +288,18 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
           "wgerId": 184,
-          "detailId": "mw-2221"
+          "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Medicine ball scoop tosses",
           "scheme": "4 × 6 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Scoop_Throw/0.jpg",
-          "detailId": "mw-707"
+          "detailId": "fed-Medicine_Ball_Scoop_Throw"
         },
         {
           "name": "Cable woodchoppers (low to high)",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "detailId": "mw-1850"
         },
         {
           "name": "Box jumps",
@@ -338,8 +339,8 @@
         "Gripping harder to swing faster — tension kills clubhead speed."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=driver+swing+tutorial+golf",
-      "clipUrl": "https://videos.pexels.com/video-files/6541857/6541857-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6541857/pexels-photo-6541857.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6541452/6541452-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6541452/pexels-photo-6541452.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Kampus Production / Pexels"
     },
     {
@@ -363,7 +364,7 @@
           "scheme": "4 × 6 / side",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
           "wgerId": 1525,
-          "detailId": "mw-731"
+          "detailId": "mw-725"
         },
         {
           "name": "Cable hip rotations",
@@ -413,9 +414,9 @@
         "Early extension — thrusting the pelvis toward the ball and losing the spine angle."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=golf+hip+rotation+power+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/37996474/16124623_1366_720_60fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/37996474/golf-golf-course-golfing-37996474.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Ryan Parkland / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6541449/6541449-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6541449/pexels-photo-6541449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kampus Production / Pexels"
     },
     {
       "id": "chipping",
@@ -438,7 +439,7 @@
           "scheme": "3 × 2 rolls",
           "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
           "wgerId": 1854,
-          "detailId": "mw-1246"
+          "detailId": "fed-Wrist_Roller"
         },
         {
           "name": "Pallof press",
@@ -452,7 +453,7 @@
           "scheme": "3 × 8 / leg",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 1394,
-          "detailId": "wger-1394"
+          "detailId": "mw-1464"
         }
       ],
       "stretches": [
@@ -496,7 +497,7 @@
           "scheme": "3 × 10 / side",
           "wgerId": 142,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-1700"
+          "detailId": "mw-977"
         },
         {
           "name": "Dumbbell shoulder press",
@@ -543,9 +544,9 @@
         "Stopping body rotation and flipping the hands through impact."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=pitching+distance+control+golf+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/6533025/6533025-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6533025/20-25-years-old-woman-attractive-woman-award-beautiful-woman-6533025.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Anna Tarazevich / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6541966/6541966-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6541966/pexels-photo-6541966.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kampus Production / Pexels"
     },
     {
       "id": "bunker-shots",
@@ -558,7 +559,8 @@
       "exercises": [
         {
           "name": "Cable woodchoppers (high to low)",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "detailId": "mw-1849"
         },
         {
           "name": "Dumbbell hammer curls",
@@ -579,7 +581,7 @@
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         }
       ],
       "stretches": [
@@ -606,9 +608,9 @@
         "Closing the clubface, which digs the leading edge in instead of bouncing."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=greenside+bunker+shot+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6573569/6573569-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6573569/club-clubs-set-golf-golf-bag-6573569.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kindel Media / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/9240861/9240861-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/9240861/action-action-energy-active-activity-9240861.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Mikhail Nilov / Pexels"
     },
     {
       "id": "flop-shot",
@@ -630,8 +632,7 @@
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
           "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg",
-          "detailId": "mw-31"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
         },
         {
           "name": "Medicine ball overhead throws",
@@ -670,8 +671,8 @@
         "Quitting on the swing at impact — the face digs and the ball goes nowhere."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=flop+shot+golf+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/6573522/6573522-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6573522/pexels-photo-6573522.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6573529/6573529-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573529/activity-ball-exercise-fun-6573529.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Kindel Media / Pexels"
     },
     {
@@ -685,7 +686,8 @@
       "exercises": [
         {
           "name": "Dumbbell shrugs (slow tempo)",
-          "scheme": "3 × 12"
+          "scheme": "3 × 12",
+          "detailId": "mw-290"
         },
         {
           "name": "Plank with arm reach",
@@ -731,9 +733,9 @@
         "Peeking at the hole before contact — moves the shoulders and opens the face."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=putting+stroke+fundamentals+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/17482092/17482092-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/17482092/golf-putting-17482092.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Razlan Burhaumudin / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/9362307/9362307-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/9362307/pexels-photo-9362307.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Mikhail Nilov / Pexels"
     },
     {
       "id": "lag-putting",
@@ -794,8 +796,8 @@
         "Reading only the line and ignoring uphill or downhill pace."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=lag+putting+distance+control+drill",
-      "clipUrl": "https://videos.pexels.com/video-files/6573630/6573630-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6573630/athlete-golf-golf-club-golf-course-6573630.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipUrl": "https://videos.pexels.com/video-files/6573486/6573486-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573486/activity-athlete-chip-drive-6573486.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
       "clipCredit": "Kindel Media / Pexels"
     },
     {
@@ -819,7 +821,7 @@
           "scheme": "3 × 10 / leg",
           "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "wgerId": 75,
-          "detailId": "fed-Close-Grip_Push-Up_off_of_a_Dumbbell"
+          "detailId": "fed-Dumbbell_Step_Ups"
         },
         {
           "name": "Lateral lunges",
@@ -832,8 +834,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         },
         {
           "name": "Single-leg hops",
@@ -897,7 +898,7 @@
           "scheme": "3 × 10",
           "wgerId": 369,
           "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
-          "detailId": "mw-1244"
+          "detailId": "mw-1246"
         },
         {
           "name": "Single-arm dumbbell rows",
@@ -974,8 +975,7 @@
         {
           "name": "Medicine ball rotational throws",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         }
       ],
       "stretches": [
@@ -1005,9 +1005,9 @@
         "Adding overspeed training on top of full practice days without managing fatigue."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=golf+ground+force+swing+speed+training",
-      "clipUrl": "https://videos.pexels.com/video-files/9362181/9362181-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/9362181/activity-ball-brassy-bunker-9362181.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Mikhail Nilov / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6573611/6573611-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6573611/athlete-driving-range-golf-golf-ball-6573611.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kindel Media / Pexels"
     }
   ]
 }

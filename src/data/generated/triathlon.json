@@ -26,7 +26,7 @@
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Dumbbell pullovers",
@@ -92,7 +92,7 @@
           "scheme": "3 × 8 / side",
           "wgerId": 1966,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-1039"
+          "detailId": "mw-323"
         },
         {
           "name": "Cable torso rotations",
@@ -157,7 +157,7 @@
           "scheme": "3 × 8 each",
           "wgerId": 1474,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
-          "detailId": "fed-Side_Leg_Raises"
+          "detailId": "mw-1285"
         },
         {
           "name": "Back extensions",
@@ -178,7 +178,7 @@
           "scheme": "3 × 30 m / side",
           "wgerId": 1776,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/0.jpg",
-          "detailId": "mw-71"
+          "detailId": "mw-1625"
         }
       ],
       "stretches": [
@@ -244,13 +244,13 @@
           "scheme": "3 × 8",
           "wgerId": 993,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-700"
+          "detailId": "mw-475"
         },
         {
           "name": "Sled push sprints",
           "scheme": "4 × 15 m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "fed-Sled_Push"
         }
       ],
       "stretches": [
@@ -276,9 +276,9 @@
         "Standing up too early on the beach exit instead of dolphin-diving until knee depth."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=open-water%20race%20start%20triathlon%20technique%20tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/35837093/15196245_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/35837093/4-k-video-4k-drohnenaufnahme-sports-activity-35837093.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Alexis DOBRIC / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8644215/8644215-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8644215/exercising-friendship-fun-happiness-8644215.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Edmond Dantès / Pexels"
     },
     {
       "id": "cadence-spin-ups",
@@ -294,14 +294,14 @@
           "scheme": "3 × 12",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Lying hamstring curls",
           "scheme": "3 × 12",
           "wgerId": 364,
           "imageUrl": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
-          "detailId": "mw-28"
+          "detailId": "fed-Lying_Leg_Curls"
         },
         {
           "name": "Cable hip flexor march",
@@ -361,7 +361,8 @@
       "exercises": [
         {
           "name": "Front plank on forearms",
-          "scheme": "4 × 60s"
+          "scheme": "4 × 60s",
+          "detailId": "mw-204"
         },
         {
           "name": "Bird dog",
@@ -452,14 +453,14 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 12",
           "wgerId": 371,
           "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
-          "detailId": "mw-4"
+          "detailId": "mw-9"
         },
         {
           "name": "Pallof press",
@@ -493,9 +494,9 @@
         "Judging effort by speed instead of power or heart rate."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=race-pace%20bike%20intervals%20triathlon%20technique%20tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/37938212/16098125_1280_720_24fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/37938212/pexels-photo-37938212.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Arian Ojili / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/18274387/18274387-hd_1280_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/18274387/pexels-photo-18274387.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Khanh Hoang Minh 2 / Pexels"
     },
     {
       "id": "run-cadence-form",
@@ -516,8 +517,7 @@
         {
           "name": "A-skips",
           "scheme": "4 × 20 m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg",
-          "detailId": "fed-Box_Skip"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg"
         },
         {
           "name": "Walking lunges",
@@ -564,9 +564,9 @@
         "Looking down at the feet, which collapses posture."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=run%20cadence%20and%20form%20triathlon%20technique%20tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/33048346/14085588_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/33048346/athletes-atlantic-coast-cascais-cascais-marathon-33048346.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "ed1toR ㅤ / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8685909/8685909-hd_1280_720_30fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8685909/action-athlete-athletic-beach-8685909.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kindel Media / Pexels"
     },
     {
       "id": "run-off-the-bike",
@@ -587,7 +587,7 @@
         {
           "name": "Step-ups on box",
           "scheme": "3 × 10 / leg",
-          "detailId": "mw-1270"
+          "detailId": "fed-Barbell_Step_Ups"
         },
         {
           "name": "Hanging knee raises",
@@ -608,7 +608,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "mw-102"
+          "detailId": "mw-373"
         }
       ],
       "stretches": [
@@ -658,20 +658,18 @@
           "scheme": "3 × 8 / leg",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 1394,
-          "detailId": "wger-1394"
+          "detailId": "mw-1464"
         },
         {
           "name": "Bodyweight squat to stand",
           "scheme": "3 × 10",
-          "wgerId": 1238,
-          "detailId": "wger-1238"
+          "wgerId": 1238
         },
         {
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
-          "detailId": "fed-Kneeling_Arm_Drill"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
         }
       ],
       "stretches": [
@@ -714,7 +712,7 @@
           "name": "Box step-downs",
           "scheme": "3 × 8 / leg",
           "wgerId": 1399,
-          "detailId": "wger-1399"
+          "detailId": "mw-1974"
         },
         {
           "name": "Lateral lunges",
@@ -806,7 +804,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         }
       ],
       "stretches": [
@@ -876,14 +874,14 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -910,9 +908,9 @@
         "Ignoring the data when it says the goal pace is too ambitious."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=race-pace%20brick%20triathlon%20technique%20tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/8685912/8685912-hd_1280_720_30fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/8685912/action-athlete-athletic-beach-8685912.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Kindel Media / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8711428/8711428-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8711428/pexels-photo-8711428.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kampus Production / Pexels"
     },
     {
       "id": "fueling-practice",
@@ -1062,7 +1060,7 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Hanging knee raises",
@@ -1076,7 +1074,7 @@
           "scheme": "3 × 40 m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [

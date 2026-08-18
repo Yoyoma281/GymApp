@@ -32,15 +32,14 @@
           "name": "Hanging beat swings",
           "scheme": "4 × 10",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "mw-79"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
         },
         {
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
           "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
-          "detailId": "mw-23"
+          "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Dead bug",
@@ -104,8 +103,7 @@
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "mw-79"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
         },
         {
           "name": "Hollow body rocks",
@@ -164,7 +162,7 @@
           "scheme": "4 × 5",
           "imageUrl": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
           "wgerId": 475,
-          "detailId": "mw-25"
+          "detailId": "mw-1606"
         },
         {
           "name": "Butterfly drills on low rings",
@@ -189,7 +187,7 @@
           "scheme": "3 × 40 m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         }
       ],
       "stretches": [
@@ -241,21 +239,20 @@
           "scheme": "3 × 10",
           "wgerId": 283,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
-          "detailId": "mw-206"
+          "detailId": "fed-Hanging_Leg_Raise"
         },
         {
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
           "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
-          "detailId": "mw-35"
+          "detailId": "fed-Cable_Crunch"
         },
         {
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
           "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png",
-          "detailId": "mw-79"
+          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
         },
         {
           "name": "Timed bar hangs",
@@ -315,14 +312,14 @@
           "scheme": "4 × 30s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "fed-Handstand_Push_Ups"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-446"
         },
         {
           "name": "Hollow body holds",
@@ -455,14 +452,14 @@
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 8",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-446"
         },
         {
           "name": "Medicine ball throws to target",
@@ -517,14 +514,14 @@
           "scheme": "4 × 6",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Barbell push press",
           "scheme": "3 × 6",
           "wgerId": 478,
           "imageUrl": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
-          "detailId": "mw-4"
+          "detailId": "mw-446"
         },
         {
           "name": "Barbell thrusters",
@@ -600,21 +597,20 @@
           "scheme": "3 × 8",
           "wgerId": 507,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
-          "detailId": "mw-197"
+          "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Clean-grip high pulls",
           "scheme": "3 × 5",
           "wgerId": 289,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
-          "detailId": "mw-1712"
+          "detailId": "mw-1707"
         },
         {
           "name": "Timed barbell holds",
           "scheme": "3 × 30s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png"
         },
         {
           "name": "Kettlebell swings",
@@ -725,9 +721,9 @@
         "Bounding straight into rebound reps under heavy fatigue and courting an Achilles injury."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=box+jump+technique+crossfit",
-      "clipUrl": "https://videos.pexels.com/video-files/6296648/6296648-hd_1366_576_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6296648/bandages-battle-blood-bottom-kick-6296648.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Pavel Danilyuk / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/9778002/9778002-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/9778002/pexels-photo-9778002.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kakhraman Nazarov / Pexels"
     },
     {
       "id": "double-under",
@@ -741,7 +737,8 @@
         {
           "name": "Jump rope singles",
           "scheme": "4 × 60s",
-          "wgerId": 993
+          "wgerId": 993,
+          "detailId": "mw-1597"
         },
         {
           "name": "Standing calf raises",
@@ -759,8 +756,7 @@
         {
           "name": "Pogo hops",
           "scheme": "4 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
-          "detailId": "fed-Front_Cone_Hops_or_hurdle_hops"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
         },
         {
           "name": "Hollow body holds",
@@ -798,9 +794,9 @@
         "Speeding up the jump when the rope should speed up instead."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=double+under+tutorial+crossfit",
-      "clipUrl": "https://videos.pexels.com/video-files/6389832/6389832-hd_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/6389832/pexels-photo-6389832.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Tima Miroshnichenko / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/6326959/6326959-hd_1366_704_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/6326959/bottle-computer-dumbbells-exercises-6326959.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Pavel Danilyuk / Pexels"
     },
     {
       "id": "burpee-efficiency",
@@ -867,9 +863,9 @@
         "Jumping the feet so far under the hands that every rep costs a deep squat."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=efficient+burpee+technique+crossfit",
-      "clipUrl": "https://videos.pexels.com/video-files/7674504/7674504-hd_1366_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7674504/pexels-photo-7674504.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "cottonbro studio / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8691807/8691807-hd_1366_720_24fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8691807/activity-aerobics-diversity-exercice-8691807.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Yaroslav Shuraev / Pexels"
     },
     {
       "id": "breathing-under-fatigue",
@@ -883,22 +879,23 @@
         {
           "name": "Zone 2 rowing with nasal breathing",
           "scheme": "3 × 8 min",
-          "wgerId": 1940,
-          "detailId": "wger-1940"
+          "wgerId": 1940
         },
         {
           "name": "Assault bike intervals",
-          "scheme": "6 × 30s hard / 60s easy"
+          "scheme": "6 × 30s hard / 60s easy",
+          "detailId": "mw-1089"
         },
         {
           "name": "Dead bug with full exhale",
-          "scheme": "3 × 10 / side"
+          "scheme": "3 × 10 / side",
+          "detailId": "mw-869"
         },
         {
           "name": "Front plank with slow breathing",
           "scheme": "3 × 45s",
           "wgerId": 1940,
-          "detailId": "wger-1940"
+          "detailId": "mw-2138"
         }
       ],
       "stretches": [
@@ -948,7 +945,8 @@
         },
         {
           "name": "Assault bike pace-hold intervals",
-          "scheme": "5 × 2 min"
+          "scheme": "5 × 2 min",
+          "detailId": "mw-1089"
         },
         {
           "name": "Kettlebell swings",
@@ -1009,14 +1007,14 @@
           "name": "Sled push sprints",
           "scheme": "4 × 15 m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
-          "detailId": "mw-1200"
+          "detailId": "fed-Sled_Push"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
-          "detailId": "mw-538"
+          "detailId": "fed-Farmer_s_Walk"
         },
         {
           "name": "Burpees at steady tempo",
@@ -1060,7 +1058,8 @@
       "exercises": [
         {
           "name": "Rowing intervals",
-          "scheme": "5 × 400 m"
+          "scheme": "5 × 400 m",
+          "detailId": "fed-Rowing_Stationary"
         },
         {
           "name": "Kettlebell swings",
@@ -1071,7 +1070,8 @@
         },
         {
           "name": "Wall-ball big-set practice",
-          "scheme": "3 × 20"
+          "scheme": "3 × 20",
+          "detailId": "mw-734"
         },
         {
           "name": "Timed bar hangs",
@@ -1081,7 +1081,7 @@
           "name": "Sled drag",
           "scheme": "4 × 20 m",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
-          "detailId": "fed-Bear_Crawl_Sled_Drags"
+          "detailId": "fed-Sled_Drag_Harness"
         }
       ],
       "stretches": [

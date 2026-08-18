@@ -26,7 +26,7 @@
           "scheme": "3 × 30s / leg",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         },
         {
           "name": "Step-ups",
@@ -47,7 +47,7 @@
           "scheme": "3 × 10 / leg",
           "wgerId": 2495,
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
-          "detailId": "mw-1318"
+          "detailId": "fed-Hip_Flexion_with_Band"
         }
       ],
       "stretches": [
@@ -73,9 +73,9 @@
         "Staring at the front truck instead of where you are rolling."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=how+to+push+on+a+skateboard+beginner+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/31841548/13565151_1280_720_25fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/31841548/pexels-photo-31841548.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "utopia 36 / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/7934976/7934976-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/7934976/pexels-photo-7934976.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Tima Miroshnichenko / Pexels"
     },
     {
       "id": "tic-tac-carving",
@@ -97,8 +97,7 @@
           "name": "Standing cable hip rotations",
           "scheme": "3 × 10 / side",
           "wgerId": 142,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "mw-1343"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg"
         },
         {
           "name": "Lateral lunges",
@@ -137,9 +136,9 @@
         "Lifting the nose too high on tic-tacs and looping out backwards."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=tic+tac+carving+skateboard+beginner+tutorial",
-      "clipUrl": "https://videos.pexels.com/video-files/7644256/7644256-hd_1280_720_24fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/7644256/action-action-energy-adult-at-night-7644256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "Yaroslav Shuraev / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/5039770/5039770-hd_1366_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/5039770/pexels-photo-5039770.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "cottonbro studio / Pexels"
     },
     {
       "id": "bailing-safely",
@@ -154,8 +153,7 @@
           "name": "Medicine ball forward rolls",
           "scheme": "3 × 5 / side",
           "wgerId": 1864,
-          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png",
-          "detailId": "wger-1864"
+          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png"
         },
         {
           "name": "Forearm plank",
@@ -175,7 +173,7 @@
           "scheme": "3 × 20s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "mw-1218"
+          "detailId": "mw-1346"
         }
       ],
       "stretches": [
@@ -202,9 +200,9 @@
         "Falling flat and sliding on palms instead of rolling through the shoulder."
       ],
       "videoUrl": "https://www.youtube.com/results?search_query=how+to+fall+safely+skateboarding",
-      "clipUrl": "https://videos.pexels.com/video-files/28985120/12537104_1280_720_24fps.mp4",
-      "clipPoster": "https://images.pexels.com/videos/28985120/pexels-photo-28985120.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
-      "clipCredit": "khanhhoangminh  3 / Pexels"
+      "clipUrl": "https://videos.pexels.com/video-files/8463960/8463960-hd_1280_720_25fps.mp4",
+      "clipPoster": "https://images.pexels.com/videos/8463960/pexels-photo-8463960.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+      "clipCredit": "Kampus Production / Pexels"
     },
     {
       "id": "ollie",
@@ -219,8 +217,7 @@
           "name": "Broad jumps",
           "scheme": "4 × 5",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         },
         {
           "name": "Single-leg calf raises",
@@ -234,7 +231,7 @@
           "scheme": "3 × 8",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
           "wgerId": 993,
-          "detailId": "mw-329"
+          "detailId": "fed-Knee_Tuck_Jump"
         },
         {
           "name": "Hanging knee raises",
@@ -311,7 +308,8 @@
         },
         {
           "name": "Lateral hops over line",
-          "scheme": "3 × 20s"
+          "scheme": "3 × 20s",
+          "detailId": "fed-Lateral_Cone_Hops"
         }
       ],
       "stretches": [
@@ -353,29 +351,27 @@
         {
           "name": "Rotational medicine ball throws",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Jump squats with 180 turn",
           "scheme": "3 × 6 / side",
           "wgerId": 1007,
           "imageUrl": "https://wger.de/media/exercise-images/1007/757846d3-78e4-4068-bbca-62e567372c94.png",
-          "detailId": "wger-1007"
+          "detailId": "mw-191"
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
-          "detailId": "fed-Cable_Internal_Rotation"
+          "detailId": "mw-247"
         },
         {
           "name": "Broad jumps",
           "scheme": "3 × 5",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
-          "detailId": "mw-329"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
         }
       ],
       "stretches": [
@@ -425,15 +421,14 @@
         {
           "name": "Ankle eversion with resistance band",
           "scheme": "3 × 12 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
-          "detailId": "fed-Deadlift_with_Bands"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg"
         },
         {
           "name": "Tuck jumps",
           "scheme": "4 × 6",
           "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
           "wgerId": 993,
-          "detailId": "mw-329"
+          "detailId": "fed-Knee_Tuck_Jump"
         },
         {
           "name": "Hanging knee raises",
@@ -496,8 +491,7 @@
         {
           "name": "Ankle inversion with resistance band",
           "scheme": "3 × 12 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
-          "detailId": "fed-Deadlift_with_Bands"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg"
         },
         {
           "name": "Jump squats",
@@ -562,7 +556,7 @@
           "scheme": "3 × 45s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         },
         {
           "name": "Seated calf raises",
@@ -581,8 +575,7 @@
           "name": "Copenhagen plank",
           "scheme": "3 × 20s",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
         }
       ],
       "stretches": [
@@ -648,7 +641,7 @@
           "scheme": "3 × 45s / leg",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         }
       ],
       "stretches": [
@@ -757,7 +750,7 @@
           "scheme": "3 × 8",
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "wgerId": 257,
-          "detailId": "mw-8"
+          "detailId": "fed-Front_Barbell_Squat"
         },
         {
           "name": "Depth jumps",
@@ -829,14 +822,14 @@
           "scheme": "3 × 8 / leg",
           "wgerId": 999,
           "imageUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
-          "detailId": "mw-102"
+          "detailId": "mw-373"
         },
         {
           "name": "Cable hip flexions",
           "scheme": "3 × 10 / leg",
           "wgerId": 2495,
           "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
-          "detailId": "mw-1318"
+          "detailId": "fed-Hip_Flexion_with_Band"
         },
         {
           "name": "Plank shoulder taps",
@@ -886,21 +879,21 @@
         {
           "name": "Box jumps with precise landing",
           "scheme": "4 × 6",
-          "detailId": "mw-1448"
+          "detailId": "mw-1445"
         },
         {
           "name": "Single-leg balance board holds",
           "scheme": "3 × 45s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
           "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
-          "detailId": "mw-336"
+          "detailId": "mw-298"
         },
         {
           "name": "Pallof press",
@@ -958,27 +951,26 @@
           "scheme": "3 × 6 / side",
           "wgerId": 1007,
           "imageUrl": "https://wger.de/media/exercise-images/1007/757846d3-78e4-4068-bbca-62e567372c94.png",
-          "detailId": "wger-1007"
+          "detailId": "mw-191"
         },
         {
           "name": "Rotational medicine ball throws",
           "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
-          "detailId": "fed-Backward_Medicine_Ball_Throw"
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
           "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
-          "detailId": "mw-204"
+          "detailId": "mw-325"
         },
         {
           "name": "Single-leg balance board holds",
           "scheme": "3 × 45s",
           "wgerId": 31,
           "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
-          "detailId": "wger-31"
+          "detailId": "mw-1461"
         }
       ],
       "stretches": [
