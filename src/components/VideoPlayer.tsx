@@ -42,10 +42,13 @@ interface Props {
 }
 
 export default function VideoPlayer({ uri, poster, ambient = false }: Props) {
-  // Image takes a require()d asset as-is but a remote one wrapped in {uri}.
-  const posterSource = typeof poster === 'number' ? poster : poster ? { uri: poster } : undefined;
-  // useCaching only applies to remote sources; a bundled asset is already local.
-  const source = typeof uri === 'number' ? uri : { uri, useCaching: true };
+  // Same asymmetry as the video source above: only a string is a remote url.
+  const posterSource = typeof poster === 'string' ? { uri: poster } : poster;
+  // Test for the remote case rather than the bundled one: require() yields a
+  // number on native but an asset *object* on web, so a `typeof === 'number'`
+  // check silently failed there and wrapped the object as {uri: {...}} —
+  // which renders as nothing.
+  const source = typeof uri === 'string' ? { uri, useCaching: true } : uri;
   const player = useVideoPlayer(source, (p) => {
     p.loop = true;
     p.muted = ambient;
