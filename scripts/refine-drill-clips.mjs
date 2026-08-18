@@ -87,8 +87,8 @@ const SPORT_RULES = {
     ban: ['karate', 'taekwondo', 'judo', 'kimono', 'kata', 'boxing-ring'],
   },
   capoeira: {
-    want: ['capoeira', 'roda', 'martial', 'dance', 'acrobat'],
-    ban: ['karate', 'taekwondo', 'judo', 'boxing', 'kimono'],
+    want: ['capoeira', 'roda', 'martial', 'acrobat'],
+    ban: ['karate', 'taekwondo', 'judo', 'boxing', 'kimono', 'punching-bag', 'heavy-bag', 'bag'],
   },
   'kung-fu': {
     want: ['kung', 'fu', 'wushu', 'shaolin', 'martial', 'tai-chi'],
@@ -131,7 +131,7 @@ const SPORT_RULES = {
   // Endurance.
   running: {
     want: ['run', 'runner', 'jog', 'sprint', 'marathon', 'track'],
-    ban: ['treadmill-empty', 'cycl', 'swim'],
+    ban: ['cycl', 'swim', 'skipping-rope', 'jump-rope', 'jumping-rope'],
   },
   swimming: {
     want: ['swim', 'swimmer', 'pool', 'stroke', 'freestyle', 'water', 'dive', 'lane'],
@@ -160,8 +160,10 @@ const SPORT_RULES = {
     ban: ['yoga', 'treadmill'],
   },
   crossfit: {
-    want: ['crossfit', 'wod', 'box-jump', 'kettlebell', 'burpee', 'rope', 'gym', 'workout'],
-    ban: ['yoga', 'pilates'],
+    want: ['crossfit', 'wod', 'functional', 'gym', 'workout'],
+    // 'rope'/'kettlebell'/'burpee' used to live in want; they are movements,
+    // not identity, and they pulled a jump-rope clip onto the box-jump drill.
+    ban: ['yoga', 'pilates', 'jumping-rope', 'jump-rope'],
   },
   gymnastics: {
     want: ['gymnast', 'rings', 'bars', 'beam', 'vault', 'tumbl', 'somersault', 'handstand'],
@@ -246,6 +248,8 @@ const COMBAT = new Set([
   'boxing', 'karate', 'muay-thai', 'taekwondo', 'kickboxing', 'mma', 'krav-maga',
   'capoeira', 'kung-fu', 'bjj', 'judo', 'wrestling', 'aikido',
 ]);
+const ENDURANCE = new Set(['running', 'swimming', 'cycling', 'rowing', 'triathlon']);
+const IMPLEMENT = new Set(['baseball', 'golf', 'tennis', 'badminton', 'volleyball']);
 const STRIKING = new Set([
   'boxing', 'karate', 'muay-thai', 'taekwondo', 'kickboxing', 'mma', 'krav-maga',
   'capoeira', 'kung-fu',
@@ -262,8 +266,10 @@ const MOVEMENT = [
   [/block|uke|barai|guard|parry|slip|roll|defen/i, ['block', 'blocking', 'defense', 'sparring', 'training'], COMBAT],
   [/kata|combination|renzuku/i, ['kata', 'demonstration', 'practicing', 'routine'], COMBAT],
   [/throw|sweep|takedown|pin|choke|submission|escape|guard/i, ['throw', 'grappling', 'takedown', 'ground'], COMBAT],
-  [/sprint|interval|tempo|pace/i, ['sprint', 'running', 'fast']],
-  [/serve|smash|volley|forehand|backhand|swing|shot|putt/i, ['serve', 'swing', 'hitting', 'shot']],
+  [/sprint|interval|tempo|pace/i, ['sprint', 'running', 'fast'], ENDURANCE],
+  // "swing" is a bat, club or racket here. Ungated it matched playground
+  // swings for baseball and kettlebell swings for CrossFit.
+  [/serve|smash|volley|forehand|backhand|swing|shot|putt/i, ['serve', 'swing', 'hitting', 'shot'], IMPLEMENT],
   [/conditioning|rounds/i, ['training', 'workout', 'gym']],
 ];
 
@@ -272,6 +278,10 @@ const MOVEMENT = [
 // per-sport ban lists kept missing — stock search engines fall back to
 // loosely related footage whenever a query is too specific, and the caption
 // is the only signal that it happened.
+// Triathlon really is running plus cycling plus swimming, so it must not be
+// held to the cross-sport rule that keeps those three apart from each other.
+const CROSS_SPORT_OK = { triathlon: ['running', 'cycling', 'swimming'] };
+
 const SPORT_TERMS = {
   boxing: ['boxing', 'boxer'],
   karate: ['karate'],
@@ -288,16 +298,16 @@ const SPORT_TERMS = {
   fencing: ['fencing', 'fencer'],
   kendo: ['kendo', 'shinai'],
   archery: ['archery', 'archer'],
-  running: ['marathon', 'jogging'],
+  running: ['running', 'runner', 'jogging', 'marathon', 'sprinter', 'treadmill'],
   swimming: ['swimming', 'swimmer'],
-  cycling: ['cycling', 'cyclist', 'bicycle'],
+  cycling: ['cycling', 'cyclist', 'bicycle', 'bike'],
   rowing: ['rowing', 'rower'],
   powerlifting: ['powerlifting'],
   'olympic-weightlifting': ['weightlifting'],
   crossfit: ['crossfit'],
   gymnastics: ['gymnast', 'gymnastics'],
   yoga: ['yoga'],
-  soccer: ['soccer'],
+  soccer: ['soccer', 'football'],
   basketball: ['basketball'],
   tennis: ['tennis'],
   volleyball: ['volleyball'],
@@ -368,7 +378,7 @@ function movementWords(drill, sportId) {
 // sport words and show none of the technique — the worst kind of near-miss,
 // because it looks deliberate.
 const STATIC_SLUG =
-  /bowing|fixing|tidying|adjusting|breathing|meditat|sitting|portrait|posing|smiling|silhouette|wear|belts?-|uniform|resting|stretching|talking|watching/;
+  /bowing|fixing|tidying|adjusting|breathing|meditat|sitting|portrait|posing|smiling|silhouette|wear|belts?-|uniform|resting|stretching|talking|watching|tired|after-training|preparing-for|removing-shoes|lying-on|playground|park|forest|dance|children-doing-swing|on-swings|drone-shot|drone-view|blur-of/;
 
 // A clip has to have someone in it. Equipment shots ("punching-bag-at-gym",
 // "a-video-of-swaying-punching-bags") score just as well as a person hitting
@@ -380,8 +390,9 @@ function scoreClip(clip, rules, movement, sportId) {
   const slug = clip.slug.toLowerCase();
   if (rules.ban.some((w) => slug.includes(w))) return -Infinity; // wrong art — never
   // Named as some other sport entirely.
+  const allowed = CROSS_SPORT_OK[sportId] ?? [];
   for (const [id, terms] of Object.entries(SPORT_TERMS)) {
-    if (id === sportId) continue;
+    if (id === sportId || allowed.includes(id)) continue;
     if (terms.some((t) => slug.includes(t)) && !(SPORT_TERMS[sportId] ?? []).some((t) => slug.includes(t))) {
       return -Infinity;
     }
@@ -417,13 +428,20 @@ const files = fs
 // using. Two sports playing the same clip reads as a bug even when each one
 // is individually defensible.
 const clipId = (url) => Number((String(url).match(/video-files\/(\d+)\//) ?? [])[1]);
-const used = new Set();
+
+// Who holds each clip, not merely whether it is held. A plain set let a drill
+// keep a clip that another drill had just taken, because "it was already
+// mine" was true for both of them — the catalog shipped with 18 clips used by
+// two drills each, so that case is real rather than theoretical.
+const claims = new Map();
 for (const f of fs
   .readdirSync(GEN_DIR)
   .filter((x) => x.endsWith('.json'))
   .filter((x) => !['sports.json', 'search-index.json', 'exercise-details.json'].includes(x))) {
-  for (const d of JSON.parse(fs.readFileSync(path.join(GEN_DIR, f), 'utf8')).drills) {
-    if (d.clipUrl) used.add(clipId(d.clipUrl));
+  const act = JSON.parse(fs.readFileSync(path.join(GEN_DIR, f), 'utf8'));
+  for (const d of act.drills) {
+    const id = d.clipUrl ? clipId(d.clipUrl) : null;
+    if (id !== null && !claims.has(id)) claims.set(id, `${act.id}/${d.id}`);
   }
 }
 
@@ -454,6 +472,7 @@ for (const f of files) {
     ];
 
     const scored = new Map();
+    const weak = new Map(); // below the swap bar, used only to break a duplicate
     for (const q of queries) {
       let candidates;
       try {
@@ -468,29 +487,37 @@ for (const f of files) {
         // clip of the right sport doing something else, which is what the
         // round-robin pool already gave us — not worth a swap.
         if (s >= 7 && !scored.has(c.id)) scored.set(c.id, { clip: c, score: s });
+        else if (s >= 4 && !weak.has(c.id)) weak.set(c.id, { clip: c, score: s });
       }
     }
     ranked.push({
       drill,
       options: [...scored.values()].sort((a, b) => b.score - a.score),
+      weak: [...weak.values()].sort((a, b) => b.score - a.score),
     });
   }
 
 
   let swapped = 0;
   let kept = 0;
-  for (const { drill, options } of ranked.slice().sort(
+  for (const { drill, options, weak } of ranked.slice().sort(
     (a, b) => (b.options[0]?.score ?? 0) - (a.options[0]?.score ?? 0),
   )) {
+    const key = `${activity.id}/${drill.id}`;
     const own = drill.clipUrl ? clipId(drill.clipUrl) : null;
-    const pick = options.find((o) => o.clip.id === own || !used.has(o.clip.id));
+    const free = (id) => !claims.has(id) || claims.get(id) === key;
+    let pick = options.find((o) => free(o.clip.id));
+    // Holding a clip another drill already owns is worse than showing a
+    // slightly weaker but unique one, so a duplicate is allowed to drop below
+    // the swap bar to escape.
+    if (!pick && own !== null && !free(own)) pick = weak.find((o) => free(o.clip.id));
     if (!pick) {
       kept += 1;
       console.log(`  keep   ${drill.id.padEnd(24)} (no better candidate)`);
       continue;
     }
-    if (own !== null && own !== pick.clip.id) used.delete(own);
-    used.add(pick.clip.id);
+    if (own !== null && own !== pick.clip.id && claims.get(own) === key) claims.delete(own);
+    claims.set(pick.clip.id, key);
     swapped += 1;
     console.log(`  swap   ${drill.id.padEnd(24)} score ${pick.score} -> ${pick.clip.slug}`);
     if (!DRY) {
