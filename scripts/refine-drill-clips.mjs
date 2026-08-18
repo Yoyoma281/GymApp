@@ -237,18 +237,80 @@ const SPORT_RULES = {
 // Movement vocabulary per drill, keyed by substrings of the drill name. A
 // clip only needs to look like the right *kind* of movement — stock footage
 // will never be labelled "mawashi-geri".
+//
+// The third element restricts a rule to the sports it makes sense for. This
+// is not tidiness: archery's "Hooking & set position" is the finger hook on
+// the string, and without the restriction it matched /hook/ and pulled in a
+// boxing clip.
+const COMBAT = new Set([
+  'boxing', 'karate', 'muay-thai', 'taekwondo', 'kickboxing', 'mma', 'krav-maga',
+  'capoeira', 'kung-fu', 'bjj', 'judo', 'wrestling', 'aikido',
+]);
+const STRIKING = new Set([
+  'boxing', 'karate', 'muay-thai', 'taekwondo', 'kickboxing', 'mma', 'krav-maga',
+  'capoeira', 'kung-fu',
+]);
+
 const MOVEMENT = [
   [/jump rope|skipping/i, ['rope', 'skipping', 'jumping']],
-  [/heavy bag|bag work/i, ['bag', 'punching-bag', 'heavybag']],
-  [/double-end|reflex/i, ['bag', 'speed', 'reflex']],
-  [/shadow/i, ['shadow', 'training', 'practicing']],
+  [/heavy bag|bag work/i, ['bag', 'punching-bag', 'heavybag'], STRIKING],
+  [/double-end|reflex/i, ['bag', 'speed', 'reflex'], STRIKING],
+  [/shadow/i, ['shadow', 'training', 'practicing'], STRIKING],
   [/stance|footwork|step|pivot|cutting|sabaki/i, ['footwork', 'stance', 'training', 'practicing', 'moving']],
-  [/kick|geri/i, ['kick', 'kicking', 'leg']],
-  [/punch|jab|cross|hook|uppercut|zuki|uchi/i, ['punch', 'punching', 'strike', 'striking']],
-  [/block|uke|barai|guard|parry|slip|roll|defen/i, ['block', 'blocking', 'defense', 'sparring', 'training']],
-  [/kata|combination|renzuku/i, ['kata', 'demonstration', 'practicing', 'routine']],
+  [/kick|geri/i, ['kick', 'kicking', 'leg'], STRIKING],
+  [/punch|jab|cross|hook|uppercut|zuki|uchi/i, ['punch', 'punching', 'strike', 'striking'], STRIKING],
+  [/block|uke|barai|guard|parry|slip|roll|defen/i, ['block', 'blocking', 'defense', 'sparring', 'training'], COMBAT],
+  [/kata|combination|renzuku/i, ['kata', 'demonstration', 'practicing', 'routine'], COMBAT],
+  [/throw|sweep|takedown|pin|choke|submission|escape|guard/i, ['throw', 'grappling', 'takedown', 'ground'], COMBAT],
+  [/sprint|interval|tempo|pace/i, ['sprint', 'running', 'fast']],
+  [/serve|smash|volley|forehand|backhand|swing|shot|putt/i, ['serve', 'swing', 'hitting', 'shot']],
   [/conditioning|rounds/i, ['training', 'workout', 'gym']],
 ];
+
+// Every sport's identifying words. A clip whose caption names a *different*
+// sport is rejected outright, which catches the cross-sport bleed that
+// per-sport ban lists kept missing — stock search engines fall back to
+// loosely related footage whenever a query is too specific, and the caption
+// is the only signal that it happened.
+const SPORT_TERMS = {
+  boxing: ['boxing', 'boxer'],
+  karate: ['karate'],
+  'muay-thai': ['muay'],
+  taekwondo: ['taekwondo'],
+  kickboxing: ['kickboxing', 'kick-boxing'],
+  mma: ['mma', 'octagon'],
+  capoeira: ['capoeira'],
+  'kung-fu': ['kung', 'wushu', 'shaolin'],
+  bjj: ['jiu', 'jitsu', 'bjj'],
+  judo: ['judo'],
+  wrestling: ['wrestling', 'wrestler'],
+  aikido: ['aikido'],
+  fencing: ['fencing', 'fencer'],
+  kendo: ['kendo', 'shinai'],
+  archery: ['archery', 'archer'],
+  running: ['marathon', 'jogging'],
+  swimming: ['swimming', 'swimmer'],
+  cycling: ['cycling', 'cyclist', 'bicycle'],
+  rowing: ['rowing', 'rower'],
+  powerlifting: ['powerlifting'],
+  'olympic-weightlifting': ['weightlifting'],
+  crossfit: ['crossfit'],
+  gymnastics: ['gymnast', 'gymnastics'],
+  yoga: ['yoga'],
+  soccer: ['soccer'],
+  basketball: ['basketball'],
+  tennis: ['tennis'],
+  volleyball: ['volleyball'],
+  baseball: ['baseball'],
+  rugby: ['rugby'],
+  golf: ['golf'],
+  badminton: ['badminton'],
+  climbing: ['climbing', 'bouldering'],
+  surfing: ['surfing', 'surfer'],
+  skiing: ['skiing', 'skier'],
+  snowboarding: ['snowboard'],
+  skateboarding: ['skateboard', 'skater'],
+};
 
 const cache = fs.existsSync(CACHE) ? JSON.parse(fs.readFileSync(CACHE, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -292,10 +354,13 @@ async function search(query) {
   return cache[query];
 }
 
-function movementWords(drill) {
+function movementWords(drill, sportId) {
   const text = `${drill.name} ${drill.alt ?? ''} ${drill.group ?? ''}`;
   const out = new Set();
-  for (const [re, words] of MOVEMENT) if (re.test(text)) words.forEach((w) => out.add(w));
+  for (const [re, words, restrictTo] of MOVEMENT) {
+    if (restrictTo && !restrictTo.has(sportId)) continue;
+    if (re.test(text)) words.forEach((w) => out.add(w));
+  }
   return [...out];
 }
 
@@ -311,9 +376,16 @@ const STATIC_SLUG =
 const PERSON_SLUG =
   /man|men|woman|women|boy|girl|person|people|boxer|athlete|student|artist|child|children|kid|trainer|class|fighter|someone|his|her|their/;
 
-function scoreClip(clip, rules, movement) {
+function scoreClip(clip, rules, movement, sportId) {
   const slug = clip.slug.toLowerCase();
   if (rules.ban.some((w) => slug.includes(w))) return -Infinity; // wrong art — never
+  // Named as some other sport entirely.
+  for (const [id, terms] of Object.entries(SPORT_TERMS)) {
+    if (id === sportId) continue;
+    if (terms.some((t) => slug.includes(t)) && !(SPORT_TERMS[sportId] ?? []).some((t) => slug.includes(t))) {
+      return -Infinity;
+    }
+  }
   if (STATIC_SLUG.test(slug) || !PERSON_SLUG.test(slug)) return -Infinity;
   // "rope" matches battle ropes and boxing-ring ropes as happily as skipping
   // ropes, and none of them look alike.
@@ -339,6 +411,22 @@ const files = fs
   .filter((f) => !['sports.json', 'search-index.json', 'exercise-details.json'].includes(f))
   .filter((f) => !only || only.includes(f.replace('.json', '')));
 
+// Claims are tracked across the whole catalog, not per sport. Pexels has only
+// a few dozen martial-arts clips and thirteen sports competing for them, so a
+// per-sport set let aikido be handed the exact video karate was already
+// using. Two sports playing the same clip reads as a bug even when each one
+// is individually defensible.
+const clipId = (url) => Number((String(url).match(/video-files\/(\d+)\//) ?? [])[1]);
+const used = new Set();
+for (const f of fs
+  .readdirSync(GEN_DIR)
+  .filter((x) => x.endsWith('.json'))
+  .filter((x) => !['sports.json', 'search-index.json', 'exercise-details.json'].includes(x))) {
+  for (const d of JSON.parse(fs.readFileSync(path.join(GEN_DIR, f), 'utf8')).drills) {
+    if (d.clipUrl) used.add(clipId(d.clipUrl));
+  }
+}
+
 for (const f of files) {
   const file = path.join(GEN_DIR, f);
   const activity = JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -355,7 +443,7 @@ for (const f of files) {
   // using, so two cards played the same video.
   const ranked = [];
   for (const drill of activity.drills) {
-    const movement = movementWords(drill);
+    const movement = movementWords(drill, activity.id);
     // Search the movement words too, not just the technique name — no stock
     // library has ever tagged a clip "mawashi-geri", but plenty are tagged
     // "karate kick".
@@ -375,7 +463,7 @@ for (const f of files) {
         continue;
       }
       for (const c of candidates) {
-        const s = scoreClip(c, rules, movement);
+        const s = scoreClip(c, rules, movement, activity.id);
         // 7 = the sport matched AND the movement matched. Anything less is a
         // clip of the right sport doing something else, which is what the
         // round-robin pool already gave us — not worth a swap.
@@ -388,11 +476,6 @@ for (const f of files) {
     });
   }
 
-  // Every drill starts out holding a claim on the clip it already has, so a
-  // swap can never take a clip out from under a drill that ends up keeping
-  // its own. A drill that does swap releases its old clip for the others.
-  const clipId = (url) => Number((String(url).match(/video-files\/(\d+)\//) ?? [])[1]);
-  const used = new Set(activity.drills.filter((d) => d.clipUrl).map((d) => clipId(d.clipUrl)));
 
   let swapped = 0;
   let kept = 0;
