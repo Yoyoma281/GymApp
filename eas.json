@@ -28,7 +28,7 @@
       "android": {
         "track": "alpha",
         "serviceAccountKeyPath": "./play-key.json",
-        "releaseStatus": "draft"
+        "releaseStatus": "completed"
       }
     }
   }
