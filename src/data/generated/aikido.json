@@ -30,7 +30,6 @@
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
           "detailId": "mw-1269"
         },
         {
@@ -152,14 +151,12 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Cable hip abductions",
@@ -217,7 +214,6 @@
           "name": "Shoulder taps in plank",
           "scheme": "3 × 20",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-1392"
         },
         {
@@ -231,7 +227,7 @@
           "name": "Pike push-ups",
           "scheme": "3 × 8",
           "wgerId": 454,
-          "imageUrl": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
           "detailId": "fed-Handstand_Push_Ups"
         },
         {
@@ -300,7 +296,6 @@
           "name": "Neck harness flexions",
           "scheme": "3 × 12",
           "wgerId": 2495,
-          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "detailId": "mw-1346"
         },
         {
@@ -369,14 +364,12 @@
           "name": "Side planks",
           "scheme": "3 × 45s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-325"
         },
         {
           "name": "Neck harness flexions",
           "scheme": "3 × 12",
           "wgerId": 2495,
-          "imageUrl": "https://wger.de/media/exercise-images/2495/5978ac7d-f4d4-4807-87e6-03e457485191.png",
           "detailId": "mw-1346"
         },
         {
@@ -435,14 +428,13 @@
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Landmine press",
           "scheme": "3 × 8 / arm",
           "wgerId": 346,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
           "detailId": "mw-765"
         },
         {
@@ -503,7 +495,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 up-downs",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         },
@@ -592,7 +584,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -714,7 +705,6 @@
           "name": "Cable chest flys",
           "scheme": "3 × 12",
           "wgerId": 1922,
-          "imageUrl": "https://wger.de/media/exercise-images/1922/eb750ee5-3220-4128-aef1-5e2f1ccff40a.webp",
           "detailId": "mw-994"
         },
         {
@@ -783,7 +773,6 @@
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         },
         {
@@ -917,8 +906,7 @@
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "3 × 6 / side"
         },
         {
           "name": "Pallof press",
@@ -991,7 +979,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {

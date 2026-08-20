@@ -86,7 +86,6 @@
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         },
         {
@@ -225,20 +224,17 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         }
       ],
@@ -358,7 +354,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -425,7 +421,6 @@
           "name": "Cable chest flys",
           "scheme": "3 × 12",
           "wgerId": 1922,
-          "imageUrl": "https://wger.de/media/exercise-images/1922/eb750ee5-3220-4128-aef1-5e2f1ccff40a.webp",
           "detailId": "mw-994"
         },
         {
@@ -556,7 +551,6 @@
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         },
         {
@@ -568,8 +562,7 @@
         },
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "3 × 6 / side"
         },
         {
           "name": "Single-leg calf raises",
@@ -647,7 +640,6 @@
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         }
       ],
@@ -713,7 +705,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         },
         {
@@ -785,7 +776,7 @@
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         }
       ],
@@ -906,14 +897,12 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 8 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         },
         {
@@ -986,7 +975,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],

@@ -31,7 +31,6 @@
           "name": "Single-leg balance board holds",
           "scheme": "3 × 30s / leg",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-1461"
         },
         {
@@ -96,7 +95,6 @@
         {
           "name": "Single-leg balance holds",
           "scheme": "3 × 30s / leg",
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "wgerId": 31,
           "detailId": "mw-1573"
         },
@@ -167,14 +165,12 @@
           "name": "Neck flexion holds",
           "scheme": "3 × 20s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-1346"
         },
         {
           "name": "Medicine ball forward rolls",
           "scheme": "3 × 5",
-          "wgerId": 1864,
-          "imageUrl": "https://wger.de/media/exercise-images/1864/5970cdd8-0123-4eba-a921-2157fb6adacf.png"
+          "wgerId": 1864
         }
       ],
       "stretches": [
@@ -349,7 +345,6 @@
           "name": "Skater jumps",
           "scheme": "3 × 10 / side",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-1118"
         },
         {
@@ -428,20 +423,19 @@
         {
           "name": "Goblet squat pulses",
           "scheme": "3 × 12",
-          "detailId": "mw-428"
+          "detailId": "mw-428",
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-325"
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         }
       ],
@@ -493,7 +487,7 @@
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
@@ -507,14 +501,12 @@
           "name": "Lateral box step-ups",
           "scheme": "3 × 8 / leg",
           "wgerId": 981,
-          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
           "detailId": "mw-1270"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 25s",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         }
       ],
       "stretches": [
@@ -564,7 +556,6 @@
           "name": "Side plank with hip dips",
           "scheme": "3 × 12 / side",
           "wgerId": 194,
-          "imageUrl": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
           "detailId": "mw-322"
         },
         {
@@ -577,8 +568,7 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Back extensions",
@@ -635,7 +625,6 @@
           "name": "Single-leg balance board holds",
           "scheme": "3 × 30s / leg",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-1461"
         },
         {
@@ -649,7 +638,6 @@
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
           "detailId": "mw-1269"
         }
       ],
@@ -693,8 +681,7 @@
         {
           "name": "Broad jumps",
           "scheme": "4 × 5",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Single-leg calf raises",
@@ -714,7 +701,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -858,7 +845,6 @@
         {
           "name": "Tuck jumps",
           "scheme": "3 × 8",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
           "wgerId": 993,
           "detailId": "fed-Knee_Tuck_Jump"
         }
@@ -902,8 +888,7 @@
       "exercises": [
         {
           "name": "Rotational medicine ball throws",
-          "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "4 × 6 / side"
         },
         {
           "name": "Landmine rotations",
@@ -916,14 +901,12 @@
           "name": "Jump squats with 180 turn",
           "scheme": "3 × 6 / side",
           "wgerId": 1007,
-          "imageUrl": "https://wger.de/media/exercise-images/1007/757846d3-78e4-4068-bbca-62e567372c94.png",
           "detailId": "mw-191"
         },
         {
           "name": "Cable woodchoppers",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-247"
         }
       ],
@@ -968,14 +951,12 @@
           "name": "Single-leg balance board holds",
           "scheme": "3 × 45s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-1461"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         },
         {
@@ -1038,7 +1019,6 @@
           "name": "Rear-foot-elevated split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 615,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/0.jpg",
           "detailId": "mw-317"
         },
         {
@@ -1058,7 +1038,6 @@
           "name": "Hamstring curl machine",
           "scheme": "3 × 10",
           "wgerId": 1424,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-28"
         },
         {

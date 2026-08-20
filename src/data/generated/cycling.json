@@ -92,7 +92,6 @@
           "name": "Single-leg press",
           "scheme": "3 × 10 / leg",
           "wgerId": 1968,
-          "imageUrl": "https://wger.de/media/exercise-images/1968/cd92e973-a0d9-4e5f-9011-5369012598d3.png",
           "detailId": "mw-1671"
         },
         {
@@ -162,8 +161,7 @@
         },
         {
           "name": "Pogo hops",
-          "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
+          "scheme": "3 × 20"
         },
         {
           "name": "Hanging knee raises",
@@ -176,7 +174,6 @@
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-325"
         }
       ],
@@ -227,7 +224,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 10",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -304,14 +301,14 @@
           "name": "Leg press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -443,7 +440,6 @@
           "name": "Front squats",
           "scheme": "4 × 5",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         },
         {
@@ -520,7 +516,7 @@
           "name": "Leg press",
           "scheme": "4 × 8",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
@@ -586,14 +582,14 @@
           "name": "Leg press",
           "scheme": "4 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -614,7 +610,6 @@
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-325"
         }
       ],
@@ -673,7 +668,6 @@
           "name": "Dumbbell rows",
           "scheme": "3 × 10",
           "wgerId": 310,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Row/0.jpg",
           "detailId": "mw-26"
         },
         {
@@ -687,7 +681,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 40m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -731,7 +724,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 4",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -812,7 +805,6 @@
           "name": "Power cleans",
           "scheme": "4 × 3",
           "wgerId": 683,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean/0.jpg",
           "detailId": "fed-Power_Clean"
         },
         {
@@ -884,21 +876,18 @@
         {
           "name": "Single-leg squats to box",
           "scheme": "3 × 6 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_High_Box_Squat/0.jpg",
           "detailId": "fed-Single_Leg_High_Box_Squat"
         },
         {
           "name": "Side plank",
           "scheme": "3 × 30s / side",
           "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png",
           "detailId": "mw-325"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -961,7 +950,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         }
@@ -1014,7 +1003,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {

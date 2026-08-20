@@ -25,7 +25,7 @@
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
@@ -91,7 +91,6 @@
           "name": "Side plank with rotation",
           "scheme": "3 × 8 / side",
           "wgerId": 1966,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
           "detailId": "mw-323"
         },
         {
@@ -156,7 +155,6 @@
           "name": "Prone Y-T-W raises",
           "scheme": "3 × 8 each",
           "wgerId": 1474,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
           "detailId": "mw-1285"
         },
         {
@@ -177,7 +175,6 @@
           "name": "Kettlebell suitcase carry",
           "scheme": "3 × 30 m / side",
           "wgerId": 1776,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rickshaw_Carry/0.jpg",
           "detailId": "mw-1625"
         }
       ],
@@ -243,13 +240,12 @@
           "name": "Burpee broad jumps",
           "scheme": "3 × 8",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-475"
         },
         {
           "name": "Sled push sprints",
           "scheme": "4 × 15 m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
           "detailId": "fed-Sled_Push"
         }
       ],
@@ -293,7 +289,7 @@
           "name": "Leg press",
           "scheme": "3 × 12",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
@@ -452,14 +448,14 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 12",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
@@ -516,8 +512,7 @@
         },
         {
           "name": "A-skips",
-          "scheme": "4 × 20 m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Skip/0.jpg"
+          "scheme": "4 × 20 m"
         },
         {
           "name": "Walking lunges",
@@ -587,7 +582,8 @@
         {
           "name": "Step-ups on box",
           "scheme": "3 × 10 / leg",
-          "detailId": "fed-Barbell_Step_Ups"
+          "detailId": "fed-Barbell_Step_Ups",
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
         },
         {
           "name": "Hanging knee raises",
@@ -656,7 +652,6 @@
         {
           "name": "Single-leg balance reach",
           "scheme": "3 × 8 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 1394,
           "detailId": "mw-1464"
         },
@@ -668,8 +663,7 @@
         {
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
-          "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
+          "wgerId": 1196
         }
       ],
       "stretches": [
@@ -803,7 +797,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         }
       ],
@@ -880,7 +874,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -1059,7 +1052,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -1073,7 +1066,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],

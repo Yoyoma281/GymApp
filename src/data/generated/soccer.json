@@ -31,7 +31,6 @@
         {
           "name": "Bosu single-leg stands",
           "scheme": "3 × 30s / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 1238,
           "detailId": "mw-1461"
         },
@@ -39,7 +38,7 @@
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1651/04ab2679-a04d-4d05-9c85-0d36e898328c.webp",
           "detailId": "fed-Dumbbell_Lunges"
         }
       ],
@@ -90,7 +89,7 @@
         {
           "name": "Leg extension machine",
           "scheme": "3 × 12",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
           "wgerId": 208,
           "detailId": "mw-10"
         },
@@ -153,14 +152,12 @@
           "name": "Agility ladder in-in-out drills",
           "scheme": "4 × 30s",
           "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg",
           "detailId": "mw-1101"
         },
         {
           "name": "Standing cable hip flexor raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "detailId": "mw-1483"
         },
         {
@@ -288,7 +285,6 @@
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
           "detailId": "fed-Thigh_Adductor"
         },
         {
@@ -302,7 +298,6 @@
           "name": "Lateral lunges with dumbbell",
           "scheme": "3 × 8 / side",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "detailId": "mw-1583"
         }
       ],
@@ -360,7 +355,6 @@
           "name": "Standing cable hip flexor raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "detailId": "mw-1483"
         },
         {
@@ -465,8 +459,7 @@
         },
         {
           "name": "Rotational med-ball throws",
-          "scheme": "3 × 8 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "3 × 8 / side"
         },
         {
           "name": "Single-leg Romanian deadlifts",
@@ -485,8 +478,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 30s",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         }
       ],
       "clipUrl": "https://videos.pexels.com/video-files/8813231/8813231-hd_1280_720_25fps.mp4",
@@ -506,7 +498,6 @@
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
           "detailId": "fed-Thigh_Adductor"
         },
         {
@@ -578,13 +569,12 @@
           "name": "Standing cable hip flexor raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "detailId": "mw-1483"
         },
         {
           "name": "Leg extension machine",
           "scheme": "3 × 10",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/369/78c915d1-e46d-4d30-8124-65d68664c3ef.png",
           "wgerId": 208,
           "detailId": "mw-10"
         },
@@ -646,8 +636,7 @@
       "exercises": [
         {
           "name": "Rotational medicine ball throws",
-          "scheme": "3 × 8 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "3 × 8 / side"
         },
         {
           "name": "Hanging leg raises",
@@ -735,7 +724,6 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
           "detailId": "fed-Cable_Crunch"
         },
         {
@@ -792,19 +780,18 @@
           "name": "Lateral band walks",
           "scheme": "3 × 12 / side",
           "wgerId": 1514,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
           "detailId": "mw-1269"
         },
         {
           "name": "Goblet squats (paused)",
           "scheme": "3 × 8",
-          "detailId": "mw-11"
+          "detailId": "mw-11",
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg"
         },
         {
           "name": "Lateral lunges with dumbbell",
           "scheme": "3 × 8 / side",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "detailId": "mw-1583"
         }
       ],
@@ -849,7 +836,6 @@
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
           "detailId": "fed-Thigh_Adductor"
         },
         {
@@ -862,14 +848,13 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Split squat isometric holds",
           "scheme": "3 × 20s / leg",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
           "detailId": "mw-395"
         }
       ],
@@ -918,8 +903,7 @@
         {
           "name": "Pogo jumps",
           "scheme": "3 × 20",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Standing calf raises",
@@ -931,8 +915,7 @@
         {
           "name": "Ankling drills",
           "scheme": "4 × 20m",
-          "wgerId": 2482,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
+          "wgerId": 2482
         }
       ],
       "stretches": [
@@ -972,7 +955,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -980,7 +963,6 @@
           "name": "Hill sprints",
           "scheme": "6 × 20m",
           "wgerId": 961,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
           "detailId": "fed-Wind_Sprints"
         },
         {
@@ -994,7 +976,6 @@
           "name": "Standing cable hip flexor raises",
           "scheme": "3 × 12 / leg",
           "wgerId": 348,
-          "imageUrl": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
           "detailId": "mw-1483"
         },
         {
@@ -1058,8 +1039,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 25s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "5-10-5 pro agility shuttles",

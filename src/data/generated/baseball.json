@@ -92,8 +92,7 @@
       "exercises": [
         {
           "name": "Medicine ball rotational throws",
-          "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg"
+          "scheme": "4 × 6 / side"
         },
         {
           "name": "Standing cable woodchoppers",
@@ -185,7 +184,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 up-downs",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         },
@@ -193,7 +192,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 30m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -241,13 +239,11 @@
           "name": "Cable low-to-high chops",
           "scheme": "3 × 10 / side",
           "wgerId": 145,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
           "detailId": "mw-1850"
         },
         {
           "name": "Medicine ball delayed-rotation throws",
           "scheme": "3 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
           "detailId": "mw-720"
         },
         {
@@ -261,7 +257,6 @@
           "name": "Pallof press with hold",
           "scheme": "3 × 8 / side",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
           "detailId": "mw-1803"
         },
         {
@@ -342,7 +337,7 @@
         {
           "name": "Lateral sled drags",
           "scheme": "3 × 15m / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
           "detailId": "fed-Sled_Drag_Harness"
         }
       ],
@@ -401,21 +396,19 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 25s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Rear-foot-elevated jump squats",
           "scheme": "3 × 5 / leg",
-          "wgerId": 615,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Freehand_Jump_Squat/0.jpg"
+          "wgerId": 615
         }
       ],
       "stretches": [
@@ -462,14 +455,12 @@
           "name": "Cable external rotations (90/90)",
           "scheme": "3 × 12 / side",
           "wgerId": 142,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
           "detailId": "mw-1701"
         },
         {
           "name": "Prone Y-T-W raises",
           "scheme": "3 × 8 each",
           "wgerId": 1474,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
           "detailId": "mw-1285"
         },
         {
@@ -487,7 +478,6 @@
         {
           "name": "Dumbbell wrist pronation/supination",
           "scheme": "3 × 12 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lying_Supination/0.jpg",
           "detailId": "mw-1225"
         }
       ],
@@ -611,13 +601,12 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Lateral sled drags",
           "scheme": "4 × 15m / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
           "detailId": "fed-Sled_Drag_Harness"
         },
         {
@@ -630,8 +619,7 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Pallof press",
@@ -684,8 +672,7 @@
         {
           "name": "Broad jumps",
           "scheme": "4 × 4",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Single-leg bounds",
@@ -702,7 +689,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -771,7 +758,8 @@
         {
           "name": "Medicine ball chest pass (accuracy target)",
           "scheme": "4 × 8",
-          "detailId": "fed-Medicine_Ball_Chest_Pass"
+          "detailId": "fed-Medicine_Ball_Chest_Pass",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg"
         },
         {
           "name": "Dead bug",
@@ -844,7 +832,6 @@
           "name": "Prone Y-T-W raises",
           "scheme": "3 × 8 each",
           "wgerId": 1474,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
           "detailId": "mw-1285"
         },
         {
@@ -908,13 +895,13 @@
           "name": "Sled sprints",
           "scheme": "6 × 15m",
           "wgerId": 961,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
           "detailId": "fed-Sled_Push"
         },
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 5",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -933,8 +920,7 @@
         },
         {
           "name": "Pogo hops",
-          "scheme": "3 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
+          "scheme": "3 × 20"
         }
       ],
       "stretches": [
@@ -980,7 +966,6 @@
           "name": "Skater jumps",
           "scheme": "3 × 8 / side",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-1118"
         },
         {
@@ -993,8 +978,7 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         },
         {
           "name": "Cable hip flexor march",
@@ -1076,8 +1060,7 @@
         {
           "name": "Cossack squats",
           "scheme": "3 × 6 / side",
-          "wgerId": 1407,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg"
+          "wgerId": 1407
         }
       ],
       "stretches": [

@@ -24,8 +24,7 @@
         {
           "name": "Pogo jumps",
           "scheme": "3 × 15",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Goblet squats",
@@ -83,7 +82,7 @@
           "name": "Walking lunges with dumbbells",
           "scheme": "3 × 10 / leg",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1651/04ab2679-a04d-4d05-9c85-0d36e898328c.webp",
           "detailId": "fed-Dumbbell_Lunges"
         },
         {
@@ -111,7 +110,6 @@
           "name": "Adductor machine",
           "scheme": "3 × 12",
           "wgerId": 208,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
           "detailId": "fed-Thigh_Adductor"
         }
       ],
@@ -163,21 +161,18 @@
         {
           "name": "Agility ladder drills",
           "scheme": "4 × 30s",
-          "wgerId": 1196,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Arm_Drill/0.jpg"
+          "wgerId": 1196
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 10 / side",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-1118"
         },
         {
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         },
         {
@@ -231,8 +226,7 @@
         {
           "name": "Split squat jumps",
           "scheme": "3 × 8 / side",
-          "wgerId": 614,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jump/0.jpg"
+          "wgerId": 614
         },
         {
           "name": "Box jumps",
@@ -298,8 +292,7 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         },
         {
           "name": "Dumbbell external rotations",
@@ -428,7 +421,7 @@
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         },
@@ -442,8 +435,7 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         },
         {
           "name": "Cable external rotations",
@@ -455,7 +447,6 @@
         {
           "name": "Grip crushers",
           "scheme": "3 × 12",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
           "wgerId": 1468
         }
       ],
@@ -568,21 +559,20 @@
           "name": "Tempo dumbbell shoulder press",
           "scheme": "3 × 10",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
           "detailId": "fed-Dumbbell_Shoulder_Press"
         },
         {
           "name": "Cable straight-arm pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
           "name": "Forearm pronation with dumbbell",
           "scheme": "3 × 12 / side",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "detailId": "fed-Dumbbell_Lying_Pronation"
         },
         {
@@ -661,7 +651,6 @@
           "name": "Forearm pronation with dumbbell",
           "scheme": "3 × 12 / side",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "detailId": "fed-Dumbbell_Lying_Pronation"
         }
       ],
@@ -726,7 +715,6 @@
         {
           "name": "Medicine ball rotational slams",
           "scheme": "4 × 6 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
           "wgerId": 1525,
           "detailId": "mw-725"
         },
@@ -810,7 +798,6 @@
         {
           "name": "Single-leg balance reach",
           "scheme": "3 × 8 / leg",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Leg_Extension/0.jpg",
           "wgerId": 1394,
           "detailId": "mw-1464"
         }
@@ -857,20 +844,17 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         },
         {
           "name": "Grip crushers",
           "scheme": "3 × 12",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
           "wgerId": 1468
         },
         {
           "name": "Pogo jumps",
           "scheme": "3 × 15",
-          "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg"
+          "wgerId": 993
         },
         {
           "name": "Dumbbell front raises",
@@ -936,7 +920,6 @@
         {
           "name": "Cable low-to-high lifts",
           "scheme": "3 × 10 / side",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Lift/0.jpg",
           "wgerId": 1882,
           "detailId": "mw-1850"
         },
@@ -996,8 +979,7 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         },
         {
           "name": "Pallof press",
@@ -1057,13 +1039,12 @@
           "name": "Forearm pronation with dumbbell",
           "scheme": "3 × 12 / side",
           "wgerId": 75,
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
           "detailId": "fed-Dumbbell_Lying_Pronation"
         },
         {
           "name": "Wrist roller",
           "scheme": "3 × 2 rolls",
-          "imageUrl": "https://wger.de/media/exercise-images/1854/ccd3c18e-c864-426f-8176-15dce14305e3.webp",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Roller/0.jpg",
           "wgerId": 1854,
           "detailId": "fed-Wrist_Roller"
         },
@@ -1077,8 +1058,7 @@
         {
           "name": "Reverse wrist curls",
           "scheme": "3 × 15",
-          "wgerId": 495,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Wrist_Curl/0.jpg"
+          "wgerId": 495
         },
         {
           "name": "Plate pinch holds",

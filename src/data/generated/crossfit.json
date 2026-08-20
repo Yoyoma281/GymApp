@@ -31,14 +31,13 @@
         {
           "name": "Hanging beat swings",
           "scheme": "4 × 10",
-          "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "wgerId": 960
         },
         {
           "name": "Straight-arm cable pulldowns",
           "scheme": "3 × 12",
           "wgerId": 1971,
-          "imageUrl": "https://wger.de/media/exercise-images/1971/729af526-19a0-4d3d-a258-196c7575d139.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
           "detailId": "fed-Straight_Arm_Pulldown"
         },
         {
@@ -102,8 +101,7 @@
         {
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
-          "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "wgerId": 960
         },
         {
           "name": "Hollow body rocks",
@@ -186,7 +184,6 @@
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         }
       ],
@@ -245,14 +242,12 @@
           "name": "Cable crunches",
           "scheme": "3 × 12",
           "wgerId": 167,
-          "imageUrl": "https://wger.de/media/exercise-images/91/Crunches-1.png",
           "detailId": "fed-Cable_Crunch"
         },
         {
           "name": "Hanging beat swings",
           "scheme": "3 × 10",
-          "wgerId": 960,
-          "imageUrl": "https://wger.de/media/exercise-images/960/da4d0560-da89-4bb5-b91f-746458fb04ad.png"
+          "wgerId": 960
         },
         {
           "name": "Timed bar hangs",
@@ -311,7 +306,7 @@
           "name": "Wall handstand holds",
           "scheme": "4 × 30s",
           "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png",
+          "imageUrl": "https://wger.de/media/exercise-images/1551/a6a9e561-3965-45c6-9f2b-ee671e1a3a45.png",
           "detailId": "fed-Handstand_Push_Ups"
         },
         {
@@ -451,7 +446,6 @@
           "name": "Front squats",
           "scheme": "3 × 8",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         },
         {
@@ -513,7 +507,6 @@
           "name": "Front squats",
           "scheme": "4 × 6",
           "wgerId": 257,
-          "imageUrl": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
           "detailId": "mw-298"
         },
         {
@@ -596,21 +589,19 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
           "name": "Clean-grip high pulls",
           "scheme": "3 × 5",
           "wgerId": 289,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
           "detailId": "mw-1707"
         },
         {
           "name": "Timed barbell holds",
           "scheme": "3 × 30s",
-          "wgerId": 31,
-          "imageUrl": "https://wger.de/media/exercise-images/31/92f6451b-f89d-49d6-9531-8970ea420d97.png"
+          "wgerId": 31
         },
         {
           "name": "Kettlebell swings",
@@ -755,8 +746,7 @@
         },
         {
           "name": "Pogo hops",
-          "scheme": "4 × 20",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg"
+          "scheme": "4 × 20"
         },
         {
           "name": "Hollow body holds",
@@ -1006,14 +996,13 @@
         {
           "name": "Sled push sprints",
           "scheme": "4 × 15 m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Sprint/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
           "detailId": "fed-Sled_Push"
         },
         {
           "name": "Farmer's carries",
           "scheme": "3 × 40 m",
           "wgerId": 1116,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
           "detailId": "fed-Farmer_s_Walk"
         },
         {
@@ -1080,7 +1069,7 @@
         {
           "name": "Sled drag",
           "scheme": "4 × 20 m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Drag_-_Harness/0.jpg",
           "detailId": "fed-Sled_Drag_Harness"
         }
       ],

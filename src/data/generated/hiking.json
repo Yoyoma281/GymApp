@@ -17,7 +17,7 @@
         {
           "name": "Box step-ups with dumbbells",
           "scheme": "3 × 10 / leg",
-          "imageUrl": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
           "wgerId": 75,
           "detailId": "fed-Dumbbell_Step_Ups"
         },
@@ -89,13 +89,13 @@
           "name": "Rear-foot-elevated split squats",
           "scheme": "3 × 8 / leg",
           "wgerId": 615,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squats/0.jpg",
           "detailId": "mw-317"
         },
         {
           "name": "Step-ups (slow tempo)",
           "scheme": "3 × 10 / leg",
-          "detailId": "fed-Dumbbell_Step_Ups"
+          "detailId": "fed-Dumbbell_Step_Ups",
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
         },
         {
           "name": "Wall sits",
@@ -158,7 +158,7 @@
           "name": "Romanian deadlifts",
           "scheme": "3 × 8",
           "wgerId": 507,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "imageUrl": "https://wger.de/media/exercise-images/1652/0306c8c0-70cc-45d4-92de-6fa72ceaa834.webp",
           "detailId": "fed-Romanian_Deadlift"
         },
         {
@@ -176,7 +176,6 @@
           "name": "Stair climber machine",
           "scheme": "3 × 5 min",
           "wgerId": 1093,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-2179"
         }
       ],
@@ -227,7 +226,8 @@
         {
           "name": "Goblet squats (high rep)",
           "scheme": "3 × 15",
-          "detailId": "mw-11"
+          "detailId": "mw-11",
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg"
         },
         {
           "name": "Weighted carries uphill",
@@ -290,7 +290,8 @@
           "name": "Leg press (slow negative)",
           "scheme": "3 × 10",
           "wgerId": 1515,
-          "detailId": "mw-9"
+          "detailId": "mw-9",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png"
         }
       ],
       "stretches": [
@@ -352,14 +353,12 @@
         {
           "name": "Copenhagen plank",
           "scheme": "3 × 20s / side",
-          "wgerId": 458,
-          "imageUrl": "https://wger.de/media/exercise-images/458/b7bd9c28-9f1d-4647-bd17-ab6a3adf5770.png"
+          "wgerId": 458
         },
         {
           "name": "Skater jumps",
           "scheme": "3 × 10 / side",
           "wgerId": 993,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bench_Jump/0.jpg",
           "detailId": "mw-1118"
         }
       ],
@@ -470,7 +469,7 @@
         {
           "name": "Trap bar deadlifts",
           "scheme": "4 × 6",
-          "imageUrl": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
           "wgerId": 184,
           "detailId": "fed-Trap_Bar_Deadlift"
         },
@@ -674,19 +673,19 @@
         {
           "name": "Step-ups (high box)",
           "scheme": "3 × 8 / leg",
-          "detailId": "fed-Dumbbell_Step_Ups"
+          "detailId": "fed-Dumbbell_Step_Ups",
+          "imageUrl": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png"
         },
         {
           "name": "Dead hangs on bar",
           "scheme": "3 × 30s",
           "wgerId": 1529,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
           "detailId": "mw-1639"
         },
         {
           "name": "Bear crawls",
           "scheme": "3 × 15m",
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Crawl/0.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
           "detailId": "fed-Bear_Crawl_Sled_Drags"
         },
         {
@@ -862,20 +861,20 @@
         {
           "name": "Walking lunges (high rep)",
           "scheme": "3 × 20 / leg",
-          "detailId": "mw-1384"
+          "detailId": "mw-1384",
+          "imageUrl": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png"
         },
         {
           "name": "Leg press",
           "scheme": "3 × 15",
           "wgerId": 371,
-          "imageUrl": "https://wger.de/media/exercise-images/371/d2136f96-3a43-4d4c-9944-1919c4ca1ce1.webp",
+          "imageUrl": "https://wger.de/media/exercise-images/146/8b284904-d072-4381-a256-4c81d8fd9c1f.png",
           "detailId": "mw-9"
         },
         {
           "name": "Stair climber machine",
           "scheme": "2 × 15 min",
           "wgerId": 1093,
-          "imageUrl": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
           "detailId": "mw-2179"
         },
         {
@@ -944,7 +943,8 @@
         {
           "name": "Goblet squats (high rep)",
           "scheme": "3 × 15",
-          "detailId": "mw-11"
+          "detailId": "mw-11",
+          "imageUrl": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg"
         },
         {
           "name": "Rowing machine steady state",
